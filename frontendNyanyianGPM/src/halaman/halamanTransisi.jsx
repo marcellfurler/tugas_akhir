@@ -9,10 +9,13 @@ function HalamanTransisi() {
   const navigate = useNavigate(); // 🔥 untuk pindah halaman
 
   useEffect(() => {
+    document.body.style.margin = "0";
+    document.body.style.padding = "0";
+    document.body.style.backgroundColor = "#2672FF";
+
     const timer1 = setTimeout(() => setStep(1), 2500);
     const timer2 = setTimeout(() => setStep(2), 5000);
 
-    // pindah ke halaman utama setelah 5 detik
     const timer3 = setTimeout(() => {
       navigate("/NyanyianGPM");
     }, 5000);
@@ -24,13 +27,16 @@ function HalamanTransisi() {
     };
   }, [navigate]);
 
+
   const containerStyle = {
     height: "100vh",
+    width: "100vw",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
     backgroundColor: "#2672FF",
   };
+
 
   const imgStyle = {
     width: "250px",
