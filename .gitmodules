@@ -1,0 +1,4 @@
+[submodule "backend/solmisasi-lily"]
+	path = backend/solmisasi-lily
+	url = https://github.com/henriyulianto/solmisasi-lily.git
+	branch = master
