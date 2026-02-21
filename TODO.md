@@ -77,6 +77,21 @@
 - Review milestone setiap 2 minggu
 - Testing dilakukan per milestone
 
+## 🔄 Git Branch Management
+
+### Pending: Branch Merging Strategy
+- [ ] **SITUASI**: Branch "main" (frontend lengkap) vs "restructure" (struktur baru)
+- [ ] **OPSI 1**: Buat branch baru sebagai main:
+  ```bash
+  git checkout -b new-main restructure
+  git checkout main -- frontendNyanyianGPM
+  git push origin new-main
+  ```
+- [ ] **OPSI 2**: Rename branch restructure menjadi main
+- [ ] **OPSI 3**: Merge dengan strategi clean
+- [ ] **REKOMENDASI**: Opsi 1 (aman dan kontrol penuh)
+- [ ] **STATUS**: Menunggu instruksi user
+
 ---
 
 *Terakhir diperbarui: 2025-02-21*
