@@ -20,17 +20,17 @@ Lilypond diperlukan untuk kompilasi notasi musik. Ikuti salah satu metode instal
 
 ### Metode 1: Unduh Manual (Direkomendasikan)
 
-1. **Unduh Lilypond versi 2.25.33**
+1. **Unduh Lilypond versi 2.25.34**
    - Kunjungi: https://lilypond.org
-   - Pilih versi **2.25.33** untuk sistem operasi Anda
+   - Pilih versi **2.25.34** untuk sistem operasi Anda
    - Unduh file installer yang sesuai
 
 2. **Opsi A: Ekstrak ke direktori backend**
    ```bash
    # Contoh untuk Linux (ganti dengan nama file yang diunduh)
-   tar -xzf lilypond-2.25.33-linux-x86_64.tar.gz -C /path/to/backend/
+   tar -xzf lilypond-2.25.34-linux-x86_64.tar.gz -C /path/to/backend/
    # Tambahkan ke PATH
-   export PATH="$PATH:/path/to/backend/lilypond-2.25.33/bin"
+   export PATH="$PATH:/path/to/backend/lilypond-2.25.34/bin"
    ```
 
 3. **Opsi B: Instalasi sistem**
@@ -59,7 +59,7 @@ Setelah instalasi, pastikan Lilypond berfungsi dengan benar:
 # Cek versi
 lilypond --version
 
-# Harus menampilkan: LilyPond 2.25.33
+# Harus menampilkan: LilyPond 2.25.34
 ```
 
 ---

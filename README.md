@@ -8,8 +8,8 @@ Project ini merupakan pengembangan website untuk nyanyian Gereja Protestan Maluk
 
 ## 🚀 Status Project
 
-**Status:** Initial Development  
-**Versi:** 0.1.0-alpha  
+**Status:** Initial Development
+**Versi:** 0.1.0-alpha
 **Terakhir diperbarui:** 2025-02-21
 
 ## 📁 Struktur Project

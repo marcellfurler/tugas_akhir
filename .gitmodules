@@ -1,8 +1,7 @@
-[submodule "backend/solmisasi-lily"]
-	path = backend/solmisasi-lily
-	url = https://github.com/henriyulianto/solmisasi-lily.git
-	branch = master
 [submodule "backend/bwv-zeug"]
 	path = backend/bwv-zeug
 	url = https://github.com/henriyulianto/bwv-zeug.git
 	branch = solmisasi
+[submodule "backend/solmisasi-lily"]
+	path = backend/solmisasi-lily
+	url = https://github.com/henriyulianto/solmisasi-lily.git
