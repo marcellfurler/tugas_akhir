@@ -28,6 +28,33 @@ if %ERRORLEVEL% equ 0 (
 
 echo.
 
+REM 2b. Checkout submodule ke branch yang benar
+echo 🔄 Checkout submodule ke branch yang benar...
+
+REM Checkout bwv-zeug ke branch solmisasi
+echo   - bwv-zeug: checkout ke branch 'solmisasi'...
+cd backend\bwv-zeug
+git checkout solmisasi
+if %ERRORLEVEL% equ 0 (
+    echo   ✅ bwv-zeug berhasil checkout ke branch 'solmisasi'
+) else (
+    echo   ❌ bwv-zeug gagal checkout ke branch 'solmisasi'
+)
+cd ..\..
+
+REM Checkout solmisasi-lily ke branch master
+echo   - solmisasi-lily: checkout ke branch 'master'...
+cd backend\solmisasi-lily
+git checkout master
+if %ERRORLEVEL% equ 0 (
+    echo   ✅ solmisasi-lily berhasil checkout ke branch 'master'
+) else (
+    echo   ❌ solmisasi-lily gagal checkout ke branch 'master'
+)
+cd ..\..
+
+echo.
+
 REM 3. Periksa ketersediaan command lilypond
 echo 🔍 Memeriksa ketersediaan Lilypond...
 lilypond --version >nul 2>&1

@@ -28,6 +28,33 @@ if ($process.ExitCode -eq 0) {
 
 Write-Host ""
 
+# 2b. Checkout submodule ke branch yang benar
+Write-Host "🔄 Checkout submodule ke branch yang benar..."
+
+# Checkout bwv-zeug ke branch solmisasi
+Write-Host "  - bwv-zeug: checkout ke branch 'solmisasi'..."
+Set-Location "backend\bwv-zeug"
+$process = Start-Process -FilePath "git" -ArgumentList "checkout", "solmisasi" -Wait -PassThru -NoNewWindow
+if ($process.ExitCode -eq 0) {
+    Write-Host "  ✅ bwv-zeug berhasil checkout ke branch 'solmisasi'"
+} else {
+    Write-Host "  ❌ bwv-zeug gagal checkout ke branch 'solmisasi'"
+}
+Set-Location "..\.."
+
+# Checkout solmisasi-lily ke branch master
+Write-Host "  - solmisasi-lily: checkout ke branch 'master'..."
+Set-Location "backend\solmisasi-lily"
+$process = Start-Process -FilePath "git" -ArgumentList "checkout", "master" -Wait -PassThru -NoNewWindow
+if ($process.ExitCode -eq 0) {
+    Write-Host "  ✅ solmisasi-lily berhasil checkout ke branch 'master'"
+} else {
+    Write-Host "  ❌ solmisasi-lily gagal checkout ke branch 'master'"
+}
+Set-Location "..\.."
+
+Write-Host ""
+
 # 3. Periksa ketersediaan command lilypond
 Write-Host "🔍 Memeriksa ketersediaan Lilypond..."
 try {

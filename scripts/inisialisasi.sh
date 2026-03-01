@@ -25,6 +25,32 @@ else
     exit 1
 fi
 
+# 2b. Checkout submodule ke branch yang benar
+echo ""
+echo "🔄 Checkout submodule ke branch yang benar..."
+
+# Checkout bwv-zeug ke branch solmisasi
+echo "  - bwv-zeug: checkout ke branch 'solmisasi'..."
+cd backend/bwv-zeug
+git checkout solmisasi
+if [ $? -eq 0 ]; then
+    echo "  ✅ bwv-zeug berhasil checkout ke branch 'solmisasi'"
+else
+    echo "  ❌ bwv-zeug gagal checkout ke branch 'solmisasi'"
+fi
+cd ../..
+
+# Checkout solmisasi-lily ke branch master
+echo "  - solmisasi-lily: checkout ke branch 'master'..."
+cd backend/solmisasi-lily
+git checkout master
+if [ $? -eq 0 ]; then
+    echo "  ✅ solmisasi-lily berhasil checkout ke branch 'master'"
+else
+    echo "  ❌ solmisasi-lily gagal checkout ke branch 'master'"
+fi
+cd ../..
+
 echo ""
 
 # 3. Periksa ketersediaan command lilypond
