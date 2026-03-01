@@ -1,0 +1,14 @@
+title: Mary
+composer: Unknown
+
+score:
+  tempo: 120
+  beats_per_measure: 4
+  beat_unit: 4
+
+timing:
+  ticks_per_beat: 480
+
+layout:
+  system_height: 120
+  notehead_tolerance: 0.5
