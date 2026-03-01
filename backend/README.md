@@ -14,52 +14,48 @@ Direktori backend ini berisi submodule berikut:
    - Repository: `github.com/henriulianto/bwv-zeug`
    - Branch: `solmisasi`
 
-## 🎵 Instalasi Lilypond
+## 🎵 Lilypond Setup
 
-Lilypond diperlukan untuk kompilasi notasi musik. Ikuti salah satu metode instalasi berikut:
+Lilypond diperlukan untuk kompilasi notasi musik. **Berikut adalah langkah-langkah setup yang direkomendasikan:**
 
-### Metode 1: Unduh Manual (Direkomendasikan)
+### 🚀 Setup Menggunakan Script (Direkomendasikan)
 
-1. **Unduh Lilypond versi 2.25.34**
-   - Kunjungi: https://lilypond.org
-   - Pilih versi **2.25.34** untuk sistem operasi Anda
-   - Unduh file installer yang sesuai
+Jalankan script inisialisasi sesuai sistem operasi Anda:
 
-2. **Opsi A: Ekstrak ke direktori backend**
-   ```bash
-   # Contoh untuk Linux (ganti dengan nama file yang diunduh)
-   tar -xzf lilypond-2.25.34-linux-x86_64.tar.gz -C /path/to/backend/
-   # Tambahkan ke PATH
-   export PATH="$PATH:/path/to/backend/lilypond-2.25.34/bin"
-   ```
-
-3. **Opsi B: Instalasi sistem**
-   - Ikuti instruksi instalasi dari website Lilypond
-   - Pastikan binary Lilypond tersedia dalam PATH sistem
-   - Verifikasi instalasi: `lilypond --version`
-
-### Metode 2: Package Manager (Linux)
-
+#### Linux/macOS
 ```bash
-# Ubuntu/Debian
-sudo apt-get install lilypond
-
-# Fedora
-sudo dnf install lilypond
-
-# Arch Linux
-sudo pacman -S lilypond
+chmod +x scripts/inisialisasi.sh
+./scripts/inisialisasi.sh
 ```
 
-### Verifikasi Instalasi
+#### Windows (PowerShell)
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\scripts\inisialisasi.ps1
+```
 
-Setelah instalasi, pastikan Lilypond berfungsi dengan benar:
+#### Windows (Command Prompt)
+```cmd
+scripts\inisialisasi.cmd
+```
 
+Script akan:
+- ✅ Menginisialisasi Git submodule
+- ✅ Memeriksa ketersediaan Lilypond
+- ✅ Memberikan instruksi instalasi jika Lilypond tidak ditemukan
+- ✅ Checkout submodule ke branch yang benar
+
+### 📋 Manual Setup
+
+Jika Anda lebih suka setup manual, lihat instruksi lengkap di:
+- **Stable:** https://lilypond.org/download.html
+- **Development:** https://lilypond.org/development.html
+
+### Verifikasi
+
+Setelah setup, verifikasi instalasi:
 ```bash
-# Cek versi
 lilypond --version
-
-# Harus menampilkan: LilyPond 2.25.34
 ```
 
 ---

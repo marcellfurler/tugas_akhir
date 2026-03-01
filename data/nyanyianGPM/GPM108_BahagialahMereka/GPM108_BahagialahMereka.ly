@@ -1,34 +1,29 @@
-\version "2.24.3"
+\version "2.24.4"
 
+% Deprecated
+% By default menggunakan solmisasi-lily v2.0.0-beta
+% #(define _USE_VERSION2 #t)
 
-#(define _USE_VERSION2 #t)
-\include "../../library/solmisasi.ily"
-
-\paper {
-  #(define fonts
-    (set-global-fonts
-      #:roman "Times New Roman"
-      #:sans "Times New Roman"
-      #:typewriter "Times New Roman"
-    ))
-}
+\include "../../../backend/solmisasi-lily/lib/solmisasi.ily"
+\include "../../__includes/GPM_Globals.ily"
 
 \header {
-  title = \markup { "GPM 108. Bahagialah Mereka" }
+  title = "GPM 108. Bahagialah Mereka"
 
   composer = \markup {
-    \column {
-      "Lirik: Sonia C. Parera - Hummel, 2007"
-      "Lagu: Sonia C. Parera - Hummel, 2007"
+    Lagu dan Syair:
+    \concat {
+      \caps "Sonia C. Parera - Hummel"
+      ", 2007"
     }
   }
 
+  % Default tagline
   tagline = \markup {
-    \typewriter \fontsize #-1 {
+    \sans \fontsize #-1 {
       \concat {
-        "Engraved using GNU Lilypond "
-        #(lilypond-version) "."
-        " - with solmisasi-lily v"
+        "Koleksi Partitur Nyanyian GPM"
+        " - Diproduksi dengan solmisasi-lily v"
         #(solmisasi-lily-version)
       }
     }
@@ -36,23 +31,56 @@
 }
 
 gpmseratusdelapan_c_notes = {
-  \key c \major 
-  \relative c' 
+  \key c \major
+  \relative c'
   \repeat volta 2 {
-    r4 r8 g8' | g8 e8 g8 c8 | a4 a8 f8 | f8 d8 a8' g8 | g4 g2 | r8 e8 | e8 c8 f8 e8 | \break
-    e4 c8 c8 | \slurDashed c8 (a8) \slurSolid b8 c8 | d4 d2 | r8 g8 | g8 e8 g8 c8 | \break
-    a4 a8 f8 | f8 d8 a8' g8 | g4 g2 |  r8 e8 | e8 c8 f8 e8 | e8 (a8) a4 (| a4)\fermata | \break
-    r8 a8 | a8 (c8) | c8 b8 | c4 c2 (|) | 
-    
+    % Baris pertama
+    \partial 4 r8 g'8 |
+    g8 e8 g8 c8 |
+    a4 a8 f8 |
+    f8 d8 a'8 g8 |
+    g4 g4 ~ |
+    g4 \break
+
+    % Baris kedua
+    r8 e8 |
+    e8 c8 f8 e8 |
+    e4 c8 c8 |
+    \slurDashed c8( a8) \slurSolid b8 c8 |
+    d4 d4 ~ |
+    d4 \break
+
+    % Baris ketiga
+    r8 g8 |
+    g8 e8 g8 c8 |
+    a4 a8 f8 |
+    f8 d8 a'8 g8 |
+    g4 g4 ~ |
+    g4 \break
+
+    % Baris keempat
+    r8 e8 |
+    e8 c8 f8 e8 |
+    e8 (a8) a4 ~ |
+    a4\fermata
+    r8 a8 |
+    a8( c8) c8 b8 |
+    c4 c4 ~ |
+    c4
   }
 }
 
 gpmseratusdelapan_c_music = {
   \time 2/4
-  \tempo 4 = 80
+  % Tempo untuk MIDI saja.
+  % Di partitur, tampilkan dengan header.
   \gpmseratusdelapan_c_notes
   \bar "|."
 }
+
+% Optimasi
+% Buat variabel musik baru agar \solmisasiMusic hanya dijalankan sekali
+gpmseratusdelapan_c_music_solmisasi = \solmisasiMusic \gpmseratusdelapan_c_music
 
 gpmseratusdelapan_lyricOne = \lyricmode {
   Ba -- ha -- gia -- lah me -- re -- ka yang hi -- dup se -- der -- ha -- na.
@@ -63,49 +91,50 @@ gpmseratusdelapan_lyricOne = \lyricmode {
 
 gpmseratusdelapan_lyricTwo = \lyricmode {
   Ba -- ha -- gia -- lah me -- re -- ka yang tak me -- man -- dang mu -- ka.
-  Ba -- ha -- gia -- lah me -- re -- ka yang tabur ke a -- di -- lan.
+  Ba -- ha -- gia -- lah me -- re -- ka yang
+  \set ignoreMelismata = ##t
+  \once\override LyricText.self-alignment-X = #LEFT
+  ta --
+  \once\override LyricText.self-alignment-X = #0.6
+  bur
+  \set ignoreMelismata = ##f
+  ke a -- di -- lan.
   Ba -- ha -- gia -- lah me -- re -- ka yang rin -- du  ber -- se -- ku -- tu.
   Ba -- ha -- gia -- lah me -- re -- ka yang ta -- hu  ber -- syu -- kur.
 }
 
+% Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \new SolmisasiTimeAndKeySignature {
-      \solmisasiMusic \gpmseratusdelapan_c_music
-    }
+    % \new SolmisasiTimeAndKeySignature {
+    %       \gpmseratusdelapan_c_music_solmisasi
+    %     }
     \new SolmisasiStaff {
-      \new SolmisasiVoice {
-        \solmisasiMusic \gpmseratusdelapan_c_music
+      \new SolmisasiVoice = melodi {
+        \gpmseratusdelapan_c_music_solmisasi
       }
-      \addlyrics \gpmseratusdelapan_lyricOne
-      \addlyrics \gpmseratusdelapan_lyricTwo
     }
+    \new Lyrics \lyricsto melodi \gpmseratusdelapan_lyricOne
+    \new Lyrics \lyricsto melodi \gpmseratusdelapan_lyricTwo
   >>
   \layout { }
-  \midi { }
 }
 
-\layout {
-  \context {
-    \Score
-    \override TextScript.font-name = #"Times New Roman"
-    \override MetronomeMark.font-name = #"Times New Roman"
-  }
-
-  \context {
-    \Lyrics
-    \override LyricText.font-name = #"Times New Roman"
-    \override LyricHyphen.font-name = #"Times New Roman"
-    \override VerticalAxisGroup.nonstaff-relatedstaff-spacing.basic-distance = #0
-  }
-
-  \context {
-    \SolmisasiStaff
-    \override TextScript.font-name = #"Times New Roman"
-  }
-
-  \context {
-    \SolmisasiVoice
-    \override TextScript.font-name = #"Times New Roman"
+% Score untuk MIDI
+% Harus dipisah sebagai workaround untuk menghindari
+% warning kompilasi bahwa context Voice tidak ditemukan.
+% Juga untuk menghindari kesalahan lain yang mungkin disebabkan
+% oleh \solmisasiMusic.
+\score {
+  % Gunakan original music
+  <<
+    \new Staff {
+      \new Voice = melodi \gpmseratusdelapan_c_music
+    }
+    \new Lyrics \lyricsto melodi \gpmseratusdelapan_lyricOne
+    \new Lyrics \lyricsto melodi \gpmseratusdelapan_lyricTwo
+  >>
+  \midi {
+    \tempo 4 = 80
   }
 }
