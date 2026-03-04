@@ -45,10 +45,10 @@
   %% KONFIGURASI INDENTASI DAN MARGIN %%
 
   % Partitur rata kiri
-  indent = 10\mm
-  short-indent = 10\mm
+  indent = 0\mm
+  short-indent = 0\mm
 
-  left-margin = 5\mm
+  left-margin = 15\mm
   right-margin = 15\mm
 
   top-margin = 15\mm

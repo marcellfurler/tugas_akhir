@@ -1,42 +1,47 @@
-\version "2.24.3"
+\version "2.24.4"
 
-#(define _USE_VERSION2 #t)
-\include "../../library/solmisasi.ily"
+% Deprecated
+% By default menggunakan solmisasi-lily v2.0.0-beta
+% #(define _USE_VERSION2 #t)
 
-\paper {
-  #(define fonts
-    (set-global-fonts
-      #:roman "Times New Roman"
-      #:sans "Times New Roman"
-      #:typewriter "Times New Roman"
-    ))
-}
+\include "../../../backend/solmisasi-lily/lib/solmisasi.ily"
+\include "../../__includes/GPM_Globals.ily"
 
 \header {
-  title = \markup { "GPM 114. Nyanyikan Bagi Tuhan" }
+  title = "GPM 114. Nyanyikan Bagi Tuhan"
 
-  composer = \markup {
+  poet = \markup {
+    \pad-x #1
     \column {
-      "Lirik: Bartje Istia, 2007"
-      "Lagu: Bartje Istia, 2007"
+      "Do = E, 4/4, ♩ = 100"
+    }
+  }
+  composer = \markup {
+    Lagu dan Syair:
+    \concat {
+      \caps "Bartje Istia"
+      ", 2007"
     }
   }
 
+  % Default tagline
   tagline = \markup {
-    \typewriter \fontsize #-1 {
+    \sans \fontsize #-1 {
       \concat {
-        "Engraved using GNU Lilypond "
-        #(lilypond-version) "."
-        " - with solmisasi-lily v"
+        "Koleksi Partitur Nyanyian GPM"
+        " - Diproduksi dengan solmisasi-lily v"
         #(solmisasi-lily-version)
       }
     }
   }
 }
 
+
+
 gpmseratusempatbelas_e_notes = {
   \key e \major
-  \relative e' {
+  \relative e' 
+  \repeat volta 2{
     gis4 gis gis a8 fis |
     e4 e4. e8 dis8 e8 |
     fis4 fis4. fis8 e8 fis8 | 
@@ -63,10 +68,13 @@ gpmseratusempatbelas_e_notes = {
 
 gpmseratusempatbelas_e_music = {
   \time 4/4
-  \tempo 4 = 100
+  % \tempo 4 = 100
   \gpmseratusempatbelas_e_notes
   \bar "|."
 }
+
+gpmseratusempatbelas_e_music_solmisasi = \solmisasiMusic \gpmseratusempatbelas_e_music
+
 
 gpmseratusempatbelas_lyricOne = \lyricmode {
   Nya -- nyi -- kan ba -- gi Tu -- han
@@ -92,42 +100,30 @@ gpmseratusempatbelas_lyricTwo = \lyricmode {
 
 \score {
   <<
-    \new SolmisasiTimeAndKeySignature {
-      \solmisasiMusic \gpmseratusempatbelas_e_music
-    }
+    % \new SolmisasiTimeAndKeySignature {
+    %       \gpmseratusdelapan_c_music_solmisasi
+    %     }
     \new SolmisasiStaff {
-      \new SolmisasiVoice {
-        \solmisasiMusic \gpmseratusempatbelas_e_music
+      \new SolmisasiVoice = melodi {
+        \gpmseratusempatbelas_e_music_solmisasi
       }
-      \addlyrics \gpmseratusempatbelas_lyricOne
-      \addlyrics \gpmseratusempatbelas_lyricTwo
     }
+    \new Lyrics \lyricsto melodi \gpmseratusempatbelas_lyricOne
+    \new Lyrics \lyricsto melodi \gpmseratusempatbelas_lyricTwo
   >>
   \layout { }
-  \midi { }
 }
 
-\layout {
-  \context {
-    \Score
-    \override TextScript.font-name = #"Times New Roman"
-    \override MetronomeMark.font-name = #"Times New Roman"
-  }
-
-  \context {
-    \Lyrics
-    \override LyricText.font-name = #"Times New Roman"
-    \override LyricHyphen.font-name = #"Times New Roman"
-    \override VerticalAxisGroup.nonstaff-relatedstaff-spacing.basic-distance = #0
-  }
-
-  \context {
-    \SolmisasiStaff
-    \override TextScript.font-name = #"Times New Roman"
-  }
-
-  \context {
-    \SolmisasiVoice
-    \override TextScript.font-name = #"Times New Roman"
+\score {
+  % Gunakan original music
+  \unfoldRepeats <<
+    \new Staff {
+      \new Voice = melodi \gpmseratusempatbelas_e_music
+    }
+    \new Lyrics \lyricsto melodi \gpmseratusempatbelas_lyricOne
+    \new Lyrics \lyricsto melodi \gpmseratusempatbelas_lyricTwo
+  >>
+  \midi {
+    \tempo 4 = 100
   }
 }

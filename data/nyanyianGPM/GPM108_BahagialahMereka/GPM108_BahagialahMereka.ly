@@ -10,6 +10,13 @@
 \header {
   title = "GPM 108. Bahagialah Mereka"
 
+  poet = \markup {
+    \pad-x #1
+    \column {
+      "Do = C, 2/4, ♩ = 80"
+    }
+  }
+
   composer = \markup {
     Lagu dan Syair:
     \concat {
@@ -127,7 +134,7 @@ gpmseratusdelapan_lyricTwo = \lyricmode {
 % oleh \solmisasiMusic.
 \score {
   % Gunakan original music
-  <<
+  \unfoldRepeats <<
     \new Staff {
       \new Voice = melodi \gpmseratusdelapan_c_music
     }
@@ -138,3 +145,4 @@ gpmseratusdelapan_lyricTwo = \lyricmode {
     \tempo 4 = 80
   }
 }
+
