@@ -33,7 +33,7 @@
 
   #(define fonts
      (set-global-fonts
-      #:roman "Noto Serif"
+      #:roman "Lilypond Serif"
       #:sans "Noto Sans"
       #:typewriter "Noto Mono"
       #:factor (/ staff-height pt 20)
@@ -67,6 +67,12 @@
 
   %% KONFIGURASI SYSTEM SPACING %%
 
+  % Jarak header ke sistem not pertama
+  markup-system-spacing =
+    #'((basic-distance . 8)
+       (padding . 2))
+  
+  
   % Padding antar sistem/baris
   system-system-spacing.padding = 3
 }

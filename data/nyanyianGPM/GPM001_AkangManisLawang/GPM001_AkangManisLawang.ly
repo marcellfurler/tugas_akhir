@@ -14,7 +14,8 @@
   poet = \markup {
     \pad-x #1
     \column {
-      "Do = D, 4/4, ♩ = 80 - Irama Tifa Maluku"
+      "Do = D, 4/4, ♩ = 80"
+      "Irama Tifa Maluku"
     }
   }
 
