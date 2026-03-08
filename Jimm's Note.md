@@ -29,3 +29,16 @@ untuk slur putus2 --> \slurDashed (not) \slurSolid
 
 \unfoldRepeats
 untuk mengulang berdasarkan dengan banyak bait atau ```repeat voltanya```
+
+triol - > ```\tuplet x/x {not8, not8, not8}```
+
+untuk teks : ```(```not```^\markup { \italic "teks" }```
+
+nada nada
+c --> 1-c, 2-d, 3-e, 4-f, 5-g, 6-a, 7-b, 8-c
+d --> 1-D, 2-E, 3-Fis, 4-G, 5-A, 6-B, 7-Cis
+e --> 1-E, 2-Fis 3-Gis, 4-A, 5-B, 6-Cis, 7-Dis, 8-E
+f --> 1-F, 2-G, 3-A, 4-Bes, 5-C, 6-D, 7-E, 8-F
+g --> 1-G, 2-A, 3-B, 4-C, 5-D, 6-E, 7-Fis, 8-G
+a --> 1-A, 2-B, 3-Cis, 4-D, 5-E, 6-Fis, 7-Gis, 8-A 
+b --> 1-B, 2-Cis, 3-Dis, 4-E, 5-Fis, 6-Gis, 7-Ais, 8-B
