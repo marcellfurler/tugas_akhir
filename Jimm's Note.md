@@ -34,9 +34,11 @@ triol - > ```\tuplet x/x {not8, not8, not8}```
 
 untuk teks : ```(```not```^\markup { \italic "teks" }```
 
+hapus bagian ~ => ```\once \override Tie.stencil = ##f```
+
 nada nada
 c --> 1-c, 2-d, 3-e, 4-f, 5-g, 6-a, 7-b, 8-c
-d --> 1-D, 2-E, 3-Fis, 4-G, 5-A, 6-B, 7-Cis
+d --> 1-D, 2-E, 3-Fis, 4-G, 5-A, 6-B, 7-Cis, 8-D
 e --> 1-E, 2-Fis 3-Gis, 4-A, 5-B, 6-Cis, 7-Dis, 8-E
 f --> 1-F, 2-G, 3-A, 4-Bes, 5-C, 6-D, 7-E, 8-F
 g --> 1-G, 2-A, 3-B, 4-C, 5-D, 6-E, 7-Fis, 8-G
