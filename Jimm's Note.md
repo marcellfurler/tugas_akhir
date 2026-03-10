@@ -44,3 +44,4 @@ f --> 1-F, 2-G, 3-A, 4-Bes, 5-C, 6-D, 7-E, 8-F
 g --> 1-G, 2-A, 3-B, 4-C, 5-D, 6-E, 7-Fis, 8-G
 a --> 1-A, 2-B, 3-Cis, 4-D, 5-E, 6-Fis, 7-Gis, 8-A 
 b --> 1-B, 2-Cis, 3-Dis, 4-E, 5-Fis, 6-Gis, 7-Ais, 8-B
+Bes --> bes-C-D-Es-F-G-A-Bes
