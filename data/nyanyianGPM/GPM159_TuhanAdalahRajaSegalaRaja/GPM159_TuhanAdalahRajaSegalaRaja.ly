@@ -70,26 +70,32 @@ gpmseratuslimasembilan_e_music = {
 gpmseratuslimasembilan_e_music_solmisasi = \solmisasiMusic \gpmseratuslimasembilan_e_music
 
 gpmseratuslimasembilan_lyricOne = \lyricmode {
-    
+  Tu -- han a -- da -- lah Ra -- ja s'ga -- la ra -- ja.
+  Ke -- ku -- a -- sa -- an -- Nya tia -- da ber -- ta -- ra.
+  S'lu -- ruh  ja -- gad ra -- ya \set ignoreMelismata = ##t meng -- a -- gung -- kan -- Nya, \set ignoreMelismata = ##f
+  dan tun -- duk \set ignoreMelismata = ##t me -- nyem -- bah \set ignoreMelismata = ##f ha -- nya ke -- pa -- da -- Nya.
+  Ya Tu -- han, Eng -- kau yang Ma -- ha -- ting -- gi yang ber -- kua -- sa
+  di a -- tas s'lu -- ruh bu -- mi.
+  U -- mar -- Mu meng -- a -- min -- kan, Kau -- lah Ra -- ja.
 }
 
 gpmseratuslimasembilan_lyricTwo = \lyricmode {
-  Ba -- ha -- gia -- lah me -- re -- ka yang tak me -- man -- dang mu -- ka.
-  Ba -- ha -- gia -- lah me -- re -- ka yang
-  \set ignoreMelismata = ##t
-  \once\override LyricText.self-alignment-X = #LEFT
-  ta --
-  \once\override LyricText.self-alignment-X = #0.6
-  bur
-  \set ignoreMelismata = ##f
-  ke a -- di -- lan.
-  Ba -- ha -- gia -- lah me -- re -- ka yang rin -- du  ber -- se -- ku -- tu.
-  Ba -- ha -- gia -- lah me -- re -- ka yang ta -- hu  ber -- syu -- kur.
+  Bi -- ar -- lah bu -- mi ber -- gem -- bi -- ra ri -- a, 
+  dan se -- mu -- a pu -- lau ber -- su -- ka -- ci -- ta.
+  Meng -- hor -- ma -- ti \set ignoreMelismata = ##t ke -_ per -- ka -- sa -- an \set ignoreMelismata = ##f Tu -- han
+  yang nam -- pak da -- lam \set ignoreMelismata = ##t fir -- man \set ignoreMelismata = ##f dan ke -- hen -- dak -- Nya.
 }
 gpmseratuslimasembilan_lyricThree = \lyricmode{
-
+  A -- wan dan ke -- k'la -- man me -- ngi -- ta -- ri -- Nya.
+  Per -- lam -- bang ke -- mu -- lia -- an Ra -- ja sor -- ga 
+  se -- ga -- la hu -- kum dan ke -- a -- di -- lan.
+  I -- tu men -- ja -- di tum -- pu -- an ka -- ki -- Nya. 
 }
-gpmseratuslimasembilan_lyricFour = \lyricmode {}
+gpmseratuslimasembilan_lyricFour = \lyricmode {
+  La -- ngit mem -- b'ri -- ta -- kan ke -- a -- di -- lan -- Nya.
+  S'ga -- la bang -- sa pan -- dang ke -- mu -- lia -- an -- Nya.
+  Yang per -- ca -- ya pa -- da \set ignoreMelismata = ##t pa -- ra \set ignoreMelismata = ##f ber -- ha -- la. Al -- lah -- Nya su -- jud \set ignoreMelismata = ##t me -- nyem -- bah\set ignoreMelismata = ##f ke -- pa -- da -- Nya. 
+}
 
 % Score untuk partitur (PDF dan SVG)
 \score {
