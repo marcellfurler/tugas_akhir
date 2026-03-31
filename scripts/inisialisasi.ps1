@@ -3,16 +3,17 @@
 
 # 1. Pindah ke direktori proyek (absolute path)
 # Ganti PROJECT_DIR sesuai dengan lokasi hasil clone project Anda
-$PROJECT_DIR = "$env:USERPROFILE\projects\tugas_akhir"
+# $PROJECT_DIR = "$env:USERPROFILE\projects\tugas_akhir"
 
-try {
-    Set-Location $PROJECT_DIR -ErrorAction Stop
-    Write-Host "📍 Direktori proyek: $(Get-Location)"
-} catch {
-    Write-Host "Error: Tidak dapat mengakses direktori proyek $PROJECT_DIR"
-    exit 1
-}
+# try {
+#    Set-Location $PROJECT_DIR -ErrorAction Stop
+#    Write-Host "📍 Direktori proyek: $(Get-Location)"
+# } catch {
+#    Write-Host "Error: Tidak dapat mengakses direktori proyek $PROJECT_DIR"
+#    exit 1
+# }
 
+Write-Host "📍 Direktori proyek: $(Get-Location)"
 Write-Host ""
 
 # 2. Inisialisasi dan update submodule
