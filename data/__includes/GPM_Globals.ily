@@ -5,16 +5,28 @@
 %% Ekstensi untuk file MIDI
 % Di Windows: .mid, di Linux: .midi
 % Seragamkan saja
-#(ly:set-option 'midi-extension "mid")
+#(ly:set-option 'midi-extension "midi")
 
 %% Dummy header
 \header {
-  % Dummy subtitle agar ada spasi vertikal
+  % Dummy headers agar ada spasi vertikal
   % dari judul ke identitas lagu
-  subtitle = \markup\null
-  % Dummy arranger agar ada spasi vertikal
+  subsubtitle = \markup\null
+
+  % Dummy headers agar ada spasi vertikal
   % dari identitas lagu ke baris pertama lagu
   arranger = \markup\null
+
+  % Default tagline
+  tagline = \markup {
+    \sans \fontsize #-1 {
+      \concat {
+        "Koleksi Partitur Nyanyian GPM"
+        " - Diproduksi dengan solmisasi-lily v"
+        #(solmisasi-lily-version)
+      }
+    }
+  }
 }
 
 %% Konfigrasu kertas partitur
@@ -34,7 +46,7 @@
   #(define fonts
      (set-global-fonts
       #:roman "Lilypond Serif"
-      #:sans "Noto Sans"
+      #:sans "Lilypond Sans Serif"
       #:typewriter "Noto Mono"
       #:factor (/ staff-height pt 20)
       ))
@@ -69,12 +81,22 @@
 
   % Jarak header ke sistem not pertama
   markup-system-spacing =
-    #'((basic-distance . 8)
-       (padding . 2))
-  
-  
+  #'((basic-distance . 8)
+     (padding . 2))
+
   % Padding antar sistem/baris
   system-system-spacing.padding = 3
+
+  % Spacing dari bottom-margin ke baris terakhir lagu
+  last-bottom-spacing.padding = 5
+
+  % Page breaking
+  % Untuk SVG, no page breaking
+  page-breaking = #(if is-svg?
+                       ly:one-page-breaking
+                       ; else/default
+                       ly:optimal-breaking
+                       )
 }
 
 
@@ -86,5 +108,20 @@
     % Jika SystemStartBar tidak diperlukan:
     \remove System_start_delimiter_engraver
   }
+  \context {
+    \Lyrics
+    \override LyricText.Y-offset = #0.8
+    \override LyricExtender.Y-offset = #0.8
+    \override LyricHyphen.Y-offset = #0.95
+  }
 }
 
+%% Utilities %%
+
+lyricsOff = {
+  \omit Lyrics.LyricText
+  \omit Lyrics.LyricSpace
+  \omit Lyrics.LyricHyphen
+  \omit Lyrics.LyricExtender
+  \omit Lyrics.LyricRepeatCount
+}
