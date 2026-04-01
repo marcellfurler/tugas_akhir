@@ -63,13 +63,16 @@ syair =
        >>
      #}
      )
+
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
     \notasi
     \syair
   >>
-  \layout { }
+  % Layout untuk SVG animation dan printed
+  % Cek __includes/svg-animation-init.ily
+  \layout {}
 }
 
 % Score untuk MIDI

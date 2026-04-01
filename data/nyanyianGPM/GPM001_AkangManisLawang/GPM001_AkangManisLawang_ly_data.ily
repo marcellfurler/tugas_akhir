@@ -1,13 +1,7 @@
 % GPM001_AkangManisLawang_ly_data.ily
 \version "2.24.4"
 
-% Deprecated
-% By default menggunakan solmisasi-lily v2.0.0-beta
-% #(define _USE_VERSION2 #t)
-
-\include "../../../backend/solmisasi-lily/lib/solmisasi.ily"
 \include "../../__includes/GPM_Globals.ily"
-\include "../../__includes/svg-animation-init.ily"
 
 \header {
   title = "GPM 1. Akang Manis Lawang"

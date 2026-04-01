@@ -1,3 +1,13 @@
+\version "2.24.4"
+% Deprecated
+% By default menggunakan solmisasi-lily v2.0.0-beta
+% #(define _USE_VERSION2 #t)
+
+\include "../../backend/solmisasi-lily/lib/solmisasi.ily"
+\include "../__includes/tie-attributes.ily"
+\include "../__includes/fermata.ily"
+\include "../__includes/highlight-bars.ily"
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% KONFIGURASI GLOBAL untuk partitur Nyanyian GPM %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -91,7 +101,8 @@
   last-bottom-spacing.padding = 5
 
   % Page breaking
-  % Untuk SVG, no page breaking
+  % Untuk SVG animation, no page breaking
+  % Untuk SVG one-line, diatur di GPM000_JudulLagu_ly_one-line.ly
   page-breaking = #(if is-svg?
                        ly:one-page-breaking
                        ; else/default
@@ -107,6 +118,17 @@
     \remove Bar_number_engraver
     % Jika SystemStartBar tidak diperlukan:
     \remove System_start_delimiter_engraver
+    % Diperlukan untuk animasi
+    \override StaffHighlight.after-line-breaking = #add-data-bar-to-highlight
+  }
+  \context {
+    % Diperlukan untuk animasi
+    \SolmisasiStaff
+    #(if is-svg?
+         (ly:parser-include-string
+          "\\consists #Simple_highlight_engraver
+           \\consists Staff_highlight_engraver
+           \\consists #Bar_timing_collector"))
   }
   \context {
     \Lyrics
@@ -124,4 +146,18 @@ lyricsOff = {
   \omit Lyrics.LyricHyphen
   \omit Lyrics.LyricExtender
   \omit Lyrics.LyricRepeatCount
+}
+
+% Layout untuk one-line
+oneLineLayoutForSVG = \layout {
+  \context {
+    \Voice
+    \consists \Tie_grob_engraver
+    \consists #simple-fermata-data-engraver
+  }
+  \context {
+    \SolmisasiVoice
+    \consists \Tie_grob_engraver
+    \consists #simple-fermata-data-engraver
+  }
 }
