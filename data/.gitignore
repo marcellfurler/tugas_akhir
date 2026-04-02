@@ -1,11 +1,9 @@
-*
+nyanyianGPM/*/*
+
 !__includes/
-!*/exports/
-!*/exports/*.pdf
-!*/exports/*.yaml
-!*/exports/*.mp3
-!*/exports/*.wav
-!*/exports/*.svg
+!nyanyianGPM/*/*.ly
+!nyanyianGPM/*/*.ily
+!nyanyianGPM/*/exports/
 
 # Cache directories
 .cache/
