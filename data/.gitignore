@@ -1,24 +1,9 @@
-# Data-specific ignores
-# Ignore temporary files generated during Lilypond compilation
+nyanyianGPM/*/*
 
-# Lilypond temporary files in data directory
-*.log
-*.tex
-*.ps
-*.eps
-*.tmp
-*.temp
-
-# Processed files (keep original .ly files)
-# Ignore generated files from Lilypond compilation
-*.pdf
-*.mid
-*.midi
-*.svg
-
-# Explicit whitelist for exports directories
+!__includes/
+!nyanyianGPM/*/*.ly
+!nyanyianGPM/*/*.ily
 !nyanyianGPM/*/exports/
-!nyanyianGPM/*/exports/*
 
 # Cache directories
 .cache/
