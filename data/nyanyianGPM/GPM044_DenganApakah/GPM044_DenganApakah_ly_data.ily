@@ -56,7 +56,7 @@ gpmempatpuluhempat_d_notes = {
 
     \partial 4 fis8 g8 | a4 a4 a4 a8 a8 | b4 b4 a4 d,8 e8 | fis4 e8 d8 e4 fis4 | e2 r4 \break
     fis8 g8 | a4 a4 a4 a8 a8 | b4 b4 a4 d,8 e8 | fis4 g8 fis8 e4 cis4 | d2 r4 \break
-    cis8 d8 | e4 e4 e4 d8 e8 | fis4 fis4 fis4 e8 fis8 | g4 g8 g8 fis4 \slurDashed (fis8 d8) \slurSolid | e2 r4 \break
+    cis8 d8 | e4 e4 e4 d8 e8 | fis4 fis4 fis4 e8 fis8 | g4 g8 g8 fis4 \phrasingSlurDashed fis8\( d8\) \phrasingSlurSolid | e2 r4 \break
     fis8 e8 | d4 d4 d4 e8 d8 | d4 b4 b4 d8 e8 | fis4. fis8 fis4 a4 | \break
     a4 g4 r4 fis8 e8 | d4 d8 d8 cis4. d8 | d2 r4 \break 
 
