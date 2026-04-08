@@ -1,0 +1,91 @@
+% GPM001_AkangManisLawang_ly_data.ily
+\version "2.24.4"
+
+\include "../../__includes/GPM_Globals.ily"
+
+\header {
+  title = "GPM 313. Katong Bakumpul Rame-Rame"
+
+  poet = \markup {
+    \pad-x #1
+    % override baseline-skip untuk column
+    % agar lebih rapat setiap barisnya
+    \override #'(baseline-skip . 2.8)
+    \left-column {
+      \line {
+        "Do = C, 4/4,"
+        \raise #0.3 \fontsize #-2.5 \note {4} #UP
+        "= 85"
+      }
+    }
+  }
+
+  composer = \markup {
+    Lagu dan Syair:
+    \concat {
+      \caps "Bartje Istia"
+      ", 2007"
+    }
+  }
+}
+
+% do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
+
+gpmtigaratustigabelas_c_notes = {
+  \key c \major
+  \relative c' {
+    % Trik untuk menampilkan bait dengan section
+    % pada SVG (mode unfolded)
+    #(if is-svg?
+         #{
+             s1*0
+             \tweak X-offset #1
+             \sectionLabel \markup\smaller\bold "Bait 1"
+         #}
+         ; else/defaulte
+         (empty-music)
+         )
+
+    r8 e8 e8 f8 e8 d8 c8 d8 |e8 e4 d8 c4 r4 | f8 f8 a8 a8 g4. f8 | e1* 4/4 | \break
+    r4 e8 e8 e8 d8 c8 d8 | e8 e4 d8 c4 r4 | d8 d8 d8 e8 d8 c8 b8 c8 | d1* 4/4 | \break
+    r8 e8 e8 f8 e8 d8 c8 d8 | e8 e4 d8 c4 r4 |f8 f8 a8 a8 g4. f8 | e1* 4/4 | \break 
+    r4 e8 e8 e8 d8 c8 d8 | e8 e4 d8 c4 r4 | f8 f8 f8 f8 e4. d8 | c1* 4/4 | \break
+
+    r4 a'8 a8 a8 g8 f8 g8 | a8 a4 g8 f4 r4 | c'8 c8 c8 c8 b4. a8 | g4. f8 e2 | \break  
+    r4 a8 a8 a8 g8 f8 g8 | a8 a4 g8 f4 r4 | c'8 c8 c8 c8 b4. a8 | g4. f8 e2 | \break 
+    r4 e8 e8 e8 d8 c8 d8 | e8 e4 d8 c4 r8 c8 | d8 d8 f8 f8 e4. d8 | c1 * 4/4
+
+    % Double barline jika SVG (dijabarkan)
+    #(if is-svg?
+         #{ \section #}
+         ; else/defaulte
+         (empty-music)
+         )
+  }
+}
+
+gpmtigaratustigabelas_c_music = {
+  \time 4/4
+  % Tempo untuk MIDI saja.
+  % Di partitur, tampilkan dengan header.
+  \gpmtigaratustigabelas_c_notes
+  \bar "|."
+}
+
+% Optimasi
+% Buat variabel musik baru agar \solmisasiMusic hanya dijalankan sekali
+gpmtigaratustigabelas_c_music_solmisasi = \solmisasiMusic \gpmtigaratustigabelas_c_music
+
+gpmtigaratustigabelas_lyricOne = \lyricmode {
+  Ka -- tong ba -- kum -- pul ra -- me- ra -- me a -- le li -- a ma -- nis la -- wang -- e.
+  Hi -- dop sa -- ma a -- de  ka -- ka si -- o, sa -- tu ha -- ti sa -- tu jan -- tong -- e.
+  Sa -- tu pung su -- sah la -- eng ban -- tu a -- le, sa -- ma- sa -- ma ra -- sa -- e.
+  Ja -- ngan sim -- pan da -- lam ha -- ti si -- o, i -- tu Tu -- han pu -- nya mau.
+}
+
+
+gpmtigaratustigabelas_lyricReff = \lyricmode {
+  Yang me -- na  -- bur de -- ngan a -- er ma -- ta me -- nu -- ai de -- ngan su -- ka -- ci -- ta.
+  A -- sal ku -- at deng som -- ba -- yang min -- ta se -- la -- lu a -- da peng -- hi -- bu -- ran.
+  Ma -- nu -- sia me -- nim -- bang da -- lam ha -- ti, pu -- tus -- an a -- da di Tu -- han.
+}
