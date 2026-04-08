@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎼 Bach Score Viewer - Template</title>
+
+  <!-- Bootstrap 5.3.0 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS Files -->
+  <link rel="stylesheet" href="animasi-partitur/css/normalize.css">
+  <link rel="stylesheet" href="animasi-partitur/css/index.css">
+  <link rel="stylesheet" href="animasi-partitur/css/menu.css">
+  <link rel="stylesheet" href="animasi-partitur/css/player.css">
+
+  <!-- Custom Styles -->
+  <style>
+    /* Additional custom styles if needed */
+    .main-content {
+      min-height: calc(100vh - 64px);
+      padding-top: 2rem;
+    }
+
+    .demo-section {
+      margin-bottom: 3rem;
+      padding: 2rem;
+      border: 1px solid #dee2e6;
+      border-radius: 0.375rem;
+    }
+
+    .demo-title {
+      color: var(--bach-brown, #8b6f47);
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Navigation Header -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        🎼 Bach Score Viewer
+      </a>
+
+      <!-- Mobile menu button -->
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Navigation menu -->
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Scores</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+        </ul>
+
+        <!-- BWV Work Selection -->
+        <div class="d-flex">
+          <div class="btn-group" role="group">
+            <button type="button" class="btn btn-outline-light btn-sm" data-work-id="bwv1006">
+              BWV 1006
+            </button>
+            <button type="button" class="btn btn-outline-light btn-sm" data-work-id="bwv543">
+              BWV 543
+            </button>
+            <button type="button" class="btn btn-outline-light btn-sm" data-work-id="bwv988">
+              BWV 988
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <div class="container-fluid">
+      <!-- Hero Section -->
+      <section class="demo-section">
+        <h1 class="demo-title">🎼 Bach Score Viewer Demo</h1>
+        <p class="lead">Template untuk menampilkan partitur musik Bach dengan animasi interaktif.</p>
+
+        <!-- Bootstrap Buttons Demo -->
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <h5>Bootstrap Components</h5>
+            <button type="button" class="btn btn-bd-primary me-2">Primary Button</button>
+            <button type="button" class="btn btn-secondary me-2">Secondary</button>
+            <button type="button" class="btn btn-success">Success</button>
+          </div>
+          <div class="col-md-6">
+            <h5>Custom BWV Controls</h5>
+            <div class="btn-group" role="group">
+              <button type="button" class="btn" data-work-id="bwv1006">
+                BWV 1006
+                <span class="wiki-element">📖</span>
+              </button>
+              <button type="button" class="btn btn-active" data-work-id="bwv543">
+                BWV 543
+                <span class="wiki-element">📖</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Score Viewer Section -->
+      <section class="demo-section">
+        <h2 class="demo-title">🎵 Score Viewer</h2>
+
+        <!-- Hyplayer Container -->
+        <div class="hyplayer-root">
+          <!-- Score Display Area -->
+          <div class="score-container bg-white p-3 mb-3">
+            <div class="d-flex justify-content-between align-items-center mb-2">
+              <h4 class="mb-0">BWV 543 - Toccata and Fugue in D Minor</h4>
+              <div class="btn-group btn-group-sm">
+                <button type="button" class="btn btn-outline-primary">▶️ Play</button>
+                <button type="button" class="btn btn-outline-secondary">⏸️ Pause</button>
+                <button type="button" class="btn btn-outline-info">🔄 Reset</button>
+              </div>
+            </div>
+
+            <!-- SVG Score Placeholder -->
+            <div class="border rounded p-4 bg-light">
+              <div class="text-center text-muted">
+                <p>🎼 SVG Score akan dimuat di sini</p>
+                <small>Support untuk animasi notehead dan playback synchronization</small>
+              </div>
+            </div>
+          </div>
+
+          <!-- Voice Controls -->
+          <div class="voice-controls mb-3">
+            <h5>Voice Selection</h5>
+            <div class="row">
+              <div class="col-md-3">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="voice0" checked>
+                  <label class="form-check-label" for="voice0" style="color: var(--voice-0-color, coral);">
+                    🎵 Soprano
+                  </label>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="voice1" checked>
+                  <label class="form-check-label" for="voice1" style="color: var(--voice-1-color, lightgreen);">
+                    🎵 Bass
+                  </label>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="voice2" checked>
+                  <label class="form-check-label" for="voice2" style="color: var(--voice-2-color, dodgerblue);">
+                    🎵 Alto
+                  </label>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="voice3">
+                  <label class="form-check-label" for="voice3" style="color: var(--voice-3-color, gold);">
+                    🎵 Tenor
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Playback Controls -->
+          <div class="playback-controls">
+            <div class="row align-items-center">
+              <div class="col-md-8">
+                <div class="progress mb-2">
+                  <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0"
+                    aria-valuemax="100">0:45 / 3:20</div>
+                </div>
+              </div>
+              <div class="col-md-4 text-end">
+                <div class="btn-group btn-group-sm">
+                  <button type="button" class="btn btn-outline-secondary">⏪ -10s</button>
+                  <button type="button" class="btn btn-outline-secondary">⏩ +10s</button>
+                  <button type="button" class="btn btn-outline-info">🎵 Tempo</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Features Demo -->
+      <section class="demo-section">
+        <h2 class="demo-title">✨ Features</h2>
+
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">🎼 Interactive Score</h5>
+                <p class="card-text">Click on notes to see details, hover for highlights.</p>
+                <button class="btn btn-primary btn-sm">Demo</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">🎵 Synchronized Playback</h5>
+                <p class="card-text">Audio playback with visual note synchronization.</p>
+                <button class="btn btn-primary btn-sm">Demo</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">🎚️ Voice Control</h5>
+                <p class="card-text">Toggle individual voices for focused study.</p>
+                <button class="btn btn-primary btn-sm">Demo</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Offcanvas Demo -->
+      <section class="demo-section">
+        <h2 class="demo-title">📱 Mobile Navigation</h2>
+        <p>Offcanvas navigation untuk mobile devices (lebar < 992px).</p>
+
+            <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#demoOffcanvas">
+              📱 Open Mobile Menu
+            </button>
+
+            <div class="offcanvas offcanvas-start" tabindex="-1" id="demoOffcanvas">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title">🎼 Bach Scores</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+              </div>
+              <div class="offcanvas-body">
+                <div class="list-group">
+                  <a href="#" class="list-group-item list-group-item-action active">
+                    BWV 1006 - Suite No. 1 in G Major
+                  </a>
+                  <a href="#" class="list-group-item list-group-item-action">
+                    BWV 543 - Toccata and Fugue in D Minor
+                  </a>
+                  <a href="#" class="list-group-item list-group-item-action">
+                    BWV 988 - Goldberg Variations
+                  </a>
+                </div>
+              </div>
+            </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Bootstrap 5.3.0 JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom JavaScript -->
+  <script>
+    // Initialize tooltips and popovers
+    document.addEventListener('DOMContentLoaded', function () {
+      // Initialize Bootstrap tooltips
+      var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+      var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+      });
+
+      // BWV button interactions
+      document.querySelectorAll('[data-work-id]').forEach(button => {
+        button.addEventListener('click', function () {
+          // Remove active class from all buttons
+          document.querySelectorAll('[data-work-id]').forEach(btn => {
+            btn.classList.remove('btn-active');
+          });
+
+          // Add active class to clicked button
+          this.classList.add('btn-active');
+
+          console.log('Selected work:', this.dataset.workId);
+        });
+      });
+
+      // Voice toggle interactions
+      document.querySelectorAll('.form-check-input').forEach(checkbox => {
+        checkbox.addEventListener('change', function () {
+          const voiceId = this.id;
+          const isChecked = this.checked;
+          console.log(`Voice ${voiceId}: ${isChecked ? 'ON' : 'OFF'}`);
+        });
+      });
+
+      // Playback controls demo
+      document.querySelectorAll('.btn').forEach(button => {
+        if (button.textContent.includes('Play')) {
+          button.addEventListener('click', () => console.log('▶️ Playing...'));
+        } else if (button.textContent.includes('Pause')) {
+          button.addEventListener('click', () => console.log('⏸️ Paused'));
+        } else if (button.textContent.includes('Reset')) {
+          button.addEventListener('click', () => console.log('🔄 Reset'));
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>

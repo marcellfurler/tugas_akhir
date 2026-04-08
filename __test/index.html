@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animasi Partitur Lagu GPM</title>
+  <meta id="page-title" content="">
+
+  <!-- Bootstrap 5.3.0 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS Files -->
+  <link rel="stylesheet" href="./animasi-partitur/css/normalize.css">
+  <link rel="stylesheet" href="./animasi-partitur/css/index.css">
+  <link rel="stylesheet" href="./animasi-partitur/css/menu.css">
+  <link rel="stylesheet" href="./animasi-partitur/css/player.css">
+
+  <!-- Custom Styles -->
+  <style>
+    body {
+      background-color: var(--bach-cream, #faf8f3);
+    }
+
+    .notangka {
+      color: black;
+    }
+
+    .player-container {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .loading-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .loading-content {
+      text-align: center;
+      color: white;
+    }
+
+    .loading-spinner {
+      width: 4rem;
+      height: 4rem;
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #8B4513;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .pdf-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      min-width: 7.5rem;
+      text-decoration: none;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .pdf-button:enabled {
+      background-color: #dc3545;
+      color: white;
+    }
+
+    .pdf-button:enabled:hover {
+      background-color: #c82333;
+    }
+
+    .pdf-button:disabled {
+      background-color: #6c757d;
+      color: #6c757d;
+      cursor: not-allowed;
+    }
+
+    .audio-player {
+      flex: 1;
+      max-width: 800px;
+      border-radius: 8px;
+    }
+
+    .bar-counter {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.25rem 0.75rem;
+      background-color: #6c757d;
+      color: white;
+      border-radius: 0.5rem;
+      min-width: 7.5rem;
+      font-size: 0.875rem;
+    }
+
+    .content-area {
+      flex: 1;
+      padding: 2rem;
+    }
+
+    .measure-controls {
+      margin-bottom: 2rem;
+      padding: 1rem;
+      background-color: var(--bach-cream, #faf8f3);
+      border: 1px solid var(--bach-taupe, #d4c4a8);
+      border-radius: 0.375rem;
+    }
+
+    .measure-controls label {
+      display: block;
+      font-weight: 500;
+      margin-bottom: 0.5rem;
+      color: var(--bach-dark, #5a4037);
+    }
+
+    .measure-controls select {
+      width: auto;
+      min-width: 120px;
+      padding: 0.25rem 0.5rem;
+      border: 1px solid #ced4da;
+      border-radius: 0.25rem;
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+</head>
+
+<body>
+  <!-- Music Player Section -->
+  <div class="player-container hyplayer-root">
+
+    <!-- Fixed audio controls on top -->
+    <div id="hyplayer-controls" class="controls-container">
+      <div class="controls-inner">
+        <!-- PDF download button -->
+        <a id="pdf-download" href="#" class="pdf-button" disabled>
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+              d="M14 4.5V14a2 2 0 0 1-2 2h-1v-1h1a1 1 0 0 0 1-1V4.5h-2A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v9H2V2a2 2 0 0 1 2-2h5.5zM1.6 11.85H0v3.999h.791v-1.342h.803q.43 0 .732-.173.305-.175.463-.474a1.4 1.4 0 0 0 .161-.677q0-.375-.158-.677a1.2 1.2 0 0 0-.46-.477q-.3-.18-.732-.179m.545 1.333a.8.8 0 0 1-.085.38.57.57 0 0 1-.238.241.8.8 0 0 1-.375.082H.788V12.48h.66q.327 0 .512.181.185.183.185.522m1.217-1.333v3.999h1.46q.602 0 .998-.237a1.45 1.45 0 0 0 .595-.689q.196-.45.196-1.084 0-.63-.196-1.075a1.43 1.43 0 0 0-.589-.68q-.396-.234-1.005-.234zm.791.645h.563q.371 0 .609.152a.9.9 0 0 1 .354.454q.118.302.118.753a2.3 2.3 0 0 1-.068.592 1.1 1.1 0 0 1-.196.422.8.8 0 0 1-.334.252 1.3 1.3 0 0 1-.483.082h-.563zm3.743 1.763v1.591h-.79V11.85h2.548v.653H7.896v1.117h1.606v.638z" />
+          </svg>
+          PDF Tidak Tersedia
+        </a>
+
+        <!-- Main audio player -->
+        <audio id="audio" class="audio-player" controls preload="auto" crossorigin="anonymous">
+          <source id="audio-source" src="" type="audio/mpeg">
+          Browser Anda tidak mendukung audio element.
+        </audio>
+
+        <!-- Bar counter -->
+        <div id="bar_spy" class="bar-counter">
+          <span id="current_bar">1</span>
+          <span>/</span>
+          <span id="total_bars">--</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Loading overlay -->
+    <div id="loading" class="loading-overlay" style="display: none;">
+      <div class="loading-content">
+        <div class="loading-spinner"></div>
+        <div>Memuat data lagu <span id="loading-werk">BWV 543</span>...</div>
+      </div>
+    </div>
+
+    <!-- Main content area for musical notation -->
+    <div class="content-area">
+      <!-- Measure controls -->
+      <div id="measure-controls" style="display: none;">
+        <label for="highlight-select">Highlight Birama:</label>
+        <select id="highlight-select">
+          <option value="">None</option>
+        </select>
+        <small id="highlight-info" style="display: none;"></small>
+      </div>
+
+      <!-- SVG container for musical notation -->
+      <div id="svg-container">
+        <!-- SVG content will be loaded here -->
+        <div class="text-center text-muted p-4">
+          <h4>🎼 Bach Score Viewer</h4>
+          <p>SVG partitur akan dimuat di sini</p>
+          <small>Support untuk animasi notehead dan playback synchronization</small>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap 5.3.0 JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom JavaScript -->
+  <!-- <script>
+    // Sample data for testing
+    const sampleData = {
+      workInfo: {
+        title: "Toccata and Fugue in D Minor",
+        composer: "J.S. Bach",
+        bwv: "BWV 543"
+      },
+      urls: {
+        pdf: null, // Set to URL if PDF available
+        svg: "path/to/score.svg",
+        audio: "path/to/audio.mp3"
+      }
+    };
+
+    // Initialize player
+    document.addEventListener('DOMContentLoaded', function () {
+      const loading = document.getElementById('loading');
+      const loadingWerk = document.getElementById('loading-werk');
+      const pdfButton = document.getElementById('pdf-download');
+      const audioPlayer = document.getElementById('audio-player');
+      const currentBar = document.getElementById('current_bar');
+      const totalBars = document.getElementById('total_bars');
+
+      // Simulate loading
+      function showLoading() {
+        loading.style.display = 'flex';
+        loadingWerk.textContent = sampleData.workInfo.title;
+      }
+
+      function hideLoading() {
+        loading.style.display = 'none';
+      }
+
+      // Update PDF button
+      function updatePdfButton() {
+        if (sampleData.urls.pdf) {
+          pdfButton.href = sampleData.urls.pdf;
+          pdfButton.disabled = false;
+          pdfButton.innerHTML = `
+            <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+              <path d="M14 4.5V14a2 2 0 0 1-2 2h-1v-1h1a1 1 0 0 0 1-1V4.5h-2A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v9H2V2a2 2 0 0 1 2-2h5.5zM1.6 11.85H0v3.999h.791v-1.342h.803q.43 0 .732-.173.305-.175.463-.474a1.4 1.4 0 0 0 .161-.677q0-.375-.158-.677a1.2 1.2 0 0 0-.46-.477q-.3-.18-.732-.179m.545 1.333a.8.8 0 0 1-.085.38.57.57 0 0 1-.238.241.8.8 0 0 1-.375.082H.788V12.48h.66q.327 0 .512.181.185.183.185.522m1.217-1.333v3.999h1.46q.602 0 .998-.237a1.45 1.45 0 0 0 .595-.689q.196-.45.196-1.084 0-.63-.196-1.075a1.43 1.43 0 0 0-.589-.68q-.396-.234-1.005-.234zm.791.645h.563q.371 0 .609.152a.9.9 0 0 1 .354.454q.118.302.118.753a2.3 2.3 0 0 1-.068.592 1.1 1.1 0 0 1-.196.422.8.8 0 0 1-.334.252 1.3 1.3 0 0 1-.483.082h-.563zm3.743 1.763v1.591h-.79V11.85h2.548v.653H7.896v1.117h1.606v.638z"/>
+            </svg>
+            Unduh PDF
+          `;
+        }
+      }
+
+      // Audio player events
+      audioPlayer.addEventListener('timeupdate', function () {
+        // Update bar counter based on audio time
+        const currentTime = audioPlayer.currentTime;
+        const duration = audioPlayer.duration;
+
+        if (duration) {
+          const progress = (currentTime / duration) * 100;
+          // This would be calculated based on actual score data
+          const currentBarNum = Math.floor(progress / 5) + 1; // Example calculation
+          const totalBarNum = 20; // Example total
+
+          currentBar.textContent = currentBarNum;
+          totalBars.textContent = totalBarNum;
+        }
+      });
+
+      // Test functions
+      window.testPlayer = {
+        showLoading: showLoading,
+        hideLoading: hideLoading,
+        loadScore: function (svgUrl) {
+          console.log('Loading SVG from:', svgUrl);
+          // Implementation would load SVG into #svg-container
+        },
+        loadAudio: function (audioUrl) {
+          audioPlayer.src = audioUrl;
+          audioPlayer.load();
+        }
+      };
+
+      // Initialize
+      updatePdfButton();
+      console.log('Bach Score Player initialized');
+    });
+  </script> -->
+
+  <script type="module" src="./animasi-partitur/js/player.js"></script>
+</body>
+
+</html>

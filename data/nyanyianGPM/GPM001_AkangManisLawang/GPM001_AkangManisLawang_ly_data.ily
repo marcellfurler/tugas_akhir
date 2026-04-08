@@ -34,53 +34,61 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmnolnolsatu_d_notes = {
-  \key d \major
-  \relative d'
+gpmnolnolsatu_d_notes_pdf = {
   \repeat volta 3 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    r4 fis8 e8 fis4 g4 | b4 a4. e8 fis8 g8 | a8 a8 a8 fis8 b4. fis8 | a4 g2. | \break
-    r4 e4 e4 fis4 | a4 g2 \breathe a8 a8 | a8 a8 a8 a8 a8 b8 a8 g8 | fis1* 4/4 | \break
-    r4 fis8 e8 fis4 g4 | b4 a4. e8 fis8 g8 | a8 a4. fis8 g4 a8 | \phrasingSlurDashed b2\( d2\) \phrasingSlurSolid | \break
+    r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'8 a'8 fis'8 b'4. fis'8 | a'4 g'2. | \break
+    r4 e'4 e'4 fis'4 | a'4 g'2 \breathe a'8 a'8 | a'8 a'8 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break
+    r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'4. fis'8 g'4 a'8 | \phrasingSlurDashed b'2\( d'2\) \phrasingSlurSolid | \break
 
     % reef
-    r4 b4 cis4. e8 | d4.( b8) a2 | r4 e8 fis8 g8 (fis8) e4 | fis4.( a8) a2 | \break
-    r4 b4 cis4. e8 | d4.( b8) a2 | r4 e8 fis8 a8 (fis8 ) fis4 | e4.( d8) d2 |
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 g'8( fis'8) e'4 | fis'4.( a'8) a'2 | \break
+    r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 a'8( fis'8) fis'4 | e'4.( d'8) d'2 |
   }
 }
 
+gpmnolnolsatu_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'8 a'8 fis'8 b'4. fis'8 | a'4 g'2. | \break
+  r4 e'4 e'4 fis'4 | a'4 g'2 \breathe a'8 a'8 | a'8 a'8 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break
+  r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'4. fis'8 g'4 a'8 | \phrasingSlurDashed b'2\( d'2\) \phrasingSlurSolid | \break
+
+  % reef
+  r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 g'8( fis'8) e'4 | fis'4.( a'8) a'2 | \break
+  r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 a'8( fis'8) fis'4 | e'4.( d'8) d'2 |
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'8 a'8 fis'8 b'4. fis'8 | a'4 g'2. | \break
+  r4 e'4 e'4 fis'4 | a'4 g'2 \breathe a'8 a'8 | a'8 a'8 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break
+  r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'4. fis'8 g'4 a'8 | \phrasingSlurDashed b'2\( d'2\) \phrasingSlurSolid | \break
+
+  % reef
+  r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 g'8( fis'8) e'4 | fis'4.( a'8) a'2 | \break
+  r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 a'8( fis'8) fis'4 | e'4.( d'8) d'2 |
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'8 a'8 fis'8 b'4. fis'8 | a'4 g'2. | \break
+  r4 e'4 e'4 fis'4 | a'4 g'2 \breathe a'8 a'8 | a'8 a'8 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break
+  r4 fis'8 e'8 fis'4 g'4 | b'4 a'4. e'8 fis'8 g'8 | a'8 a'4. fis'8 g'4 a'8 | \phrasingSlurDashed b'2\( d'2\) \phrasingSlurSolid | \break
+
+  % reef
+  r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 g'8( fis'8) e'4 | fis'4.( a'8) a'2 | \break
+  r4 b'4 cis'4. e'8 | d'4.( b'8) a'2 | r4 e'8 fis'8 a'8( fis'8) fis'4 | e'4.( d'8) d'2 |
+}
+
+gpmnolnolsatu_d_notes =
+#(if is-svg?
+     #{ \gpmnolnolsatu_d_notes_svg #}
+     #{ \gpmnolnolsatu_d_notes_pdf #})
+
 gpmnolnolsatu_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmnolnolsatu_d_notes
@@ -113,3 +121,41 @@ gpmnolnolsatu_lyricReff = \lyricmode {
   Ka -- tong bar -- su -- ka som -- ba Te __ te Ma -- nis.
   Ka -- tong bar -- su -- ka som -- ba Te __ te Ma -- nis.
 }
+
+gpmnolnolsatu_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmnolnolsatu_lyricOne
+           \gpmnolnolsatu_lyricReff
+           \gpmnolnolsatu_lyricTwo
+           \gpmnolnolsatu_lyricReff
+           \gpmnolnolsatu_lyricThree
+           \gpmnolnolsatu_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmnolnolsatu_lyricOne
+           \gpmnolnolsatu_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmnolnolsatu_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmnolnolsatu_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmnolnolsatu_lyricThree
+           \lyricsOff
+           \gpmnolnolsatu_lyricReff
+         }
+       >>
+     #}
+     )
