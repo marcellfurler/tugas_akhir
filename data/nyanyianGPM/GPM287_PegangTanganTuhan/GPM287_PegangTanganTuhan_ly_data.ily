@@ -32,7 +32,7 @@
 
 gpmduaratusdelapantujuh_d_notes = {
   \key d \major
-  \relative d' {
+  {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?
@@ -45,14 +45,14 @@ gpmduaratusdelapantujuh_d_notes = {
          (empty-music)
          )
 
-    fis8 fis8 fis8 g8 fis8 e8 d8 g8 | fis4 e4 d2 | \break
-    e8 e8 e8 d8 e8 fis8 g8 fis8 | e2. r4 | \break
-    fis8 fis8 fis8 g8 fis8 e8 d8 g8 | fis4 e4 d2 | \break
-    e8 e8 e8 fis8 g8 fis8 e8 fis8 | d2. r4 | \break
-    b'8 b8 b8 b8 g8 g8 a8 b8 | a2. r4 | \break
-    g8 g8 g8 g8 g8 g8 a8 b8 | cis2. r4 | \break
-    d8 d8 d8 d8 d8 d8 cis8 b8 | a2. r4 | \break
-    g8 g8 a8 g8 fis8 fis8 e8 e8 | d2. r4 |
+    fis'8 fis'8 fis'8 g'8 fis'8 e'8 d'8 g'8 | fis'4 e'4 d'2 | \break
+    e'8 e'8 e'8 d'8 e'8 fis'8 g'8 fis'8 | e'2. r4 | \break
+    fis'8 fis'8 fis'8 g'8 fis'8 e'8 d'8 g'8 | fis'4 e'4 d'2 | \break
+    e'8 e'8 e'8 fis'8 g'8 fis'8 e'8 fis'8 | d'2. r4 | \break
+    b'8 b'8 b'8 b'8 g'8 g'8 a'8 b'8 | a'2. r4 | \break
+    g'8 g'8 g'8 g'8 g'8 g'8 a'8 b'8 | cis''2. r4 | \break
+    d''8 d''8 d''8 d''8 d''8 d''8 cis''8 b'8 | a'2. r4 | \break
+    g'8 g'8 a'8 g'8 fis'8 fis'8 e'8 e'8 | d'2. r4 |
 
     % Double barline jika SVG (dijabarkan)
     #(if is-svg?

@@ -31,51 +31,69 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratustigadua_d_notes = {
-  \key d \major
-  \relative d'
+gpmseratustigadua_d_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    a'8 a4 a8 b8 a8 b8 a8 | fis8 fis4 e8 fis4 r4 | \break
-    a8 a4 a8 b8 a8 b8 a8 | fis8 fis8 e8 d8 e4 r4 | \break 
-    a8 a4 a8 b8 a8 b8 a8 | fis8 fis4 e8 fis8 a8 fis4 \breathe | \break
-    a8 a8 a8 b8 fis4 e8 d8 | e8 e8 fis8 e8 d4 r4 | \break
+    a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'4 e'8 fis'4 r4 | \break
+    a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'8 e'8 d'8 e'4 r4 | \break 
+    a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'4 e'8 fis'8 a'8 fis'4 \breathe | \break
+    a'8 a'8 b'8 a'8 fis'4 e'8 d'8 | e'8 e'8 fis'8 e'8 d'4 r4 | \break
 
     % reef
-    ^\markup { \fontsize #2 \italic "Refrein" } b'4. a8 b4. b8 | a8 fis8 fis8 b8 a4 r4 |\break
-    b4 a8 b8 d4 b4 | a2 r4 fis8 e8 | \break
-    d4 fis8 a8 fis4 b8 a8 | fis4. fis8 e8 d8 e8 fis8 | \break
-    fis4 r8 a8 a8 a8 fis8 e8 | d2. r4 \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    b'4. a'8 b'4. b'8 | a'8 fis'8 fis'8 b'8 a'4 r4 |\break
+    b'4 a'8 b'8 d''4 b'4 | a'2 r4 fis'8 e'8 | \break
+    d'4 fis'8 a'8 fis'4 b'8 a'8 | fis'4. fis'8 e'8 d'8 e'8 fis'8 | \break
+    fis'4 r8 a'8 a'8 a'8 fis'8 e'8 | d'2. r4 \break
   }
 }
 
+gpmseratustigadua_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'4 e'8 fis'4 r4 | \break
+  a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'8 e'8 d'8 e'4 r4 | \break 
+  a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'4 e'8 fis'8 a'8 fis'4 \breathe | \break
+  a'8 a'8 b'8 a'8 fis'4 e'8 d'8 | e'8 e'8 fis'8 e'8 d'4 r4 | \break
+
+  % reef
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  b'4. a'8 b'4. b'8 | a'8 fis'8 fis'8 b'8 a'4 r4 |\break
+  b'4 a'8 b'8 d''4 b'4 | a'2 r4 fis'8 e'8 | \break
+  d'4 fis'8 a'8 fis'4 b'8 a'8 | fis'4. fis'8 e'8 d'8 e'8 fis'8 | \break
+  fis'4 r8 a'8 a'8 a'8 fis'8 e'8 | d'2. r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'4 e'8 fis'4 r4 | \break
+  a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'8 e'8 d'8 e'4 r4 | \break 
+  a'8 a'4 a'8 b'8 a'8 b'8 a'8 | fis'8 fis'4 e'8 fis'8 a'8 fis'4 \breathe | \break
+  a'8 a'8 b'8 a'8 fis'4 e'8 d'8 | e'8 e'8 fis'8 e'8 d'4 r4 | \break
+
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  b'4. a'8 b'4. b'8 | a'8 fis'8 fis'8 b'8 a'4 r4 |\break
+  b'4 a'8 b'8 d''4 b'4 | a'2 r4 fis'8 e'8 | \break
+  d'4 fis'8 a'8 fis'4 b'8 a'8 | fis'4. fis'8 e'8 d'8 e'8 fis'8 | \break
+  fis'4 r8 a'8 a'8 a'8 fis'8 e'8 | d'2. r4 \break
+}
+
+gpmseratustigadua_d_notes =
+#(if is-svg?
+     #{ \gpmseratustigadua_d_notes_svg #}
+     #{ \gpmseratustigadua_d_notes_pdf #})
+
 gpmseratustigadua_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratustigadua_d_notes
@@ -104,3 +122,35 @@ gpmseratustigadua_lyricReff = \lyricmode {
   Sam -- but -- lah Tu -- han -- mu per -- ka -- sa, ting -- gi -- kan na -- ma -- Nya.
   Fa -- jar T'rang ben -- de -- rang t'lah da -- tang ber -- a -- khir -- lah pe -- rang hi -- dup ki -- ta te -- nang.
 }
+
+gpmseratustigadua_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratustigadua_lyricOne
+           \gpmseratustigadua_lyricReff
+           \gpmseratustigadua_lyricTwo
+           \gpmseratustigadua_lyricReff
+
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratustigadua_lyricOne
+           \gpmseratustigadua_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratustigadua_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmseratustigadua_lyricReff
+         }
+       >>
+     #}
+     )

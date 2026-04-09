@@ -31,51 +31,59 @@
 
 % do = c -> 1C - 2D - 3E - 4F 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratussembilanempat_c_notes = {
-  \key c \major
-  \relative c'
+gpmseratussembilanempat_c_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    r4 g'4 g4. f8 | f8 e2 e8 e8 d8 | \break
-    c8 c8 c8 c8 b4 c4 | d1* 4/4 | \break
-    r4 f4 f4. e8 | e8 d2 e8 d8 c8 | \break
-    b8 b8 a'8 a8 g8 g4 f8 e1* 4/4 | \break
-    r4 g4 g4. f8 | f8 e2 e8 e8 d8 | \break
-    c8 c8 c8 c8 c'4. b8 | a1* 4/4 | \break
-    r4 f4 g4. a8 | g8 e2 g8 f8 e8 | \break
-    e8 d4. f4. g8 | g8 (e1* 7/8) | \break
-    r4 f4 g4. a8 | g8 e2 g8 f8 e8 |\break 
-    e8 d4. a'4. b8 | c1* 4/4 |\break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    r4 g'4 g'4. f'8 | f'8 e'2 e'8 e'8 d'8 | \break
+    c'8 c'8 c'8 c'8 b4 c'4 | d'1* 4/4 | \break
+    r4 f'4 f'4. e'8 | e'8 d'2 e'8 d'8 c'8 | \break
+    b8 b8 a'8 a'8 g'8 g'4 f'8 e'1* 4/4 | \break
+    r4 g'4 g'4. f'8 | f'8 e'2 e'8 e'8 d'8 | \break
+    c'8 c'8 c'8 c'8 c''4. b'8 | a'1* 4/4 | \break
+    r4 f'4 g'4. a'8 | g'8 e'2 g'8 f'8 e'8 | \break
+    e'8 d'4. f'4. g'8 | g'8 ( e'1* 7/8) | \break
+    r4 f'4 g'4. a'8 | g'8 e'2 g'8 f'8 e'8 |\break 
+    e'8 d'4. a'4. b'8 | c''1* 4/4 |\break
   }
 }
 
+gpmseratussembilanempat_c_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  r4 g'4 g'4. f'8 | f'8 e'2 e'8 e'8 d'8 | \break
+  c'8 c'8 c'8 c'8 b4 c'4 | d'1* 4/4 | \break
+  r4 f'4 f'4. e'8 | e'8 d'2 e'8 d'8 c'8 | \break
+  b8 b8 a'8 a'8 g'8 g'4 f'8 e'1* 4/4 | \break
+  r4 g'4 g'4. f'8 | f'8 e'2 e'8 e'8 d'8 | \break
+  c'8 c'8 c'8 c'8 c''4. b'8 | a'1* 4/4 | \break
+  r4 f'4 g'4. a'8 | g'8 e'2 g'8 f'8 e'8 | \break
+  e'8 d'4. f'4. g'8 | g'8 ( e'1* 7/8) | \break
+  r4 f'4 g'4. a'8 | g'8 e'2 g'8 f'8 e'8 |\break 
+  e'8 d'4. a'4. b'8 | c''1* 4/4 |\break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  r4 g'4 g'4. f'8 | f'8 e'2 e'8 e'8 d'8 | \break
+  c'8 c'8 c'8 c'8 b4 c'4 | d'1* 4/4 | \break
+  r4 f'4 f'4. e'8 | e'8 d'2 e'8 d'8 c'8 | \break
+  b8 b8 a'8 a'8 g'8 g'4 f'8 e'1* 4/4 | \break
+  r4 g'4 g'4. f'8 | f'8 e'2 e'8 e'8 d'8 | \break
+  c'8 c'8 c'8 c'8 c''4. b'8 | a'1* 4/4 | \break
+  r4 f'4 g'4. a'8 | g'8 e'2 g'8 f'8 e'8 | \break
+  e'8 d'4. f'4. g'8 | g'8 ( e'1* 7/8) | \break
+  r4 f'4 g'4. a'8 | g'8 e'2 g'8 f'8 e'8 |\break 
+  e'8 d'4. a'4. b'8 | c''1* 4/4 |\break
+}
+
+gpmseratussembilanempat_c_notes =
+#(if is-svg?
+     #{ \gpmseratussembilanempat_c_notes_svg #}
+     #{ \gpmseratussembilanempat_c_notes_pdf #})
+
 gpmseratussembilanempat_c_music = {
   \time 4/4
+  \key c \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratussembilanempat_c_notes
@@ -101,3 +109,26 @@ gpmseratussembilanempat_lyricTwo = \lyricmode {
     Ka -- tong ber -- sa -- tu di da -- lam ka -- sih, ma -- nis -- e.
     Ka -- tong ber -- sa -- tu di da -- lam ka -- sih, ma -- nis -- e.
 }
+
+gpmseratussembilanempat_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratussembilanempat_lyricOne
+           \gpmseratussembilanempat_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratussembilanempat_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratussembilanempat_lyricTwo
+         }
+       >>
+     #}
+     )

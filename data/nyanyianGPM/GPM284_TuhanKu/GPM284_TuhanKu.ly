@@ -2,71 +2,15 @@
 
 \include "GPM284_TuhanKu_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmduaratusdelapanempat_c_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmduaratusdelapanempat_c_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmduaratusdelapanempat_lyricOne
-           \gpmduaratusdelapanempat_lyricPreReff
-           \gpmduaratusdelapanempat_lyricReff
-           \gpmduaratusdelapanempat_lyricTwo
-           \gpmduaratusdelapanempat_lyricPreReff
-           \gpmduaratusdelapanempat_lyricReff
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmduaratusdelapanempat_lyricOne
-           \gpmduaratusdelapanempat_lyricPreReff
-           \gpmduaratusdelapanempat_lyricReff
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmduaratusdelapanempat_lyricTwo
-           \lyricsOff
-           \gpmduaratusdelapanempat_lyricPreReff
-           % Trik agar lirik reff tidak tampil
-           % tetapi alignment tetap rapi
-           % Fungsi ada di GPM_Globals.ily
-           \lyricsOff
-           \gpmduaratusdelapanempat_lyricReff
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmduaratusdelapanempat_c_music_solmisasi
+      }
+    }
+    \gpmduaratusdelapanempat_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily

@@ -34,7 +34,7 @@
 
 gpmduaratusdelapanpuluh_c_notes = {
   \key c \major
-  \relative c'{
+  {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?
@@ -48,17 +48,17 @@ gpmduaratusdelapanpuluh_c_notes = {
          (empty-music)
          )
 
-    e8 e8 e8 e8 e8 e8 g8 g16 (f16) | e4. e16 (d16) e2 \breathe | \break
-    d8 d8 d8 d8 e8 d8 c8 d8 | e4. f16 (e16) d4 r4 \breathe | \break
-    e8 e8 e8 e8 e8 e8 g8 g16 (f16) | e4. e16 (d16) e2 \breathe | \break
-    d8 d8 d8 d8 e8 d8 e8 e16 (d16) | c2. r4 | \break
+    e'8 e'8 e'8 e'8 e'8 e'8 g'8 g'16 ( f'16) | e'4. e'16 ( d'16) e'2 \breathe | \break
+    d'8 d'8 d'8 d'8 e'8 d'8 c'8 d'8 | e'4. f'16 ( e'16) d'4 r4 \breathe | \break
+    e'8 e'8 e'8 e'8 e'8 e'8 g'8 g'16 ( f'16) | e'4. e'16 ( d'16) e'2 \breathe | \break
+    d'8 d'8 d'8 d'8 e'8 d'8 e'8 e'16 ( d'16) | c'2. r4 | \break
     
-    c'8 c8 c8 c8 c8 c8 c16 c16 c16 c16 | a8 a4 a16 g16 a2 \breathe | \break
-    a8 a8 a8 a8 g8 g8 g8 a16 (g16) | g2. r4 | \break
-    c8 c8 c8 c8 c8 c8 c16 c16 c16 c16 | a8 a4 a16 g16 a2 \breathe | \break
-    a8 a8 a8 a8 g8 g8 g8 a16 (g16) | g2. r4 | \break
-    e8 e8 e8 e8 e8 e8 g8 g16 (f16) | e4. e16 (d16) e2 \breathe | \break
-    d8 d8 d8 d8 e8 d8 e8 e16 (d16) | c1* 4/4 | \break
+    c''8 c''8 c''8 c''8 c''8 c''8 c''16 c''16 c''16 c''16 | a'8 a'4 a'16 g'16 a'2 \breathe | \break
+    a'8 a'8 a'8 a'8 g'8 g'8 g'8 a'16 ( g'16) | g'2. r4 | \break
+    c''8 c''8 c''8 c''8 c''8 c''8 c''16 c''16 c''16 c''16 | a'8 a'4 a'16 g'16 a'2 \breathe | \break
+    a'8 a'8 a'8 a'8 g'8 g'8 g'8 a'16 ( g'16) | g'2. r4 | \break
+    e'8 e'8 e'8 e'8 e'8 e'8 g'8 g'16 ( f'16) | e'4. e'16 ( d'16) e'2 \breathe | \break
+    d'8 d'8 d'8 d'8 e'8 d'8 e'8 e'16 ( d'16) | c'1* 4/4 | \break
 
     % Double barline jika SVG (dijabarkan)
     #(if is-svg?

@@ -31,56 +31,78 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratusduabelas_f_notes = {
-  \key f \major
-  \relative f'
+gpmduaratusduabelas_f_notes_pdf = {
   \repeat volta 4 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-           \volta 4 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 4"
-           }
-           
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    \partial 4 a8 bes8 | c8 c4 c8 bes8 a8 g8 c8 | a4 a4 g4 a8 bes8 | \break
-    c8 c4 a8 bes8 c8 d8 c8 | g2.  \break 
-    \bar "||" ^\markup { \italic \bold "Refrein" } f8 f8 | f8 f8 f8 g8 a4 \breathe g8 g8 | \break
-    g8 g8 g8 a8 bes4 \breathe c8 c8 | c8 c8 c8 bes8 a8 c8 bes8 g8 | f2. \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \partial 4 a'8 bes'8 | c''8 c''4 c''8 bes'8 a'8 g'8 c''8 | a'4 a'4 g'4 a'8 bes'8 | \break
+    c''8 c''4 a'8 bes'8 c''8 d''8 c''8 | g'2. \bar "||"  \break 
+    
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    f'8 f'8 | f'8 f'8 f'8 g'8 a'4 \breathe g'8 g'8 | \break
+    g'8 g'8 g'8 a'8 bes'4 \breathe c''8 c''8 | c''8 c''8 c''8 bes'8 a'8 c''8 bes'8 g'8 | f'2. \break
   }
 }
 
+gpmduaratusduabelas_f_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  \partial 4 a'8 bes'8 | c''8 c''4 c''8 bes'8 a'8 g'8 c''8 | a'4 a'4 g'4 a'8 bes'8 | \break
+  c''8 c''4 a'8 bes'8 c''8 d''8 c''8 | g'2. \bar "||"  \break 
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  f'8 f'8 | f'8 f'8 f'8 g'8 a'4 \breathe g'8 g'8 | \break
+  g'8 g'8 g'8 a'8 bes'4 \breathe c''8 c''8 | c''8 c''8 c''8 bes'8 a'8 c''8 bes'8 g'8 | f'2. \break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  \partial 4 a'8 bes'8 | c''8 c''4 c''8 bes'8 a'8 g'8 c''8 | a'4 a'4 g'4 a'8 bes'8 | \break
+  c''8 c''4 a'8 bes'8 c''8 d''8 c''8 | g'2. \bar "||"  \break 
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  f'8 f'8 | f'8 f'8 f'8 g'8 a'4 \breathe g'8 g'8 | \break
+  g'8 g'8 g'8 a'8 bes'4 \breathe c''8 c''8 | c''8 c''8 c''8 bes'8 a'8 c''8 bes'8 g'8 | f'2. \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  \partial 4 a'8 bes'8 | c''8 c''4 c''8 bes'8 a'8 g'8 c''8 | a'4 a'4 g'4 a'8 bes'8 | \break
+  c''8 c''4 a'8 bes'8 c''8 d''8 c''8 | g'2. \bar "||"  \break 
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  f'8 f'8 | f'8 f'8 f'8 g'8 a'4 \breathe g'8 g'8 | \break
+  g'8 g'8 g'8 a'8 bes'4 \breathe c''8 c''8 | c''8 c''8 c''8 bes'8 a'8 c''8 bes'8 g'8 | f'2. \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 4"
+  \partial 4 a'8 bes'8 | c''8 c''4 c''8 bes'8 a'8 g'8 c''8 | a'4 a'4 g'4 a'8 bes'8 | \break
+  c''8 c''4 a'8 bes'8 c''8 d''8 c''8 | g'2. \bar "||"  \break 
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  f'8 f'8 | f'8 f'8 f'8 g'8 a'4 \breathe g'8 g'8 | \break
+  g'8 g'8 g'8 a'8 bes'4 \breathe c''8 c''8 | c''8 c''8 c''8 bes'8 a'8 c''8 bes'8 g'8 | f'2. \break
+}
+
+
+gpmduaratusduabelas_f_notes =
+#(if is-svg?
+     #{ \gpmduaratusduabelas_f_notes_svg #}
+     #{ \gpmduaratusduabelas_f_notes_pdf #})
+
 gpmduaratusduabelas_f_music = {
   \time 4/4
+  \key f \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratusduabelas_f_notes
@@ -115,3 +137,49 @@ gpmduaratusduabelas_lyricReff = \lyricmode {
     Syu -- kur a -- kang par Ye -- sus, syu -- kur jang pu -- tus- pu -- tus. 
     Bi -- lang sa -- ja dang -- ke ba -- nya Ye -- sus e.
 }
+
+
+gpmduaratusduabelas_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusduabelas_lyricOne
+           \gpmduaratusduabelas_lyricReff
+           \gpmduaratusduabelas_lyricTwo
+           \gpmduaratusduabelas_lyricReff
+           \gpmduaratusduabelas_lyricThree
+           \gpmduaratusduabelas_lyricReff
+            \gpmduaratusduabelas_lyricFour
+           \gpmduaratusduabelas_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusduabelas_lyricOne
+           \gpmduaratusduabelas_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusduabelas_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmduaratusduabelas_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusduabelas_lyricThree
+           \lyricsOff
+           \gpmduaratusduabelas_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusduabelas_lyricFour
+           \lyricsOff
+           \gpmduaratusduabelas_lyricReff
+         }
+       >>
+     #}
+     )

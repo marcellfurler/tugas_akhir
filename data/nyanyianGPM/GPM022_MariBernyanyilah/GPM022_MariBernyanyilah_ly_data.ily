@@ -30,46 +30,68 @@
   }
 }
 
-gpmduapuluhdua_f_notes = {
-  \key f \major
-  \relative f'
+gpmduapuluhdua_f_notes_pdf = {
   \repeat volta 2 {
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-        #}
-         ; else/defaulte
-         (empty-music)
-         )
+    a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 | \break
+    a'8 a'4 a'8 g'8 f'8 g'8 f'8 | f'2. r4 | \break
 
-        a8 a4 a8 g8 f8 g8 f8 | a8 a4 a8 g8 f8 g8 f8 | \break a8 a4 a8 g8 f8 g8 f8 | f2. r4 | \break
-        a8 a4 a8 g8 f8 g8 f8 | a8 a4 a8 g8 f8 g8 f8 | \break a8 a4 a8 g8 f8 g8 f8 | f2. r4 | \break
+    a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 | \break
+    a'8 a'4 a'8 g'8 f'8 g'8 f'8 | f'2. r4 | \break
 
-        g8 g4 g8 g8 f8 g8 f8 | a8 a4 g8 a8 g8 f8 r8 | \break g8 g4 g8 g8 f8 g8 f8 | f8 f8 g8 a8 c4 r4 | \break
-        a8 a4 a8 g8 f8 g8 f8 | a8 a4 a8 g8 f8 g8 f8 \break
-        ^\markup { \italic "rit." }
-        f8 f8 f8 f8 g8 a8 g8 (f8) | f2. r4 | \break
+    g'8 g'4 g'8 g'8 f'8 g'8 f'8 | a'8 a'4 g'8 a'8 g'8 f'8 r8 | \break
+    g'8 g'4 g'8 g'8 f'8 g'8 f'8 | f'8 f'8 g'8 a'8 c''4 r4 | \break
 
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 \break
+    ^\markup { \italic "rit." }
+
+    f'8 f'8 f'8 f'8 g'8 a'8 g'8 (f'8) | f'2. r4 | \break
   }
 }
 
+gpmduapuluhdua_f_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 | \break
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | f'2. r4 | \break
+
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 | \break
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | f'2. r4 | \break
+
+  g'8 g'4 g'8 g'8 f'8 g'8 f'8 | a'8 a'4 g'8 a'8 g'8 f'8 r8 | \break
+  g'8 g'4 g'8 g'8 f'8 g'8 f'8 | f'8 f'8 g'8 a'8 c''4 r4 | \break
+
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 \break
+  ^\markup { \italic "rit." }
+
+  f'8 f'8 f'8 f'8 g'8 a'8 g'8 (f'8) | f'2. r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 | \break
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | f'2. r4 | \break
+
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 | \break
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | f'2. r4 | \break
+
+  g'8 g'4 g'8 g'8 f'8 g'8 f'8 | a'8 a'4 g'8 a'8 g'8 f'8 r8 | \break
+  g'8 g'4 g'8 g'8 f'8 g'8 f'8 | f'8 f'8 g'8 a'8 c''4 r4 | \break
+
+  a'8 a'4 a'8 g'8 f'8 g'8 f'8 | a'8 a'4 a'8 g'8 f'8 g'8 f'8 \break
+  ^\markup { \italic "rit." }
+
+  f'8 f'8 f'8 f'8 g'8 a'8 g'8 (f'8) | f'2. r4 | \break 
+}
+
+gpmduapuluhdua_f_notes =
+#(if is-svg?
+     #{ \gpmduapuluhdua_f_notes_svg #}
+     #{ \gpmduapuluhdua_f_notes_pdf #})
+
 gpmduapuluhdua_f_music = {
   \time 4/4
+  \key f \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduapuluhdua_f_notes
@@ -91,3 +113,26 @@ gpmduapuluhdua_lyricTwo = \lyricmode {
     Ja -- ngan -- lah kau gen -- tar, hai ber -- di -- ri -- lah te -- gar Di -- a -- lah ko -- ta ben -- teng per -- ta -- ha -- nan -- mu. 
     Ti -- ap sa -- at I -- a be -- ri -- kan ber -- kat ka -- ru -- nia ber -- syu -- kur -- lah ke -- pa -- da -- Nya. __
 }
+
+gpmduapuluhdua_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduapuluhdua_lyricOne
+           \gpmduapuluhdua_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduapuluhdua_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduapuluhdua_lyricTwo
+         }
+       >>
+     #}
+     )

@@ -33,7 +33,7 @@
 
 gpmseratusempatsembilan_c_notes = {
   \key c \major
-  \relative c' {
+  {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?
@@ -48,14 +48,14 @@ gpmseratusempatsembilan_c_notes = {
          (empty-music)
          )
 
-    g'8 e2 c'8 b8 a8 | g8 e2 \breathe a8 g8 e8 | \break
-    f8 d2 a'8 g8 fis8 | a8 g1* 5/8 r4 | \break
-    g8 e2 c'8 b8 a8 | g8 e2 \breathe a8 g8 e8 | \break
-    f8 d4. f8 f8 e8 d8 | c2 r4 b'8 c8 | \break
-    d8 d4 c8 d8 d8 c8 d8 | e8 e8 e8 d8 c4 r8 b16 c16 | \break
-    d8 d8 d8 (c8) b8 b8 \tuplet 3/2 {c8 b8 a8} | g2 r4 b8 c8 | \break
-    d8 d4 c8 d8 d8 c8 d8 | e8 e8 e8 d8 c4 r8 b16 c16 | \break
-    d8 d8 d8 c8 b8 b8 c8 d8 | c1* 4/4 |
+    g'8 e'2 c''8 b'8 a'8 | g'8 e'2 \breathe a'8 g'8 e'8 | \break
+    f'8 d'2 a'8 g'8 fis'8 | a'8 g'1* 5/8 r4 | \break
+    g'8 e'2 c''8 b'8 a'8 | g'8 e'2 \breathe a'8 g'8 e'8 | \break
+    f'8 d'4. f'8 f'8 e'8 d'8 | c'2 r4 b'8 c''8 | \break
+    d''8 d''4 c''8 d''8 d''8 c''8 d''8 | e''8 e''8 e''8 d''8 c''4 r8 b'16 c''16 | \break
+    d''8 d''8 d''8 (c''8) b'8 b'8 \tuplet 3/2 {c''8 b'8 a'8} | g'2 r4 b'8 c''8 | \break
+    d''8 d''4 c''8 d''8 d''8 c''8 d''8 | e''8 e''8 e''8 d''8 c''4 r8 b'16 c''16 | \break
+    d''8 d''8 d''8 c''8 b'8 b'8 c''8 d''8 | c''1* 4/4 |
 
     % Double barline jika SVG (dijabarkan)
     #(if is-svg?

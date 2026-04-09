@@ -2,58 +2,15 @@
 
 \include "GPM108_BahagialahMereka_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratusdelapan_c_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratusdelapan_c_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusdelapan_lyricOne
-           \gpmseratusdelapan_lyricTwo
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusdelapan_lyricOne
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusdelapan_lyricTwo
-          }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmseratusdelapan_c_music_solmisasi
+      }
+    }
+    \gpmseratusdelapan_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily

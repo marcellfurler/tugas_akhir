@@ -31,51 +31,59 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratusdelapanempat_c_notes = {
-  \key c \major
-  \relative c'
+gpmduaratusdelapanempat_c_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    r2 g'4. a8 | g1* 4/4 | r4 c8 b8 a4 c4 | g4. f8 e2 | \break
-    r4 e8 e8 e8 d8 c8 e8 | d2 d2 | r4 d8 e8 f8 f8 e8 d8 | e2 g2 | \break
-    r2 g4. a8 | g1* 4/4 | r4 c8 b8 a4 c4 | g4. f8 e2 | \break
-    r4 e8 e8 e8 d8 c8 e8 | d2 d2 | r4 d8 e8 f8 f8 e8 d8 | c1* 4/4 | \break
+    r2 g'4. a'8 | g'1* 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+    r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | e'2 g'2 | \break
+    r2 g'4. a'8 | g'1* 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+    r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | c'1* 4/4 | \break
 
     % reef
-    r4 e8 e8 d4 e4 | f2 d2 | r4 f8 f8 e4 f4 | g2 e2 | \break
-    r4 e8 e8 d4 e4 | f2 d2 | r4 fis8 g8 a4 fis4 | g1* 5/8 g8 f8 e8 | \break
-    d4 r4 g4. a8 | g1 * 4/4 | r4 c8 b8 a4 c4 | g4. f8 e2 | \break
-    r4 e8 e8 e8 d8 c8 e8 | d2 d2 | r4 d8 e8 f8 f8 e8 d8 | c1* 4/4 |
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    r4 e'8 e'8 d'4 e'4 | f'2 d'2 | r4 f'8 f'8 e'4 f'4 | g'2 e'2 | \break
+    r4 e'8 e'8 d'4 e'4 | f'2 d'2 | r4 fis'8 g'8 a'4 fis'4 | g'1* 5/8 g'8 f'8 e'8 | \break
+    d'4 r4 g'4. a'8 | g'1 * 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+    r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | c'1* 4/4 |
   }
 }
 
+gpmduaratusdelapanempat_c_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  r2 g'4. a'8 | g'1* 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+  r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | e'2 g'2 | \break
+  r2 g'4. a'8 | g'1* 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+  r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | c'1* 4/4 | \break
+
+  % reef
+  r4 e'8 e'8 d'4 e'4 | f'2 d'2 | r4 f'8 f'8 e'4 f'4 | g'2 e'2 | \break
+  r4 e'8 e'8 d'4 e'4 | f'2 d'2 | r4 fis'8 g'8 a'4 fis'4 | g'1* 5/8 g'8 f'8 e'8 | \break
+  d'4 r4 g'4. a'8 | g'1 * 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+  r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | c'1* 4/4 |
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  r2 g'4. a'8 | g'1* 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+  r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | e'2 g'2 | \break
+  r2 g'4. a'8 | g'1* 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+  r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | c'1* 4/4 | \break
+
+  % reef
+  r4 e'8 e'8 d'4 e'4 | f'2 d'2 | r4 f'8 f'8 e'4 f'4 | g'2 e'2 | \break
+  r4 e'8 e'8 d'4 e'4 | f'2 d'2 | r4 fis'8 g'8 a'4 fis'4 | g'1* 5/8 g'8 f'8 e'8 | \break
+  d'4 r4 g'4. a'8 | g'1 * 4/4 | r4 c''8 b'8 a'4 c''4 | g'4. f'8 e'2 | \break
+  r4 e'8 e'8 e'8 d'8 c'8 e'8 | d'2 d'2 | r4 d'8 e'8 f'8 f'8 e'8 d'8 | c'1* 4/4 |
+}
+
+gpmduaratusdelapanempat_c_notes =
+#(if is-svg?
+     #{ \gpmduaratusdelapanempat_c_notes_svg #}
+     #{ \gpmduaratusdelapanempat_c_notes_pdf #})
+
 gpmduaratusdelapanempat_c_music = {
   \time 4/4
+  \key c \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratusdelapanempat_c_notes
@@ -107,3 +115,40 @@ gpmduaratusdelapanempat_lyricReff = \lyricmode {
   Tu -- han -- ku, Kau -- lah sur -- ya hi -- dup -- ku.
   Da -- lam ti -- ap peng -- ha -- ra -- pan, ku -- pa -- tri -- kan na -- ma -- Mu.
 }
+
+
+gpmduaratusdelapanempat_lyricsAll = 
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusdelapanempat_lyricOne
+           \gpmduaratusdelapanempat_lyricPreReff
+           \gpmduaratusdelapanempat_lyricReff
+           \gpmduaratusdelapanempat_lyricTwo
+           \gpmduaratusdelapanempat_lyricPreReff
+           \gpmduaratusdelapanempat_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusdelapanempat_lyricOne
+           \gpmduaratusdelapanempat_lyricPreReff
+           \gpmduaratusdelapanempat_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusdelapanempat_lyricTwo
+           \lyricsOff
+           \gpmduaratusdelapanempat_lyricPreReff
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmduaratusdelapanempat_lyricReff
+         }
+       >>
+     #}
+     )

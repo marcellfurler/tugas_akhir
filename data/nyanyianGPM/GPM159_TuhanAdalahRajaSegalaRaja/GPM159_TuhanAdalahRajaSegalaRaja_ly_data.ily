@@ -32,56 +32,94 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratuslimasembilan_e_notes = {
-  \key e \major
-  \relative e'
+gpmseratuslimasembilan_e_notes_pdf = {
   \repeat volta 4 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-           \volta 4 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 4"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    e''8 e''8 dis''8 cis''8 b'4 b'4 | cis''8 cis''8 b'8 a'8 gis'4 r8 gis'8 | \break
+    gis'8 fis'8 gis'8 a'8 b'8 gis'8 a'8 b'8 | cis''2 b'4 r4 | \break
+    gis'8 gis'8 gis'8 fis'8 gis'4. a'8 | \phrasingSlurDashed b'8\( b'8\) \phrasingSlurSolid b'8 cis''8 b'4 r8 gis'8 | \break
+    gis'8 a'8 b'8 cis''8 \phrasingSlurDashed b'8\( gis'8\) \phrasingSlurSolid b'8 a'8 | gis'4. fis'8 gis'4\fermata r4 \bar "||" \break
 
-    e'8 e8 dis8 cis8 b4 b4 | cis8 cis8 b8 a8 gis4 r8 gis8 | gis8 fis8 gis8 a8 b8 gis8 a8 b8 | cis2 b4 r4 | \break
-    gis8 gis8 gis8 fis8 gis4. a8 | \slurDashed (b8 b8) \slurSolid b8 cis8 b4 r8 gis8 | gis8 a8 b8 cis8 \slurDashed (b8 gis8) \slurSolid b8 a8 | gis4. fis8 gis4\fermata r4 \bar "||" \break
-
-    ^\markup { \italic \bold "Refrein" } e'4 b4 e8 dis8 cis8 b8 | cis8 cis4 b8 cis4 \breathe dis8 e8 | fis4 e4 dis4 cis8 cis8 | b8 b4 cis8 b4 r4 | \break
-    gis4. fis8 gis4 a4 | b4 cis4 b2 | a2 gis4 fis4 | gis1* 4/4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    e''4 b'4 e''8 dis''8 cis''8 b'8 | cis''8 cis''4 b'8 cis''4 \breathe dis''8 e''8 | \break
+    fis''4 e''4 dis''4 cis''8 cis''8 | b'8 b'4 cis''8 b'4 r4 | \break
+    gis'4. fis'8 gis'4 a'4 | b'4 cis''4 b'2 | a'2 gis'4 fis'4 | gis'1* 4/4 | \break
   }
 }
 
+gpmseratuslimasembilan_e_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  e''8 e''8 dis''8 cis''8 b'4 b'4 | cis''8 cis''8 b'8 a'8 gis'4 r8 gis'8 | \break
+  gis'8 fis'8 gis'8 a'8 b'8 gis'8 a'8 b'8 | cis''2 b'4 r4 | \break
+  gis'8 gis'8 gis'8 fis'8 gis'4. a'8 | \phrasingSlurDashed b'8\( b'8\) \phrasingSlurSolid b'8 cis''8 b'4 r8 gis'8 | \break
+  gis'8 a'8 b'8 cis''8 \phrasingSlurDashed b'8\( gis'8\) \phrasingSlurSolid b'8 a'8 | gis'4. fis'8 gis'4\fermata r4 \bar "||" \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  e''4 b'4 e''8 dis''8 cis''8 b'8 | cis''8 cis''4 b'8 cis''4 \breathe dis''8 e''8 | \break
+  fis''4 e''4 dis''4 cis''8 cis''8 | b'8 b'4 cis''8 b'4 r4 | \break
+  gis'4. fis'8 gis'4 a'4 | b'4 cis''4 b'2 | a'2 gis'4 fis'4 | gis'1* 4/4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  e''8 e''8 dis''8 cis''8 b'4 b'4 | cis''8 cis''8 b'8 a'8 gis'4 r8 gis'8 | \break
+  gis'8 fis'8 gis'8 a'8 b'8 gis'8 a'8 b'8 | cis''2 b'4 r4 | \break
+  gis'8 gis'8 gis'8 fis'8 gis'4. a'8 | \phrasingSlurDashed b'8\( b'8\) \phrasingSlurSolid b'8 cis''8 b'4 r8 gis'8 | \break
+  gis'8 a'8 b'8 cis''8 \phrasingSlurDashed b'8\( gis'8\) \phrasingSlurSolid b'8 a'8 | gis'4. fis'8 gis'4\fermata r4 \bar "||" \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  e''4 b'4 e''8 dis''8 cis''8 b'8 | cis''8 cis''4 b'8 cis''4 \breathe dis''8 e''8 | \break
+  fis''4 e''4 dis''4 cis''8 cis''8 | b'8 b'4 cis''8 b'4 r4 | \break
+  gis'4. fis'8 gis'4 a'4 | b'4 cis''4 b'2 | a'2 gis'4 fis'4 | gis'1* 4/4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  e''8 e''8 dis''8 cis''8 b'4 b'4 | cis''8 cis''8 b'8 a'8 gis'4 r8 gis'8 | \break
+  gis'8 fis'8 gis'8 a'8 b'8 gis'8 a'8 b'8 | cis''2 b'4 r4 | \break
+  gis'8 gis'8 gis'8 fis'8 gis'4. a'8 | \phrasingSlurDashed b'8\( b'8\) \phrasingSlurSolid b'8 cis''8 b'4 r8 gis'8 | \break
+  gis'8 a'8 b'8 cis''8 \phrasingSlurDashed b'8\( gis'8\) \phrasingSlurSolid b'8 a'8 | gis'4. fis'8 gis'4\fermata r4 \bar "||" \break
+
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  e''4 b'4 e''8 dis''8 cis''8 b'8 | cis''8 cis''4 b'8 cis''4 \breathe dis''8 e''8 | \break
+  fis''4 e''4 dis''4 cis''8 cis''8 | b'8 b'4 cis''8 b'4 r4 | \break
+  gis'4. fis'8 gis'4 a'4 | b'4 cis''4 b'2 | a'2 gis'4 fis'4 | gis'1* 4/4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 4"
+  e''8 e''8 dis''8 cis''8 b'4 b'4 | cis''8 cis''8 b'8 a'8 gis'4 r8 gis'8 | \break
+  gis'8 fis'8 gis'8 a'8 b'8 gis'8 a'8 b'8 | cis''2 b'4 r4 | \break
+  gis'8 gis'8 gis'8 fis'8 gis'4. a'8 | \phrasingSlurDashed b'8\( b'8\) \phrasingSlurSolid b'8 cis''8 b'4 r8 gis'8 | \break
+  gis'8 a'8 b'8 cis''8 \phrasingSlurDashed b'8\( gis'8\) \phrasingSlurSolid b'8 a'8 | gis'4. fis'8 gis'4\fermata r4 \bar "||" \break
+
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  e''4 b'4 e''8 dis''8 cis''8 b'8 | cis''8 cis''4 b'8 cis''4 \breathe dis''8 e''8 | \break
+  fis''4 e''4 dis''4 cis''8 cis''8 | b'8 b'4 cis''8 b'4 r4 | \break
+  gis'4. fis'8 gis'4 a'4 | b'4 cis''4 b'2 | a'2 gis'4 fis'4 | gis'1* 4/4 | \break
+}
+
+gpmseratuslimasembilan_e_notes =
+#(if is-svg?
+     #{ \gpmseratuslimasembilan_e_notes_svg #}
+     #{ \gpmseratuslimasembilan_e_notes_pdf #})
+
 gpmseratuslimasembilan_e_music = {
   \time 4/4
+  \key e \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratuslimasembilan_e_notes
@@ -95,29 +133,72 @@ gpmseratuslimasembilan_e_music_solmisasi = \solmisasiMusic \gpmseratuslimasembil
 gpmseratuslimasembilan_lyricOne = \lyricmode {
   Tu -- han a -- da -- lah Ra -- ja s'ga -- la ra -- ja.
   Ke -- ku -- a -- sa -- an -- Nya tia -- da ber -- ta -- ra.
-  S'lu -- ruh  ja -- gad ra -- ya \set ignoreMelismata = ##t meng -- a -- gung -- kan -- Nya, \set ignoreMelismata = ##f
-  dan tun -- duk \set ignoreMelismata = ##t me -- nyem -- bah \set ignoreMelismata = ##f ha -- nya ke -- pa -- da -- Nya.
+  S'lu -- ruh  ja -- gad ra -- ya meng -- a -- gung -- kan -- Nya, 
+  dan tun -- duk me -- nyem -- bah ha -- nya ke -- pa -- da -- Nya.
 }
 
 gpmseratuslimasembilan_lyricTwo = \lyricmode {
   Bi -- ar -- lah bu -- mi ber -- gem -- bi -- ra ri -- a, 
   dan se -- mu -- a pu -- lau ber -- su -- ka -- ci -- ta.
-  Meng -- hor -- ma -- ti \set ignoreMelismata = ##t ke -_ per -- ka -- sa -- an \set ignoreMelismata = ##f Tu -- han
-  yang nam -- pak da -- lam \set ignoreMelismata = ##t fir -- man \set ignoreMelismata = ##f dan ke -- hen -- dak -- Nya.
+  Meng -- hor -- ma -- ti ke -- per -- ka -- sa -- an Tu -- han
+  yang nam -- pak da -- lam  fir -- man dan ke -- hen -- dak -- Nya.
 }
 gpmseratuslimasembilan_lyricThree = \lyricmode{
   A -- wan dan ke -- k'la -- man me -- ngi -- ta -- ri -- Nya.
   Per -- lam -- bang ke -- mu -- lia -- an Ra -- ja sor -- ga 
-  se -- ga -- la hu -- kum dan ke -- a -- di -- lan.
-  I -- tu men -- ja -- di tum -- pu -- an ka -- ki -- Nya. 
+  se -- ga -- la hu -- kum dan ke -- _ a -- di -- lan.
+  I -- tu men -- ja -- di tum -- _ pu -- an ka -- ki -- Nya. 
 }
 gpmseratuslimasembilan_lyricFour = \lyricmode {
   La -- ngit mem -- b'ri -- ta -- kan ke -- a -- di -- lan -- Nya.
   S'ga -- la bang -- sa pan -- dang ke -- mu -- lia -- an -- Nya.
-  Yang per -- ca -- ya pa -- da \set ignoreMelismata = ##t pa -- ra \set ignoreMelismata = ##f ber -- ha -- la. Al -- lah -- Nya su -- jud \set ignoreMelismata = ##t me -- nyem -- bah\set ignoreMelismata = ##f ke -- pa -- da -- Nya. 
+  Yang per -- ca -- ya pa -- da pa -- ra ber -- ha -- la. Al -- lah -- Nya su -- jud me -- nyem -- bah ke -- pa -- da -- Nya. 
 }
 gpmseratuslimasembilan_lyricReff = \lyricmode {
   Ya Tu -- han, Eng -- kau yang Ma -- ha -- ting -- gi yang ber -- kua -- sa
   di a -- tas s'lu -- ruh bu -- mi.
-  U -- mar -- Mu meng -- a -- min -- kan, Kau -- lah Ra -- ja.
+  U -- mat -- Mu meng -- a -- min -- kan, Kau -- lah Ra -- ja.
 }
+
+gpmseratuslimasembilan_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimasembilan_lyricOne
+           \gpmseratuslimasembilan_lyricReff
+           \gpmseratuslimasembilan_lyricTwo
+           \gpmseratuslimasembilan_lyricReff
+           \gpmseratuslimasembilan_lyricThree
+           \gpmseratuslimasembilan_lyricReff
+           \gpmseratuslimasembilan_lyricFour
+           \gpmseratuslimasembilan_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimasembilan_lyricOne
+           \gpmseratuslimasembilan_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimasembilan_lyricTwo
+           \lyricsOff
+           \gpmseratuslimasembilan_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimasembilan_lyricThree
+           \lyricsOff
+           \gpmseratuslimasembilan_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimasembilan_lyricFour
+           \lyricsOff
+           \gpmseratuslimasembilan_lyricReff
+         }
+         
+       >>
+     #}
+     )

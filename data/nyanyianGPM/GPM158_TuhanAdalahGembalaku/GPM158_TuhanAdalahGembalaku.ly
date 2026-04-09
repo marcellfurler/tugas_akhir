@@ -2,62 +2,15 @@
 
 \include "GPM158_TuhanAdalahGembalaku_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratuslimadelapan_e_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratuslimadelapan_e_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratuslimadelapan_lyricOne
-           \gpmseratuslimadelapan_lyricTwo
-           \gpmseratuslimadelapan_lyricThree
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratuslimadelapan_lyricOne
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmseratuslimadelapan_lyricTwo
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmseratuslimadelapan_lyricThree
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmseratuslimadelapan_e_music_solmisasi
+      }
+    }
+    \gpmseratuslimadelapan_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily

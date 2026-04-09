@@ -31,50 +31,50 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusenamsatu_d_notes = {
-  \key d \major
-  \relative d'
+gpmseratusenamsatu_d_note_pdf = {
   \repeat volta 3 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    fis8 fis4 d8 cis8 d8 e8 fis8 | d2. r4 | \break
-    a'8 a4 fis8 e8 fis8 g8 a8 | fis2. r4 | \break
-    b8 b4 b8 a8 a8 a8 g8 | fis8 fis8 g8 a8 g4 r4 | \break
-    fis8 fis4 d8 cis8 d8 e8 cis8 | d2. r4 \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    fis'8 fis'4 d'8 cis'8 d'8 e'8 fis'8 | d'2. r4 | \break
+    a'8 a'4 fis'8 e'8 fis'8 g'8 a'8 | fis'2. r4 | \break
+    b'8 b'4 b'8 a'8 a'8 a'8 g'8 | fis'8 fis'8 g'8 a'8 g'4 r4 | \break
+    fis'8 fis'4 d'8 cis'8 d'8 e'8 cis'8 | d'2. r4 \break
   }
 }
 
+gpmseratusenamsatu_d_note_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  fis'8 fis'4 d'8 cis'8 d'8 e'8 fis'8 | d'2. r4 | \break
+  a'8 a'4 fis'8 e'8 fis'8 g'8 a'8 | fis'2. r4 | \break
+  b'8 b'4 b'8 a'8 a'8 a'8 g'8 | fis'8 fis'8 g'8 a'8 g'4 r4 | \break
+  fis'8 fis'4 d'8 cis'8 d'8 e'8 cis'8 | d'2. r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  fis'8 fis'4 d'8 cis'8 d'8 e'8 fis'8 | d'2. r4 | \break
+  a'8 a'4 fis'8 e'8 fis'8 g'8 a'8 | fis'2. r4 | \break
+  b'8 b'4 b'8 a'8 a'8 a'8 g'8 | fis'8 fis'8 g'8 a'8 g'4 r4 | \break
+  fis'8 fis'4 d'8 cis'8 d'8 e'8 cis'8 | d'2. r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  fis'8 fis'4 d'8 cis'8 d'8 e'8 fis'8 | d'2. r4 | \break
+  a'8 a'4 fis'8 e'8 fis'8 g'8 a'8 | fis'2. r4 | \break
+  b'8 b'4 b'8 a'8 a'8 a'8 g'8 | fis'8 fis'8 g'8 a'8 g'4 r4 | \break
+  fis'8 fis'4 d'8 cis'8 d'8 e'8 cis'8 | d'2. r4 \break
+
+}
+
+gpmseratusenamsatu_d_notes =
+#(if is-svg?
+     #{ \gpmseratusenamsatu_d_note_svg #}
+     #{ \gpmseratusenamsatu_d_note_pdf #})
+
 gpmseratusenamsatu_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusenamsatu_d_notes
@@ -104,3 +104,30 @@ gpmseratusenamsatu_lyricThree = \lyricmode {
     Ye -- sus pe -- lin -- dung hi -- dup ki -- ta se -- mu -- a.
     Ye -- sus pe -- lin -- dung hi -- dup -- ku.
 }
+
+gpmseratusenamsatu_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamsatu_lyricOne
+           \gpmseratusenamsatu_lyricTwo
+           \gpmseratusenamsatu_lyricThree
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamsatu_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamsatu_lyricTwo
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamsatu_lyricThree
+         }
+       >>
+     #}
+     )

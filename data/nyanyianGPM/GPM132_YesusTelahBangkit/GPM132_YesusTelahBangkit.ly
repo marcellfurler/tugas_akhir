@@ -2,67 +2,15 @@
 
 \include "GPM132_YesusTelahBangkit_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratustigadua_d_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratustigadua_d_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratustigadua_lyricOne
-           \gpmseratustigadua_lyricReff
-           \gpmseratustigadua_lyricTwo
-           \gpmseratustigadua_lyricReff
-
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratustigadua_lyricOne
-           \gpmseratustigadua_lyricReff
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmseratustigadua_lyricTwo
-           % Trik agar lirik reff tidak tampil
-           % tetapi alignment tetap rapi
-           % Fungsi ada di GPM_Globals.ily
-           \lyricsOff
-           \gpmseratustigadua_lyricReff
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmseratustigadua_d_music_solmisasi
+      }
+    }
+    \gpmseratustigadua_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily

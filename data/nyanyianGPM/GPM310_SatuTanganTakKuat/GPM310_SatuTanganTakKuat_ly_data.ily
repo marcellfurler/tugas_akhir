@@ -23,59 +23,76 @@
   composer = \markup {
     \pad-x #1
     \column {
-        "Lirik: Wim. Davidsz, Juni 2005"
-        "Lagu: Agust C. W. Gaspersz, Juni 2005"
+      \line {
+        "Lirik: "
+        \caps "Wim Davidsz"
+        ", Juni 2005"
+      }
+      \line {
+        "Lagu: "
+        \caps "Agust C. W. Gaspersz"
+        ", Juni 2005"
+      }
     }
   }
 }
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmtigaratussepuluh_d_notes = {
-  \key d \major
-  \relative d'
+gpmtigaratussepuluh_d_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    \partial 2 r8 a8 d8 fis8 | a4. fis8 b8 a8 fis8 d8 | e2 \break 
-    r8 a,8 cis'8 e,8 | g4. b8 b8 b8 cis8 b8 | a2 \break 
-    r8 fis8 fis8 g8 | a8 a8 a8 b8 a4. d8 | d8 b8 b8 a8 \break
-    b4. b8 | a8 fis8 d8 fis8 g8 e8 d8 cis8 | d2 \break
+    \partial 2 r8 a8 d'8 fis'8 | a'4. fis'8 b'8 a'8 fis'8 d'8 | e'2 \break 
+    r8 a8 cis'8 e'8 | g'4. b'8 b'8 b'8 cis''8 b'8 | a'2 \break 
+    r8 fis'8 fis'8 g'8 | a'8 a'8 a'8 b'8 a'4. d''8 | d''8 b'8 b'8 a'8 \break
+    b'4. b'8 | a'8 fis'8 d'8 fis'8 g'8 e'8 d'8 cis'8 | d'2 \break
 
     % reef
-    r8 a'8 a8 a8 |  a8 e8 e2 r8 a8 | a8 fis8 fis4 \break
-    r8 a8 a8 a8 | a8 e8 e4. e8 d8 e8 fis2 | \break
-    r8 d8 d8 fis8 | a8 a8 a8 b8 a4 r8 d8 | d8 b8 b8 a8 \break
-    b4 r8 b8 | a4 d4 cis4 cis4 | d2 \break
+    r8 a'8 a'8 a'8 |  a'8 e'8 e'2 r8 a'8 | a'8 fis'8 fis'4 \break
+    r8 a'8 a'8 a'8 | a'8 e'8 e'4. e'8 d'8 e'8 fis'2 | \break
+    r8 d'8 d'8 fis'8 | a'8 a'8 a'8 b'8 a'4 r8 d''8 | d''8 b'8 b'8 a'8 \break
+    b'4 r8 b'8 | a'4 d''4 cis''4 cis''4 | d''2 \break
 
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
   }
 }
 
+gpmtigaratussepuluh_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  \partial 2 r8 a8 d'8 fis'8 | a'4. fis'8 b'8 a'8 fis'8 d'8 | e'2 \break 
+  r8 a8 cis'8 e'8 | g'4. b'8 b'8 b'8 cis''8 b'8 | a'2 \break 
+  r8 fis'8 fis'8 g'8 | a'8 a'8 a'8 b'8 a'4. d''8 | d''8 b'8 b'8 a'8 \break
+  b'4. b'8 | a'8 fis'8 d'8 fis'8 g'8 e'8 d'8 cis'8 | d'2 \break
+
+  % reef
+  r8 a'8 a'8 a'8 |  a'8 e'8 e'2 r8 a'8 | a'8 fis'8 fis'4 \break
+  r8 a'8 a'8 a'8 | a'8 e'8 e'4. e'8 d'8 e'8 fis'2 | \break
+  r8 d'8 d'8 fis'8 | a'8 a'8 a'8 b'8 a'4 r8 d''8 | d''8 b'8 b'8 a'8 \break
+  b'4 r8 b'8 | a'4 d''4 cis''4 cis''4 | d''2 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  \partial 2 r8 a8 d'8 fis'8 | a'4. fis'8 b'8 a'8 fis'8 d'8 | e'2 \break 
+  r8 a8 cis'8 e'8 | g'4. b'8 b'8 b'8 cis''8 b'8 | a'2 \break 
+  r8 fis'8 fis'8 g'8 | a'8 a'8 a'8 b'8 a'4. d''8 | d''8 b'8 b'8 a'8 \break
+  b'4. b'8 | a'8 fis'8 d'8 fis'8 g'8 e'8 d'8 cis'8 | d'2 \break
+
+  % reef
+  r8 a'8 a'8 a'8 |  a'8 e'8 e'2 r8 a'8 | a'8 fis'8 fis'4 \break
+  r8 a'8 a'8 a'8 | a'8 e'8 e'4. e'8 d'8 e'8 fis'2 | \break
+  r8 d'8 d'8 fis'8 | a'8 a'8 a'8 b'8 a'4 r8 d''8 | d''8 b'8 b'8 a'8 \break
+  b'4 r8 b'8 | a'4 d''4 cis''4 cis''4 | d''2 \break
+}
+
+gpmtigaratussepuluh_d_notes =
+#(if is-svg?
+     #{ \gpmtigaratussepuluh_d_notes_svg #}
+     #{ \gpmtigaratussepuluh_d_notes_pdf #})
+
 gpmtigaratussepuluh_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmtigaratussepuluh_d_notes
@@ -113,3 +130,34 @@ gpmtigaratussepuluh_lyricReffTwo = \lyricmode {
   Bi -- la ki -- ta se -- mua ber -- juang, ha -- sil pas -- ti be -- sar.
   Sak -- si -- kan Fir -- man -- Nya.
 }
+
+gpmtigaratussepuluh_lyricsAll = 
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmtigaratussepuluh_lyricOne
+           \gpmtigaratussepuluh_lyricReffOne
+           \gpmtigaratussepuluh_lyricTwo
+           \gpmtigaratussepuluh_lyricReffTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmtigaratussepuluh_lyricOne
+           \gpmtigaratussepuluh_lyricReffOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmtigaratussepuluh_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+          %  \lyricsOff
+           \gpmtigaratussepuluh_lyricReffTwo
+         }
+       >>
+     #}
+     )

@@ -32,9 +32,7 @@
 % do = f -> 1F - 2G - 3A - 4Bb 4 1/2c - 5D - 6E - 7F - 8G
 
 gpmduaratusduasembilan_f_notes = {
-  \key f \major
-  \relative f'
-  \repeat volta 3 {
+  \key f \major{
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?

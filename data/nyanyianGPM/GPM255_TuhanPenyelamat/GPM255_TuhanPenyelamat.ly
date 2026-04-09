@@ -2,66 +2,15 @@
 
 \include "GPM255_TuhanPenyelamat_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmduaratuslimalima_a_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmduaratuslimalima_a_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmduaratuslimalima_lyricOne
-           \gpmduaratuslimalima_lyricReff
-           \gpmduaratuslimalima_lyricTwo
-           \gpmduaratuslimalima_lyricReff
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmduaratuslimalima_lyricOne
-           \gpmduaratuslimalima_lyricReff
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmduaratuslimalima_lyricTwo
-           % Trik agar lirik reff tidak tampil
-           % tetapi alignment tetap rapi
-           % Fungsi ada di GPM_Globals.ily
-           \lyricsOff
-           \gpmduaratuslimalima_lyricReff
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmduaratuslimalima_a_music_solmisasi
+      }
+    }
+    \gpmduaratuslimalima_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily
@@ -81,6 +30,6 @@ syair =
     }
   >>
   \midi {
-    \tempo 4 = 75
+    \tempo 4 = 80
   }
 }

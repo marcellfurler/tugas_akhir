@@ -13,7 +13,7 @@
     \override #'(baseline-skip . 2.8)
     \left-column {
       \line {
-        "Do = D, 4/4,"
+        "Do = E, 4/4,"
         \raise #0.3 \fontsize #-2.5 \note {4} #UP
         "= 80"
       }
@@ -31,46 +31,45 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusenambelas_e_notes = {
-  \key e \major
-  \relative e'
+gpmseratusenambelas_e_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    cis8 cis8 cis8 dis8 e8 dis8 e8 gis8 | gis2 r4 gis8 e8 | \break
-    cis4 cis8 dis8 e8 dis8 cis8 b8 | cis2. r4 | \break
-    cis8 cis8 cis8 dis8 e8 dis8 e8 gis8 | gis2 r4 gis8 gis8 | \break
-    fis8 fis8 fis8 gis8 fis8 e8 dis8 cis8 | dis4 dis4 r8 \slurDashed (e16 dis16) \slurSolid e8 dis8 | \break
-    cis4 cis4 cis8 cis8 cis8 dis8 | e4 e4. fis8 e8 fis8 | gis4 gis2 r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    cis'8 cis'8 cis'8 dis'8 e'8 dis'8 e'8 gis'8 | gis'2 r4 gis'8 e'8 | \break
+    cis'4 cis'8 dis'8 e'8 dis'8 cis'8 b8 | cis'2. r4 | \break
+    cis'8 cis'8 cis'8 dis'8 e'8 dis'8 e'8 gis'8 | gis'2 r4 gis'8 gis'8 | \break
+    fis'8 fis'8 fis'8 gis'8 fis'8 e'8 dis'8 cis'8 | dis'4 dis'4 r8 \phrasingSlurDashed e'16\( dis'16\) \phrasingSlurSolid e'8 dis'8 | \break
+    cis'4 cis'4 cis'8 cis'8 cis'8 dis'8 | e'4 e'4. fis'8 e'8 fis'8 | gis'4 gis'2 r4 | \break
   }
 }
 
+gpmseratusenambelas_e_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  cis'8 cis'8 cis'8 dis'8 e'8 dis'8 e'8 gis'8 | gis'2 r4 gis'8 e'8 | \break
+  cis'4 cis'8 dis'8 e'8 dis'8 cis'8 b8 | cis'2. r4 | \break
+  cis'8 cis'8 cis'8 dis'8 e'8 dis'8 e'8 gis'8 | gis'2 r4 gis'8 gis'8 | \break
+  fis'8 fis'8 fis'8 gis'8 fis'8 e'8 dis'8 cis'8 | dis'4 dis'4 r8 \phrasingSlurDashed e'16\( dis'16\) \phrasingSlurSolid e'8 dis'8 | \break
+  cis'4 cis'4 cis'8 cis'8 cis'8 dis'8 | e'4 e'4. fis'8 e'8 fis'8 | gis'4 gis'2 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  cis'8 cis'8 cis'8 dis'8 e'8 dis'8 e'8 gis'8 | gis'2 r4 gis'8 e'8 | \break
+  cis'4 cis'8 dis'8 e'8 dis'8 cis'8 b8 | cis'2. r4 | \break
+  cis'8 cis'8 cis'8 dis'8 e'8 dis'8 e'8 gis'8 | gis'2 r4 gis'8 gis'8 | \break
+  fis'8 fis'8 fis'8 gis'8 fis'8 e'8 dis'8 cis'8 | dis'4 dis'4 r8 \phrasingSlurDashed e'16\( dis'16\) \phrasingSlurSolid e'8 dis'8 | \break
+  cis'4 cis'4 cis'8 cis'8 cis'8 dis'8 | e'4 e'4. fis'8 e'8 fis'8 | gis'4 gis'2 r4 | \break
+
+}
+
+gpmseratusenambelas_e_notes =
+#(if is-svg?
+     #{ \gpmseratusenambelas_e_notes_svg #}
+     #{ \gpmseratusenambelas_e_notes_pdf #})
+
 gpmseratusenambelas_e_music = {
   \time 4/4
+  \key e \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusenambelas_e_notes
@@ -84,11 +83,35 @@ gpmseratusenambelas_e_music_solmisasi = \solmisasiMusic \gpmseratusenambelas_e_m
 gpmseratusenambelas_lyricOne = \lyricmode {
     Sa -- at Ye -- sus di Get -- se -- ma -- ni sen -- di -- ri tia -- da yang me -- ne -- ma -- ni.
     Al -- lam ra -- ya men -- ja -- di sak -- si Pu -- tra Al -- lah yang pe -- nuh cin -- ta dan ka -- sih.
-    su -- jud ber -- do -- a mo -- hon pa -- da Al -- lah Ba -- pa di Sor -- ga.
+    su -- _ jud ber -- do -- a mo -- hon pa -- da Al -- lah Ba -- pa di Sor -- ga.
 }
 
 gpmseratusenambelas_lyricTwo = \lyricmode {
     Sa -- at Ye -- sus a -- kan di -- ta -- wan men -- ja -- la -- ni dan tia -- da me -- la -- wan. 
     Ha -- ti yang re -- muk 'tak ter -- pe -- ri ci -- um -- an ke -- ji bu -- kan -- nya cin -- ta ka -- sih
-    \set ignoreMelismata = ##t I -- a \set ignoreMelismata = ##f me -- ne -- ri -- ma, se -- tia pa -- da jan -- ji Ba -- pa di Sor -- ga.
+    I -- a me -- ne -- ri -- ma, se -- tia pa -- da jan -- ji Ba -- pa di Sor -- ga.
 }
+
+gpmseratusenambelas_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenambelas_lyricOne
+           \gpmseratusenambelas_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenambelas_lyricOne
+          }
+
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenambelas_lyricTwo
+         }
+       >>
+     #}
+     )

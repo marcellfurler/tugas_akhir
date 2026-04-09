@@ -17,8 +17,6 @@
         \raise #0.3 \fontsize #-2.5 \note {4} #UP
         "= 80"
       }
-      "Irama Tifa Maluku"
-      \vspace #1
     }
   }
 
@@ -33,50 +31,65 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratussembilandelapan_d_notes = {
-  \key d \major
-  \relative d'
+gpmseratussembilandelapan_d_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \partial 4 d'8 e'8 | fis'8 a'8 fis'8 e'8 fis'8 e'8 fis'8 a'8 | b'8. a'16 a'2 \breathe \break
+    e'8 fis'8 | a'8 g'8 g'8 fis'8 g'8 fis'8 g'8. a'16 | e'2 r4 \break
+    d'8 e'8 | fis'8 a'8 fis'8 e'8 fis'8 e'8 fis'8 a'8 | b'8. a'16 a'2 \breathe \break
+    e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8 e'8 | d'2 \bar "||" \break
 
-    \partial 4 d8 e8 | fis8 a8 fis8 e8 fis8 e8 fis8 a8 | b8. a16 a2 \breathe \break
-    e8 fis8 | a8 g8 g8 fis8 g8 fis8 g8. a16 | e2 r4 \break
-    d8 e8 | fis8 a8 fis8 e8 fis8 e8 fis8 a8 | b8. a16 a2 \breathe \break
-    e8 fis8 | a8 g8 g8 fis8 e8 d8 cis8 e8 | d2 \bar "||" \break
-
-    ^\markup { \italic \bold "Refrein" } r8 d8 fis8 a8 | d2 cis4 \breathe fis,8 a8 | b2 a4 \break
-    e8 fis8 | a8 g8 g8 fis8 e8 d8 cis8 d8 | e2 \break
-    r8 d8 fis8 a8 | d2 cis4 \breathe fis,8 a8 | b2 a4 \break
-    e8 fis8 | a8 g8 g8 fis8 e8 d8 cis8. e16 | d2 r4 \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    r8 d'8 fis'8 a'8 | d''2 cis''4 \breathe fis'8 a'8 | b'2 a'4 \break
+    e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8 d'8 | e'2 \break
+    r8 d'8 fis'8 a'8 | d''2 cis''4 \breathe fis'8 a'8 | b'2 a'4 \break
+    e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8. e'16 | d'2 r4 \break
   }
 }
 
+gpmseratussembilandelapan_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  \partial 4 d'8 e'8 | fis'8 a'8 fis'8 e'8 fis'8 e'8 fis'8 a'8 | b'8. a'16 a'2 \breathe \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 g'8 fis'8 g'8. a'16 | e'2 r4 \break
+  d'8 e'8 | fis'8 a'8 fis'8 e'8 fis'8 e'8 fis'8 a'8 | b'8. a'16 a'2 \breathe \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8 e'8 | d'2 \bar "||" \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  r8 d'8 fis'8 a'8 | d''2 cis''4 \breathe fis'8 a'8 | b'2 a'4 \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8 d'8 | e'2 \break
+  r8 d'8 fis'8 a'8 | d''2 cis''4 \breathe fis'8 a'8 | b'2 a'4 \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8. e'16 | d'2 r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  \partial 4 d'8 e'8 | fis'8 a'8 fis'8 e'8 fis'8 e'8 fis'8 a'8 | b'8. a'16 a'2 \breathe \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 g'8 fis'8 g'8. a'16 | e'2 r4 \break
+  d'8 e'8 | fis'8 a'8 fis'8 e'8 fis'8 e'8 fis'8 a'8 | b'8. a'16 a'2 \breathe \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8 e'8 | d'2 \bar "||" \break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  r8 d'8 fis'8 a'8 | d''2 cis''4 \breathe fis'8 a'8 | b'2 a'4 \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8 d'8 | e'2 \break
+  r8 d'8 fis'8 a'8 | d''2 cis''4 \breathe fis'8 a'8 | b'2 a'4 \break
+  e'8 fis'8 | a'8 g'8 g'8 fis'8 e'8 d'8 cis'8. e'16 | d'2 r4 \break
+}
+
+gpmseratussembilandelapan_d_notes =
+#(if is-svg?
+     #{ \gpmseratussembilandelapan_d_notes_svg #}
+     #{ \gpmseratussembilandelapan_d_notes_pdf #})
+
 gpmseratussembilandelapan_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratussembilandelapan_d_notes
@@ -100,3 +113,34 @@ gpmseratussembilandelapan_lyricReff = \lyricmode {
     O, ha -- ri ba -- ru, pa -- gi ba -- ru, ba -- ha gi -- a Kau da -- tang me -- nya -- pa -- ku. 
     O, ha -- ri ba -- ru, pa -- gi ba -- ru ba -- ha -- gi -- a Kau a -- da ber -- sa -- ma -- ku.
 }
+
+gpmseratussembilandelapan_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratussembilandelapan_lyricOne
+           \gpmseratussembilandelapan_lyricReff
+           \gpmseratussembilandelapan_lyricTwo
+           \gpmseratussembilandelapan_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratussembilandelapan_lyricOne
+           \gpmseratussembilandelapan_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratussembilandelapan_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmseratussembilandelapan_lyricReff
+         }
+       >>
+     #}
+     )

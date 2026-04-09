@@ -17,8 +17,6 @@
         \raise #0.3 \fontsize #-2.5 \note {4} #UP
         "= 80"
       }
-      "Irama Tifa Maluku"
-      \vspace #1
     }
   }
 
@@ -33,51 +31,70 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratuslimalima_a_notes = {
-  \key a \major
-  \relative a'
-  \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+gpmduaratuslimalima_a_notes_pdf = {
 
-    cis8 e,8 a8 cis8 b8 e,8 gis8 b8 | a8 d,8 fis8 a8 g2 | \break
-    fis8 d8 fis8 a8 gis8 a8 b8 e,8 | cis'4. d16 (cis16) b2 | \break
-    cis8 e,8 a8 cis8 b8 e,8 gis8 b8 | a8 d,8 fis8 a8 g2 | \break
-    fis8 d8 fis8 a8 gis8 a8 b8 cis8 | a2. r4 | \break 
+  \repeat volta 2 {
+    cis''8 e'8 a'8 cis''8 b'8 e'8 gis'8 b'8 | a'8 d'8 fis'8 a'8 g'2 | \break
+    fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 e'8 | cis''4. d''16 ( cis''16) b'2 | \break
+    cis''8 e'8 a'8 cis''8 b'8 e'8 gis'8 b'8 | a'8 d'8 fis'8 a'8 g'2 | \break
+    fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 cis''8 | a'2. r4 | \break
 
     % reef
-    ^\markup { \italic \bold "Refrein" }cis4. d16 (cis16) b2 | a4. b16 a16 gis2 | \break
-    fis8 d8 fis8 a8 gis8 a8 b8 e,8 | cis'2 (b2) | \break
-    cis4. d16 (cis16) b2 | a4. b16 (a16) gis2 | \break
-    fis8 d8 fis8 a8 gis8 a8 b8 gis8 | a2. r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    cis''4. d''16 ( cis''16) b'2 | a'4. b'16 a'16 gis'2 | \break
+    fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 e'8 | cis''2 ( b'2) | \break
+    cis''4. d''16 ( cis''16) b'2 | a'4. b'16 ( a'16) gis'2 | \break
+    fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 gis'8 | a'2. r4 | \break
   }
 }
 
+gpmduaratuslimalima_a_notes_svg = {
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  cis''8 e'8 a'8 cis''8 b'8 e'8 gis'8 b'8 | a'8 d'8 fis'8 a'8 g'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 e'8 | cis''4. d''16 ( cis''16) b'2 | \break
+  cis''8 e'8 a'8 cis''8 b'8 e'8 gis'8 b'8 | a'8 d'8 fis'8 a'8 g'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 cis''8 | a'2. r4 | \break
+
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  cis''4. d''16 ( cis''16) b'2 | a'4. b'16 a'16 gis'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 e'8 | cis''2 ( b'2) | \break
+  cis''4. d''16 ( cis''16) b'2 | a'4. b'16 ( a'16) gis'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 gis'8 | a'2. r4 | \break
+
+    \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  cis''8 e'8 a'8 cis''8 b'8 e'8 gis'8 b'8 | a'8 d'8 fis'8 a'8 g'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 e'8 | cis''4. d''16 ( cis''16) b'2 | \break
+  cis''8 e'8 a'8 cis''8 b'8 e'8 gis'8 b'8 | a'8 d'8 fis'8 a'8 g'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 cis''8 | a'2. r4 | \break
+
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  cis''4. d''16 ( cis''16) b'2 | a'4. b'16 a'16 gis'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 e'8 | cis''2 ( b'2) | \break
+  cis''4. d''16 ( cis''16) b'2 | a'4. b'16 ( a'16) gis'2 | \break
+  fis'8 d'8 fis'8 a'8 gis'8 a'8 b'8 gis'8 | a'2. r4 | \break
+}
+
+gpmduaratuslimalima_a_notes =
+#(if is-svg?
+     #{ \gpmduaratuslimalima_a_notes_svg #}
+     #{ \gpmduaratuslimalima_a_notes_pdf #})
+
 gpmduaratuslimalima_a_music = {
   \time 4/4
+  \key a \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratuslimalima_a_notes
@@ -106,3 +123,34 @@ gpmduaratuslimalima_lyricReff = \lyricmode {
     Tu -- han -- ku, Jun -- ju -- ngan -- ku. Ken -- da -- li -- kan s'lu -- ruh hi -- dup -- ku.
     Su -- pa -- ya kar -- ya -- ku s'la -- lu me -- mu -- lia -- kan na -- ma -- Mu.
 }
+
+gpmduaratuslimalima_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratuslimalima_lyricOne
+           \gpmduaratuslimalima_lyricReff
+           \gpmduaratuslimalima_lyricTwo
+           \gpmduaratuslimalima_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratuslimalima_lyricOne
+           \gpmduaratuslimalima_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratuslimalima_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmduaratuslimalima_lyricReff
+         }
+       >>
+     #}
+     )

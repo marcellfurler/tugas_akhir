@@ -31,49 +31,63 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusenamdua_f_notes = {
-  \key f \major
-  \relative f'
+gpmseratusenamdua_f_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    d'8 d'8 d'8 e'8 f'8 e'8 d'4 | a'4 a'4 r8 a'8 a'8 a'8 | \break
+    bes'4 bes'4 r8 g'8 g'8 g'8 | a'4 a'2 \breathe f'8 f'8 | \break
+    g'8 g'8 r8 g'8 f'8 f'8 e'8 e'8 | d'2 r4 a'8 a'8 | \break
+    bes'8 bes'4. a'4 a'8 a'8 | g'4 g'2 r4 | \break
+    f'4 f'4 g'8 g'8 f'8 f'8 | d'2. r4 | \break
 
-    d8 d8 d8 e8 f8 e8 d4 | a'4 a4 r8 a8 a8 a8 | \break
-    bes4 bes r8 g8 g8 g8 | a4 a2 \breathe f8 f8 | \break
-    g8 g8 r8 g8 f8 f8 e8 e8 | d2 r4 a'8 a8 | \break
-    bes8 bes4. a4 a8 a8 | g4 g2 r4 | \break
-    f4 f4 g8 g8 f8 f8 | d2. r4 | \break
-
-    ^\markup { \italic \bold "Refrein" } bes'2 a4 g4 | a8 a4 g8 f4 e8 r8 | \break
-    g2 g4 a8 (f8) | g2 f8 f8 e8 e8 | d2. r4 \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  bes'2 a'4 g'4 | a'8 a'4 g'8 f'4 e'8 r8 | \break
+    g'2 g'4 a'8 ( f'8) | g'2 f'8 f'8 e'8 e'8 | d'2. r4 \break
   }
 }
 
+gpmseratusenamdua_f_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  d'8 d'8 d'8 e'8 f'8 e'8 d'4 | a'4 a'4 r8 a'8 a'8 a'8 | \break
+  bes'4 bes'4 r8 g'8 g'8 g'8 | a'4 a'2 \breathe f'8 f'8 | \break
+  g'8 g'8 r8 g'8 f'8 f'8 e'8 e'8 | d'2 r4 a'8 a'8 | \break
+  bes'8 bes'4. a'4 a'8 a'8 | g'4 g'2 r4 | \break
+  f'4 f'4 g'8 g'8 f'8 f'8 | d'2. r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  bes'2 a'4 g'4 | a'8 a'4 g'8 f'4 e'8 r8 | \break
+  g'2 g'4 a'8 ( f'8) | g'2 f'8 f'8 e'8 e'8 | d'2. r4 \break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  d'8 d'8 d'8 e'8 f'8 e'8 d'4 | a'4 a'4 r8 a'8 a'8 a'8 | \break
+  bes'4 bes'4 r8 g'8 g'8 g'8 | a'4 a'2 \breathe f'8 f'8 | \break
+  g'8 g'8 r8 g'8 f'8 f'8 e'8 e'8 | d'2 r4 a'8 a'8 | \break
+  bes'8 bes'4. a'4 a'8 a'8 | g'4 g'2 r4 | \break
+  f'4 f'4 g'8 g'8 f'8 f'8 | d'2. r4 | \break
+
+  \section  
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  bes'2 a'4 g'4 | a'8 a'4 g'8 f'4 e'8 r8 | \break
+  g'2 g'4 a'8 ( f'8) | g'2 f'8 f'8 e'8 e'8 | d'2. r4 \break
+  
+}
+
+gpmseratusenamdua_f_notes =
+#(if is-svg?
+     #{ \gpmseratusenamdua_f_notes_svg #}
+     #{ \gpmseratusenamdua_f_notes_pdf #})
+
 gpmseratusenamdua_f_music = {
   \time 4/4
+  \key f \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusenamdua_f_notes
@@ -99,3 +113,34 @@ gpmseratusenamdua_lyricTwo = \lyricmode {
 gpmseratusenamdua_lyricReff = \lyricmode {
   Se -- ga -- la li -- dah me -- nga -- ku Ye -- sus Kris -- tus a -- da -- lah Tu -- han. 
 }
+
+gpmseratusenamdua_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamdua_lyricOne
+           \gpmseratusenamdua_lyricReff
+           \gpmseratusenamdua_lyricTwo
+           \gpmseratusenamdua_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamdua_lyricOne
+           \gpmseratusenamdua_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamdua_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmseratusenamdua_lyricReff
+         }
+       >>
+     #}
+     )

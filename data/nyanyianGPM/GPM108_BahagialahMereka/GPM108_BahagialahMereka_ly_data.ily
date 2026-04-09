@@ -31,74 +31,126 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusdelapan_c_notes = {
-  \key c \major
-  \relative c'
+gpmseratusdelapan_c_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
     % Baris pertama
     \partial 4 r8 g'8 |
-    g8 e8 g8 c8 |
-    a4 a8 f8 |
-    f8 d8 a'8 g8 |
-    g4 g4 ~ |
-    g4 \break
+    g'8 e'8 g'8 c''8 |
+    a'4 a'8 f'8 |
+    f'8 d'8 a'8 g'8 |
+    g'4 g'4 ~ |
+    g'4 \break
 
     % Baris kedua
-    r8 e8 |
-    e8 c8 f8 e8 |
-    e4 c8 c8 |
-    \slurDashed c8( a8) \slurSolid b8 c8 |
-    d4 d4 ~ |
-    d4 \break
+    r8 e'8 |
+    e'8 c'8 f'8 e'8 |
+    e'4 c'8 c'8 |
+    \phrasingSlurDashed c'8\( a8\) \phrasingSlurSolid b8 c'8 |
+    d'4 d'4 ~ |
+    d'4 \break
 
     % Baris ketiga
-    r8 g8 |
-    g8 e8 g8 c8 |
-    a4 a8 f8 |
-    f8 d8 a'8 g8 |
-    g4 g4 ~ |
-    g4 \break
+    r8 g'8 |
+    g'8 e'8 g'8 c''8 |
+    a'4 a'8 f'8 |
+    f'8 d'8 a'8 g'8 |
+    g'4 g'4 ~ |
+    g'4 \break
 
     % Baris keempat
-    r8 e8 |
-    e8 c8 f8 e8 |
-    e8 (a8) a4 ~ |
-    a4\fermata
-    r8 a8 |
-    a8( c8) c8 b8 |
-    c4 c4 ~ |
-    c4 \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    r8 e'8 |
+    e'8 c'8 f'8 e'8 |
+    e'8 ( a'8) a'4 ~ |
+    a'4\fermata
+    r8 a'8 |
+    a'8( c''8) c''8 b'8 |
+    c''4 c''4 ~ |
+    c''4 \break
   }
 }
 
+gpmseratusdelapan_c_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  \partial 4 r8 g'8 |
+  g'8 e'8 g'8 c''8 |
+  a'4 a'8 f'8 |
+  f'8 d'8 a'8 g'8 |
+  g'4 g'4 ~ |
+  g'4 \break
+
+  % Baris kedua
+  r8 e'8 |
+  e'8 c'8 f'8 e'8 |
+  e'4 c'8 c'8 |
+  \phrasingSlurDashed c'8\( a8\) \phrasingSlurSolid b8 c'8 |
+  d'4 d'4 ~ |
+  d'4 \break
+
+  % Baris ketiga
+  r8 g'8 |
+  g'8 e'8 g'8 c''8 |
+  a'4 a'8 f'8 |
+  f'8 d'8 a'8 g'8 |
+  g'4 g'4 ~ |
+  g'4 \break
+
+  % Baris keempat
+  r8 e'8 |
+  e'8 c'8 f'8 e'8 |
+  e'8 ( a'8) a'4 ~ |
+  a'4\fermata
+  r8 a'8 |
+  a'8( c''8) c''8 b'8 |
+  c''4 c''4 ~ |
+  c''4 \break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  \partial 4 r8 g'8 |
+  g'8 e'8 g'8 c''8 |
+  a'4 a'8 f'8 |
+  f'8 d'8 a'8 g'8 |
+  g'4 g'4 ~ |
+  g'4 \break
+
+  % Baris kedua
+  r8 e'8 |
+  e'8 c'8 f'8 e'8 |
+  e'4 c'8 c'8 |
+  \phrasingSlurDashed c'8\( a8\) \phrasingSlurSolid b8 c'8 |
+  d'4 d'4 ~ |
+  d'4 \break
+
+  % Baris ketiga
+  r8 g'8 |
+  g'8 e'8 g'8 c''8 |
+  a'4 a'8 f'8 |
+  f'8 d'8 a'8 g'8 |
+  g'4 g'4 ~ |
+  g'4 \break
+
+  % Baris keempat
+  r8 e'8 |
+  e'8 c'8 f'8 e'8 |
+  e'8 ( a'8) a'4 ~ |
+  a'4\fermata
+  r8 a'8 |
+  a'8( c''8) c''8 b'8 |
+  c''4 c''4 ~ |
+  c''4 \break
+}
+
+gpmseratusdelapan_c_notes =
+#(if is-svg?
+     #{ \gpmseratusdelapan_c_notes_svg #}
+     #{ \gpmseratusdelapan_c_notes_pdf #})
+
 gpmseratusdelapan_c_music = {
-  \time 4/4
+  \time 2/4
+  \key c \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusdelapan_c_notes
@@ -111,21 +163,38 @@ gpmseratusdelapan_c_music_solmisasi = \solmisasiMusic \gpmseratusdelapan_c_music
 
 gpmseratusdelapan_lyricOne = \lyricmode {
   Ba -- ha -- gia -- lah me -- re -- ka yang hi -- dup se -- der -- ha -- na.
-  Ba -- ha -- gia -- lah me -- re -- ka yang re -- la ber -- ba -- gi.
+  Ba -- ha -- gia -- lah me -- re -- ka yang re -- _ la  ber -- ba -- gi.
   Ba -- ha -- gia -- lah me -- re -- ka yang sung -- guh  tu -- lus ha -- ti.
   Ba -- ha -- gia -- lah me -- re -- ka yang mem -- ba -- wa da -- mai.
 }
 
 gpmseratusdelapan_lyricTwo = \lyricmode {
   Ba -- ha -- gia -- lah me -- re -- ka yang tak me -- man -- dang mu -- ka.
-  Ba -- ha -- gia -- lah me -- re -- ka yang
-  \set ignoreMelismata = ##t
-  \once\override LyricText.self-alignment-X = #LEFT
-  ta --
-  \once\override LyricText.self-alignment-X = #0.6
-  bur
-  \set ignoreMelismata = ##f
+  Ba -- ha -- gia -- lah me -- re -- ka yang ta -- bur
   ke a -- di -- lan.
   Ba -- ha -- gia -- lah me -- re -- ka yang rin -- du  ber -- se -- ku -- tu.
   Ba -- ha -- gia -- lah me -- re -- ka yang ta -- hu  ber -- syu -- kur.
 }
+
+gpmseratusdelapan_lyricsAll = 
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdelapan_lyricOne
+           \gpmseratusdelapan_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdelapan_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdelapan_lyricTwo
+          }
+       >>
+     #}
+     )

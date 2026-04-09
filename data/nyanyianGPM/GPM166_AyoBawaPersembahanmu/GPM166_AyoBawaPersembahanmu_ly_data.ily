@@ -31,61 +31,72 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusenamenam_d_notes = {
-  \key d \major
-  \relative d'
+gpmseratusenamenam_d_notes_pdf = {
   \repeat volta 5 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-           \volta 4 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 4"
-           }
-           \volta 5 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 5"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    \partial 4 a8 a8 | d8 d8 d8 e8 fis8 fis8 fis8 g8 | a4 b4 | a8 fis8 r4 | \break
-    d'4 b8 (a8) | b8 (a4) a8 | a8 e8 fis8 g8 | g8 (fis4.) | \break
-    r4 a,8 a8 | d8 d8 d8 e8 fis8 fis8 fis8 g8 | a4 b4 | a8 fis8 r4 | \break
-    d'4 b8 (a8) | a8 (b8) r4 | a4 b8 (a8) | a8 (fis8) r4 | \break
-    fis8 fis8 a8 fis8 | e8 d8 e8 d8 | d2 | r4 \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \partial 4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+    d''4 b'8 ( a'8) | b'8 ( a'4) a'8 | a'8 e'8 fis'8 g'8 | g'8 ( fis'4.) | \break
+    r4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+    d''4 b'8 ( a'8) | a'8 ( b'8) r4 | a'4 b'8 ( a'8) | a'8 ( fis'8) r4 | \break
+    fis'8 fis'8 a'8 fis'8 | e'8 d'8 e'8 d'8 | d'2 | r4 \break
   }
 }
 
+gpmseratusenamenam_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  \partial 4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | b'8 ( a'4) a'8 | a'8 e'8 fis'8 g'8 | g'8 ( fis'4.) | \break
+  r4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | a'8 ( b'8) r4 | a'4 b'8 ( a'8) | a'8 ( fis'8) r4 | \break
+  fis'8 fis'8 a'8 fis'8 | e'8 d'8 e'8 d'8 | d'2 | r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  \partial 4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | b'8 ( a'4) a'8 | a'8 e'8 fis'8 g'8 | g'8 ( fis'4.) | \break
+  r4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | a'8 ( b'8) r4 | a'4 b'8 ( a'8) | a'8 ( fis'8) r4 | \break
+  fis'8 fis'8 a'8 fis'8 | e'8 d'8 e'8 d'8 | d'2 | r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  \partial 4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | b'8 ( a'4) a'8 | a'8 e'8 fis'8 g'8 | g'8 ( fis'4.) | \break
+  r4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | a'8 ( b'8) r4 | a'4 b'8 ( a'8) | a'8 ( fis'8) r4 | \break
+  fis'8 fis'8 a'8 fis'8 | e'8 d'8 e'8 d'8 | d'2 | r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 4"
+  \partial 4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | b'8 ( a'4) a'8 | a'8 e'8 fis'8 g'8 | g'8 ( fis'4.) | \break
+  r4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | a'8 ( b'8) r4 | a'4 b'8 ( a'8) | a'8 ( fis'8) r4 | \break
+  fis'8 fis'8 a'8 fis'8 | e'8 d'8 e'8 d'8 | d'2 | r4 \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 5"
+  \partial 4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | b'8 ( a'4) a'8 | a'8 e'8 fis'8 g'8 | g'8 ( fis'4.) | \break
+  r4 a8 a8 | d'8 d'8 d'8 e'8 fis'8 fis'8 fis'8 g'8 | a'4 b'4 | a'8 fis'8 r4 | \break
+  d''4 b'8 ( a'8) | a'8 ( b'8) r4 | a'4 b'8 ( a'8) | a'8 ( fis'8) r4 | \break
+  fis'8 fis'8 a'8 fis'8 | e'8 d'8 e'8 d'8 | d'2 | r4 \break
+  
+}
+
+gpmseratusenamenam_d_notes =
+#(if is-svg?
+     #{ \gpmseratusenamenam_d_notes_svg #}
+     #{ \gpmseratusenamenam_d_notes_pdf #})
+
 gpmseratusenamenam_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusenamenam_d_notes
@@ -127,3 +138,38 @@ gpmseratusenamenam_lyricFive = \lyricmode{
     A -- yo ha -- rum -- kan ta -- ri -- an -- mu ke -- pa -- da Tu -- han. 
     Ha -- rum -- kan, ha -- rum -- kan. Tu -- han sam -- but ta -- ri syu -- kur -- mu.
 }
+
+gpmseratusenamenam_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamenam_lyricOne
+           \gpmseratusenamenam_lyricTwo
+           \gpmseratusenamenam_lyricThree
+           \gpmseratusenamenam_lyricFour
+           \gpmseratusenamenam_lyricFive
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamenam_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamenam_lyricTwo
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamenam_lyricThree
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamenam_lyricFour
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusenamenam_lyricFive
+         }
+       >>
+     #}
+     )

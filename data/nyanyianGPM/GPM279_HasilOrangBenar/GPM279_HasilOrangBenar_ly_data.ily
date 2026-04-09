@@ -31,45 +31,53 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratustujuhsembilan_a_notes = {
-  \key a \major
-  \relative a'
+gpmduaratustujuhsembilan_a_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    cis4 cis4 d8 cis4 b8 | a2 r4 a8 a8 | a4. a8 a8 a8 gis8 a8 | b2 r4 cis8 cis8 | \break
-    cis4. cis8 b4 a4 | fis2 r4 a8 fis | e4. a8 gis4 b4 | a2. r4 | \break
-    b8 b8 b8 b8 b8 a8 gis8 fis8 | e4 a4 a4 r8 cis8 | b8 b8 b8 b8 b8 gis8 a8 b8 | cis2 r4 a8 gis8 | \break
-    fis8 fis8 fis8 a8 d8 d8 cis8 b8 | a4 e4 r4 b'8 a8 | gis8 gis4 gis8 a8 gis8 fis8 gis8 | a2. r4 |
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    cis''4 cis''4 d''8 cis''4 b'8 | a'2 r4 a'8 a'8 | \break
+    a'4. a'8 a'8 a'8 gis'8 a'8 | b'2 r4 cis''8 cis''8 | \break
+    cis''4. cis''8 b'4 a'4 | fis'2 r4 a'8 fis' | \break
+    e'4. a'8 gis'4 b'4 | a'2. r4 | \break
+    b'8 b'8 b'8 b'8 b'8 a'8 gis'8 fis'8 | e'4 a'4 a'4 r8 cis''8 | \break
+    b'8 b'8 b'8 b'8 b'8 gis'8 a'8 b'8 | cis''2 r4 a'8 gis'8 | \break
+    fis'8 fis'8 fis'8 a'8 d''8 d''8 cis''8 b'8 | a'4 e'4 r4 b'8 a'8 | \break
+    gis'8 gis'4 gis'8 a'8 gis'8 fis'8 gis'8 | a'2. r4 | \break
   }
 }
 
+gpmduaratustujuhsembilan_a_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  cis''4 cis''4 d''8 cis''4 b'8 | a'2 r4 a'8 a'8 | \break
+  a'4. a'8 a'8 a'8 gis'8 a'8 | b'2 r4 cis''8 cis''8 | \break
+  cis''4. cis''8 b'4 a'4 | fis'2 r4 a'8 fis' | \break
+  e'4. a'8 gis'4 b'4 | a'2. r4 | \break
+  b'8 b'8 b'8 b'8 b'8 a'8 gis'8 fis'8 | e'4 a'4 a'4 r8 cis''8 | \break
+  b'8 b'8 b'8 b'8 b'8 gis'8 a'8 b'8 | cis''2 r4 a'8 gis'8 | \break
+  fis'8 fis'8 fis'8 a'8 d''8 d''8 cis''8 b'8 | a'4 e'4 r4 b'8 a'8 | \break
+  gis'8 gis'4 gis'8 a'8 gis'8 fis'8 gis'8 | a'2. r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  cis''4 cis''4 d''8 cis''4 b'8 | a'2 r4 a'8 a'8 | \break
+  a'4. a'8 a'8 a'8 gis'8 a'8 | b'2 r4 cis''8 cis''8 | \break
+  cis''4. cis''8 b'4 a'4 | fis'2 r4 a'8 fis' | \break
+  e'4. a'8 gis'4 b'4 | a'2. r4 | \break
+  b'8 b'8 b'8 b'8 b'8 a'8 gis'8 fis'8 | e'4 a'4 a'4 r8 cis''8 | \break
+  b'8 b'8 b'8 b'8 b'8 gis'8 a'8 b'8 | cis''2 r4 a'8 gis'8 | \break
+  fis'8 fis'8 fis'8 a'8 d''8 d''8 cis''8 b'8 | a'4 e'4 r4 b'8 a'8 | \break
+  gis'8 gis'4 gis'8 a'8 gis'8 fis'8 gis'8 | a'2. r4 | \break
+}
+
+gpmduaratustujuhsembilan_a_notes =
+#(if is-svg?
+     #{ \gpmduaratustujuhsembilan_a_notes_svg #}
+     #{ \gpmduaratustujuhsembilan_a_notes_pdf #})
+
 gpmduaratustujuhsembilan_a_music = {
   \time 4/4
+  \key a \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratustujuhsembilan_a_notes
@@ -93,3 +101,26 @@ gpmduaratustujuhsembilan_lyricTwo = \lyricmode {
     Ha -- ti me -- nge -- nal pe -- dih -- nya sen -- di -- ri o -- rang la -- in 'tak me -- ra -- sa -- kan -- nya.
     Ma -- ta yang ber -- si -- nar me -- nye -- gar -- kan ha -- ti ka -- bar ba -- ik me -- nye -- gar -- kan tu -- lang.
 }
+
+gpmduaratustujuhsembilan_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratustujuhsembilan_lyricOne
+           \gpmduaratustujuhsembilan_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratustujuhsembilan_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratustujuhsembilan_lyricTwo
+         }
+       >>
+     #}
+     )

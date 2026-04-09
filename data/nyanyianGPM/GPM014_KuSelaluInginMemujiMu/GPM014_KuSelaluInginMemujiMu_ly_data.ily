@@ -33,7 +33,7 @@
 
 gpmempatbelas_bes_notes = {
   \key bes \major 
-  \relative bes' {
+  {
 
     % (opsional, kalau mau tetap kompatibel SVG)
     #(if is-svg?
@@ -41,19 +41,19 @@ gpmempatbelas_bes_notes = {
          (empty-music)
      )
 
-    r4 f'8 f8 f8 d8 f8 bes8 | d4. bes8 f4. bes8 | g4. bes8 a8 bes8 a8 g8 | f1* 1| 
-    r4 f8 f8 f8 d8 f8 bes8 | a4. bes8 c4. bes8 | a4. g8 f8 a8 c8 bes8 | d1* 1 | \break
+    r4 f''8 f''8 f''8 d''8 f''8 bes''8 | d'''4. bes''8 f''4. bes''8 | g''4. bes''8 a''8 bes''8 a''8 g''8 | f''1* 1| 
+    r4 f''8 f''8 f''8 d''8 f''8 bes''8 | a''4. bes''8 c'''4. bes''8 | a''4. g''8 f''8 a''8 c'''8 bes''8 | d'''1* 1 | \break
 
-    r4 f,8 f8 f8 d8 f8 bes8 | d4. bes8 f4. bes8 | g4. bes8 bes8 bes8 a8 g8 | f1* 1| \break
-    r4 f8 f8 f8 d8 f8 bes8 | c4. bes8 a4. bes8 | c4. d8 es8 c8 a8 c8 | bes1* 1| \break
+    r4 f''8 f''8 f''8 d''8 f''8 bes''8 | d'''4. bes''8 f''4. bes''8 | g''4. bes''8 bes''8 bes''8 a''8 g''8 | f''1* 1| \break
+    r4 f''8 f''8 f''8 d''8 f''8 bes''8 | c'''4. bes''8 a''4. bes''8 | c'''4. d'''8 es'''8 c'''8 a''8 c'''8 | bes''1* 1| \break
 
-    r8 bes8 c8 bes8 a8 bes8 c8 bes8 | es4. bes8 g4. bes8 | es4. d8 c8 f,8 bes8 c8 | d1* 1| \break
-    r8 bes8 c8 bes8 a8 bes8 c8 bes8 | es4. bes8 g4. bes8 | f'8 es4 d8 c8 f,8 bes8 c8 | d1* 1 | \break
+    r8 bes''8 c'''8 bes''8 a''8 bes''8 c'''8 bes''8 | es'''4. bes''8 g''4. bes''8 | es'''4. d'''8 c'''8 f''8 bes''8 c'''8 | d'''1* 1| \break
+    r8 bes''8 c'''8 bes''8 a''8 bes''8 c'''8 bes''8 | es'''4. bes''8 g''4. bes''8 | f'''8 es'''4 d'''8 c'''8 f''8 bes''8 c'''8 | d'''1* 1 | \break
 
-    r8 d8 d8 d8 d8 d8 es8 d8 | c4. d8 c2 | r8 c8 c8 bes8 a8 g8 a8 bes8 | c1* 1| \break
-    r4 f4 es4. c8 | d1* 5/8  c8 bes8 a8 | g4. g8 g8 bes8 es8 g8 | f4. es8 d2 | \break
+    r8 d'''8 d'''8 d'''8 d'''8 d'''8 es'''8 d'''8 | c'''4. d'''8 c'''2 | r8 c'''8 c'''8 bes''8 a''8 g''8 a''8 bes''8 | c'''1* 1| \break
+    r4 f'''4 es'''4. c'''8 | d'''1* 5/8  c'''8 bes''8 a''8 | g''4. g''8 g''8 bes''8 es'''8 g'''8 | f'''4. es'''8 d'''2 | \break
 
-    r4 f,4 d'8 c8 d8 es8 | c1* 5/8 c8 c8 bes8 | a4. f8 es8 f8 a8 c8 | bes1* 1| \break
+    r4 f''4 d'''8 c'''8 d'''8 es'''8 | c'''1* 5/8 c'''8 c'''8 bes''8 | a''4. f''8 es''8 f''8 a''8 c'''8 | bes''1* 1| \break
 
     % Double barline jika SVG (dijabarkan)
     #(if is-svg?

@@ -31,51 +31,54 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratuslimadelapan_e_notes = {
-  \key e \major
-  \relative e'
+gpmseratuslimadelapan_e_notes_pdf = {
   \repeat volta 3 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    e8 e8 e8 gis8 fis8 e8 fis8 gis8 | e2 r8 e8 dis8 e8 | \break
-    fis4 fis4. fis8 e8 fis8 | gis2 r8 e8 fis8 e8 | \break
-    cis8 b8 cis8 e8 a4. cis,8 | b8 gis'8 gis8 fis8 e4 \breathe gis8 gis8 | \break
-    gis4 fis4 gis8 fis8 e8 fis8 | gis2 r8 e8 fis8 e8 | \break
-    cis8 cis4 e8 dis8 e8 fis8 dis8 | e2. r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    e'8 e'8 e'8 gis'8 fis'8 e'8 fis'8 gis'8 | e'2 r8 e'8 dis'8 e'8 | \break
+    fis'4 fis'4. fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+    cis'8 b8 cis'8 e'8 a'4. cis'8 | b8 gis'8 gis'8 fis'8 e'4 \breathe gis'8 gis'8 | \break
+    gis'4 fis'4 gis'8 fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+    cis'8 cis'4 e'8 dis'8 e'8 fis'8 dis'8 | e'2. r4 | \break
   }
 }
 
+gpmseratuslimadelapan_e_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  e'8 e'8 e'8 gis'8 fis'8 e'8 fis'8 gis'8 | e'2 r8 e'8 dis'8 e'8 | \break
+  fis'4 fis'4. fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+  cis'8 b8 cis'8 e'8 a'4. cis'8 | b8 gis'8 gis'8 fis'8 e'4 \breathe gis'8 gis'8 | \break
+  gis'4 fis'4 gis'8 fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+  cis'8 cis'4 e'8 dis'8 e'8 fis'8 dis'8 | e'2. r4 | \break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  e'8 e'8 e'8 gis'8 fis'8 e'8 fis'8 gis'8 | e'2 r8 e'8 dis'8 e'8 | \break
+  fis'4 fis'4. fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+  cis'8 b8 cis'8 e'8 a'4. cis'8 | b8 gis'8 gis'8 fis'8 e'4 \breathe gis'8 gis'8 | \break
+  gis'4 fis'4 gis'8 fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+  cis'8 cis'4 e'8 dis'8 e'8 fis'8 dis'8 | e'2. r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  e'8 e'8 e'8 gis'8 fis'8 e'8 fis'8 gis'8 | e'2 r8 e'8 dis'8 e'8 | \break
+  fis'4 fis'4. fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+  cis'8 b8 cis'8 e'8 a'4. cis'8 | b8 gis'8 gis'8 fis'8 e'4 \breathe gis'8 gis'8 | \break
+  gis'4 fis'4 gis'8 fis'8 e'8 fis'8 | gis'2 r8 e'8 fis'8 e'8 | \break
+  cis'8 cis'4 e'8 dis'8 e'8 fis'8 dis'8 | e'2. r4 | \break
+  
+}
+
+gpmseratuslimadelapan_e_notes =
+#(if is-svg?
+     #{ \gpmseratuslimadelapan_e_notes_svg #}
+     #{ \gpmseratuslimadelapan_e_notes_pdf #})
+
 gpmseratuslimadelapan_e_music = {
   \time 4/4
+  \key e \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratuslimadelapan_e_notes
@@ -102,3 +105,31 @@ gpmseratuslimadelapan_lyricThree = \lyricmode {
     Fir -- man -- Nya -- lah pe -- li -- ta -- ku, a -- da su -- ka -- ci -- ta, ku di -- ja -- ga o -- leh sa -- yang -- nya.
     A -- ku per -- ca -- ya se -- la -- ma- la -- ma -- nya.
 }
+
+
+gpmseratuslimadelapan_lyricsAll = 
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimadelapan_lyricOne
+           \gpmseratuslimadelapan_lyricTwo
+           \gpmseratuslimadelapan_lyricThree
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimadelapan_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimadelapan_lyricTwo
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslimadelapan_lyricThree
+         }
+       >>
+     #}
+     )

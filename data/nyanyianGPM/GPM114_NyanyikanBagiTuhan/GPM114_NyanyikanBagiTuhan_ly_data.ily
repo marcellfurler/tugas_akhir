@@ -31,62 +31,92 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusempatbelas_e_notes = {
-  \key e \major
-  \relative e'
+gpmseratusempatbelas_e_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    gis'4 gis'4 gis'4 a'8 fis'8 |
+    e'4 e'4. e'8 dis'8 e'8 |
+    fis'4 fis'4. fis'8 e'8 fis'8 | 
+    gis'4 b'2 r4 | \break
 
-    gis4 gis gis a8 fis |
-    e4 e4. e8 dis8 e8 |
-    fis4 fis4. fis8 e8 fis8 | 
-    gis4 b2 r4 | \break
-
-    gis4 gis gis a8 fis |
-    e4 e4. gis8 fis8 gis8 | 
-    a4. fis8 e4 dis4 | 
-    e2 r4 b' | \break
+    gis'4 gis'4 gis'4 a'8 fis'8 |
+    e'4 e'4. gis'8 fis'8 gis'8 | 
+    a'4. fis'8 e'4 dis'4 | 
+    e'2 r4 b'4 | \break
 
     % reef dari 5 diatas terakhir (b)
-    cis8 b2 gis8 fis8 e8 | 
-    a4 cis4 b r8 b8|
-    cis8 b2 gis8 fis e |
-    fis4 gis4 fis r8 b8| \break
+    cis''8 b'2 gis'8 fis'8 e'8 | 
+    a'4 cis''4 b'4 r8 b'8|
+    cis''8 b'2 gis'8 fis'8 e'8 |
+    fis'4 gis'4 fis'4 r8 b'8 | \break
 
-    cis8 b2 gis8 fis8 e8 |
-    a4 a4 a4 r8 b8 | 
-    cis8 b4 gis8 fis8 b4 gis16 (fis16) | 
+    cis''8 b'2 gis'8 fis'8 e'8 |
+    a'4 a'4 a'4 r8 b'8 | 
+    cis''8 b'4 gis'8 fis'8 b'4 gis'16 (fis'16) | 
    
-    e2. r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    e'2. r4 | \break
   }
 }
 
+gpmseratusempatbelas_e_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  gis'4 gis'4 gis'4 a'8 fis'8 |
+  e'4 e'4. e'8 dis'8 e'8 |
+  fis'4 fis'4. fis'8 e'8 fis'8 | 
+  gis'4 b'2 r4 | \break
+
+  gis'4 gis'4 gis'4 a'8 fis'8 |
+  e'4 e'4. gis'8 fis'8 gis'8 | 
+  a'4. fis'8 e'4 dis'4 | 
+  e'2 r4 b'4 | \break
+
+  % reef dari 5 diatas terakhir (b)
+  cis''8 b'2 gis'8 fis'8 e'8 | 
+  a'4 cis''4 b'4 r8 b'8|
+  cis''8 b'2 gis'8 fis'8 e'8 |
+  fis'4 gis'4 fis'4 r8 b'8 | \break
+
+  cis''8 b'2 gis'8 fis'8 e'8 |
+  a'4 a'4 a'4 r8 b'8 | 
+  cis''8 b'4 gis'8 fis'8 b'4 gis'16 (fis'16) | 
+  
+  e'2. r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  gis'4 gis'4 gis'4 a'8 fis'8 |
+  e'4 e'4. e'8 dis'8 e'8 |
+  fis'4 fis'4. fis'8 e'8 fis'8 | 
+  gis'4 b'2 r4 | \break
+
+  gis'4 gis'4 gis'4 a'8 fis'8 |
+  e'4 e'4. gis'8 fis'8 gis'8 | 
+  a'4. fis'8 e'4 dis'4 | 
+  e'2 r4 b'4 | \break
+
+  % reef dari 5 diatas terakhir (b)
+  cis''8 b'2 gis'8 fis'8 e'8 | 
+  a'4 cis''4 b'4 r8 b'8|
+  cis''8 b'2 gis'8 fis'8 e'8 |
+  fis'4 gis'4 fis'4 r8 b'8 | \break
+
+  cis''8 b'2 gis'8 fis'8 e'8 |
+  a'4 a'4 a'4 r8 b'8 | 
+  cis''8 b'4 gis'8 fis'8 b'4 gis'16 (fis'16) | 
+  
+  e'2. r4 | \break
+}
+
+gpmseratusempatbelas_e_notes =
+#(if is-svg?
+     #{ \gpmseratusempatbelas_e_notes_svg #}
+     #{ \gpmseratusempatbelas_e_notes_pdf #})
+
 gpmseratusempatbelas_e_music = {
   \time 4/4
+  \key e \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusempatbelas_e_notes
@@ -104,8 +134,6 @@ gpmseratusempatbelas_lyricOne = \lyricmode {
   ma -- dah yang in -- dah
   Mas -- hur -- kan na -- ma Tu -- han,
   ma -- ha mu -- li -- a kar -- ya -- Nya.
-
-
 }
 
 gpmseratusempatbelas_lyricTwo = \lyricmode {
@@ -123,3 +151,34 @@ gpmseratusempatbelas_lyricReff = \lyricmode {
   Ho -- sa -- na, Ra -- ja  s'ga -- la Ra -- ja.
   Ho -- sa -- na. O Ha -- le -- lu -- ya
 }
+
+gpmseratusempatbelas_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusempatbelas_lyricOne
+           \gpmseratusempatbelas_lyricReff
+           \gpmseratusempatbelas_lyricTwo
+           \gpmseratusempatbelas_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusempatbelas_lyricOne
+           \gpmseratusempatbelas_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusempatbelas_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmseratusempatbelas_lyricReff
+         }
+       >>
+     #}
+     )

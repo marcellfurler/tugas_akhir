@@ -34,7 +34,7 @@
 
 gpmsembilanpuluhsembilan_d_notes = {
   \key d \major
-  \relative d' {
+  {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?
@@ -48,17 +48,17 @@ gpmsembilanpuluhsembilan_d_notes = {
          (empty-music)
          )
 
-    a'4 a4 a4 a8 a8 | b4 (a4) fis2 | \break
-    e4. e8 d4. e8 | fis2. r4 | \break
-    a4 a4 a4 a8 a8 | b4 a4 fis2 | \break
-    e4. d8 fis4. e8 | d2. r4 \break  \bar "||"
+    a'4 a'4 a'4 a'8 a'8 | b'4 (a'4) fis'2 | \break
+    e'4. e'8 d'4. e'8 | fis'2. r4 | \break
+    a'4 a'4 a'4 a'8 a'8 | b'4 a'4 fis'2 | \break
+    e'4. d'8 fis'4. e'8 | d'2. r4 \break  \bar "||"
     \repeat volta 2{
-        d'4 b4 d4 b4 | a2. r4 |  \break
-        d4 b4 d4 b4 a2 r4 b8 a8 | fis4 fis2 r8 d8 | \break
+        d''4 b'4 d''4 b'4 | a'2. r4 |  \break
+        d''4 b'4 d''4 b'4 a'2 r4 b'8 a'8 | fis'4 fis'2 r8 d'8 | \break
     }
     \alternative {
-        {e4. d8 e4. fis8 | a4 a2 r4 \break}
-        {e4. d8 fis4. e8 | d4 d2 r4}
+        {e'4. d'8 e'4. fis'8 | a'4 a'2 r4 \break}
+        {e'4. d'8 fis'4. e'8 | d'4 d'2 r4}
     }
 
     % Double barline jika SVG (dijabarkan)

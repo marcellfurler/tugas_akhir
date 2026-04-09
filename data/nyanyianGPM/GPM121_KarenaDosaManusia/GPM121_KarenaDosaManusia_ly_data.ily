@@ -34,7 +34,6 @@
 
 gpmseratusdusatu_b_notes = {
   \key b \major
-  \relative b'
   {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
@@ -51,14 +50,14 @@ gpmseratusdusatu_b_notes = {
          (empty-music)
          )
 
-    \partial 4 dis4 | gis2 b4 | ais2 fisis4 | gis2 e4 | dis2 \breathe dis4 | e2 dis4 | cis2 cisis4 | \once \override Tie.stencil = ##f dis2.~ (| dis4) r4  \break
-    dis4 | cis2 dis4 | e2 cis4 | dis2 cis4 | b2 \breathe ais4 | gis2 ais4 | b2 gis4 | \once \override Tie.stencil = ##f ais2.~ (| ais4) r4 \break
-    dis4 | gis2 b4 | ais2 fisis4 | gis2 e4 | dis2 \breathe dis4 | e2 dis4 | cis2 cisis4 | \once \override Tie.stencil = ##f dis2.~ (| dis4) r4  \break
-    dis8 dis8 | cis2 dis4 | e2 cis4 | dis2 cis4 | b2 \breathe b4 | ais2 cis4 | b2 ais4 | \once \override Tie.stencil = ##f gis2.~ (| gis4) r4 \break
+    \partial 4 dis''4 | gis''2 b''4 | ais''2 fisis''4 | gis''2 e''4 | dis''2 \breathe dis''4 | e''2 dis''4 | cis''2 cisis''4 | \once \override Tie.stencil = ##f dis''2.~ (| dis''4) r4  \break
+    dis''4 | cis''2 dis''4 | e''2 cis''4 | dis''2 cis''4 | b'2 \breathe ais'4 | gis'2 ais'4 | b'2 gis'4 | \once \override Tie.stencil = ##f ais'2.~ (| ais'4) r4 \break
+    dis''4 | gis''2 b''4 | ais''2 fisis''4 | gis''2 e''4 | dis''2 \breathe dis''4 | e''2 dis''4 | cis''2 cisis''4 | \once \override Tie.stencil = ##f dis''2.~ (| dis''4) r4  \break
+    dis''8 dis''8 | cis''2 dis''4 | e''2 cis''4 | dis''2 cis''4 | b'2 \breathe b'4 | ais'2 cis''4 | b'2 ais'4 | \once \override Tie.stencil = ##f gis'2.~ (| gis'4) r4 \break
 
-    gis4 | fis2 gis4 | ais2 cis4 | b2 cis4 | dis2 \breathe dis4 | e2 gis4 | b2 gis4 | \once \override Tie.stencil = ##f fisis2.~ (| fisis4) r4 \break
-    dis4 | gis2 b4 | ais2 fisis4 | gis2 e4 | dis2 \breathe dis4 | e2 dis4 | cis2 e4 | \once \override Tie.stencil = ##f dis2.~ (| dis4) r4 \break 
-    dis4 | cis2 dis4 | e2 fis4 | dis2 cis4 | b2 \breathe b'4 | ais2 gis4 | fisis2 ais4 | \once \override Tie.stencil = ##f gis2.~ (| gis4) r4 
+    gis'4 | fis'2 gis'4 | ais'2 cis''4 | b'2 cis''4 | dis''2 \breathe dis''4 | e''2 gis''4 | b''2 gis''4 | \once \override Tie.stencil = ##f fisis''2.~ (| fisis''4) r4 \break
+    dis''4 | gis''2 b''4 | ais''2 fisis''4 | gis''2 e''4 | dis''2 \breathe dis''4 | e''2 dis''4 | cis''2 e''4 | \once \override Tie.stencil = ##f dis''2.~ (| dis''4) r4 \break 
+    dis''4 | cis''2 dis''4 | e''2 fis''4 | dis''2 cis''4 | b'2 \breathe b''4 | ais''2 gis''4 | fisis''2 ais''4 | \once \override Tie.stencil = ##f gis''2.~ (| gis''4) r4 
 
     % Double barline jika SVG (dijabarkan)
     #(if is-svg?

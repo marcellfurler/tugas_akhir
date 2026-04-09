@@ -41,7 +41,6 @@
 
 gpmduapuluhdua_f_notes = {
   \key f \major
-  \relative f'
   \repeat volta 2 {
     a8 a4 a8 g8 f8 g8 f8 | a8 a4 a8 g8 f8 g8 f8 | \break a8 a4 a8 g8 f8 g8 f8 | f2. r4 | \break
     a8 a4 a8 g8 f8 g8 f8 | a8 a4 a8 g8 f8 g8 f8 | \break a8 a4 a8 g8 f8 g8 f8 | f2. r4 | \break

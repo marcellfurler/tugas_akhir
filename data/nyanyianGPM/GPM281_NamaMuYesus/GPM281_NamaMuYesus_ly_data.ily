@@ -31,46 +31,45 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratusdelapansatu_g_notes = {
-  \key g \major
-  \relative g'
+gpmduaratusdelapansatu_g_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    b2 a4 g4 | d'2 b4 r4 | g8 g8 g8 a8 b4 a8 g8 | a4 b4 a4 r4 | \break
-    b2 a4 g4 | d'2 b4 r4 | g8 g8 g8 a8 b4 c8 b8 | a4 b4 g4 r4 | \break
-    fis8 e8 fis8 g8 a4 fis4 | g8 fis8 g8 a8 b4 g4 | fis8 e8 fis8 g8 a8 fis8 e8 d8 | c'4. b8 b4 r4 | \break 
-    fis8 e8 fis8 g8 a4 fis4 | g8 fis8 g8 a8 b4 g4 | a8 a8 a8 b8 a8 g8 fis8 e8 | d2 d4 r4 | \break
-    b'2 a4 g4 | d'2 b4 r4 | g8 g8 g8 a8 b4 c8 a8 | g4 fis4 g4 r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 a'8 g'8 | a'4 b'4 a'4 r4 | \break
+    b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 c''8 b'8 | a'4 b'4 g'4 r4 | \break
+    fis'8 e'8 fis'8 g'8 a'4 fis'4 | g'8 fis'8 g'8 a'8 b'4 g'4 | fis'8 e'8 fis'8 g'8 a'8 fis'8 e'8 d'8 | c''4. b'8 b'4 r4 | \break 
+    fis'8 e'8 fis'8 g'8 a'4 fis'4 | g'8 fis'8 g'8 a'8 b'4 g'4 | a'8 a'8 a'8 b'8 a'8 g'8 fis'8 e'8 | d'2 d'4 r4 | \break
+    b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 c''8 a'8 | g'4 fis'4 g'4 r4 | \break
   }
 }
 
+gpmduaratusdelapansatu_g_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 a'8 g'8 | a'4 b'4 a'4 r4 | \break
+  b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 c''8 b'8 | a'4 b'4 g'4 r4 | \break
+  fis'8 e'8 fis'8 g'8 a'4 fis'4 | g'8 fis'8 g'8 a'8 b'4 g'4 | fis'8 e'8 fis'8 g'8 a'8 fis'8 e'8 d'8 | c''4. b'8 b'4 r4 | \break 
+  fis'8 e'8 fis'8 g'8 a'4 fis'4 | g'8 fis'8 g'8 a'8 b'4 g'4 | a'8 a'8 a'8 b'8 a'8 g'8 fis'8 e'8 | d'2 d'4 r4 | \break
+  b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 c''8 a'8 | g'4 fis'4 g'4 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 a'8 g'8 | a'4 b'4 a'4 r4 | \break
+  b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 c''8 b'8 | a'4 b'4 g'4 r4 | \break
+  fis'8 e'8 fis'8 g'8 a'4 fis'4 | g'8 fis'8 g'8 a'8 b'4 g'4 | fis'8 e'8 fis'8 g'8 a'8 fis'8 e'8 d'8 | c''4. b'8 b'4 r4 | \break 
+  fis'8 e'8 fis'8 g'8 a'4 fis'4 | g'8 fis'8 g'8 a'8 b'4 g'4 | a'8 a'8 a'8 b'8 a'8 g'8 fis'8 e'8 | d'2 d'4 r4 | \break
+  b'2 a'4 g'4 | d''2 b'4 r4 | g'8 g'8 g'8 a'8 b'4 c''8 a'8 | g'4 fis'4 g'4 r4 | \break
+  
+}
+
+gpmduaratusdelapansatu_g_notes =
+#(if is-svg?
+     #{ \gpmduaratusdelapansatu_g_notes_svg #}
+     #{ \gpmduaratusdelapansatu_g_notes_pdf #})
+
 gpmduaratusdelapansatu_g_music = {
   \time 4/4
+  \key g \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratusdelapansatu_g_notes
@@ -96,3 +95,26 @@ gpmduaratusdelapansatu_lyricTwo = \lyricmode {
     Ber -- kat -- Mu me -- nga -- lir ba -- gai ma -- ta a -- ir, me -- nye -- gar -- kan se -- lu -- ruh hi -- dup -- ku.
     Da -- mai se -- jah -- t'ra, se -- la -- lu a -- da kar -- 'na ka -- sih -- Mu.
 }
+
+gpmduaratusdelapansatu_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusdelapansatu_lyricOne
+           \gpmduaratusdelapansatu_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusdelapansatu_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratusdelapansatu_lyricTwo
+         }
+       >>
+     #}
+     )

@@ -2,60 +2,15 @@
 
 \include "GPM120_ItuBuktiCintaMu_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     
-     #{
-      \unfoldRepeats
-       
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratusduapuluh_d_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratusduapuluh_d_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusduapuluh_lyricOne
-           \gpmseratusduapuluh_lyricTwo
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusduapuluh_lyricOne
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusduapuluh_lyricTwo
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmseratusduapuluh_d_music_solmisasi
+      }
+    }
+    \gpmseratusduapuluh_lyricAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily
@@ -69,7 +24,7 @@ syair =
 % oleh \solmisasiMusic.
 \score {
   % Gunakan original music
-  \unfoldRepeats<<
+  \unfoldRepeats <<
     \new Staff {
       \new Voice = melodi \gpmseratusduapuluh_d_music
     }

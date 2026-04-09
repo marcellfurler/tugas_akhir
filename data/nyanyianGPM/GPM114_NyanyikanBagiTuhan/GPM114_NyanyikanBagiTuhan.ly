@@ -2,66 +2,15 @@
 
 \include "GPM114_NyanyikanBagiTuhan_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratusempatbelas_e_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmseratusempatbelas_e_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusempatbelas_lyricOne
-           \gpmseratusempatbelas_lyricReff
-           \gpmseratusempatbelas_lyricTwo
-           \gpmseratusempatbelas_lyricReff
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusempatbelas_lyricOne
-           \gpmseratusempatbelas_lyricReff
-         }
-         \new Lyrics \lyricsto melodi {
-           \gpmseratusempatbelas_lyricTwo
-           % Trik agar lirik reff tidak tampil
-           % tetapi alignment tetap rapi
-           % Fungsi ada di GPM_Globals.ily
-           \lyricsOff
-           \gpmseratusempatbelas_lyricReff
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmseratusempatbelas_e_music_solmisasi
+      }
+    }
+    \gpmseratusempatbelas_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily

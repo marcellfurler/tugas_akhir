@@ -31,45 +31,42 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmsembilanpuluhlima_d_notes = {
-  \key d \major
-  \relative d'
+gpmsembilanpuluhlima_d_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    a'4 a8 b8 | a4 fis4 | b4 b8 b8 | b4 a4 \breathe | \break
-    a4 a8 b8 | a4 fis4 | e8 e8 e8 fis8 | e2 \breathe | \break
-    a4 a8 b8 | a4 fis4 | b8 b8 b8 b8 | d2 \breathe | \break
-    a8 a8 a8 b8 | a8 fis8 fis8 e8 | d4 d4~ | d4 r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    a'4 a'8 b'8 | a'4 fis'4 | b'4 b'8 b'8 | b'4 a'4 \breathe | \break
+    a'4 a'8 b'8 | a'4 fis'4 | e'8 e'8 e'8 fis'8 | e'2 \breathe | \break
+    a'4 a'8 b'8 | a'4 fis'4 | b'8 b'8 b'8 b'8 | d''2 \breathe | \break
+    a'8 a'8 a'8 b'8 | a'8 fis'8 fis'8 e'8 | d'4 d'4~ | d'4 r4 | \break
   }
 }
 
+gpmsembilanpuluhlima_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  a'4 a'8 b'8 | a'4 fis'4 | b'4 b'8 b'8 | b'4 a'4 \breathe | \break
+  a'4 a'8 b'8 | a'4 fis'4 | e'8 e'8 e'8 fis'8 | e'2 \breathe | \break
+  a'4 a'8 b'8 | a'4 fis'4 | b'8 b'8 b'8 b'8 | d''2 \breathe | \break
+  a'8 a'8 a'8 b'8 | a'8 fis'8 fis'8 e'8 | d'4 d'4~ | d'4 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  a'4 a'8 b'8 | a'4 fis'4 | b'4 b'8 b'8 | b'4 a'4 \breathe | \break
+  a'4 a'8 b'8 | a'4 fis'4 | e'8 e'8 e'8 fis'8 | e'2 \breathe | \break
+  a'4 a'8 b'8 | a'4 fis'4 | b'8 b'8 b'8 b'8 | d''2 \breathe | \break
+  a'8 a'8 a'8 b'8 | a'8 fis'8 fis'8 e'8 | d'4 d'4~ | d'4 r4 | \break
+  
+}
+
+gpmsembilanpuluhlima_d_notes =
+#(if is-svg?
+     #{ \gpmsembilanpuluhlima_d_notes_svg #}
+     #{ \gpmsembilanpuluhlima_d_notes_pdf #})
+
 gpmsembilanpuluhlima_d_music = {
   \time 2/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmsembilanpuluhlima_d_notes
@@ -93,3 +90,26 @@ gpmsembilanpuluhlima_lyricTwo = \lyricmode {
   Ki -- ta me -- nyam -- bu Ye -- sus pe -- ne -- bus,
   di -- se -- ki -- tar bin -- tang yang ber -- ki -- lau.
 }
+
+gpmsembilanpuluhlima_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmsembilanpuluhlima_lyricOne
+           \gpmsembilanpuluhlima_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmsembilanpuluhlima_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmsembilanpuluhlima_lyricTwo
+         }
+       >>
+     #}
+     )

@@ -33,7 +33,7 @@
 
 gpmduaratustujuhtujuh_d_notes = {
   \key d \major
-  \relative d'{
+  {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?
@@ -46,27 +46,27 @@ gpmduaratustujuhtujuh_d_notes = {
          (empty-music)
          )
 
-    r4 a4 d4 e8 (g8) | fis4. fis8 fis8 fis8 e16 (d16) e8 | d2 r8 d8 fis8 a8 | \break
-    d8 d4. cis4. b8 | b8 a1* 7/8 | r4 \tuplet 3/2 {fis8 e8 fis8} b4. a8 | \break
-    a8 g8 g4 g8 fis8 e8 fis8 | g4 a8 a8 a8 b8 a8 g8 | fis1* 4/4 | \break 
-    r4 a,4 d4 e8 (g8) | fis8 fis4 fis8 fis8 fis8 e16 (d16) e8 | d2 r4 \tuplet 3/2 {d8 fis8 a8} | \break
-    d4. d8 cis8 cis8 b8 (a16 b16) | a1* 4/4 | r4 fis8 fis8 b4. a8 | \break
-    a8 g8 g4 g8 fis8 e8 fis8 | g4 a8 g8 fis4. e16 (d16) | d1* 4/4 | \break
+    r4 a4 d'4 e'8 (g'8) | fis'4. fis'8 fis'8 fis'8 e'16 (d'16) e'8 | d'2 r8 d'8 fis'8 a'8 | \break
+    d''8 d''4. cis''4. b'8 | b'8 a'1* 7/8 | r4 \tuplet 3/2 {fis'8 e'8 fis'8} b'4. a'8 | \break
+    a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break 
+    r4 a4 d'4 e'8 (g'8) | fis'8 fis'4 fis'8 fis'8 fis'8 e'16 (d'16) e'8 | d'2 r4 \tuplet 3/2 {d'8 fis'8 a'8} | \break
+    d''4. d''8 cis''8 cis''8 b'8 (a'16 b'16) | a'1* 4/4 | r4 fis'8 fis'8 b'4. a'8 | \break
+    a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 g'8 fis'4. e'16 (d'16) | d'1* 4/4 | \break
 
     \repeat volta 2 {
       % reef
-      \break r4 d'4 e8 (d8) cis8 (d8) | b4 b8 b8 b8 a8 g8 fis8 | e4 d'4 cis4 b4 | \break
-      a4 a8 a8 a8 gis8 a8 b8 | a4 \breathe  fis8 fis8 b4. a8 | a4 g8 g8 g8 (fis8) e8 fis8 | \break
-      g4 a8 a8 b4 a8 g8 | fis1* 4/4 | r4 d'4 e8 (d8) cis8 (d8) |  \break
-      b4 b8 b8 b8 a8 g8 fis8 | e4 \breathe  d'8 d8 cis4 b4 | b4 a8 a8 a8 g8 fis8 g8 | \break
-      a4 \breathe  fis8 fis8 b4. a8 | g4 g8 fis8 e4 fis4 | \break
+      \break r4 d''4 e''8 (d''8) cis''8 (d''8) | b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 d''4 cis''4 b'4 | \break
+      a'4 a'8 a'8 a'8 gis'8 a'8 b'8 | a'4 \breathe  fis'8 fis'8 b'4. a'8 | a'4 g'8 g'8 g'8 (fis'8) e'8 fis'8 | \break
+      g'4 a'8 a'8 b'4 a'8 g'8 | fis'1* 4/4 | r4 d''4 e''8 (d''8) cis''8 (d''8) |  \break
+      b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 \breathe  d''8 d''8 cis''4 b'4 | b'4 a'8 a'8 a'8 g'8 fis'8 g'8 | \break
+      a'4 \breathe  fis'8 fis'8 b'4. a'8 | g'4 g'8 fis'8 e'4 fis'4 | \break
     }
     
     \alternative{
     
-      { g4 \breathe a8 g8 fis4 e4 | 
-      d1* 4/4 } 
-      { g4 \breathe  a8 a8 d4 e4 | d2. r4 } \break
+      { g'4 \breathe a'8 g'8 fis'4 e'4 | 
+      d'1* 4/4 } 
+      { g'4 \breathe  a'8 a'8 d''4 e''4 | d''2. r4 } \break
     }
 
     % Double barline jika SVG (dijabarkan)

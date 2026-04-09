@@ -31,48 +31,52 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaenamtiga_e_notes = {
-  \key e \major
-  \relative e'
+gpmduaenamtiga_e_notes_pdf = {
+
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \partial 2 b8. e'1* 3/16 fis'8 | gis'2 gis'8. fis'1* 3/16 gis'8 | a'2 a'8. gis'1* 3/16 fis'8 | e'2  \once \override Tie.stencil = ##f gis'2~ ( | gis'4) r4 | \break
 
-        \partial 2 b8. e1* 3/16 fis8 | gis2 gis8. fis1* 3/16 gis8 | a2 a8. gis1* 3/16 fis8 | e2  \once \override Tie.stencil = ##f gis2~ (| gis4) r4 | \break
+    e'8. gis'1* 3/16 a'8 | b'2 b'8. ais'1* 3/16 b'8 | cis''2 cis''8. b'1* 3/16 gis'8 | \once \override Tie.stencil = ##f fis'1* 4/4 ~ ( | fis'4) r4 | \break
 
-        e8. gis1* 3/16 a8 | b2 b8. ais1* 3/16 b8 | cis2 cis8. b1* 3/16 gis8 | \once \override Tie.stencil = ##f fis1* 4/4 ~ (| fis4) r4 | \break
+    b'8 b'4 a'8 | gis'2 gis'8. gis'1* 3/16 fis'8 | e'2 e'8. e'1* 3/16 dis'8 | cis'2 cis'8. e'1* 3/16 b'8 | \break
 
-        b8 b4 a8 | gis2 gis8. gis1* 3/16 fis8 | e2 e8. e1* 3/16 dis8 | cis2 cis8. e1* 3/16 b'8 | \break
-
-        a2 e8. e1* 3/16 fis8 | gis2 b8. gis1* 3/16 e8 | dis2 dis8. e1* 3/16 fis8 | \once \override Tie.stencil = ##f e1* 4/4~ (| e4) r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    a'2 e'8. e'1* 3/16 fis'8 | gis'2 b'8. gis'1* 3/16 e'8 | dis'2 dis'8. e'1* 3/16 fis'8 | \once \override Tie.stencil = ##f e'1* 4/4~ ( | e'4) r4 | \break
   }
 }
 
+gpmduaenamtiga_e_notes_svg = {
+  \section
+  \tweak X-offset #1  
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  \partial 2 b8. e'1* 3/16 fis'8 | gis'2 gis'8. fis'1* 3/16 gis'8 | a'2 a'8. gis'1* 3/16 fis'8 | e'2  \once \override Tie.stencil = ##f gis'2~ ( | gis'4) r4 | \break
+
+  e'8. gis'1* 3/16 a'8 | b'2 b'8. ais'1* 3/16 b'8 | cis''2 cis''8. b'1* 3/16 gis'8 | \once \override Tie.stencil = ##f fis'1* 4/4 ~ ( | fis'4) r4 | \break
+
+  b'8 b'4 a'8 | gis'2 gis'8. gis'1* 3/16 fis'8 | e'2 e'8. e'1* 3/16 dis'8 | cis'2 cis'8. e'1* 3/16 b'8 | \break
+
+  a'2 e'8. e'1* 3/16 fis'8 | gis'2 b'8. gis'1* 3/16 e'8 | dis'2 dis'8. e'1* 3/16 fis'8 | \once \override Tie.stencil = ##f e'1* 4/4~ ( | e'4) r4 | \break
+  
+  \section
+  \tweak X-offset #1  
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  \partial 2 b8. e'1* 3/16 fis'8 | gis'2 gis'8. fis'1* 3/16 gis'8 | a'2 a'8. gis'1* 3/16 fis'8 | e'2  \once \override Tie.stencil = ##f gis'2~ ( | gis'4) r4 | \break
+
+  e'8. gis'1* 3/16 a'8 | b'2 b'8. ais'1* 3/16 b'8 | cis''2 cis''8. b'1* 3/16 gis'8 | \once \override Tie.stencil = ##f fis'1* 4/4 ~ ( | fis'4) r4 | \break
+
+  b'8 b'4 a'8 | gis'2 gis'8. gis'1* 3/16 fis'8 | e'2 e'8. e'1* 3/16 dis'8 | cis'2 cis'8. e'1* 3/16 b'8 | \break
+
+  a'2 e'8. e'1* 3/16 fis'8 | gis'2 b'8. gis'1* 3/16 e'8 | dis'2 dis'8. e'1* 3/16 fis'8 | \once \override Tie.stencil = ##f e'1* 4/4~ ( | e'4) r4 | \break
+  
+}
+
+gpmduaenamtiga_e_notes =
+#(if is-svg?
+     #{ \gpmduaenamtiga_e_notes_svg #}
+     #{ \gpmduaenamtiga_e_notes_pdf #})
+
 gpmduaenamtiga_e_music = {
   \time 4/4
+  \key e \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaenamtiga_e_notes
@@ -96,3 +100,26 @@ gpmduaenamtiga_lyricTwo = \lyricmode {
   Ja -- ngan bim -- bang, ja -- ngan gen -- tar a -- pa la -- gi pu -- tus a -- sa.
   Ye -- sus te -- tap pe -- li -- ha -- ra ki -- ta se -- mua.
 }
+
+gpmduaenamtiga_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaenamtiga_lyricOne
+           \gpmduaenamtiga_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaenamtiga_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaenamtiga_lyricTwo
+         }
+       >>
+     #}
+     )

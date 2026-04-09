@@ -2,60 +2,15 @@
 
 \include "GPM022_MariBernyanyilah_ly_data.ily"
 
-notasi =
-#(if is-svg?
-     #{
-       \unfoldRepeats
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmduapuluhdua_f_music_solmisasi
-           }
-         }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new SolmisasiStaff {
-           \new SolmisasiVoice = melodi {
-             \gpmduapuluhdua_f_music_solmisasi
-           }
-         }
-       >>
-     #}
-     )
-
-syair =
-#(if is-svg?
-     #{
-       <<
-        \new Lyrics \lyricsto melodi {
-          \gpmduapuluhdua_lyricOne
-          \gpmduapuluhdua_lyricTwo
-        }
-       >>
-     #}
-     ; else
-     #{
-       <<
-         \new Lyrics \lyricsto melodi {
-           \gpmduapuluhdua_lyricOne
-           
-          }
-         \new Lyrics \lyricsto melodi {
-           \gpmduapuluhdua_lyricTwo
-            
-         }
-       >>
-     #}
-     )
-
 % Score untuk partitur (PDF dan SVG)
 \score {
   <<
-    \notasi
-    \syair
+    \new SolmisasiStaff {
+      \new SolmisasiVoice = melodi {
+        \gpmduapuluhdua_f_music_solmisasi
+      }
+    }
+    \gpmduapuluhdua_lyricsAll
   >>
   % Layout untuk SVG animation dan printed
   % Cek __includes/svg-animation-init.ily

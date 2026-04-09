@@ -33,61 +33,90 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusdualima_f_notes = {
-  \key f \major
-  \relative f'
+gpmseratusdualima_f_notes_pdf = {
   \repeat volta 5 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-           \volta 3 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 3"
-           }
-           \volta 4 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 4"
-           }
-           \volta 5 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 5"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    c'8 c8 a8 bes8 c8 c8 a8 bes8 | c8 c8 c8 c8 d2 | c2 r4 a8 bes8 | \break
-    c8 c8 c8 d8 c8 \once \override Tie.stencil = ##f (bes4.~ | bes4) \breathe g8 a8 bes8 a8 bes8 c8 | bes8 a1* 5/8 r4 | \break
+    c''8 c''8 a'8 bes'8 c''8 c''8 a'8 bes'8 | c''8 c''8 c''8 c''8 d''2 | c''2 r4 a'8 bes'8 | \break
+    c''8 c''8 c''8 d''8 c''8 \once \override Tie.stencil = ##f ( bes'4.~ | bes'4) \breathe g'8 a'8 bes'8 a'8 bes'8 c''8 | bes'8 a'1* 5/8 r4 | \break
     % reef
-    c8 c8 f8 f8 e4 e4 | d8 d8 e8 d8 c4 r4 | d4 d4 c4 c4 | \break
-    bes8 bes8 c8 bes8 a4 \breathe a8 a8 | g2 bes4 a8 g8 | f8 f1* 5/8 r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    c''8 c''8 f''8 f''8 e''4 e''4 | d''8 d''8 e''8 d''8 c''4 r4 | d''4 d''4 c''4 c''4 | \break
+    bes'8 bes'8 c''8 bes'8 a'4 \breathe a'8 a'8 | g'2 bes'4 a'8 g'8 | f'8 f'1* 5/8 r4 | \break
   }
 }
 
+gpmseratusdualima_f_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  c''8 c''8 a'8 bes'8 c''8 c''8 a'8 bes'8 | c''8 c''8 c''8 c''8 d''2 | c''2 r4 a'8 bes'8 | \break
+  c''8 c''8 c''8 d''8 c''8 \once \override Tie.stencil = ##f ( bes'4.~ | bes'4) \breathe g'8 a'8 bes'8 a'8 bes'8 c''8 | bes'8 a'1* 5/8 r4 | \break
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  c''8 c''8 f''8 f''8 e''4 e''4 | d''8 d''8 e''8 d''8 c''4 r4 | d''4 d''4 c''4 c''4 | \break
+  bes'8 bes'8 c''8 bes'8 a'4 \breathe a'8 a'8 | g'2 bes'4 a'8 g'8 | f'8 f'1* 5/8 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  c''8 c''8 a'8 bes'8 c''8 c''8 a'8 bes'8 | c''8 c''8 c''8 c''8 d''2 | c''2 r4 a'8 bes'8 | \break
+  c''8 c''8 c''8 d''8 c''8 \once \override Tie.stencil = ##f ( bes'4.~ | bes'4) \breathe g'8 a'8 bes'8 a'8 bes'8 c''8 | bes'8 a'1* 5/8 r4 | \break
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  c''8 c''8 f''8 f''8 e''4 e''4 | d''8 d''8 e''8 d''8 c''4 r4 | d''4 d''4 c''4 c''4 | \break
+  bes'8 bes'8 c''8 bes'8 a'4 \breathe a'8 a'8 | g'2 bes'4 a'8 g'8 | f'8 f'1* 5/8 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 3"
+  c''8 c''8 a'8 bes'8 c''8 c''8 a'8 bes'8 | c''8 c''8 c''8 c''8 d''2 | c''2 r4 a'8 bes'8 | \break
+  c''8 c''8 c''8 d''8 c''8 \once \override Tie.stencil = ##f ( bes'4.~ | bes'4) \breathe g'8 a'8 bes'8 a'8 bes'8 c''8 | bes'8 a'1* 5/8 r4 | \break
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  c''8 c''8 f''8 f''8 e''4 e''4 | d''8 d''8 e''8 d''8 c''4 r4 | d''4 d''4 c''4 c''4 | \break
+  bes'8 bes'8 c''8 bes'8 a'4 \breathe a'8 a'8 | g'2 bes'4 a'8 g'8 | f'8 f'1* 5/8 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 4"
+  c''8 c''8 a'8 bes'8 c''8 c''8 a'8 bes'8 | c''8 c''8 c''8 c''8 d''2 | c''2 r4 a'8 bes'8 | \break
+  c''8 c''8 c''8 d''8 c''8 \once \override Tie.stencil = ##f ( bes'4.~ | bes'4) \breathe g'8 a'8 bes'8 a'8 bes'8 c''8 | bes'8 a'1* 5/8 r4 | \break
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  c''8 c''8 f''8 f''8 e''4 e''4 | d''8 d''8 e''8 d''8 c''4 r4 | d''4 d''4 c''4 c''4 | \break
+  bes'8 bes'8 c''8 bes'8 a'4 \breathe a'8 a'8 | g'2 bes'4 a'8 g'8 | f'8 f'1* 5/8 r4 | \break
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 5"
+  c''8 c''8 a'8 bes'8 c''8 c''8 a'8 bes'8 | c''8 c''8 c''8 c''8 d''2 | c''2 r4 a'8 bes'8 | \break
+  c''8 c''8 c''8 d''8 c''8 \once \override Tie.stencil = ##f ( bes'4.~ | bes'4) \breathe g'8 a'8 bes'8 a'8 bes'8 c''8 | bes'8 a'1* 5/8 r4 | \break
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  c''8 c''8 f''8 f''8 e''4 e''4 | d''8 d''8 e''8 d''8 c''4 r4 | d''4 d''4 c''4 c''4 | \break
+  bes'8 bes'8 c''8 bes'8 a'4 \breathe a'8 a'8 | g'2 bes'4 a'8 g'8 | f'8 f'1* 5/8 r4 | \break
+
+}
+
+gpmseratusdualima_f_notes =
+#(if is-svg?
+     #{ \gpmseratusdualima_f_notes_svg #}
+     #{ \gpmseratusdualima_f_notes_pdf #})
+
 gpmseratusdualima_f_music = {
   \time 4/4
+  \key f \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusdualima_f_notes
@@ -135,3 +164,55 @@ gpmseratusdualima_lyricReff = \lyricmode{
   Ha -- i u -- mat Tu -- han, ber -- gem -- bi -- ra -- lah
   sam -- but Ye -- sus s'ba -- gai pe -- me -- nang me -- nga -- lah -- kan kua -- sa ma -- ut.
 }
+
+gpmseratusdualima_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+          \gpmseratusdualima_lyricOne
+          \gpmseratusdualima_lyricReff
+          \gpmseratusdualima_lyricTwo
+          \gpmseratusdualima_lyricReff
+          \gpmseratusdualima_lyricThree
+          \gpmseratusdualima_lyricReff
+          \gpmseratusdualima_lyricFour
+          \gpmseratusdualima_lyricReff
+          \gpmseratusdualima_lyricFive
+          \gpmseratusdualima_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdualima_lyricOne
+           \gpmseratusdualima_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdualima_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmseratusdualima_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdualima_lyricThree
+           \lyricsOff
+           \gpmseratusdualima_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdualima_lyricFour
+           \lyricsOff
+           \gpmseratusdualima_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusdualima_lyricFive
+           \lyricsOff
+           \gpmseratusdualima_lyricReff
+         }
+       >>
+     #}
+     )

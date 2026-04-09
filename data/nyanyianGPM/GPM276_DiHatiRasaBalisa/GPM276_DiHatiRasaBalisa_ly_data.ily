@@ -31,50 +31,65 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduatujuhenam_d_notes = {
-  \key d \major
-  \relative d'
+gpmduatujuhenam_d_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    fis4 e4 d4 | fis4 e4 d4 | a'2. | fis2 r4 | a4 b4 a4 | fis2 a4 | (g2 fis4) | e2 r4 | \break
-    e4 e4. d8 | cis4 cis4 e4 |  g4 \slurDashed (g4  fis4) \slurSolid | e2 r4 | a4 a4 a4 | b4 a4 g4 | \once \override Tie.stencil = ##f fis2. ~ (| fis2) r4 \break
-    fis4 e4 d4 | fis4 e4 d4 | a'2. | fis2 r4 | fis4 g4 gis4 | a2 a4 | b2. | g2 r4 | \break
-    d'4 d4 d4 | cis2 b4 | a2. | fis2 r4 | a4 a4 a4 | g4 fis4 e4 | \once \override Tie.stencil = ##f d2.~ (| d2) r4 | \break
+    fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | a'4 b'4 a'4 | fis'2 a'4 | g'2 ( fis'4) | e'2 r4 | \break
+    e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ (| fis'2) r4 \break
+    fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | fis'4 g'4 gis'4 | a'2 a'4 | b'2. | g'2 r4 | \break
+    d''4 d''4 d''4 | cis''2 b'4 | a'2. | fis'2 r4 | a'4 a'4 a'4 | g'4 fis'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 | \break
 
     % reef
-    fis4 fis4 a4 | g2 b4 | a2. | fis2 r4 | d'4 d4 d4 | a4 a4 d4 | \once \override Tie.stencil = ##f cis2.~ (| cis2) r4 | \break
-    g4 g4 a4 | g2 a4 | cis2. | b2 r4 | a4 a4 a4 | b4 a4 g4 | \once \override Tie.stencil = ##f fis2.~ (| fis2) fis4 | \break
-    a2 b8 (a8) | fis2 a4 | b4 b4 b4 | d2 cis8 b8 | a2 a8 a8 | a4 g4 e4 | \once \override Tie.stencil = ##f d2.~ (| d2) r4 |
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    fis'4 fis'4 a'4 | g'2 b'4 | a'2. | fis'2 r4 | d''4 d''4 d''4 | a'4 a'4 d''4 | \once \override Tie.stencil = ##f cis''2.~ ( | cis''2) r4 | \break
+    g'4 g'4 a'4 | g'2 a'4 | cis''2. | b'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2.~ ( | fis'2) fis'4 | \break
+    a'2 b'8 ( a'8) | fis'2 a'4 | b'4 b'4 b'4 | d''2 cis''8 b'8 | a'2 a'8 a'8 | a'4 g'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 |
   }
 }
 
+gpmduatujuhenam_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | a'4 b'4 a'4 | fis'2 a'4 | g'2 ( fis'4) | e'2 r4 | \break
+  e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ (| fis'2) r4 \break
+  fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | fis'4 g'4 gis'4 | a'2 a'4 | b'2. | g'2 r4 | \break
+  d''4 d''4 d''4 | cis''2 b'4 | a'2. | fis'2 r4 | a'4 a'4 a'4 | g'4 fis'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 | \break
+
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  fis'4 fis'4 a'4 | g'2 b'4 | a'2. | fis'2 r4 | d''4 d''4 d''4 | a'4 a'4 d''4 | \once \override Tie.stencil = ##f cis''2.~ ( | cis''2) r4 | \break
+  g'4 g'4 a'4 | g'2 a'4 | cis''2. | b'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2.~ ( | fis'2) fis'4 | \break
+  a'2 b'8 ( a'8) | fis'2 a'4 | b'4 b'4 b'4 | d''2 cis''8 b'8 | a'2 a'8 a'8 | a'4 g'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 |
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | a'4 b'4 a'4 | fis'2 a'4 | g'2 ( fis'4) | e'2 r4 | \break
+  e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ (| fis'2) r4 \break
+  fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | fis'4 g'4 gis'4 | a'2 a'4 | b'2. | g'2 r4 | \break
+  d''4 d''4 d''4 | cis''2 b'4 | a'2. | fis'2 r4 | a'4 a'4 a'4 | g'4 fis'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 | \break
+
+  % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  fis'4 fis'4 a'4 | g'2 b'4 | a'2. | fis'2 r4 | d''4 d''4 d''4 | a'4 a'4 d''4 | \once \override Tie.stencil = ##f cis''2.~ ( | cis''2) r4 | \break
+  g'4 g'4 a'4 | g'2 a'4 | cis''2. | b'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2.~ ( | fis'2) fis'4 | \break
+  a'2 b'8 ( a'8) | fis'2 a'4 | b'4 b'4 b'4 | d''2 cis''8 b'8 | a'2 a'8 a'8 | a'4 g'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 |
+}
+
+gpmduatujuhenam_d_notes =
+#(if is-svg?
+     #{ \gpmduatujuhenam_d_notes_svg #}
+     #{ \gpmduatujuhenam_d_notes_pdf #})
+
 gpmduatujuhenam_d_music = {
-  \time 4/4
+  \time 3/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduatujuhenam_d_notes
@@ -88,7 +103,7 @@ gpmduatujuhenam_d_music_solmisasi = \solmisasiMusic \gpmduatujuhenam_d_music
 
 gpmduatujuhenam_lyricOne = \lyricmode {
   Di ha -- ti ra -- sa ba -- li -- sa, ba -- lan -- dong a -- er ma -- ta.
-  Sa -- ki ra -- sa sam -- pe di jan -- tong co -- ba -- an hi -- dop i -- ni.
+  Sa -- ki ra -- sa sam -- pe di jan -- _ tong co -- ba -- an hi -- dop i -- ni.
   Ma -- ngen -- te di ki -- ri ka -- nan, sa -- pa yang bi -- sa to -- long.
   Ta -- hang dal -- lam sang -- sa -- ra, ku -- at i -- man di da -- da.
 }
@@ -106,3 +121,34 @@ gpmduatujuhenam_lyricReff = \lyricmode {
   Cu -- ma Tu -- han yang ta -- u, a -- pa yang be -- ta min -- ta.
   De -- ngan Tu -- han, ge -- lap ja -- di t'rang, de -- ri -- ta ja -- di su -- ka -- ci -- ta.
 }
+
+gpmduatujuhenam_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduatujuhenam_lyricOne
+           \gpmduatujuhenam_lyricReff
+           \gpmduatujuhenam_lyricTwo
+           \gpmduatujuhenam_lyricReff
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduatujuhenam_lyricOne
+           \gpmduatujuhenam_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduatujuhenam_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmduatujuhenam_lyricReff
+         }
+       >>
+     #}
+     )

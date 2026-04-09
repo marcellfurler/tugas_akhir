@@ -31,51 +31,69 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratuslimatiga_bes_notes = {
-  \key bes \major
-  \relative bes'
+gpmduaratuslimatiga_bes_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    d''4 d''4 d''4 | f''2. | g''4 g''4 g''4 | bes''2. | \break
+    a''2 bes''4 | c'''2 a''4 | bes''4 a''4 g''4 | f''2 r4 | \break
+    d''4 d''4 d''4 | f''2. | g''4 g''4 g''4 | bes''2. | \break
+    a''2 bes''4 | c'''4 bes''4 a''4 | \once \override Tie.stencil = ##f bes''2.~ ( | bes''2) r4 | \break
 
-    d4 d4 d4 | f2. | g4 g4 g4 | bes2. | \break
-    a2 bes4 | c2 a4 | bes4 a4 g4 | f2 r4 | \break
-    d4 d4 d4 | f2. | g4 g4 g4 | bes2. | \break
-    a2 bes4 | c4 bes4 a4 | \once \override Tie.stencil = ##f bes2.~ (| bes2) r4 | \break
-
-    % reef
-    d2 d4 | d4 c4 bes4 | c2 a4 | f2. | \break 
-    es'2 es4 | es4 d4 c4 | d2 c4 | bes2 r4 | \break
-    d2 d4 | d4 c4 bes4 | g2 bes4 | es2. | \break
-    d4 d4 d4 | c4 bes4 c4 | \once \override Tie.stencil = ##f bes2.~ (| bes2) r4  \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+      % reef
+    \section
+    \tweak X-offset #1
+    \sectionLabel \markup\smaller\italic\bold "Refrain"
+    d'''2 d'''4 | d'''4 c'''4 bes''4 | c'''2 a''4 | f''2. | \break 
+    es'''2 es'''4 | es'''4 d'''4 c'''4 | d'''2 c'''4 | bes''2 r4 | \break
+    d'''2 d'''4 | d'''4 c'''4 bes''4 | g''2 bes''4 | es'''2. | \break
+    d'''4 d'''4 d'''4 | c'''4 bes''4 c'''4 | \once \override Tie.stencil = ##f bes''2.~ ( | bes''2) r4  \break
   }
 }
 
+gpmduaratuslimatiga_bes_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  d''4 d''4 d''4 | f''2. | g''4 g''4 g''4 | bes''2. | \break
+  a''2 bes''4 | c'''2 a''4 | bes''4 a''4 g''4 | f''2 r4 | \break
+  d''4 d''4 d''4 | f''2. | g''4 g''4 g''4 | bes''2. | \break
+  a''2 bes''4 | c'''4 bes''4 a''4 | \once \override Tie.stencil = ##f bes''2.~ ( | bes''2) r4 | \break
+
+    % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  d'''2 d'''4 | d'''4 c'''4 bes''4 | c'''2 a''4 | f''2. | \break 
+  es'''2 es'''4 | es'''4 d'''4 c'''4 | d'''2 c'''4 | bes''2 r4 | \break
+  d'''2 d'''4 | d'''4 c'''4 bes''4 | g''2 bes''4 | es'''2. | \break
+  d'''4 d'''4 d'''4 | c'''4 bes''4 c'''4 | \once \override Tie.stencil = ##f bes''2.~ ( | bes''2) r4  \break
+  
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  d''4 d''4 d''4 | f''2. | g''4 g''4 g''4 | bes''2. | \break
+  a''2 bes''4 | c'''2 a''4 | bes''4 a''4 g''4 | f''2 r4 | \break
+  d''4 d''4 d''4 | f''2. | g''4 g''4 g''4 | bes''2. | \break
+  a''2 bes''4 | c'''4 bes''4 a''4 | \once \override Tie.stencil = ##f bes''2.~ ( | bes''2) r4 | \break
+
+    % reef
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\italic\bold "Refrain"
+  d'''2 d'''4 | d'''4 c'''4 bes''4 | c'''2 a''4 | f''2. | \break 
+  es'''2 es'''4 | es'''4 d'''4 c'''4 | d'''2 c'''4 | bes''2 r4 | \break
+  d'''2 d'''4 | d'''4 c'''4 bes''4 | g''2 bes''4 | es'''2. | \break
+  d'''4 d'''4 d'''4 | c'''4 bes''4 c'''4 | \once \override Tie.stencil = ##f bes''2.~ ( | bes''2) r4  \break
+  
+}
+
+gpmduaratuslimatiga_bes_notes =
+#(if is-svg?
+     #{ \gpmduaratuslimatiga_bes_notes_svg #}
+     #{ \gpmduaratuslimatiga_bes_notes_pdf #})
+
 gpmduaratuslimatiga_bes_music = {
   \time 4/4
+  \key bes \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratuslimatiga_bes_notes
@@ -109,3 +127,26 @@ gpmduaratuslimatiga_lyricTwo = \lyricmode {
   Di se -- tiap lang -- kah hi -- dup -- ku, 
   ku mau ber -- sa -- ma Ye -- sus.
 }
+
+gpmduaratuslimatiga_bes_lyricsAll = 
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratuslimatiga_lyricOne
+           \gpmduaratuslimatiga_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratuslimatiga_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratuslimatiga_lyricTwo
+         }
+       >>
+     #}
+     )

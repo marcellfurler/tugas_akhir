@@ -23,57 +23,61 @@
   composer = \markup {
     Lagu dan Syair:
     \concat {
-      \caps "Wendi Papilaya"
+      \caps "Wendy Papilaya"
     }
   }
 }
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratuslima_e_notes = {
-  \key e \major
-  \relative e'
+gpmseratuslima_e_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
+    gis'8 gis'8 gis'8 fis'8 | e'4 e'8 e'8 | e'8 fis'8 e'8 cis'8 | b2 | \break
+    e'4 e'4 | e'8 e'8 dis'8 e'8 | fis'2 | \break
+    r4 b8 b8 | gis'4 gis'8 fis'8 | e'2 | e'8 fis'8 e'8 cis'8 | \break 
+    b4 \breathe e'8 fis'8 | gis'8 gis'8 gis'8 b'8 | a'8 gis'8 fis'8 gis'8 | e'2 | \break
 
-    % Baris pertama
-    gis8 gis8 gis8 fis8 | e4 e8 e8 | e8 fis8 e8 cis8 | b2 | \break
-    e4 e4 | e8 e8 dis8 e8 | fis2 | \break
-    r4 b,8 b8 | gis'4 gis8 fis8 | e2 | e8 fis8 e8 cis8 | \break 
-    b4 \breathe e8 fis8 | gis8 gis8 gis8 b8 | a8 gis8 fis8 gis8 | e2 | \break
-
-    \mark \markup { \italic "Refrain" } r4 gis8 a8 | b4 b4 | b4 b8 b8 | cis8 b8 a8 gis8 a4 | fis8 gis8 | \break
-    a4 a4 | a4 a8 a8 | a8 b8 a8 fis8 | gis4 a4 |  \break
-    gis4 e4 | dis4 fis4 | \once \override Tie.stencil = ##f e2~ (| e4) r4 | \break
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    \mark \markup { \italic "Refrain" } r4 gis'8 a'8 | b'4 b'4 | b'4 b'8 b'8 | cis''8 b'8 a'8 gis'8 a'4 | fis'8 gis'8 | \break
+    a'4 a'4 | a'4 a'8 a'8 | a'8 b'8 a'8 fis'8 | gis'4 a'4 |  \break
+    gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ (| e'4) r4 | \break
   }
 }
 
+gpmseratuslima_e_notes_svg = {
+  \section
+  \tweak X-offset #1 
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  gis'8 gis'8 gis'8 fis'8 | e'4 e'8 e'8 | e'8 fis'8 e'8 cis'8 | b2 | \break
+  e'4 e'4 | e'8 e'8 dis'8 e'8 | fis'2 | \break
+  r4 b8 b8 | gis'4 gis'8 fis'8 | e'2 | e'8 fis'8 e'8 cis'8 | \break 
+  b4 \breathe e'8 fis'8 | gis'8 gis'8 gis'8 b'8 | a'8 gis'8 fis'8 gis'8 | e'2 | \break
+
+  \mark \markup { \italic "Refrain" } r4 gis'8 a'8 | b'4 b'4 | b'4 b'8 b'8 | cis''8 b'8 a'8 gis'8 a'4 | fis'8 gis'8 | \break
+  a'4 a'4 | a'4 a'8 a'8 | a'8 b'8 a'8 fis'8 | gis'4 a'4 |  \break
+  gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ (| e'4) r4 | \break
+
+  \section
+  \tweak X-offset #1 
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  gis'8 gis'8 gis'8 fis'8 | e'4 e'8 e'8 | e'8 fis'8 e'8 cis'8 | b2 | \break
+  e'4 e'4 | e'8 e'8 dis'8 e'8 | fis'2 | \break
+  r4 b8 b8 | gis'4 gis'8 fis'8 | e'2 | e'8 fis'8 e'8 cis'8 | \break 
+  b4 \breathe e'8 fis'8 | gis'8 gis'8 gis'8 b'8 | a'8 gis'8 fis'8 gis'8 | e'2 | \break
+
+  \mark \markup { \italic "Refrain" } r4 gis'8 a'8 | b'4 b'4 | b'4 b'8 b'8 | cis''8 b'8 a'8 gis'8 a'4 | fis'8 gis'8 | \break
+  a'4 a'4 | a'4 a'8 a'8 | a'8 b'8 a'8 fis'8 | gis'4 a'4 |  \break
+  gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ (| e'4) r4 | \break
+}
+
+gpmseratuslima_e_notes =
+#(if is-svg?
+     #{ \gpmseratuslima_e_notes_svg #}
+     #{ \gpmseratuslima_e_notes_pdf #})
+
+
 gpmseratuslima_e_music = {
   \time 2/4
+  \key e \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratuslima_e_notes
@@ -98,3 +102,36 @@ gpmseratuslima_lyricReff = \lyricmode {
   Di -- a -- lah Ra -- ja a -- tas se -- ga -- la ra -- ja yang ber -- ku -- a -- sa di -- bu -- mi dan di -- sor -- ga
   se -- la -- ma- la -- ma -- nya
 }
+
+gpmseratuslima_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslima_lyricOne
+           \gpmseratuslima_lyricReff
+           \gpmseratuslima_lyricTwo
+           \gpmseratuslima_lyricReff
+
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslima_lyricOne
+           \gpmseratuslima_lyricReff
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratuslima_lyricTwo
+           % Trik agar lirik reff tidak tampil
+           % tetapi alignment tetap rapi
+           % Fungsi ada di GPM_Globals.ily
+           \lyricsOff
+           \gpmseratuslima_lyricReff
+         }
+
+       >>
+     #}
+     )

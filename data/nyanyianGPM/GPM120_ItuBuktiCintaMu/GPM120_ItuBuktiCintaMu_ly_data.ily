@@ -31,45 +31,41 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmseratusduapuluh_d_notes = {
-  \key d \major
-  \relative d' 
+gpmseratusduapuluh_d_notes_pdf = {
   \repeat volta 2 {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-           \volta 1 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-           }
-           \volta 2 {
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 2"
-           }
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    fis4. fis8 fis8 a8 d,8 e8 | fis2 r4 fis8 fis8 |  \slurDashed fis8 (e8) \slurSolid e2 e8 e8 | g4. fis8 fis4 r4 | \break
-    fis4. fis8 fis8 a8 d,8 e8 | fis2 r4 fis8 fis | fis8 e8 e4 r4 cis8 e8 | e4. d8 d4 r4 | \break
-    e4. e8 e8 a8 a8 e8 | g4. fis8 fis4 r4 | e4. e8 e8 a8 a8 a8 |  gis4 fis8 gis8 a4 r4 | \break
-    fis4. fis8 fis8 a8 d,8 e8 | fis2 r4 fis8 fis | fis8 e8 e4 r4 cis8 e8 | e4. d8 d4 r4 |
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
+    fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis'8 | \phrasingSlurDashed fis'8\( e'8\) \phrasingSlurSolid e'2 e'8 e'8 | g'4. fis'8 fis'4 r4 | \break
+    fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis'8 | fis'8 e'8 e'4 r4 cis'8 e'8 | e'4. d'8 d'4 r4 | \break
+    e'4. e'8 e'8 a'8 a'8 e'8 | g'4. fis'8 fis'4 r4 | e'4. e'8 e'8 a'8 a'8 a'8 |  gis'4 fis'8 gis'8 a'4 r4 | \break
+    fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis' | fis'8 e'8 e'4 r4 cis'8 e'8 | e'4. d'8 d'4 r4 |
   }
 }
 
+gpmseratusduapuluh_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis'8 | \phrasingSlurDashed fis'8\( e'8\) \phrasingSlurSolid e'2 e'8 e'8 | g'4. fis'8 fis'4 r4 | \break
+  fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis'8 | fis'8 e'8 e'4 r4 cis'8 e'8 | e'4. d'8 d'4 r4 | \break
+  e'4. e'8 e'8 a'8 a'8 e'8 | g'4. fis'8 fis'4 r4 | e'4. e'8 e'8 a'8 a'8 a'8 |  gis'4 fis'8 gis'8 a'4 r4 | \break
+  fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis' | fis'8 e'8 e'4 r4 cis'8 e'8 | e'4. d'8 d'4 r4 |
+
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 2"
+  fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis'8 | \phrasingSlurDashed fis'8\( e'8\) \phrasingSlurSolid e'2 e'8 e'8 | g'4. fis'8 fis'4 r4 | \break
+  fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis'8 | fis'8 e'8 e'4 r4 cis'8 e'8 | e'4. d'8 d'4 r4 | \break
+  e'4. e'8 e'8 a'8 a'8 e'8 | g'4. fis'8 fis'4 r4 | e'4. e'8 e'8 a'8 a'8 a'8 |  gis'4 fis'8 gis'8 a'4 r4 | \break
+  fis'4. fis'8 fis'8 a'8 d'8 e'8 | fis'2 r4 fis'8 fis' | fis'8 e'8 e'4 r4 cis'8 e'8 | e'4. d'8 d'4 r4 |
+}
+
+gpmseratusduapuluh_d_notes =
+#(if is-svg?
+     #{ \gpmseratusduapuluh_d_notes_svg #}
+     #{ \gpmseratusduapuluh_d_notes_pdf #})
+
 gpmseratusduapuluh_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmseratusduapuluh_d_notes
@@ -81,8 +77,8 @@ gpmseratusduapuluh_d_music = {
 gpmseratusduapuluh_d_music_solmisasi = \solmisasiMusic \gpmseratusduapuluh_d_music
 
 gpmseratusduapuluh_lyricOne = \lyricmode {
-  I -- tu buk -- ti cin -- ta -- Mu. Me -- ne -- ri -- ma sik -- sa -- an ke -- ji.
-  Di cam -- buk dan di hi -- na, mah -- ko -- ta du -- ri, ju -- ga di -- ber -- ri.
+  I -- tu buk -- ti cin -- ta -- Mu. Me -- ne -- ri -- _ ma sik -- sa -- an ke -- ji.
+  Di cam -- buk dan di hi -- na, mah -- ko -- ta du -- ri, ju -- ga di -- be -- ri.
   I -- tu kar' -- na do -- sa ku -- ju -- a, sam -- pai nya -- wa -- pun re -- la Kau be -- ri.
   Tu -- lus pe -- ngor -- ba -- nan -- Mu. Pa -- lang yang ka -- sar buk -- ti cin -- ta -- Mu.
 
@@ -94,3 +90,27 @@ gpmseratusduapuluh_lyricTwo = \lyricmode {
   I -- tu kar' -- na ke -- sa -- la -- han -- ku, sam -- pai nya -- wa -- pun re -- la Kau be -- ri.
   Su -- ci pe -- ngor -- ba -- nan -- Mu. Da -- rah ter -- cu -- rah buk -- ti cin -- ta -- Mu.
 }
+
+
+gpmseratusduapuluh_lyricAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusduapuluh_lyricOne
+           \gpmseratusduapuluh_lyricTwo
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusduapuluh_lyricOne
+         }
+         \new Lyrics \lyricsto melodi {
+           \gpmseratusduapuluh_lyricTwo
+         }
+       >>
+     #}
+     )

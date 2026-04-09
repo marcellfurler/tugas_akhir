@@ -33,7 +33,7 @@
 
 gpmduaratustujuhempat_f_notes = {
   \key f \major
-  \relative f'{
+  {
     % Trik untuk menampilkan bait dengan section
     % pada SVG (mode unfolded)
     #(if is-svg?
@@ -46,21 +46,21 @@ gpmduaratustujuhempat_f_notes = {
          (empty-music)
          )
 
-    r4 c4 f8 f4 c8 | f4 g4 a8 (bes8 a8 g8) | \break
-    f4 \breathe c'8 c8 c2 | g8 a4 bes8 a2 | \break
-    r4 c,4 f8 f4 c8 | f4 g4 a8 bes8 a8 g8 | \break
-    f4 \breathe c'8 c8 c2 | g8 a4 g8 f2 | \break
+    r4 c'4 f'8 f'4 c'8 | f'4 g'4 a'8 ( bes'8 a'8 g'8) | \break
+    f'4 \breathe c''8 c''8 c''2 | g'8 a'4 bes'8 a'2 | \break
+    r4 c'4 f'8 f'4 c'8 | f'4 g'4 a'8 bes'8 a'8 g'8 | \break
+    f'4 \breathe c''8 c''8 c''2 | g'8 a'4 g'8 f'2 | \break
     
     \repeat volta 2{
-        r4 f8 f8 bes2 | d2. d4 | \break
-        c4 bes4 c8 (bes8 c8)  a8~ | \once \override Tie.stencil = ##f (a1* 4/4~) ( |a4) \break 
-        r8 c8 c8 bes8 bes8 a8 | a8 g8 r8 c8 c8 bes8 bes8 a8 | \break
-        a8 g8 r8 c8 c8 bes8 bes8 a8 | a8 g4. \break
+        r4 f'8 f'8 bes'2 | d''2. d''4 | \break
+        c''4 bes'4 c''8 ( bes'8 c''8)  a'8~ | \once \override Tie.stencil = ##f ( a'1* 4/4~) ( |a'4) \break 
+        r8 c''8 c''8 bes'8 bes'8 a'8 | a'8 g'8 r8 c''8 c''8 bes'8 bes'8 a'8 | \break
+        a'8 g'8 r8 c''8 c''8 bes'8 bes'8 a'8 | a'8 g'4. \break
         
     }
     \alternative{
-        {g8 g4 g8 g8 (f4) g8 a2 \breathe | bes2 (c2) \break }
-        {g8 g4 g8 bes8 (a4) g8 g8 (\once \override Tie.stencil = ##f f4.~ | f1* 4/4)}
+        {g'8 g'4 g'8 g'8 (f'4) g'8 a'2 \breathe | bes'2 (c''2) \break }
+        {g'8 g'4 g'8 bes'8 (a'4) g'8 g'8 (\once \override Tie.stencil = ##f f'4.~ | f'1* 4/4)}
     }
 
     % Double barline jika SVG (dijabarkan)
