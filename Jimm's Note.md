@@ -55,3 +55,34 @@ struktur kamar:
    { ending1 }
    { ending2 }
 }
+
+
+\header {
+  title = "GPM 8. Engkau Yang Suci"
+
+  poet = \markup {
+    \pad-x #1
+    \override #'(baseline-skip . 2.8)
+    \left-column {
+      \line {
+        "Do = G, 4/4,"
+        \raise #0.3 \fontsize #-2.5 \note {4} #UP
+        "= 80"
+      }
+    }
+  }
+
+  composer = \markup {
+    \column {
+      \line {
+        Lagu :
+        \caps "Veby Pelmelay & Nus Tomatala"
+      }
+      \line {
+        Syair :
+        \caps "Nus Tomatala"
+      }
+    }
+  }
+}
+header kalau composer berbeda atau lebih dari dua
