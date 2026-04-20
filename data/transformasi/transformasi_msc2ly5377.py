@@ -402,5 +402,5 @@ def convert(input_file):
 # RUN
 # =========================
 # convert("../nyanyianGPMMusecore2LY/GPM243_IkutYesus/GPM243_IkutYesus.ly")
-convert("../nyanyianGPMMusecore2LY/GPM309_DiSaatSusah/musecore/GPM309_DiSaatSusah.ly")
+convert("../nyanyianGPMMusecore2LY/GPM109_BapaKami/musecore/GPM109_BapaKami.ly")
 # convert("../nyanyianGPMMusecore2LY/GPM210_SampeDiUjungTaongIni/musecore/GPM210_SampeDiUjungTaongIni.ly")
