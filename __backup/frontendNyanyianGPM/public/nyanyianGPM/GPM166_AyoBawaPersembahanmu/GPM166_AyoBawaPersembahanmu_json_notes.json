@@ -1,0 +1,3247 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:13:14"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 57,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:16:17"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 57,
+    "channel": 0,
+    "x": 12.965,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:21:22"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 17.156,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:25:26"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 62,
+    "channel": 0,
+    "x": 20.243,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:29:30"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 62,
+    "channel": 0,
+    "x": 24.193,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:33:34"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 28.441,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:37:38"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 66,
+    "channel": 0,
+    "x": 32.929,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:43:44"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 66,
+    "channel": 0,
+    "x": 36.58,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:49:50"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 66,
+    "channel": 0,
+    "x": 39.957,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:55:56"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 67,
+    "channel": 0,
+    "x": 43.583,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:61:62"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 47.773,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:65:66"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 71,
+    "channel": 0,
+    "x": 51.402,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:71:72"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 56.793,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:48:75:76"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 66,
+    "channel": 0,
+    "x": 61.024,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:2:3"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3840,
+    "pitch": 74,
+    "channel": 0,
+    "x": 68.493,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:7:8"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 71,
+    "channel": 0,
+    "x": 72.123,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:13:14"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 74.552,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 71,
+    "channel": 0,
+    "x": 78.742,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:26:27"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 81.172,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:31:32"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 85.521,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:37:38"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 89.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:41:42"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 64,
+    "channel": 0,
+    "x": 94.3,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:45:46"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5568,
+    "pitch": 66,
+    "channel": 0,
+    "x": 96.875,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:51:52"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5760,
+    "pitch": 67,
+    "channel": 0,
+    "x": 99.749,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:57:58"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5952,
+    "pitch": 67,
+    "channel": 0,
+    "x": 103.94,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:49:63:64"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 106.369,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:5:6"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 57,
+    "channel": 0,
+    "x": 117.03,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 57,
+    "channel": 0,
+    "x": 119.459,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:13:14"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 62,
+    "channel": 0,
+    "x": 123.65,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:17:18"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 62,
+    "channel": 0,
+    "x": 126.737,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:21:22"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 62,
+    "channel": 0,
+    "x": 130.687,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:25:26"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 64,
+    "channel": 0,
+    "x": 134.936,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:29:30"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 66,
+    "channel": 0,
+    "x": 139.423,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:35:36"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 66,
+    "channel": 0,
+    "x": 143.074,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:41:42"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8640,
+    "pitch": 66,
+    "channel": 0,
+    "x": 146.452,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:47:48"
+    ],
+    "on_tick": 8640,
+    "off_tick": 8832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 150.077,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:53:54"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 154.268,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:57:58"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 71,
+    "channel": 0,
+    "x": 157.897,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:63:64"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 163.287,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:50:67:68"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 167.519,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:2:3"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 74,
+    "channel": 0,
+    "x": 174.988,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:7:8"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 71,
+    "channel": 0,
+    "x": 178.617,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:13:14"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 181.046,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:20:21"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 185.237,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:26:27"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 71,
+    "channel": 0,
+    "x": 187.666,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:36:37"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12288,
+    "pitch": 69,
+    "channel": 0,
+    "x": 195.135,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:40:41"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 71,
+    "channel": 0,
+    "x": 198.764,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:46:47"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 201.193,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:53:54"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 69,
+    "channel": 0,
+    "x": 205.384,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:51:59:60"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 66,
+    "channel": 0,
+    "x": 207.813,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:2:3"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 66,
+    "channel": 0,
+    "x": 215.282,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:8:9"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 66,
+    "channel": 0,
+    "x": 219.172,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:14:15"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 69,
+    "channel": 0,
+    "x": 224.146,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:18:19"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 66,
+    "channel": 0,
+    "x": 228.497,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:26:27"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 64,
+    "channel": 0,
+    "x": 232.737,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:30:31"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 62,
+    "channel": 0,
+    "x": 236.985,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:34:35"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 64,
+    "channel": 0,
+    "x": 240.722,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:38:39"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14976,
+    "pitch": 62,
+    "channel": 0,
+    "x": 244.372,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:52:44:45"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15744,
+    "pitch": 62,
+    "channel": 0,
+    "x": 248.563,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:13:14"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 57,
+    "channel": 0,
+    "x": 262.604,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 57,
+    "channel": 0,
+    "x": 265.033,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:21:22"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 62,
+    "channel": 0,
+    "x": 269.224,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:25:26"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 62,
+    "channel": 0,
+    "x": 272.311,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:29:30"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 62,
+    "channel": 0,
+    "x": 276.244,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:33:34"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 280.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:37:38"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 66,
+    "channel": 0,
+    "x": 284.869,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:43:44"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 66,
+    "channel": 0,
+    "x": 288.981,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:49:50"
+    ],
+    "on_tick": 17664,
+    "off_tick": 17856,
+    "pitch": 66,
+    "channel": 0,
+    "x": 292.956,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:55:56"
+    ],
+    "on_tick": 17856,
+    "off_tick": 18048,
+    "pitch": 67,
+    "channel": 0,
+    "x": 296.581,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:61:62"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18432,
+    "pitch": 69,
+    "channel": 0,
+    "x": 300.772,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:65:66"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 71,
+    "channel": 0,
+    "x": 304.401,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:71:72"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 69,
+    "channel": 0,
+    "x": 309.792,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:57:75:76"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 66,
+    "channel": 0,
+    "x": 314.023,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 74,
+    "channel": 0,
+    "x": 321.492,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:7:8"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 71,
+    "channel": 0,
+    "x": 325.121,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:13:14"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 69,
+    "channel": 0,
+    "x": 327.55,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:20:21"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 71,
+    "channel": 0,
+    "x": 331.741,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:26:27"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20928,
+    "pitch": 69,
+    "channel": 0,
+    "x": 334.17,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:31:32"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 338.52,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:37:38"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21312,
+    "pitch": 69,
+    "channel": 0,
+    "x": 342.785,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:41:42"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 64,
+    "channel": 0,
+    "x": 348.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:45:46"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 66,
+    "channel": 0,
+    "x": 353.356,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:51:52"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 67,
+    "channel": 0,
+    "x": 358.569,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:57:58"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 67,
+    "channel": 0,
+    "x": 362.76,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:58:63:64"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22656,
+    "pitch": 66,
+    "channel": 0,
+    "x": 365.189,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:5:6"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 57,
+    "channel": 0,
+    "x": 375.85,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 57,
+    "channel": 0,
+    "x": 378.279,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:13:14"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23616,
+    "pitch": 62,
+    "channel": 0,
+    "x": 382.47,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:17:18"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 62,
+    "channel": 0,
+    "x": 385.558,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:21:22"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24000,
+    "pitch": 62,
+    "channel": 0,
+    "x": 389.49,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:25:26"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 393.568,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:29:30"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 66,
+    "channel": 0,
+    "x": 398.115,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:35:36"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 66,
+    "channel": 0,
+    "x": 402.227,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:41:42"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 406.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:47:48"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 409.827,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:53:54"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 69,
+    "channel": 0,
+    "x": 414.018,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:57:58"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 71,
+    "channel": 0,
+    "x": 417.647,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:63:64"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 423.038,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:59:67:68"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 427.269,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:2:3"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 74,
+    "channel": 0,
+    "x": 434.738,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:7:8"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27072,
+    "pitch": 71,
+    "channel": 0,
+    "x": 438.367,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:13:14"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 440.797,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:20:21"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 444.987,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:26:27"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 71,
+    "channel": 0,
+    "x": 447.416,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:36:37"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 454.886,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:40:41"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 71,
+    "channel": 0,
+    "x": 458.515,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:46:47"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 460.944,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:53:54"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 465.134,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:60:59:60"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 66,
+    "channel": 0,
+    "x": 467.564,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:2:3"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29760,
+    "pitch": 66,
+    "channel": 0,
+    "x": 475.033,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:8:9"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 66,
+    "channel": 0,
+    "x": 478.923,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:14:15"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30144,
+    "pitch": 69,
+    "channel": 0,
+    "x": 483.897,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:18:19"
+    ],
+    "on_tick": 30144,
+    "off_tick": 30336,
+    "pitch": 66,
+    "channel": 0,
+    "x": 488.247,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:26:27"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 64,
+    "channel": 0,
+    "x": 492.47,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:30:31"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 62,
+    "channel": 0,
+    "x": 496.548,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:34:35"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 501.095,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:38:39"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 62,
+    "channel": 0,
+    "x": 505.207,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:61:44:45"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31872,
+    "pitch": 62,
+    "channel": 0,
+    "x": 509.398,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:13:14"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 57,
+    "channel": 0,
+    "x": 523.439,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:16:17"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 57,
+    "channel": 0,
+    "x": 525.868,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:21:22"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 62,
+    "channel": 0,
+    "x": 530.058,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:25:26"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 62,
+    "channel": 0,
+    "x": 534.119,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:29:30"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33216,
+    "pitch": 62,
+    "channel": 0,
+    "x": 537.906,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:33:34"
+    ],
+    "on_tick": 33216,
+    "off_tick": 33408,
+    "pitch": 64,
+    "channel": 0,
+    "x": 542.181,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:37:38"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33600,
+    "pitch": 66,
+    "channel": 0,
+    "x": 546.371,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:43:44"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 66,
+    "channel": 0,
+    "x": 549.544,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:49:50"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 554.177,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:55:56"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 558.528,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:61:62"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 562.718,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:65:66"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34944,
+    "pitch": 71,
+    "channel": 0,
+    "x": 566.347,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:71:72"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 571.738,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:66:75:76"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 66,
+    "channel": 0,
+    "x": 575.969,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:2:3"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36096,
+    "pitch": 74,
+    "channel": 0,
+    "x": 583.438,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:7:8"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36288,
+    "pitch": 71,
+    "channel": 0,
+    "x": 587.067,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:13:14"
+    ],
+    "on_tick": 36288,
+    "off_tick": 36480,
+    "pitch": 69,
+    "channel": 0,
+    "x": 589.497,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:20:21"
+    ],
+    "on_tick": 36480,
+    "off_tick": 36672,
+    "pitch": 71,
+    "channel": 0,
+    "x": 593.687,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:26:27"
+    ],
+    "on_tick": 36672,
+    "off_tick": 37056,
+    "pitch": 69,
+    "channel": 0,
+    "x": 596.116,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:31:32"
+    ],
+    "on_tick": 37056,
+    "off_tick": 37248,
+    "pitch": 69,
+    "channel": 0,
+    "x": 600.466,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:37:38"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37440,
+    "pitch": 69,
+    "channel": 0,
+    "x": 604.732,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:41:42"
+    ],
+    "on_tick": 37440,
+    "off_tick": 37632,
+    "pitch": 64,
+    "channel": 0,
+    "x": 610.013,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:45:46"
+    ],
+    "on_tick": 37632,
+    "off_tick": 37824,
+    "pitch": 66,
+    "channel": 0,
+    "x": 613.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:51:52"
+    ],
+    "on_tick": 37824,
+    "off_tick": 38016,
+    "pitch": 67,
+    "channel": 0,
+    "x": 617.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:57:58"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38208,
+    "pitch": 67,
+    "channel": 0,
+    "x": 621.462,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:67:63:64"
+    ],
+    "on_tick": 38208,
+    "off_tick": 38784,
+    "pitch": 66,
+    "channel": 0,
+    "x": 623.892,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:5:6"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39360,
+    "pitch": 57,
+    "channel": 0,
+    "x": 634.553,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:8:9"
+    ],
+    "on_tick": 39360,
+    "off_tick": 39552,
+    "pitch": 57,
+    "channel": 0,
+    "x": 636.982,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:13:14"
+    ],
+    "on_tick": 39552,
+    "off_tick": 39744,
+    "pitch": 62,
+    "channel": 0,
+    "x": 641.172,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:17:18"
+    ],
+    "on_tick": 39744,
+    "off_tick": 39936,
+    "pitch": 62,
+    "channel": 0,
+    "x": 645.233,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:21:22"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 62,
+    "channel": 0,
+    "x": 649.021,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:25:26"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 64,
+    "channel": 0,
+    "x": 653.295,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:29:30"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 66,
+    "channel": 0,
+    "x": 657.485,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:35:36"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 66,
+    "channel": 0,
+    "x": 660.658,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:41:42"
+    ],
+    "on_tick": 40704,
+    "off_tick": 40896,
+    "pitch": 66,
+    "channel": 0,
+    "x": 665.291,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:47:48"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 67,
+    "channel": 0,
+    "x": 669.642,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:53:54"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41472,
+    "pitch": 69,
+    "channel": 0,
+    "x": 673.832,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:57:58"
+    ],
+    "on_tick": 41472,
+    "off_tick": 41856,
+    "pitch": 71,
+    "channel": 0,
+    "x": 677.461,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:63:64"
+    ],
+    "on_tick": 41856,
+    "off_tick": 42048,
+    "pitch": 69,
+    "channel": 0,
+    "x": 682.852,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:68:67:68"
+    ],
+    "on_tick": 42048,
+    "off_tick": 42240,
+    "pitch": 66,
+    "channel": 0,
+    "x": 687.083,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:2:3"
+    ],
+    "on_tick": 42624,
+    "off_tick": 43008,
+    "pitch": 74,
+    "channel": 0,
+    "x": 694.552,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:7:8"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 698.182,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:13:14"
+    ],
+    "on_tick": 43200,
+    "off_tick": 43392,
+    "pitch": 69,
+    "channel": 0,
+    "x": 700.611,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:20:21"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 704.801,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:26:27"
+    ],
+    "on_tick": 43584,
+    "off_tick": 43776,
+    "pitch": 71,
+    "channel": 0,
+    "x": 707.23,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:36:37"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 714.7,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:40:41"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44736,
+    "pitch": 71,
+    "channel": 0,
+    "x": 718.329,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:46:47"
+    ],
+    "on_tick": 44736,
+    "off_tick": 44928,
+    "pitch": 69,
+    "channel": 0,
+    "x": 720.758,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:53:54"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 724.948,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:69:59:60"
+    ],
+    "on_tick": 45120,
+    "off_tick": 45312,
+    "pitch": 66,
+    "channel": 0,
+    "x": 727.378,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:2:3"
+    ],
+    "on_tick": 45696,
+    "off_tick": 45888,
+    "pitch": 66,
+    "channel": 0,
+    "x": 734.847,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:8:9"
+    ],
+    "on_tick": 45888,
+    "off_tick": 46080,
+    "pitch": 66,
+    "channel": 0,
+    "x": 738.737,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:14:15"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 743.711,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:18:19"
+    ],
+    "on_tick": 46272,
+    "off_tick": 46464,
+    "pitch": 66,
+    "channel": 0,
+    "x": 748.062,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:26:27"
+    ],
+    "on_tick": 46464,
+    "off_tick": 46656,
+    "pitch": 64,
+    "channel": 0,
+    "x": 752.421,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:30:31"
+    ],
+    "on_tick": 46656,
+    "off_tick": 46848,
+    "pitch": 62,
+    "channel": 0,
+    "x": 755.748,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:34:35"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47040,
+    "pitch": 64,
+    "channel": 0,
+    "x": 758.861,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:38:39"
+    ],
+    "on_tick": 47040,
+    "off_tick": 47232,
+    "pitch": 62,
+    "channel": 0,
+    "x": 761.29,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:70:44:45"
+    ],
+    "on_tick": 47232,
+    "off_tick": 48000,
+    "pitch": 62,
+    "channel": 0,
+    "x": 765.48,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:13:14"
+    ],
+    "on_tick": 48384,
+    "off_tick": 48576,
+    "pitch": 57,
+    "channel": 0,
+    "x": 779.522,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:16:17"
+    ],
+    "on_tick": 48576,
+    "off_tick": 48768,
+    "pitch": 57,
+    "channel": 0,
+    "x": 781.951,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:21:22"
+    ],
+    "on_tick": 48768,
+    "off_tick": 48960,
+    "pitch": 62,
+    "channel": 0,
+    "x": 786.141,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:25:26"
+    ],
+    "on_tick": 48960,
+    "off_tick": 49152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 789.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:29:30"
+    ],
+    "on_tick": 49152,
+    "off_tick": 49344,
+    "pitch": 62,
+    "channel": 0,
+    "x": 793.46,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:33:34"
+    ],
+    "on_tick": 49344,
+    "off_tick": 49536,
+    "pitch": 64,
+    "channel": 0,
+    "x": 797.188,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:37:38"
+    ],
+    "on_tick": 49536,
+    "off_tick": 49728,
+    "pitch": 66,
+    "channel": 0,
+    "x": 801.378,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:43:44"
+    ],
+    "on_tick": 49728,
+    "off_tick": 49920,
+    "pitch": 66,
+    "channel": 0,
+    "x": 805.192,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:49:50"
+    ],
+    "on_tick": 49920,
+    "off_tick": 50112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 809.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:55:56"
+    ],
+    "on_tick": 50112,
+    "off_tick": 50304,
+    "pitch": 67,
+    "channel": 0,
+    "x": 814.064,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:61:62"
+    ],
+    "on_tick": 50304,
+    "off_tick": 50688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 818.255,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:65:66"
+    ],
+    "on_tick": 50688,
+    "off_tick": 51072,
+    "pitch": 71,
+    "channel": 0,
+    "x": 821.884,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:71:72"
+    ],
+    "on_tick": 51072,
+    "off_tick": 51264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 827.274,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:75:75:76"
+    ],
+    "on_tick": 51264,
+    "off_tick": 51456,
+    "pitch": 66,
+    "channel": 0,
+    "x": 831.506,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:2:3"
+    ],
+    "on_tick": 51840,
+    "off_tick": 52224,
+    "pitch": 74,
+    "channel": 0,
+    "x": 838.975,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:7:8"
+    ],
+    "on_tick": 52224,
+    "off_tick": 52416,
+    "pitch": 71,
+    "channel": 0,
+    "x": 842.604,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:13:14"
+    ],
+    "on_tick": 52416,
+    "off_tick": 52608,
+    "pitch": 69,
+    "channel": 0,
+    "x": 845.033,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:20:21"
+    ],
+    "on_tick": 52608,
+    "off_tick": 52800,
+    "pitch": 71,
+    "channel": 0,
+    "x": 849.224,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:26:27"
+    ],
+    "on_tick": 52800,
+    "off_tick": 53184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 851.653,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:31:32"
+    ],
+    "on_tick": 53184,
+    "off_tick": 53376,
+    "pitch": 69,
+    "channel": 0,
+    "x": 856.002,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:37:38"
+    ],
+    "on_tick": 53376,
+    "off_tick": 53568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 860.268,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:41:42"
+    ],
+    "on_tick": 53568,
+    "off_tick": 53760,
+    "pitch": 64,
+    "channel": 0,
+    "x": 864.866,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:45:46"
+    ],
+    "on_tick": 53760,
+    "off_tick": 53952,
+    "pitch": 66,
+    "channel": 0,
+    "x": 867.698,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:51:52"
+    ],
+    "on_tick": 53952,
+    "off_tick": 54144,
+    "pitch": 67,
+    "channel": 0,
+    "x": 870.538,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:57:58"
+    ],
+    "on_tick": 54144,
+    "off_tick": 54336,
+    "pitch": 67,
+    "channel": 0,
+    "x": 874.728,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:76:63:64"
+    ],
+    "on_tick": 54336,
+    "off_tick": 54912,
+    "pitch": 66,
+    "channel": 0,
+    "x": 877.158,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:5:6"
+    ],
+    "on_tick": 55296,
+    "off_tick": 55488,
+    "pitch": 57,
+    "channel": 0,
+    "x": 887.819,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:8:9"
+    ],
+    "on_tick": 55488,
+    "off_tick": 55680,
+    "pitch": 57,
+    "channel": 0,
+    "x": 890.248,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:13:14"
+    ],
+    "on_tick": 55680,
+    "off_tick": 55872,
+    "pitch": 62,
+    "channel": 0,
+    "x": 894.438,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:17:18"
+    ],
+    "on_tick": 55872,
+    "off_tick": 56064,
+    "pitch": 62,
+    "channel": 0,
+    "x": 897.731,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:21:22"
+    ],
+    "on_tick": 56064,
+    "off_tick": 56256,
+    "pitch": 62,
+    "channel": 0,
+    "x": 901.757,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:25:26"
+    ],
+    "on_tick": 56256,
+    "off_tick": 56448,
+    "pitch": 64,
+    "channel": 0,
+    "x": 905.485,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:29:30"
+    ],
+    "on_tick": 56448,
+    "off_tick": 56640,
+    "pitch": 66,
+    "channel": 0,
+    "x": 909.676,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:35:36"
+    ],
+    "on_tick": 56640,
+    "off_tick": 56832,
+    "pitch": 66,
+    "channel": 0,
+    "x": 913.489,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:41:42"
+    ],
+    "on_tick": 56832,
+    "off_tick": 57024,
+    "pitch": 66,
+    "channel": 0,
+    "x": 917.584,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:47:48"
+    ],
+    "on_tick": 57024,
+    "off_tick": 57216,
+    "pitch": 67,
+    "channel": 0,
+    "x": 922.361,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:53:54"
+    ],
+    "on_tick": 57216,
+    "off_tick": 57600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 926.552,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:57:58"
+    ],
+    "on_tick": 57600,
+    "off_tick": 57984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 930.181,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:63:64"
+    ],
+    "on_tick": 57984,
+    "off_tick": 58176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 935.572,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:77:67:68"
+    ],
+    "on_tick": 58176,
+    "off_tick": 58368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 939.803,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:2:3"
+    ],
+    "on_tick": 58752,
+    "off_tick": 59136,
+    "pitch": 74,
+    "channel": 0,
+    "x": 947.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:7:8"
+    ],
+    "on_tick": 59136,
+    "off_tick": 59328,
+    "pitch": 71,
+    "channel": 0,
+    "x": 950.901,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:13:14"
+    ],
+    "on_tick": 59328,
+    "off_tick": 59520,
+    "pitch": 69,
+    "channel": 0,
+    "x": 953.33,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:20:21"
+    ],
+    "on_tick": 59520,
+    "off_tick": 59712,
+    "pitch": 69,
+    "channel": 0,
+    "x": 957.521,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:26:27"
+    ],
+    "on_tick": 59712,
+    "off_tick": 59904,
+    "pitch": 71,
+    "channel": 0,
+    "x": 959.95,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:36:37"
+    ],
+    "on_tick": 60288,
+    "off_tick": 60672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 967.419,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:40:41"
+    ],
+    "on_tick": 60672,
+    "off_tick": 60864,
+    "pitch": 71,
+    "channel": 0,
+    "x": 971.048,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:46:47"
+    ],
+    "on_tick": 60864,
+    "off_tick": 61056,
+    "pitch": 69,
+    "channel": 0,
+    "x": 973.478,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:53:54"
+    ],
+    "on_tick": 61056,
+    "off_tick": 61248,
+    "pitch": 69,
+    "channel": 0,
+    "x": 977.668,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:78:59:60"
+    ],
+    "on_tick": 61248,
+    "off_tick": 61440,
+    "pitch": 66,
+    "channel": 0,
+    "x": 980.097,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:2:3"
+    ],
+    "on_tick": 61824,
+    "off_tick": 62016,
+    "pitch": 66,
+    "channel": 0,
+    "x": 987.566,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:8:9"
+    ],
+    "on_tick": 62016,
+    "off_tick": 62208,
+    "pitch": 66,
+    "channel": 0,
+    "x": 991.456,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:14:15"
+    ],
+    "on_tick": 62208,
+    "off_tick": 62400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 996.43,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:18:19"
+    ],
+    "on_tick": 62400,
+    "off_tick": 62592,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1000.781,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:26:27"
+    ],
+    "on_tick": 62592,
+    "off_tick": 62784,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1004.972,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:30:31"
+    ],
+    "on_tick": 62784,
+    "off_tick": 62976,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1008.264,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:34:35"
+    ],
+    "on_tick": 62976,
+    "off_tick": 63168,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1011.634,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:38:39"
+    ],
+    "on_tick": 63168,
+    "off_tick": 63360,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1015.728,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:79:44:45"
+    ],
+    "on_tick": 63360,
+    "off_tick": 64128,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1019.919,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:13:14"
+    ],
+    "on_tick": 64512,
+    "off_tick": 64704,
+    "pitch": 57,
+    "channel": 0,
+    "x": 1033.96,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:16:17"
+    ],
+    "on_tick": 64704,
+    "off_tick": 64896,
+    "pitch": 57,
+    "channel": 0,
+    "x": 1036.389,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:21:22"
+    ],
+    "on_tick": 64896,
+    "off_tick": 65088,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1040.58,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:25:26"
+    ],
+    "on_tick": 65088,
+    "off_tick": 65280,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1044.521,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:29:30"
+    ],
+    "on_tick": 65280,
+    "off_tick": 65472,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1049.196,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:33:34"
+    ],
+    "on_tick": 65472,
+    "off_tick": 65664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1052.975,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:37:38"
+    ],
+    "on_tick": 65664,
+    "off_tick": 65856,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1057.166,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:43:44"
+    ],
+    "on_tick": 65856,
+    "off_tick": 66048,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1059.673,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:49:50"
+    ],
+    "on_tick": 66048,
+    "off_tick": 66240,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1063.05,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:55:56"
+    ],
+    "on_tick": 66240,
+    "off_tick": 66432,
+    "pitch": 67,
+    "channel": 0,
+    "x": 1066.676,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:61:62"
+    ],
+    "on_tick": 66432,
+    "off_tick": 66816,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1070.866,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:65:66"
+    ],
+    "on_tick": 66816,
+    "off_tick": 67200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1074.496,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:71:72"
+    ],
+    "on_tick": 67200,
+    "off_tick": 67392,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1079.886,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:84:75:76"
+    ],
+    "on_tick": 67392,
+    "off_tick": 67584,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1084.117,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:2:3"
+    ],
+    "on_tick": 67968,
+    "off_tick": 68352,
+    "pitch": 74,
+    "channel": 0,
+    "x": 1091.587,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:7:8"
+    ],
+    "on_tick": 68352,
+    "off_tick": 68544,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1095.216,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:13:14"
+    ],
+    "on_tick": 68544,
+    "off_tick": 68736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1097.645,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:20:21"
+    ],
+    "on_tick": 68736,
+    "off_tick": 68928,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1101.836,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:26:27"
+    ],
+    "on_tick": 68928,
+    "off_tick": 69312,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1104.265,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:31:32"
+    ],
+    "on_tick": 69312,
+    "off_tick": 69504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1108.614,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:37:38"
+    ],
+    "on_tick": 69504,
+    "off_tick": 69696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1112.805,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:41:42"
+    ],
+    "on_tick": 69696,
+    "off_tick": 69888,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1116.516,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:45:46"
+    ],
+    "on_tick": 69888,
+    "off_tick": 70080,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1121.003,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:51:52"
+    ],
+    "on_tick": 70080,
+    "off_tick": 70272,
+    "pitch": 67,
+    "channel": 0,
+    "x": 1126.079,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:57:58"
+    ],
+    "on_tick": 70272,
+    "off_tick": 70464,
+    "pitch": 67,
+    "channel": 0,
+    "x": 1130.27,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:85:63:64"
+    ],
+    "on_tick": 70464,
+    "off_tick": 71040,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1132.699,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:5:6"
+    ],
+    "on_tick": 71424,
+    "off_tick": 71616,
+    "pitch": 57,
+    "channel": 0,
+    "x": 1143.36,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:8:9"
+    ],
+    "on_tick": 71616,
+    "off_tick": 71808,
+    "pitch": 57,
+    "channel": 0,
+    "x": 1145.789,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:13:14"
+    ],
+    "on_tick": 71808,
+    "off_tick": 72000,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1149.98,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:17:18"
+    ],
+    "on_tick": 72000,
+    "off_tick": 72192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1153.921,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:21:22"
+    ],
+    "on_tick": 72192,
+    "off_tick": 72384,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1158.596,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:25:26"
+    ],
+    "on_tick": 72384,
+    "off_tick": 72576,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1162.375,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:29:30"
+    ],
+    "on_tick": 72576,
+    "off_tick": 72768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1166.566,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:35:36"
+    ],
+    "on_tick": 72768,
+    "off_tick": 72960,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1169.073,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:41:42"
+    ],
+    "on_tick": 72960,
+    "off_tick": 73152,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1172.451,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:47:48"
+    ],
+    "on_tick": 73152,
+    "off_tick": 73344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 1176.076,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:53:54"
+    ],
+    "on_tick": 73344,
+    "off_tick": 73728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1180.267,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:57:58"
+    ],
+    "on_tick": 73728,
+    "off_tick": 74112,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1183.896,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:63:64"
+    ],
+    "on_tick": 74112,
+    "off_tick": 74304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1189.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:86:67:68"
+    ],
+    "on_tick": 74304,
+    "off_tick": 74496,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1193.518,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:2:3"
+    ],
+    "on_tick": 74880,
+    "off_tick": 75264,
+    "pitch": 74,
+    "channel": 0,
+    "x": 1200.987,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:7:8"
+    ],
+    "on_tick": 75264,
+    "off_tick": 75456,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1204.616,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:13:14"
+    ],
+    "on_tick": 75456,
+    "off_tick": 75648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1207.045,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:20:21"
+    ],
+    "on_tick": 75648,
+    "off_tick": 75840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1211.236,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:26:27"
+    ],
+    "on_tick": 75840,
+    "off_tick": 76032,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1213.665,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:36:37"
+    ],
+    "on_tick": 76416,
+    "off_tick": 76800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1221.134,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:40:41"
+    ],
+    "on_tick": 76800,
+    "off_tick": 76992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1224.763,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:46:47"
+    ],
+    "on_tick": 76992,
+    "off_tick": 77184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1227.192,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:53:54"
+    ],
+    "on_tick": 77184,
+    "off_tick": 77376,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1231.383,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:87:59:60"
+    ],
+    "on_tick": 77376,
+    "off_tick": 77568,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1233.812,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:2:3"
+    ],
+    "on_tick": 77952,
+    "off_tick": 78144,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1241.281,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:8:9"
+    ],
+    "on_tick": 78144,
+    "off_tick": 78336,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1245.171,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:14:15"
+    ],
+    "on_tick": 78336,
+    "off_tick": 78528,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1250.145,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:18:19"
+    ],
+    "on_tick": 78528,
+    "off_tick": 78720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1254.496,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:26:27"
+    ],
+    "on_tick": 78720,
+    "off_tick": 78912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1258.687,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:30:31"
+    ],
+    "on_tick": 78912,
+    "off_tick": 79104,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1261.116,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:34:35"
+    ],
+    "on_tick": 79104,
+    "off_tick": 79296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 1264.519,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:38:39"
+    ],
+    "on_tick": 79296,
+    "off_tick": 79488,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1268.631,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM166_AyoBawaPersembahanmu/GPM166_AyoBawaPersembahanmu_ly_data.ily:88:44:45"
+    ],
+    "on_tick": 79488,
+    "off_tick": 80256,
+    "pitch": 62,
+    "channel": 0,
+    "x": 1272.822,
+    "y": 15.289
+  }
+]

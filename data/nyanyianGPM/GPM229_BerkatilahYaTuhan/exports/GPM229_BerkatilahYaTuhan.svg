@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="213.29mm" viewBox="0.0000 -0.0000 119.5016 121.3731">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="208.74mm" viewBox="0.0000 -0.0000 119.5016 118.7854">
 <defs><style>
 @font-face {
     font-family: 'Lilypond Serif';
@@ -54,9 +54,9 @@
 tspan { white-space: pre; }
 ]]>
 </style>
-<g transform="translate(31.4289, 12.1099)">
+<g transform="translate(31.9069, 12.1099)">
 <text font-family="Lilypond Serif" font-weight="bold" font-size="3.4927" text-anchor="start" fill="currentColor">
-<tspan>GPM 229. Berkatilah, Ya Tuhan</tspan>
+<tspan>GPM 229. Berkatilah Ya Tuhan</tspan>
 </text>
 </g>
 <g transform="translate(9.5358, 19.1099)">
@@ -127,28 +127,28 @@ tspan { white-space: pre; }
 </g>
 <g data-bar="1" data-bar-moment-main="0" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 29.2131)">
-<rect x="0.5660" y="-2.0500" width="50.7680" height="4.1000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(8.5358, 26.6599)">
+<rect x="0.5000" y="-2.0500" width="50.8340" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="2" data-bar-moment-main="1" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(59.6798, 29.2131)">
+<g transform="translate(59.6798, 26.6599)">
 <rect x="0.1900" y="-2.0500" width="51.0959" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(59.6798, 29.2131)">
+<g transform="translate(59.6798, 26.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(110.7757, 29.2131)">
+<g transform="translate(110.7757, 26.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:41:42">
-<g transform="translate(97.0185, 33.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:39:40">
+<g transform="translate(97.0185, 31.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ka</tspan>
 </text>
@@ -160,42 +160,42 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:36:37">
-<g transform="translate(63.8775, 33.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:42:43">
+<g transform="translate(101.3773, 31.2099)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:31:32">
+<g transform="translate(59.3019, 31.2099)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:18:19">
+<g transform="translate(31.6580, 31.2099)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:12:13">
+<g transform="translate(25.9678, 31.2099)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:6:7">
+<g transform="translate(16.9630, 31.2099)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:34:35">
+<g transform="translate(63.8775, 31.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>han,</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:44:45">
-<g transform="translate(101.3773, 33.7631)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:33:34">
-<g transform="translate(59.3019, 33.7631)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:20:21">
-<g transform="translate(31.6580, 33.7631)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:14:15">
-<g transform="translate(25.9678, 33.7631)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:8:9">
-<g transform="translate(16.9630, 33.7631)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:47:48">
-<g transform="translate(103.5622, 33.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:45:46">
+<g transform="translate(103.5622, 31.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ru</tspan>
 </text>
@@ -203,8 +203,17 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:17:18">
-<g transform="translate(28.3747, 33.9131)">
+<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
+</g>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:9:10">
+<g transform="translate(21.3870, 31.3599)">
+<text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ka</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:15:16">
+<g transform="translate(28.3747, 31.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ti</tspan>
 </text>
@@ -212,54 +221,22 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:11:12">
-<g transform="translate(21.3870, 33.9131)">
-<text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>ka</tspan>
-</text>
-</g>
-</a>
-<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
-</g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:38:5:6">
-<g transform="translate(9.5358, 26.3281)">
-<text font-family="Lilypond Serif" font-weight="bold" font-size="2.3312" text-anchor="start" fill="currentColor">
-<tspan>Bait 1</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:4:5">
-<g transform="translate(9.1018, 33.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:2:3">
+<g transform="translate(9.1018, 31.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Ber</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:50:51">
-<g transform="translate(108.1535, 33.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:48:49">
+<g transform="translate(108.1535, 31.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:27:28">
-<g transform="translate(46.0257, 33.9131)">
-<text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>ya</tspan>
-</text>
-</g>
-</a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
-</g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:23:24">
-<g transform="translate(33.8600, 33.9131)">
-<text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>lah</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:30:31">
-<g transform="translate(52.1769, 33.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:28:29">
+<g transform="translate(52.1769, 31.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Tu</tspan>
 </text>
@@ -267,170 +244,159 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:16:17">
-<g transform="translate(46.7257, 30.3631)">
-<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>6</tspan>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:25:26">
+<g transform="translate(46.0257, 31.3599)">
+<text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ya</tspan>
 </text>
 </g>
-<g transform="translate(47.3403, 31.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:21:22">
+<g transform="translate(33.8600, 31.3599)">
+<text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lah</tspan>
+</text>
 </g>
-<g transform="translate(47.3403, 30.8422)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
+</a>
+<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:43:12:13">
+<g transform="translate(28.6308, 27.8099)">
+<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
 </g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:19:20">
-<g transform="translate(53.1670, 30.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:43:24:25">
+<g transform="translate(53.1670, 27.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(53.7816, 31.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(53.7816, 30.8422)">
+<g transform="translate(53.7816, 28.2930)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
 </g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:24:25">
-<g transform="translate(63.8775, 30.3631)">
-<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>1</tspan>
-</text>
-</g>
-<g transform="translate(64.4920, 30.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-</a>
-</g>
-<g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:4:5">
-<g transform="translate(10.5358, 30.3631)">
-<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>1</tspan>
-</text>
-</g>
-<g transform="translate(11.1504, 30.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-</a>
-</g>
-<g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:28:29">
-<g transform="translate(97.8208, 30.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:44:9:10">
+<g transform="translate(97.8208, 27.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(98.4354, 30.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:7:8">
-<g transform="translate(22.1894, 30.3631)">
-<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>1</tspan>
-</text>
-</g>
-<g transform="translate(22.8040, 30.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-</a>
-</g>
-<g class="notangka">
-<g transform="translate(87.1759, 30.1131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
-</g>
-</g>
-<g class="notangka">
-<g transform="translate(76.0310, 30.1131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
-</g>
-</g>
-<g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:31:32">
-<g transform="translate(104.2622, 30.3631)">
-<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>3</tspan>
-</text>
-</g>
-<g transform="translate(104.8768, 30.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-</a>
-</g>
-<g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:13:14">
-<g transform="translate(35.0721, 30.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:43:16:17">
+<g transform="translate(35.0721, 27.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>7</tspan>
 </text>
 </g>
-<g transform="translate(35.6867, 31.4010)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(35.6867, 30.8400)">
+<g transform="translate(35.6867, 28.2908)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
 </g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:10:11">
-<g transform="translate(28.6308, 30.3631)">
+<g transform="translate(87.1759, 27.5599)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
+</g>
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:43:20:21">
+<g transform="translate(46.7257, 27.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>2</tspan>
+<tspan>6</tspan>
 </text>
 </g>
-<g transform="translate(29.2453, 30.8131)">
+<g transform="translate(47.3403, 28.2930)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
 </g>
 </a>
 </g>
-<g transform="translate(97.7708, 27.4881)">
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:43:8:9">
+<g transform="translate(22.1894, 27.8099)">
+<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:44:4:5">
+<g transform="translate(63.8775, 27.8099)">
+<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:43:4:5">
+<g transform="translate(10.5358, 27.8099)">
+<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+</a>
+</g>
+<g class="notangka">
+<g transform="translate(76.0310, 27.5599)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
+</g>
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:44:13:14">
+<g transform="translate(104.2622, 27.8099)">
+<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+</g>
+<g transform="translate(46.6757, 24.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.8014 -0.0350 7.8014 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(46.6757, 27.4881)">
+<g transform="translate(22.1394, 24.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.8014 -0.0350 7.8014 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(22.1394, 27.4881)">
+<g transform="translate(97.7708, 24.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.8014 -0.0350 7.8014 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
 <g data-bar="3" data-bar-moment-main="2" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 41.2131)">
+<g transform="translate(8.5358, 38.6599)">
 <rect x="0.5000" y="-2.0500" width="52.8703" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="4" data-bar-moment-main="3" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(61.7161, 41.2131)">
+<g transform="translate(61.7161, 38.6599)">
 <rect x="0.1900" y="-2.0500" width="49.0596" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(61.7161, 41.2131)">
+<g transform="translate(61.7161, 38.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(110.7757, 41.2131)">
+<g transform="translate(110.7757, 38.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:96:97">
-<g transform="translate(65.8807, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:94:95">
+<g transform="translate(65.8807, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>mi.</tspan>
+<tspan>mi</tspan>
 </text>
 </g>
 </a>
@@ -438,8 +404,8 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:90:91">
-<g transform="translate(54.4531, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:88:89">
+<g transform="translate(54.4531, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ka</tspan>
 </text>
@@ -447,40 +413,40 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:86:87">
-<g transform="translate(47.7573, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:84:85">
+<g transform="translate(47.7573, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>tas</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:93:94">
-<g transform="translate(61.2539, 45.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:91:92">
+<g transform="translate(61.2539, 43.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:83:84">
-<g transform="translate(45.4366, 45.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:81:82">
+<g transform="translate(45.4366, 43.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:75:76">
-<g transform="translate(33.3339, 45.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:73:74">
+<g transform="translate(33.3339, 43.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:68:69">
-<g transform="translate(26.6722, 45.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:66:67">
+<g transform="translate(26.6722, 43.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:57:58">
-<g transform="translate(13.8439, 45.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:55:56">
+<g transform="translate(13.8439, 43.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:42:43">
-<g transform="translate(99.5070, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:46:9:10">
+<g transform="translate(99.5070, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
@@ -488,8 +454,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:64:65">
-<g transform="translate(21.9471, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:62:63">
+<g transform="translate(21.9471, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>rah</tspan>
 </text>
@@ -497,8 +463,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:60:61">
-<g transform="translate(15.3708, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:58:59">
+<g transform="translate(15.3708, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>kan</tspan>
 </text>
@@ -506,8 +472,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:53:54">
-<g transform="translate(9.3237, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:51:52">
+<g transform="translate(9.3237, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>nia</tspan>
 </text>
@@ -515,8 +481,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:81:82">
-<g transform="translate(42.4101, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:79:80">
+<g transform="translate(42.4101, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>a</tspan>
 </text>
@@ -524,8 +490,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:78:79">
-<g transform="translate(34.7924, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:76:77">
+<g transform="translate(34.7924, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Mu</tspan>
 </text>
@@ -533,169 +499,142 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:80:71:72">
-<g transform="translate(28.0966, 45.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:69:70">
+<g transform="translate(28.0966, 43.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>mat</tspan>
 </text>
 </g>
 </a>
 <g class="notangka">
-<g transform="translate(88.9678, 42.1131)">
+<g transform="translate(88.9678, 39.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:30:31">
-<g transform="translate(48.8669, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:36:37">
+<g transform="translate(48.8669, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(49.4815, 42.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:27:28">
-<g transform="translate(42.4784, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:32:33">
+<g transform="translate(42.4784, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(43.0930, 42.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(77.9286, 42.1131)">
+<g transform="translate(77.9286, 39.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:33:34">
-<g transform="translate(55.2554, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:40:41">
+<g transform="translate(55.2554, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(55.8700, 42.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:14:15">
-<g transform="translate(23.3129, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:16:17">
+<g transform="translate(23.3129, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(23.9274, 42.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:19:20">
-<g transform="translate(29.7014, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:22:23">
+<g transform="translate(29.7014, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(30.3160, 42.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:9:10">
-<g transform="translate(16.9243, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:10:11">
+<g transform="translate(16.9243, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(17.5389, 42.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:4:5">
-<g transform="translate(10.5358, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:4:5">
+<g transform="translate(10.5358, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(11.1504, 42.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:22:23">
-<g transform="translate(36.0899, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:45:26:27">
+<g transform="translate(36.0899, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(36.7045, 42.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:38:39">
-<g transform="translate(65.8807, 42.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:46:4:5">
+<g transform="translate(65.8807, 39.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(66.4953, 42.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
-<g transform="translate(10.4858, 39.4881)">
+<g transform="translate(10.4858, 36.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(23.2629, 39.4881)">
+<g transform="translate(23.2629, 36.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(48.8169, 39.4881)">
+<g transform="translate(48.8169, 36.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(36.0399, 39.4881)">
+<g transform="translate(36.0399, 36.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
 <g data-bar="5" data-bar-moment-main="4" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 53.2131)">
+<g transform="translate(8.5358, 50.6599)">
 <rect x="0.5000" y="-2.0500" width="50.8340" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="6" data-bar-moment-main="5" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(59.6798, 53.2131)">
+<g transform="translate(59.6798, 50.6599)">
 <rect x="0.1900" y="-2.0500" width="51.0959" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(59.6798, 53.2131)">
+<g transform="translate(59.6798, 50.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(110.7757, 53.2131)">
+<g transform="translate(110.7757, 50.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:41:42">
-<g transform="translate(96.4551, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:134:135">
+<g transform="translate(96.4551, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>tun</tspan>
 </text>
@@ -705,47 +644,47 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:37:38">
-<g transform="translate(63.8775, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:130:131">
+<g transform="translate(63.8775, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Mu,</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:45:46">
-<g transform="translate(101.3261, 57.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:138:139">
+<g transform="translate(101.3261, 55.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:34:35">
-<g transform="translate(59.6092, 57.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:127:128">
+<g transform="translate(59.6092, 55.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:27:28">
-<g transform="translate(49.4969, 57.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:120:121">
+<g transform="translate(49.4969, 55.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:19:20">
-<g transform="translate(32.2811, 57.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:112:113">
+<g transform="translate(32.2811, 55.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:13:14">
-<g transform="translate(25.4556, 57.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:106:107">
+<g transform="translate(25.4556, 55.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:7:8">
-<g transform="translate(17.0057, 57.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:100:101">
+<g transform="translate(17.0057, 55.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:48:49">
-<g transform="translate(102.8964, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:141:142">
+<g transform="translate(102.8964, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>tun</tspan>
 </text>
@@ -753,8 +692,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:16:17">
-<g transform="translate(27.8113, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:109:110">
+<g transform="translate(27.8113, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ha</tspan>
 </text>
@@ -762,8 +701,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:10:11">
-<g transform="translate(21.8480, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:103:104">
+<g transform="translate(21.8480, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>si</tspan>
 </text>
@@ -771,8 +710,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:4:5">
-<g transform="translate(9.4774, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:97:98">
+<g transform="translate(9.4774, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Ka</tspan>
 </text>
@@ -780,8 +719,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:30:31">
-<g transform="translate(51.5623, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:123:124">
+<g transform="translate(51.5623, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>mat</tspan>
 </text>
@@ -789,8 +728,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:25:26">
-<g transform="translate(46.5891, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:118:119">
+<g transform="translate(46.5891, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>u</tspan>
 </text>
@@ -798,177 +737,150 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:22:23">
-<g transform="translate(34.5429, 57.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:115:116">
+<g transform="translate(34.5429, 55.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ni</tspan>
 </text>
 </g>
 </a>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:7:8">
-<g transform="translate(22.1894, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:47:8:9">
+<g transform="translate(22.1894, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(22.8040, 54.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(87.1759, 54.1131)">
+<g transform="translate(87.1759, 51.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:24:25">
-<g transform="translate(63.8775, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:48:4:5">
+<g transform="translate(63.8775, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(64.4920, 54.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:19:20">
-<g transform="translate(53.1670, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:47:24:25">
+<g transform="translate(53.1670, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(53.7816, 55.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(53.7816, 54.8422)">
+<g transform="translate(53.7816, 52.2930)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
 </g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:28:29">
-<g transform="translate(97.8208, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:48:9:10">
+<g transform="translate(97.8208, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(98.4354, 54.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:10:11">
-<g transform="translate(28.6308, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:47:12:13">
+<g transform="translate(28.6308, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(29.2453, 54.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:16:17">
-<g transform="translate(46.7257, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:47:20:21">
+<g transform="translate(46.7257, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>6</tspan>
 </text>
 </g>
-<g transform="translate(47.3403, 55.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(47.3403, 54.8422)">
+<g transform="translate(47.3403, 52.2930)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
 </g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:4:5">
-<g transform="translate(10.5358, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:47:4:5">
+<g transform="translate(10.5358, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(11.1504, 54.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(76.0310, 54.1131)">
+<g transform="translate(76.0310, 51.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:13:14">
-<g transform="translate(35.0721, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:47:16:17">
+<g transform="translate(35.0721, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>7</tspan>
 </text>
 </g>
-<g transform="translate(35.6867, 55.4010)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(35.6867, 54.8400)">
+<g transform="translate(35.6867, 52.2908)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
 </g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:31:32">
-<g transform="translate(104.2622, 54.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:48:13:14">
+<g transform="translate(104.2622, 51.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(104.8768, 54.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
-<g transform="translate(97.7708, 51.4881)">
+<g transform="translate(97.7708, 48.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.8014 -0.0350 7.8014 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(22.1394, 51.4881)">
+<g transform="translate(22.1394, 48.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.8014 -0.0350 7.8014 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(46.6757, 51.4881)">
+<g transform="translate(46.6757, 48.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.8014 -0.0350 7.8014 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
 <g data-bar="7" data-bar-moment-main="6" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 65.2131)">
-<rect x="0.5000" y="-2.0500" width="52.8771" height="4.1000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(8.5358, 62.6599)">
+<rect x="0.5000" y="-2.0500" width="52.8703" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="8" data-bar-moment-main="7" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(61.7229, 65.2131)">
-<rect x="0.1900" y="-2.0500" width="49.0528" height="4.1000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(61.7161, 62.6599)">
+<rect x="0.1900" y="-2.0500" width="49.0596" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(61.7229, 65.2131)">
+<g transform="translate(61.7161, 62.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(110.7757, 65.2131)">
+<g transform="translate(110.7757, 62.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:91:92">
-<g transform="translate(65.8871, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:184:185">
+<g transform="translate(65.8807, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>nar.</tspan>
+<tspan>nar</tspan>
 </text>
 </g>
 </a>
@@ -976,8 +888,8 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:85:86">
-<g transform="translate(54.5670, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:178:179">
+<g transform="translate(54.5726, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>be</tspan>
 </text>
@@ -985,35 +897,35 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:80:81">
-<g transform="translate(46.7453, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:173:174">
+<g transform="translate(46.7500, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>yang</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:88:89">
-<g transform="translate(61.1945, 69.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:181:182">
+<g transform="translate(61.1941, 67.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:73:74">
-<g transform="translate(39.1725, 69.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:166:167">
+<g transform="translate(39.1761, 67.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:64:65">
-<g transform="translate(26.7983, 69.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:157:158">
+<g transform="translate(26.8002, 67.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:55:56">
-<g transform="translate(13.9801, 69.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:148:149">
+<g transform="translate(13.9805, 67.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:44:45">
-<g transform="translate(99.5086, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:10:11">
+<g transform="translate(99.5070, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
@@ -1021,8 +933,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:61:62">
-<g transform="translate(22.5260, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:154:155">
+<g transform="translate(22.5276, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>pa</tspan>
 </text>
@@ -1030,8 +942,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:58:59">
-<g transform="translate(16.0529, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:151:152">
+<g transform="translate(16.0537, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>mi</tspan>
 </text>
@@ -1039,8 +951,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:52:53">
-<g transform="translate(9.7335, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:145:146">
+<g transform="translate(9.7335, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ka</tspan>
 </text>
@@ -1048,8 +960,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:76:77">
-<g transform="translate(41.2624, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:169:170">
+<g transform="translate(41.2663, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>lan</tspan>
 </text>
@@ -1057,8 +969,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:70:71">
-<g transform="translate(35.6599, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:163:164">
+<g transform="translate(35.6631, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ja</tspan>
 </text>
@@ -1066,173 +978,140 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:81:67:68">
-<g transform="translate(28.9308, 69.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:160:161">
+<g transform="translate(28.9331, 67.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>da</tspan>
 </text>
 </g>
 </a>
 <g class="notangka">
-<g transform="translate(88.9710, 66.1131)">
+<g transform="translate(88.9678, 63.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:30:31">
-<g transform="translate(48.8622, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:36:37">
+<g transform="translate(48.8669, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(49.4768, 66.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:27:28">
-<g transform="translate(42.4745, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:32:33">
+<g transform="translate(42.4784, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(43.0890, 66.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(77.9333, 66.1131)">
+<g transform="translate(77.9286, 63.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:35:36">
-<g transform="translate(55.2499, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:42:43">
+<g transform="translate(55.2554, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(55.8645, 67.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(55.8645, 66.8422)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:14:15">
-<g transform="translate(23.3113, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:16:17">
+<g transform="translate(23.3129, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(23.9259, 66.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:19:20">
-<g transform="translate(29.6990, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:22:23">
+<g transform="translate(29.7014, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(30.3136, 66.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:9:10">
-<g transform="translate(16.9236, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:10:11">
+<g transform="translate(16.9243, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(17.5381, 66.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:4:5">
-<g transform="translate(10.5358, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:4:5">
+<g transform="translate(10.5358, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(11.1504, 66.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:22:23">
-<g transform="translate(36.0867, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:49:26:27">
+<g transform="translate(36.0899, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(36.7013, 66.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:40:41">
-<g transform="translate(65.8871, 66.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:50:4:5">
+<g transform="translate(65.8807, 63.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(66.5016, 67.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(66.5016, 66.8422)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
-<g transform="translate(10.4858, 63.4881)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7477 -0.0350 7.7477 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
+<g transform="translate(10.4858, 60.9349)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(23.2613, 63.4881)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7477 -0.0350 7.7477 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
+<g transform="translate(23.2629, 60.9349)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(48.8122, 63.4881)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7477 -0.0350 7.7477 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
+<g transform="translate(48.8169, 60.9349)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(36.0367, 63.4881)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7477 -0.0350 7.7477 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
+<g transform="translate(36.0399, 60.9349)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7485 -0.0350 7.7485 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
 <g data-bar="9" data-bar-moment-main="8" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 77.2131)">
+<g transform="translate(8.5358, 74.6599)">
 <rect x="0.2416" y="-2.0500" width="48.3963" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="10" data-bar-moment-main="9" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(56.9837, 77.2131)">
+<g transform="translate(56.9837, 74.6599)">
 <rect x="0.1900" y="-2.0500" width="53.7921" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(110.7757, 77.2131)">
+<g transform="translate(110.7757, 74.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(56.9837, 77.2131)">
+<g transform="translate(56.9837, 74.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:46:47">
-<g transform="translate(83.5247, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:229:230">
+<g transform="translate(83.5247, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Mu,</tspan>
 </text>
@@ -1240,8 +1119,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:50:51">
-<g transform="translate(94.6655, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:233:234">
+<g transform="translate(94.6655, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>s'mo</tspan>
 </text>
@@ -1249,15 +1128,15 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:58:59">
-<g transform="translate(99.8188, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:241:242">
+<g transform="translate(99.8188, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ga</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:40:41">
-<g transform="translate(78.2104, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:223:224">
+<g transform="translate(78.2104, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>sa</tspan>
 </text>
@@ -1265,40 +1144,40 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:35:36">
-<g transform="translate(72.4522, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:218:219">
+<g transform="translate(72.4522, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>a</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:43:44">
-<g transform="translate(81.7838, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:226:227">
+<g transform="translate(81.7838, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:37:38">
-<g transform="translate(75.6841, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:220:221">
+<g transform="translate(75.6841, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:32:33">
-<g transform="translate(67.4992, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:215:216">
+<g transform="translate(67.4992, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:22:23">
-<g transform="translate(32.8264, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:206:207">
+<g transform="translate(32.8264, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:14:15">
-<g transform="translate(24.5160, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:198:199">
+<g transform="translate(24.5160, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:8:9">
-<g transform="translate(17.1761, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:192:193">
+<g transform="translate(17.1761, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
@@ -1306,15 +1185,15 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:61:62">
-<g transform="translate(103.2723, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:244:245">
+<g transform="translate(103.2723, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ser</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:4:5">
-<g transform="translate(8.7774, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:188:189">
+<g transform="translate(8.7774, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>Bim</tspan>
 </text>
@@ -1322,8 +1201,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:11:12">
-<g transform="translate(21.4889, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:195:196">
+<g transform="translate(21.4889, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>bi</tspan>
 </text>
@@ -1331,8 +1210,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:17:18">
-<g transform="translate(26.0521, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:201:202">
+<g transform="translate(26.0521, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ngan</tspan>
 </text>
@@ -1340,8 +1219,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:65:66">
-<g transform="translate(108.4183, 81.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:248:249">
+<g transform="translate(108.4183, 79.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
@@ -1349,205 +1228,166 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:29:30">
-<g transform="translate(60.2358, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:212:213">
+<g transform="translate(60.2358, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ku</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:25:26">
-<g transform="translate(34.5930, 81.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:209:210">
+<g transform="translate(34.5930, 79.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>Mu,</tspan>
+<tspan>Mu</tspan>
 </text>
 </g>
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:4:5">
-<g transform="translate(10.5358, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:4:5">
+<g transform="translate(10.5358, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(11.1504, 78.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:25:26">
-<g transform="translate(72.5204, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:9:10">
+<g transform="translate(72.5204, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(73.1350, 79.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(73.1350, 78.8422)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:14:15">
-<g transform="translate(28.2714, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:16:17">
+<g transform="translate(28.2714, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(28.8860, 78.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:22:23">
-<g transform="translate(61.1065, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:4:5">
+<g transform="translate(61.1065, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(61.7210, 79.4032)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
-<g transform="translate(61.7210, 78.8422)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:40:41">
-<g transform="translate(100.5358, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:29:30">
+<g transform="translate(100.5358, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(101.1503, 78.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:44:45">
-<g transform="translate(104.3820, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:34:35">
+<g transform="translate(104.3820, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(104.9966, 78.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:28:29">
-<g transform="translate(78.8420, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:14:15">
+<g transform="translate(78.8420, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(79.4566, 78.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(46.5069, 78.1131)">
+<g transform="translate(46.5069, 75.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:17:18">
-<g transform="translate(34.5930, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:20:21">
+<g transform="translate(34.5930, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(35.2075, 78.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:33:34">
-<g transform="translate(85.1636, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:20:21">
+<g transform="translate(85.1636, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(85.7782, 78.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:9:10">
-<g transform="translate(21.9498, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:51:10:11">
+<g transform="translate(21.9498, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(22.5644, 78.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:36:37">
-<g transform="translate(96.5776, 78.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:52:24:25">
+<g transform="translate(96.5776, 75.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(97.1922, 78.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
-<g transform="translate(72.4704, 75.4881)">
+<g transform="translate(72.4704, 72.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6816 -0.0350 7.6816 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(96.5276, 75.4381)">
+<g transform="translate(96.5276, 72.8849)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.1644 -0.0350 9.1644 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(96.5276, 75.8881)">
+<g transform="translate(96.5276, 73.3349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.3182 -0.0350 5.3182 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(21.8998, 75.4881)">
+<g transform="translate(21.8998, 72.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6816 -0.0350 7.6816 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
 <g data-bar="11" data-bar-moment-main="10" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 89.2131)">
+<g transform="translate(8.5358, 86.6599)">
 <rect x="0.5000" y="-2.0500" width="52.8699" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="12" data-bar-moment-main="11" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(61.7157, 89.2131)">
+<g transform="translate(61.7157, 86.6599)">
 <rect x="0.1900" y="-2.0500" width="49.0600" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(61.7157, 89.2131)">
+<g transform="translate(61.7157, 86.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(110.7757, 89.2131)">
+<g transform="translate(110.7757, 86.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:109:110">
-<g transform="translate(65.8804, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:294:295">
+<g transform="translate(65.8804, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>nya.</tspan>
+<tspan>nya</tspan>
 </text>
 </g>
 </a>
@@ -1555,8 +1395,8 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:103:104">
-<g transform="translate(54.0949, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:288:289">
+<g transform="translate(54.0949, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ma</tspan>
 </text>
@@ -1564,40 +1404,45 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:97:98">
-<g transform="translate(48.4063, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:282:283">
+<g transform="translate(48.4063, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>la</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:106:107">
-<g transform="translate(61.4331, 93.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:291:292">
+<g transform="translate(61.4331, 91.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:100:101">
-<g transform="translate(51.9961, 93.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:285:286">
+<g transform="translate(51.9961, 91.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:90:91">
-<g transform="translate(39.4238, 93.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:279:280">
+<g transform="translate(46.3075, 91.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:79:80">
-<g transform="translate(26.7577, 93.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:273:274">
+<g transform="translate(39.6287, 91.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:71:72">
-<g transform="translate(14.3988, 93.7631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:262:263">
+<g transform="translate(26.7577, 91.2099)">
 <rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:42:43">
-<g transform="translate(99.5069, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:254:255">
+<g transform="translate(14.3988, 91.2099)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:9:10">
+<g transform="translate(99.5069, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>0</tspan>
 </text>
@@ -1605,8 +1450,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:76:77">
-<g transform="translate(22.5106, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:259:260">
+<g transform="translate(22.5106, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ka</tspan>
 </text>
@@ -1614,8 +1459,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:74:75">
-<g transform="translate(17.1463, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:257:258">
+<g transform="translate(17.1463, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>i</tspan>
 </text>
@@ -1623,8 +1468,8 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:68:69">
-<g transform="translate(9.9895, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:251:252">
+<g transform="translate(9.9895, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>ta</tspan>
 </text>
@@ -1632,17 +1477,17 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:93:94">
-<g transform="translate(40.9080, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:276:277">
+<g transform="translate(41.3178, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>ma-</tspan>
+<tspan>ma</tspan>
 </text>
 </g>
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:85:86">
-<g transform="translate(34.8097, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:268:269">
+<g transform="translate(34.8097, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>s'la</tspan>
 </text>
@@ -1650,216 +1495,182 @@ tspan { white-space: pre; }
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:82:82:83">
-<g transform="translate(28.8309, 93.9131)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:265:266">
+<g transform="translate(28.8309, 91.3599)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>mi</tspan>
 </text>
 </g>
 </a>
 <g class="notangka">
-<g transform="translate(88.9676, 90.1131)">
+<g transform="translate(88.9676, 87.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:30:31">
-<g transform="translate(48.8672, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:36:37">
+<g transform="translate(48.8672, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>2</tspan>
 </text>
 </g>
-<g transform="translate(49.4818, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:27:28">
-<g transform="translate(42.4786, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:32:33">
+<g transform="translate(42.4786, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(43.0932, 90.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(77.9283, 90.1131)">
+<g transform="translate(77.9283, 87.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:33:34">
-<g transform="translate(55.2558, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:40:41">
+<g transform="translate(55.2558, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(55.8703, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:14:15">
-<g transform="translate(23.3129, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:16:17">
+<g transform="translate(23.3129, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(23.9275, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:19:20">
-<g transform="translate(29.7015, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:22:23">
+<g transform="translate(29.7015, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>3</tspan>
 </text>
 </g>
-<g transform="translate(30.3161, 90.8461)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:9:10">
-<g transform="translate(16.9244, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:10:11">
+<g transform="translate(16.9244, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(17.5390, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:4:5">
-<g transform="translate(10.5358, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:4:5">
+<g transform="translate(10.5358, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(11.1504, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:22:23">
-<g transform="translate(36.0901, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:53:26:27">
+<g transform="translate(36.0901, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>4</tspan>
 </text>
 </g>
-<g transform="translate(36.7047, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:38:39">
-<g transform="translate(65.8804, 90.3631)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:54:4:5">
+<g transform="translate(65.8804, 87.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(66.4950, 90.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
-<g transform="translate(10.4858, 87.4881)">
+<g transform="translate(10.4858, 84.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7486 -0.0350 7.7486 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(23.2629, 87.4881)">
+<g transform="translate(23.2629, 84.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7486 -0.0350 7.7486 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(48.8172, 87.4881)">
+<g transform="translate(48.8172, 84.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7486 -0.0350 7.7486 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
-<g transform="translate(36.0401, 87.4881)">
+<g transform="translate(36.0401, 84.9349)">
 <polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.7486 -0.0350 7.7486 0.0350 0.0400 0.0350 0.0400 -0.0350"/>
 </g>
 <g data-bar="15" data-bar-moment-main="14" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(110.9657, 101.2131)">
+<g transform="translate(110.9657, 98.6599)">
 <rect x="0.0000" y="0.0" width="0.0000" height="0.0" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="14" data-bar-moment-main="13" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(57.9403, 101.2131)">
-<rect x="0.1900" y="-2.0500" width="52.8355" height="4.1000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(58.0163, 98.6599)">
+<rect x="0.1900" y="-2.0500" width="52.7594" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
 <g data-bar="13" data-bar-moment-main="12" data-bar-moment-grace="0">
 <g color="rgb(92.9412%, 90.1961%, 84.7059%)">
-<g transform="translate(8.5358, 101.2131)">
-<rect x="0.5000" y="-2.0500" width="49.0944" height="4.1000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(8.5358, 98.6599)">
+<rect x="0.5000" y="-2.0500" width="49.1705" height="4.1000" ry="0.0000" fill="currentColor"/>
 </g>
 </g>
 </g>
-<g transform="translate(110.3657, 101.2131)">
+<g transform="translate(110.3657, 98.6599)">
 <rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(109.8757, 101.2131)">
+<g transform="translate(109.8757, 98.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(57.9403, 101.2131)">
+<g transform="translate(58.0163, 98.6599)">
 <rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:56:22:23">
-<g transform="translate(97.9402, 102.3631)">
-<text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
-<tspan>0</tspan>
-</text>
+<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
+</g>
+<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
+</g>
+<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
+</g>
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:300:301">
+<g transform="translate(57.0233, 103.2199)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(47.0233, 103.2199)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(37.0233, 103.2199)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(27.0233, 103.2199)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(17.0233, 103.2199)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
 </g>
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
-</g>
-<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
-</g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:83:6:7">
-<g transform="translate(56.9823, 105.7731)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(46.9823, 105.7731)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(36.9823, 105.7731)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(26.9823, 105.7731)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(16.9823, 105.7731)">
-<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:83:9:10">
-<g transform="translate(62.3133, 105.9231)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:303:304">
+<g transform="translate(62.3953, 103.3699)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
-<tspan>min.</tspan>
+<tspan>min</tspan>
 </text>
 </g>
 </a>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
-<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
-</g>
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:83:4:5">
-<g transform="translate(10.5358, 105.9231)">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:76:298:299">
+<g transform="translate(10.5358, 103.3699)">
 <text font-family="Lilypond Serif" font-size="2.4696" text-anchor="start" fill="currentColor">
 <tspan>A</tspan>
 </text>
@@ -1869,56 +1680,57 @@ tspan { white-space: pre; }
 </g>
 <g color="rgb(0.0000%, 0.0000%, 100.0000%)">
 </g>
+<g color="rgb(0.0000%, 0.0000%, 100.0000%)">
+</g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:56:4:5">
-<g transform="translate(10.5358, 102.3631)">
+<g transform="translate(86.8541, 99.5599)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
+</g>
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:55:4:5">
+<g transform="translate(10.5358, 99.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(11.1504, 102.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:56:14:15">
-<g transform="translate(62.3133, 102.3631)">
+<g transform="translate(34.9947, 99.5599)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
+</g>
+</g>
+<g class="notangka">
+<g transform="translate(98.5792, 99.5599)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
+</g>
+</g>
+<g class="notangka">
+<g transform="translate(75.1290, 99.5599)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
+</g>
+</g>
+<g class="notangka">
+<a style="color:inherit;" xlink:href="textedit://D:/Materi/Semester%208/Skripsi2/tugas_akhir/data/nyanyianGPMMusecore2LY/GPM229_BerkatilahYaTuhan/./GPM229_BerkatilahYaTuhan_ly_data.ily:56:4:5">
+<g transform="translate(62.3953, 99.8099)">
 <text font-family="Lilypond Serif" font-size="2.2001" text-anchor="start" fill="currentColor">
 <tspan>1</tspan>
 </text>
 </g>
-<g transform="translate(62.9278, 102.8131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.1800"/>
-</g>
 </a>
 </g>
 <g class="notangka">
-<g transform="translate(23.2506, 102.1131)">
+<g transform="translate(46.7198, 99.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
 <g class="notangka">
-<g transform="translate(46.6627, 102.1131)">
+<g transform="translate(23.2696, 99.5599)">
 <circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
 </g>
 </g>
-<g class="notangka">
-<g transform="translate(86.7341, 102.1131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
-</g>
-</g>
-<g class="notangka">
-<g transform="translate(75.0280, 102.1131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
-</g>
-</g>
-<g class="notangka">
-<g transform="translate(34.9567, 102.1131)">
-<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0010" r="0.2200"/>
-</g>
-</g>
-<g transform="translate(26.3074, 112.4100)">
+<g transform="translate(26.3074, 109.8223)">
 <text font-family="Lilypond Sans Serif" font-size="1.9600" text-anchor="start" fill="currentColor">
 <tspan>Koleksi Partitur Nyanyian GPM - Diproduksi dengan solmisasi-lily v2.0.0-beta</tspan>
 </text>

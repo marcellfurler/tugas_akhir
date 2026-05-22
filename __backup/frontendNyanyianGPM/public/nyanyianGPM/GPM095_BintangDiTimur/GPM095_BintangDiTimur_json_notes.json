@@ -1,0 +1,904 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 69,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:6:7"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 69,
+    "channel": 0,
+    "x": 15.245,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:10:11"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 71,
+    "channel": 0,
+    "x": 19.383,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:16:17"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 69,
+    "channel": 0,
+    "x": 23.573,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:20:21"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 66,
+    "channel": 0,
+    "x": 27.31,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:28:29"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 71,
+    "channel": 0,
+    "x": 32.7,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:32:33"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 71,
+    "channel": 0,
+    "x": 36.329,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:36:37"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 71,
+    "channel": 0,
+    "x": 40.424,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:42:43"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 71,
+    "channel": 0,
+    "x": 44.615,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:47:46:47"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3072,
+    "pitch": 69,
+    "channel": 0,
+    "x": 48.47,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:2:3"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 53.79,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:6:7"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 57.419,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 71,
+    "channel": 0,
+    "x": 60.31,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:16:17"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 64.5,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:20:21"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 66,
+    "channel": 0,
+    "x": 68.834,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:28:29"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 64,
+    "channel": 0,
+    "x": 74.225,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:32:33"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 64,
+    "channel": 0,
+    "x": 78.985,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:36:37"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 64,
+    "channel": 0,
+    "x": 82.747,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:40:41"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 66,
+    "channel": 0,
+    "x": 86.176,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:48:48:49"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 64,
+    "channel": 0,
+    "x": 90.368,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 69,
+    "channel": 0,
+    "x": 99.037,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:6:7"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 69,
+    "channel": 0,
+    "x": 102.666,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 105.984,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:16:17"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 110.175,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 66,
+    "channel": 0,
+    "x": 113.804,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:28:29"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 71,
+    "channel": 0,
+    "x": 119.194,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:32:33"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 71,
+    "channel": 0,
+    "x": 124.262,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:36:37"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 129.475,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:40:41"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 71,
+    "channel": 0,
+    "x": 132.546,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:49:46:47"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 74,
+    "channel": 0,
+    "x": 136.736,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 145.405,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:6:7"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 148.766,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:10:11"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 152.408,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:14:15"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 155.957,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:20:21"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 160.148,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:24:25"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 163.013,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:30:31"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 66,
+    "channel": 0,
+    "x": 166.263,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:36:37"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 169.222,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:42:43"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 62,
+    "channel": 0,
+    "x": 173.413,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:46:47"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 62,
+    "channel": 0,
+    "x": 177.042,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:50:54:55"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 62,
+    "channel": 0,
+    "x": 182.433,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 191.592,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:6:7"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 69,
+    "channel": 0,
+    "x": 195.221,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:10:11"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 71,
+    "channel": 0,
+    "x": 198.539,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:16:17"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 69,
+    "channel": 0,
+    "x": 202.73,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:20:21"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 66,
+    "channel": 0,
+    "x": 206.359,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:28:29"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14208,
+    "pitch": 71,
+    "channel": 0,
+    "x": 211.75,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:32:33"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 71,
+    "channel": 0,
+    "x": 216.254,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:36:37"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 71,
+    "channel": 0,
+    "x": 222.013,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:42:43"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 71,
+    "channel": 0,
+    "x": 226.492,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:56:46:47"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 69,
+    "channel": 0,
+    "x": 230.121,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:2:3"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 69,
+    "channel": 0,
+    "x": 235.44,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:6:7"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 239.22,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:10:11"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 71,
+    "channel": 0,
+    "x": 243.502,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 247.693,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:20:21"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 66,
+    "channel": 0,
+    "x": 251.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:28:29"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 64,
+    "channel": 0,
+    "x": 256.712,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:32:33"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 260.005,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:36:37"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 64,
+    "channel": 0,
+    "x": 264.74,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:40:41"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 66,
+    "channel": 0,
+    "x": 269.065,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:57:48:49"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 64,
+    "channel": 0,
+    "x": 273.256,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 69,
+    "channel": 0,
+    "x": 281.926,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:6:7"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 69,
+    "channel": 0,
+    "x": 285.555,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:10:11"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 288.873,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 293.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:20:21"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 66,
+    "channel": 0,
+    "x": 298.428,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:28:29"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 71,
+    "channel": 0,
+    "x": 303.819,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:32:33"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 71,
+    "channel": 0,
+    "x": 307.179,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:36:37"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 71,
+    "channel": 0,
+    "x": 310.839,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:40:41"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 71,
+    "channel": 0,
+    "x": 313.636,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:58:46:47"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 74,
+    "channel": 0,
+    "x": 317.827,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:2:3"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 326.496,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:6:7"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 69,
+    "channel": 0,
+    "x": 328.925,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:10:11"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 331.354,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:14:15"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 71,
+    "channel": 0,
+    "x": 334.305,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:20:21"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 69,
+    "channel": 0,
+    "x": 338.496,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:24:25"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 66,
+    "channel": 0,
+    "x": 343.0,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:30:31"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 66,
+    "channel": 0,
+    "x": 348.759,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:36:37"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 64,
+    "channel": 0,
+    "x": 353.785,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:42:43"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 62,
+    "channel": 0,
+    "x": 357.975,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:46:47"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 62,
+    "channel": 0,
+    "x": 361.604,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM095_BintangDiTimur/GPM095_BintangDiTimur_ly_data.ily:59:54:55"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 366.995,
+    "y": 15.289
+  }
+]

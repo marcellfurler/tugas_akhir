@@ -1,0 +1,69 @@
+meta:
+  totalMeasures: 15
+  minTick: 0
+  maxTick: 21504
+  minMoment: 0
+  maxMoment: 15
+  musicStartSeconds: 0.0
+  channels:
+    0:
+      minPitch: 63
+      maxPitch: 73
+      count: 40
+
+flow:
+- [0, ~, 1, bar]
+- [0, 0, 384, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:43:1:2']]
+- [384, 0, 768, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:43:5:6']]
+- [768, 0, 1152, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:43:9:10']]
+- [1152, 0, 1536, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:43:14:15']]
+- [1433, ~, 2, bar]
+- [1536, 0, 1920, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:44:1:2']]
+- [1920, 0, 2304, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:44:6:7']]
+- [2304, 0, 2688, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:44:12:13']]
+- [2688, 0, 3072, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:44:17:18']]
+- [2867, ~, 3, bar]
+- [3072, 0, 4224, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:45:1:2']]
+- [4224, 0, 4608, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:45:6:7']]
+- [4300, ~, 4, bar]
+- [4608, 0, 5760, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:46:1:2']]
+- [5734, ~, 5, bar]
+- [6144, 0, 6528, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:47:1:2']]
+- [6528, 0, 6912, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:47:6:7']]
+- [6912, 0, 7296, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:47:12:13']]
+- [7168, ~, 6, bar]
+- [7296, 0, 7680, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:47:17:18']]
+- [7680, 0, 8064, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:48:1:2']]
+- [8064, 0, 8448, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:48:6:7']]
+- [8448, 0, 8832, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:48:12:13']]
+- [8601, ~, 7, bar]
+- [8832, 0, 9216, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:48:17:18']]
+- [9216, 0, 10368, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:49:1:2']]
+- [10035, ~, 8, bar]
+- [10752, 0, 11136, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:50:1:2']]
+- [11136, 0, 11520, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:50:5:6']]
+- [11468, ~, 9, bar]
+- [11520, 0, 11904, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:50:9:10']]
+- [11904, 0, 12288, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:50:14:15']]
+- [12288, 0, 12672, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:51:1:2']]
+- [12672, 0, 13056, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:51:6:7']]
+- [12902, ~, 10, bar]
+- [13056, 0, 13440, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:51:12:13']]
+- [13440, 0, 13824, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:51:17:18']]
+- [13824, 0, 14976, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:52:1:2']]
+- [14336, ~, 11, bar]
+- [14976, 0, 15360, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:52:6:7']]
+- [15360, 0, 16512, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:53:1:2']]
+- [15769, ~, 12, bar]
+- [16896, 0, 17280, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:54:1:2']]
+- [17203, ~, 13, bar]
+- [17280, 0, 17664, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:54:6:7']]
+- [17664, 0, 18048, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:54:11:12']]
+- [18048, 0, 18432, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:54:16:17']]
+- [18432, 0, 18816, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:55:1:2']]
+- [18636, ~, 14, bar]
+- [18816, 0, 19200, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:55:6:7']]
+- [19200, 0, 19584, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:55:12:13']]
+- [19584, 0, 19968, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:55:19:20']]
+- [19968, 0, 21504, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/GPM045_DiKakiMuKamiBertelut_ly_data.ily:56:1:2']]
+- [20070, ~, 15, bar]

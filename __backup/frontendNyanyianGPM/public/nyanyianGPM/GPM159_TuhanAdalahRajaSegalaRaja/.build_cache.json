@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM159_TuhanAdalahRajaSegalaRaja.ly": "e0a01c910539a8712ee9102a068dfcd232293073be6145ab3e97590587c82df8",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily": "19dea5e5194868381928875c299a46fb8bcae8f4f4c633d763ada25b9a958199",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "svg_one_line": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_one_line.ly": "91dbf71e657f1687b245c2f2158b25e273bb2c8f443537246fcc48213d6dc46c",
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily": "19dea5e5194868381928875c299a46fb8bcae8f4f4c633d763ada25b9a958199",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM159_TuhanAdalahRajaSegalaRaja.ly": "e0a01c910539a8712ee9102a068dfcd232293073be6145ab3e97590587c82df8",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "events": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_one_line.midi": "8dfafd388552f031b2d24cbbaca2086257b9292bb3d73ad819372f88dc32cd12"
+  },
+  "filter_one_line": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_one_line.svg": "4198d6dfee14cb29f94cd4f60f9409d36cbefcd048ff309a8e6eadcb75d44192"
+  },
+  "ties": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_one_line_filtered.svg": "a9701cd64a8f81579adb8cf22cdff5b268bafb5a832deb979c76f0d390c59571"
+  },
+  "noteheads": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_one_line_filtered.svg": "a9701cd64a8f81579adb8cf22cdff5b268bafb5a832deb979c76f0d390c59571"
+  },
+  "squash": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_note_heads.csv": "b7a13236e55a7521783d90b338a8bff1da790fe969ed771fcfcdabb4e18e8df2",
+    "GPM159_TuhanAdalahRajaSegalaRaja_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_note_heads_squashed.csv": "94a1b2402c5645dcca356aebfb1221c60a4ba3d46b855fc6c4d13df2a5ca3632",
+    "GPM159_TuhanAdalahRajaSegalaRaja_note_events.csv": "29389d4514e92f41fd28cbbd795b101ad5a681b362cba8b9e17952eecfcfb520"
+  },
+  "svg": {
+    "GPM159_TuhanAdalahRajaSegalaRaja.ly": "e0a01c910539a8712ee9102a068dfcd232293073be6145ab3e97590587c82df8",
+    "GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily": "19dea5e5194868381928875c299a46fb8bcae8f4f4c633d763ada25b9a958199",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "filter": {
+    "GPM159_TuhanAdalahRajaSegalaRaja.svg": "0d116837949c26f1babf2d0eeca25cf0620b80b2e4963d91438651cb32e020d2"
+  },
+  "swell": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_filtered.svg": "0863d2375df72c3a3742c3e3bfda36236f4396cb96727b6e1ad26ab5081da107"
+  },
+  "optim": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_filtered_swellable.svg": "898b03fc3bea36225abb718bff6a288db8faf92947e39c882ab77b5a290aa370"
+  },
+  "sync": {
+    "GPM159_TuhanAdalahRajaSegalaRaja_optimized.svg": "f64b928c423941aefdd633c6944ba009e9a7b6530425592c2271ac753bc768b6",
+    "GPM159_TuhanAdalahRajaSegalaRaja_json_notes.json": "337f55e61758da7270ac9d267bd611b71b452a03e3be3a314356a8100893a673",
+    "GPM159_TuhanAdalahRajaSegalaRaja_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM159_TuhanAdalahRajaSegalaRaja.config.yaml": "d9172e13f85afc40886d4eb53770721d32c6209501722bc9810d718fd10f725c"
+  }
+}

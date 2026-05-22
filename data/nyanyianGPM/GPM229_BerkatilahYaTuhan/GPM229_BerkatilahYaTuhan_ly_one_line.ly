@@ -1,4 +1,3 @@
-% GPM001_AkangManisLawang_ly_one_line.ly
 \version "2.24.4"
 
 \include "GPM229_BerkatilahYaTuhan.ly"

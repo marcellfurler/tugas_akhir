@@ -31,55 +31,68 @@
 
 % do = d -> 1D - 2E - 3Fis - 4G 4 1/2gis - 5A - 6B - 7Cis - 8D
 
-gpmduaratustujuhtujuh_d_notes = {
-  \key d \major
-  {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-             s1*0
-             \tweak X-offset #1
-             \sectionLabel \markup\smaller\bold "Bait 1"
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
-    r4 a4 d'4 e'8 (g'8) | fis'4. fis'8 fis'8 fis'8 e'16 (d'16) e'8 | d'2 r8 d'8 fis'8 a'8 | \break
+gpmduaratustujuhtujuh_d_notes_pdf = {
+    r4 a4 d'4 e'8 ( g'8) | fis'4. fis'8 fis'8 fis'8 e'16 ( d'16) e'8 | d'2 r8 d'8 fis'8 a'8 | \break
     d''8 d''4. cis''4. b'8 | b'8 a'1* 7/8 | r4 \tuplet 3/2 {fis'8 e'8 fis'8} b'4. a'8 | \break
     a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break 
-    r4 a4 d'4 e'8 (g'8) | fis'8 fis'4 fis'8 fis'8 fis'8 e'16 (d'16) e'8 | d'2 r4 \tuplet 3/2 {d'8 fis'8 a'8} | \break
-    d''4. d''8 cis''8 cis''8 b'8 (a'16 b'16) | a'1* 4/4 | r4 fis'8 fis'8 b'4. a'8 | \break
-    a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 g'8 fis'4. e'16 (d'16) | d'1* 4/4 | \break
+    r4 a4 d'4 e'8 ( g'8) | fis'8 fis'4 fis'8 fis'8 fis'8 e'16 ( d'16) e'8 | d'2 r4 \tuplet 3/2 { d'8 fis'8 a'8} | \break
+    d''4. d''8 cis''8 cis''8 b'8 ( a'16 b'16) | a'1* 4/4 | r4 fis'8 fis'8 b'4. a'8 | \break
+    a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 g'8 fis'4. e'16 ( d'16) | d'1* 4/4 | \break
 
     \repeat volta 2 {
       % reef
-      \break r4 d''4 e''8 (d''8) cis''8 (d''8) | b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 d''4 cis''4 b'4 | \break
-      a'4 a'8 a'8 a'8 gis'8 a'8 b'8 | a'4 \breathe  fis'8 fis'8 b'4. a'8 | a'4 g'8 g'8 g'8 (fis'8) e'8 fis'8 | \break
-      g'4 a'8 a'8 b'4 a'8 g'8 | fis'1* 4/4 | r4 d''4 e''8 (d''8) cis''8 (d''8) |  \break
+      \break r4 d''4 e''8 ( d''8) cis''8 ( d''8) | b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 d''4 cis''4 b'4 | \break
+      a'4 a'8 a'8 a'8 gis'8 a'8 b'8 | a'4 \breathe  fis'8 fis'8 b'4. a'8 | a'4 g'8 g'8 g'8 ( fis'8) e'8 fis'8 | \break
+      g'4 a'8 a'8 b'4 a'8 g'8 | fis'1* 4/4 | r4 d''4 e''8 ( d''8) cis''8 ( d''8) |  \break
       b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 \breathe  d''8 d''8 cis''4 b'4 | b'4 a'8 a'8 a'8 g'8 fis'8 g'8 | \break
       a'4 \breathe  fis'8 fis'8 b'4. a'8 | g'4 g'8 fis'8 e'4 fis'4 | \break
-    }
-    
+    } 
     \alternative{
     
       { g'4 \breathe a'8 g'8 fis'4 e'4 | 
       d'1* 4/4 } 
       { g'4 \breathe  a'8 a'8 d''4 e''4 | d''2. r4 } \break
     }
-
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
-  }
 }
+
+gpmduaratustujuhtujuh_d_notes_svg = {
+  \section
+  \tweak X-offset #1
+  \sectionLabel \markup\smaller\bold "Bait 1"
+  r4 a4 d'4 e'8 ( g'8) | fis'4. fis'8 fis'8 fis'8 e'16 ( d'16) e'8 | d'2 r8 d'8 fis'8 a'8 | \break
+  d''8 d''4. cis''4. b'8 | b'8 a'1* 7/8 | r4 \tuplet 3/2 {fis'8 e'8 fis'8} b'4. a'8 | \break
+  a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 a'8 a'8 b'8 a'8 g'8 | fis'1* 4/4 | \break 
+  r4 a4 d'4 e'8 ( g'8) | fis'8 fis'4 fis'8 fis'8 fis'8 e'16 ( d'16) e'8 | d'2 r4 \times 2/3 { d'8 fis'8 a'8} | \break
+  d''4. d''8 cis''8 cis''8 b'8 ( a'16 b'16) | a'1* 4/4 | r4 fis'8 fis'8 b'4. a'8 | \break
+  a'8 g'8 g'4 g'8 fis'8 e'8 fis'8 | g'4 a'8 g'8 fis'4. e'16 ( d'16) | d'1* 4/4 | \break
+
+  % ref
+  \break r4 d''4 e''8 ( d''8) cis''8 ( d''8) | b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 d''4 cis''4 b'4 | \break
+  a'4 a'8 a'8 a'8 gis'8 a'8 b'8 | a'4 \breathe  fis'8 fis'8 b'4. a'8 | a'4 g'8 g'8 g'8 ( fis'8) e'8 fis'8 | \break
+  g'4 a'8 a'8 b'4 a'8 g'8 | fis'1* 4/4 | r4 d''4 e''8 ( d''8) cis''8 ( d''8) |  \break
+  b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 \breathe  d''8 d''8 cis''4 b'4 | b'4 a'8 a'8 a'8 g'8 fis'8 g'8 | \break
+  a'4 \breathe  fis'8 fis'8 b'4. a'8 | g'4 g'8 fis'8 e'4 fis'4 | \break
+    
+  g'4 \breathe a'8 g'8 fis'4 e'4 | d'1* 4/4
+
+    % ref
+  \break r4 d''4 e''8 ( d''8) cis''8 ( d''8) | b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 d''4 cis''4 b'4 | \break
+  a'4 a'8 a'8 a'8 gis'8 a'8 b'8 | a'4 \breathe  fis'8 fis'8 b'4. a'8 | a'4 g'8 g'8 g'8 ( fis'8) e'8 fis'8 | \break
+  g'4 a'8 a'8 b'4 a'8 g'8 | fis'1* 4/4 | r4 d''4 e''8 ( d''8) cis''8 ( d''8) |  \break
+  b'4 b'8 b'8 b'8 a'8 g'8 fis'8 | e'4 \breathe  d''8 d''8 cis''4 b'4 | b'4 a'8 a'8 a'8 g'8 fis'8 g'8 | \break
+  a'4 \breathe  fis'8 fis'8 b'4. a'8 | g'4 g'8 fis'8 e'4 fis'4 | \break
+
+  g'4 \breathe  a'8 a'8 d''4 e''4 | d''2. r4 \break
+}
+
+gpmduaratustujuhtujuh_d_notes =
+#(if is-svg?
+     #{ \gpmduaratustujuhtujuh_d_notes_svg #}
+     #{ \gpmduaratustujuhtujuh_d_notes_pdf #})
 
 gpmduaratustujuhtujuh_d_music = {
   \time 4/4
+  \key d \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmduaratustujuhtujuh_d_notes
@@ -107,3 +120,29 @@ gpmduaratustujuhtujuh_lyricReff = \lyricmode {
 gpmduaratustujuhtujuh_lyricReffKamar = \lyricmode {
   di da -- ri -- Mu, Tu -- han.
 }
+
+gpmduaratustujuhtujuh_lyricsAll =
+#(if is-svg?
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+           \gpmduaratustujuhtujuh_lyricOne
+           \gpmduaratustujuhtujuh_lyricReff
+           \gpmduaratustujuhtujuh_lyricReffKamar
+           \gpmduaratustujuhtujuh_lyricReff
+           \gpmduaratustujuhtujuh_lyricReffKamar
+         }
+       >>
+     #}
+     ; else
+     #{
+       <<
+         \new Lyrics \lyricsto melodi {
+            \gpmduaratustujuhtujuh_lyricOne
+           \gpmduaratustujuhtujuh_lyricReff
+           \gpmduaratustujuhtujuh_lyricReffKamar
+           \gpmduaratustujuhtujuh_lyricReffKamar
+         }
+       >>
+     #}
+     )

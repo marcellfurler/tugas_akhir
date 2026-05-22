@@ -6,7 +6,7 @@
 
 
 \header {
-  title = "Puji Tuhan"
+  title = "GPM 34. Puji Tuhan"
 
   poet = \markup {
     \pad-x #1

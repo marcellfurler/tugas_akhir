@@ -57,62 +57,26 @@ gpmduabelas_c_notes_svg = {
   \section
   \tweak X-offset #1
   \sectionLabel \markup\smaller\bold "Bait 1"
-    e'2 e'4 |
-    e'2 f'4 |
-    e'2 d'4 |
-    d'2. | \break
-    f'2 f'4 |
-    f'2 g'4 |
-    f'2 e'4 |
-    e'2. | \break
-    g'4 g'4 g'4 |
-    g'2 g'4 |
-    a'2 g'4 |
-    f'2. | \break
-    g'4 e'4 f'4 |
-    e'2 d'4 |
-    \once \override Tie.stencil = ##f c'2.~ ( |
-    c'2) r4 \break
+  e'2 e'4 | e'2 f'4 | e'2 d'4 | d'2. | \break
+  f'2 f'4 | f'2 g'4 | f'2 e'4 | e'2. | \break
+  g'4 g'4 g'4 | g'2 g'4 | a'2 g'4 | f'2. | \break
+  g'4 e'4 f'4 | e'2 d'4 | \once \override Tie.stencil = ##f c'2.~ ( |c'2) r4 | \break
 
   \section
   \tweak X-offset #1
   \sectionLabel \markup\smaller\bold "Bait 2"
-    e'2 e'4 |
-    e'2 f'4 |
-    e'2 d'4 |
-    d'2. | \break
-    f'2 f'4 |
-    f'2 g'4 |
-    f'2 e'4 |
-    e'2. | \break
-    g'4 g'4 g'4 |
-    g'2 g'4 |
-    a'2 g'4 |
-    f'2. | \break
-    g'4 e'4 f'4 |
-    e'2 d'4 |
-    \once \override Tie.stencil = ##f c'2.~ ( |
-    c'2) r4 \break
+  e'2 e'4 | e'2 f'4 | e'2 d'4 | d'2. | \break
+  f'2 f'4 | f'2 g'4 | f'2 e'4 | e'2. | \break
+  g'4 g'4 g'4 | g'2 g'4 | a'2 g'4 | f'2. | \break
+  g'4 e'4 f'4 | e'2 d'4 | \once \override Tie.stencil = ##f c'2.~ ( |c'2) r4 | \break
 
   \section
   \tweak X-offset #1
   \sectionLabel \markup\smaller\bold "Bait 3"
-    e'2 e'4 |
-    e'2 f'4 |
-    e'2 d'4 |
-    d'2. | \break
-    f'2 f'4 |
-    f'2 g'4 |
-    f'2 e'4 |
-    e'2. | \break
-    g'4 g'4 g'4 |
-    g'2 g'4 |
-    a'2 g'4 |
-    f'2. | \break
-    g'4 e'4 f'4 |
-    e'2 d'4 |
-    \once \override Tie.stencil = ##f c'2.~ ( |
-    c'2) r4 \break
+  e'2 e'4 | e'2 f'4 | e'2 d'4 | d'2. | \break
+  f'2 f'4 | f'2 g'4 | f'2 e'4 | e'2. | \break
+  g'4 g'4 g'4 | g'2 g'4 | a'2 g'4 | f'2. | \break
+  g'4 e'4 f'4 | e'2 d'4 | \once \override Tie.stencil = ##f c'2.~ ( |c'2) r4 | \break
 
 }
 

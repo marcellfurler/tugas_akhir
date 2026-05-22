@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM284_TuhanKu.ly": "17c59e18d84580d30a6b0b9a5995c9e0ffc339ec34e36cca4f571372dc7cacf5",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM284_TuhanKu_ly_data.ily": "ec4d38bb1183446188bd19de1c4c0c02b1a6ba0def622737690a10f4f8cdf33f",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "svg_one_line": {
+    "GPM284_TuhanKu_ly_one_line.ly": "7bcfc9886c3262f2d93e65321b96f8bb1d95900129bd40c65dacc237cdf44629",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM284_TuhanKu_ly_data.ily": "ec4d38bb1183446188bd19de1c4c0c02b1a6ba0def622737690a10f4f8cdf33f",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM284_TuhanKu.ly": "17c59e18d84580d30a6b0b9a5995c9e0ffc339ec34e36cca4f571372dc7cacf5"
+  },
+  "events": {
+    "GPM284_TuhanKu_ly_one_line.midi": "c4505413b75c1afb1166e7144c5c2e709f6f6224423ee9b25952be1da46e1133"
+  },
+  "filter_one_line": {
+    "GPM284_TuhanKu_ly_one_line.svg": "7ff0c37ad5090f22a33e65535cbdc5cfc3fc5a1a981b081dd1067e8fde64ff3a"
+  },
+  "ties": {
+    "GPM284_TuhanKu_ly_one_line_filtered.svg": "414af0034fca06cabcaad0f6c767e82181c43be8dbd241e485fdbd4124182d1d"
+  },
+  "noteheads": {
+    "GPM284_TuhanKu_ly_one_line_filtered.svg": "414af0034fca06cabcaad0f6c767e82181c43be8dbd241e485fdbd4124182d1d"
+  },
+  "squash": {
+    "GPM284_TuhanKu_note_heads.csv": "409bede0311a0bd04b85355856d94010b87347fc242a441a0db4368aee5f0a54",
+    "GPM284_TuhanKu_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM284_TuhanKu_note_heads_squashed.csv": "a2ef4e2b1a6024a6201df9683745dccf098ec5ac5a5bd2d293ba357e86980f2f",
+    "GPM284_TuhanKu_note_events.csv": "38f4f872f54d9671d135ac82686e7d27d35321b5aca1120696585ca3d7747ecf"
+  },
+  "svg": {
+    "GPM284_TuhanKu.ly": "17c59e18d84580d30a6b0b9a5995c9e0ffc339ec34e36cca4f571372dc7cacf5",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM284_TuhanKu_ly_data.ily": "ec4d38bb1183446188bd19de1c4c0c02b1a6ba0def622737690a10f4f8cdf33f",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "filter": {
+    "GPM284_TuhanKu.svg": "dbb337ead8e5e8a5914da9a2f02ee4046dc44f0d14d5e69076ba5f8ed95f905e"
+  },
+  "swell": {
+    "GPM284_TuhanKu_filtered.svg": "874d0f08e965751e1a797aa376f0d092855d6e2e3c02702282ddc3dde9f94381"
+  },
+  "optim": {
+    "GPM284_TuhanKu_filtered_swellable.svg": "a0561c80995cc66f0368143453b452698a48f9519924a40ce44f0cc31d7df991"
+  },
+  "sync": {
+    "GPM284_TuhanKu_optimized.svg": "121e476eeeac4182071ceec099adbe364e06a70e855ccb2240a9d0539ba66f68",
+    "GPM284_TuhanKu_json_notes.json": "6564c1e503b1c53c29b5b9b81cfed85a01c519cfba43ecd51b6d2b5168af8785",
+    "GPM284_TuhanKu_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM284_TuhanKu.config.yaml": "6c616201cad111f8538a9cd7209daf9f0e97da4978bb2546738abe4f87ba9019"
+  }
+}

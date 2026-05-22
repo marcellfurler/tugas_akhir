@@ -1,0 +1,1564 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 288,
+    "pitch": 62,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:59:9:10"
+    ],
+    "on_tick": 288,
+    "off_tick": 384,
+    "pitch": 57,
+    "channel": 0,
+    "x": 16.086,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:59:13:14"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 59,
+    "channel": 0,
+    "x": 19.352,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:59:16:17"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 62,
+    "channel": 0,
+    "x": 23.379,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:59:20:21"
+    ],
+    "on_tick": 768,
+    "off_tick": 1536,
+    "pitch": 62,
+    "channel": 0,
+    "x": 27.008,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:60:4:5"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1824,
+    "pitch": 62,
+    "channel": 0,
+    "x": 37.919,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:60:9:10"
+    ],
+    "on_tick": 1824,
+    "off_tick": 1920,
+    "pitch": 57,
+    "channel": 0,
+    "x": 43.469,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:60:13:14"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 59,
+    "channel": 0,
+    "x": 46.599,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:60:16:17"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 50.25,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:60:20:21"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 53.879,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3360,
+    "pitch": 62,
+    "channel": 0,
+    "x": 64.79,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:9:10"
+    ],
+    "on_tick": 3360,
+    "off_tick": 3456,
+    "pitch": 57,
+    "channel": 0,
+    "x": 70.575,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:13:14"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 59,
+    "channel": 0,
+    "x": 74.601,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:16:17"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 62,
+    "channel": 0,
+    "x": 79.2,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:20:21"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 62,
+    "channel": 0,
+    "x": 83.312,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:24:25"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 62,
+    "channel": 0,
+    "x": 87.927,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:28:29"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 62,
+    "channel": 0,
+    "x": 92.355,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:61:32:33"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 62,
+    "channel": 0,
+    "x": 95.984,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:62:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4896,
+    "pitch": 64,
+    "channel": 0,
+    "x": 101.375,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:62:9:10"
+    ],
+    "on_tick": 4896,
+    "off_tick": 4992,
+    "pitch": 62,
+    "channel": 0,
+    "x": 106.924,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:62:14:15"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 66,
+    "channel": 0,
+    "x": 109.448,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:62:20:21"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 64,
+    "channel": 0,
+    "x": 113.078,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:62:24:25"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 62,
+    "channel": 0,
+    "x": 116.707,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:66:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6432,
+    "pitch": 69,
+    "channel": 0,
+    "x": 128.108,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:66:9:10"
+    ],
+    "on_tick": 6432,
+    "off_tick": 6528,
+    "pitch": 69,
+    "channel": 0,
+    "x": 133.658,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:66:14:15"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 71,
+    "channel": 0,
+    "x": 136.087,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:66:20:21"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 74,
+    "channel": 0,
+    "x": 139.716,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:66:26:27"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7680,
+    "pitch": 74,
+    "channel": 0,
+    "x": 143.345,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:67:4:5"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7968,
+    "pitch": 69,
+    "channel": 0,
+    "x": 154.256,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:67:9:10"
+    ],
+    "on_tick": 7968,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 159.806,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:67:14:15"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 162.612,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:67:18:19"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 166.502,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:67:22:23"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 66,
+    "channel": 0,
+    "x": 170.131,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9504,
+    "pitch": 66,
+    "channel": 0,
+    "x": 181.042,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:11:12"
+    ],
+    "on_tick": 9504,
+    "off_tick": 9600,
+    "pitch": 66,
+    "channel": 0,
+    "x": 186.591,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:18:19"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 64,
+    "channel": 0,
+    "x": 190.618,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:22:23"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 194.247,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:28:29"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 197.876,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:33:34"
+    ],
+    "on_tick": 10272,
+    "off_tick": 10368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 203.426,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:38:39"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 205.855,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:68:42:43"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 69,
+    "channel": 0,
+    "x": 209.484,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:69:4:5"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11040,
+    "pitch": 66,
+    "channel": 0,
+    "x": 214.875,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:69:11:12"
+    ],
+    "on_tick": 11040,
+    "off_tick": 11136,
+    "pitch": 66,
+    "channel": 0,
+    "x": 221.044,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:69:18:19"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 224.789,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:69:22:23"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 66,
+    "channel": 0,
+    "x": 228.418,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:69:28:29"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12288,
+    "pitch": 64,
+    "channel": 0,
+    "x": 232.047,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:70:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12576,
+    "pitch": 69,
+    "channel": 0,
+    "x": 242.958,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:70:9:10"
+    ],
+    "on_tick": 12576,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 248.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:70:14:15"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 71,
+    "channel": 0,
+    "x": 250.937,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:70:20:21"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 74,
+    "channel": 0,
+    "x": 254.566,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:70:26:27"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13824,
+    "pitch": 74,
+    "channel": 0,
+    "x": 258.195,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:71:4:5"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 269.106,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:71:9:10"
+    ],
+    "on_tick": 14112,
+    "off_tick": 14208,
+    "pitch": 69,
+    "channel": 0,
+    "x": 274.656,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:71:14:15"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 71,
+    "channel": 0,
+    "x": 277.291,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:71:18:19"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 280.92,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:71:22:23"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 66,
+    "channel": 0,
+    "x": 284.549,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 66,
+    "channel": 0,
+    "x": 295.46,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:10:11"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15648,
+    "pitch": 66,
+    "channel": 0,
+    "x": 299.786,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:17:18"
+    ],
+    "on_tick": 15648,
+    "off_tick": 15744,
+    "pitch": 66,
+    "channel": 0,
+    "x": 302.634,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:24:25"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 64,
+    "channel": 0,
+    "x": 305.901,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:28:29"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 66,
+    "channel": 0,
+    "x": 309.859,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:34:35"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 313.488,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:39:40"
+    ],
+    "on_tick": 16416,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 319.038,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:44:45"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 71,
+    "channel": 0,
+    "x": 323.466,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:72:48:49"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 69,
+    "channel": 0,
+    "x": 327.492,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:73:4:5"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 66,
+    "channel": 0,
+    "x": 332.883,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:73:10:11"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17184,
+    "pitch": 64,
+    "channel": 0,
+    "x": 337.498,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:73:15:16"
+    ],
+    "on_tick": 17184,
+    "off_tick": 17280,
+    "pitch": 62,
+    "channel": 0,
+    "x": 340.023,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:73:20:21"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 66,
+    "channel": 0,
+    "x": 342.76,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:73:26:27"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 346.389,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:73:30:31"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 62,
+    "channel": 0,
+    "x": 350.018,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:78:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18720,
+    "pitch": 62,
+    "channel": 0,
+    "x": 361.42,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:78:9:10"
+    ],
+    "on_tick": 18720,
+    "off_tick": 18816,
+    "pitch": 57,
+    "channel": 0,
+    "x": 366.969,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:78:13:14"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 59,
+    "channel": 0,
+    "x": 371.03,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:78:16:17"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 62,
+    "channel": 0,
+    "x": 374.659,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:78:20:21"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19968,
+    "pitch": 62,
+    "channel": 0,
+    "x": 378.288,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:79:4:5"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20256,
+    "pitch": 62,
+    "channel": 0,
+    "x": 389.199,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:79:9:10"
+    ],
+    "on_tick": 20256,
+    "off_tick": 20352,
+    "pitch": 57,
+    "channel": 0,
+    "x": 394.749,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:79:13:14"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 59,
+    "channel": 0,
+    "x": 397.178,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:79:16:17"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 62,
+    "channel": 0,
+    "x": 400.807,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:79:20:21"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 64,
+    "channel": 0,
+    "x": 404.436,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21792,
+    "pitch": 62,
+    "channel": 0,
+    "x": 415.348,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:9:10"
+    ],
+    "on_tick": 21792,
+    "off_tick": 21888,
+    "pitch": 57,
+    "channel": 0,
+    "x": 420.897,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:13:14"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 59,
+    "channel": 0,
+    "x": 424.574,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:16:17"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 62,
+    "channel": 0,
+    "x": 428.203,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:20:21"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 62,
+    "channel": 0,
+    "x": 431.832,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:24:25"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 62,
+    "channel": 0,
+    "x": 435.662,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:28:29"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 62,
+    "channel": 0,
+    "x": 439.291,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:80:32:33"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 62,
+    "channel": 0,
+    "x": 442.92,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:81:4:5"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23328,
+    "pitch": 64,
+    "channel": 0,
+    "x": 448.311,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:81:9:10"
+    ],
+    "on_tick": 23328,
+    "off_tick": 23424,
+    "pitch": 62,
+    "channel": 0,
+    "x": 453.861,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:81:14:15"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23616,
+    "pitch": 66,
+    "channel": 0,
+    "x": 456.53,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:81:20:21"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 64,
+    "channel": 0,
+    "x": 460.159,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:81:24:25"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 463.788,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:85:4:5"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24864,
+    "pitch": 69,
+    "channel": 0,
+    "x": 475.19,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:85:9:10"
+    ],
+    "on_tick": 24864,
+    "off_tick": 24960,
+    "pitch": 69,
+    "channel": 0,
+    "x": 480.739,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:85:14:15"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 71,
+    "channel": 0,
+    "x": 483.168,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:85:20:21"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 74,
+    "channel": 0,
+    "x": 486.797,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:85:26:27"
+    ],
+    "on_tick": 25344,
+    "off_tick": 26112,
+    "pitch": 74,
+    "channel": 0,
+    "x": 490.427,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:86:4:5"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 501.338,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:86:9:10"
+    ],
+    "on_tick": 26400,
+    "off_tick": 26496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 506.887,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:86:14:15"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 71,
+    "channel": 0,
+    "x": 509.693,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:86:18:19"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 513.583,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:86:22:23"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 66,
+    "channel": 0,
+    "x": 517.212,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27936,
+    "pitch": 66,
+    "channel": 0,
+    "x": 528.123,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:11:12"
+    ],
+    "on_tick": 27936,
+    "off_tick": 28032,
+    "pitch": 66,
+    "channel": 0,
+    "x": 533.673,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:18:19"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 64,
+    "channel": 0,
+    "x": 537.7,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:22:23"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 66,
+    "channel": 0,
+    "x": 541.329,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:28:29"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 544.958,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:33:34"
+    ],
+    "on_tick": 28704,
+    "off_tick": 28800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 550.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:38:39"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 552.937,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:87:42:43"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 556.566,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:88:4:5"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29472,
+    "pitch": 66,
+    "channel": 0,
+    "x": 561.956,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:88:11:12"
+    ],
+    "on_tick": 29472,
+    "off_tick": 29568,
+    "pitch": 66,
+    "channel": 0,
+    "x": 568.125,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:88:18:19"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29760,
+    "pitch": 69,
+    "channel": 0,
+    "x": 571.87,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:88:22:23"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 66,
+    "channel": 0,
+    "x": 575.499,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:88:28:29"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 579.129,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:89:4:5"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31008,
+    "pitch": 69,
+    "channel": 0,
+    "x": 590.04,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:89:9:10"
+    ],
+    "on_tick": 31008,
+    "off_tick": 31104,
+    "pitch": 69,
+    "channel": 0,
+    "x": 595.589,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:89:14:15"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 71,
+    "channel": 0,
+    "x": 598.018,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:89:20:21"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 74,
+    "channel": 0,
+    "x": 601.648,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:89:26:27"
+    ],
+    "on_tick": 31488,
+    "off_tick": 32256,
+    "pitch": 74,
+    "channel": 0,
+    "x": 605.277,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:90:4:5"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 616.188,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:90:9:10"
+    ],
+    "on_tick": 32544,
+    "off_tick": 32640,
+    "pitch": 69,
+    "channel": 0,
+    "x": 621.738,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:90:14:15"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 71,
+    "channel": 0,
+    "x": 624.373,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:90:18:19"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 69,
+    "channel": 0,
+    "x": 628.002,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:90:22:23"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33792,
+    "pitch": 66,
+    "channel": 0,
+    "x": 631.631,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:4:5"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 642.542,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:10:11"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34080,
+    "pitch": 66,
+    "channel": 0,
+    "x": 646.867,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:17:18"
+    ],
+    "on_tick": 34080,
+    "off_tick": 34176,
+    "pitch": 66,
+    "channel": 0,
+    "x": 649.716,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:24:25"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 64,
+    "channel": 0,
+    "x": 652.983,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:28:29"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 66,
+    "channel": 0,
+    "x": 656.941,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:34:35"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34848,
+    "pitch": 69,
+    "channel": 0,
+    "x": 660.57,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:39:40"
+    ],
+    "on_tick": 34848,
+    "off_tick": 34944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 666.12,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:44:45"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 670.547,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:91:48:49"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 674.574,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:92:4:5"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35520,
+    "pitch": 66,
+    "channel": 0,
+    "x": 679.964,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:92:10:11"
+    ],
+    "on_tick": 35520,
+    "off_tick": 35616,
+    "pitch": 64,
+    "channel": 0,
+    "x": 684.58,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:92:15:16"
+    ],
+    "on_tick": 35616,
+    "off_tick": 35712,
+    "pitch": 62,
+    "channel": 0,
+    "x": 687.104,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:92:20:21"
+    ],
+    "on_tick": 35712,
+    "off_tick": 35904,
+    "pitch": 66,
+    "channel": 0,
+    "x": 689.842,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:92:26:27"
+    ],
+    "on_tick": 35904,
+    "off_tick": 36096,
+    "pitch": 64,
+    "channel": 0,
+    "x": 693.471,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM021_MariBerdendang/GPM021_MariBerdendang_ly_data.ily:92:30:31"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36864,
+    "pitch": 62,
+    "channel": 0,
+    "x": 697.1,
+    "y": 15.732
+  }
+]

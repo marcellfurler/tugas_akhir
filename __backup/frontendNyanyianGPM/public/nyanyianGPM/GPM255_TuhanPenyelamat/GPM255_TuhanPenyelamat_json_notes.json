@@ -1,0 +1,1806 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 73,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:9:10"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 64,
+    "channel": 0,
+    "x": 14.426,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:13:14"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 69,
+    "channel": 0,
+    "x": 18.461,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:17:18"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 73,
+    "channel": 0,
+    "x": 21.907,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:24:25"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 71,
+    "channel": 0,
+    "x": 25.028,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:28:29"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 28.782,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:32:33"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 68,
+    "channel": 0,
+    "x": 33.397,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:38:39"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 71,
+    "channel": 0,
+    "x": 36.126,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:44:45"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 40.317,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:48:49"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 62,
+    "channel": 0,
+    "x": 45.086,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:52:53"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 48.481,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:58:59"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 52.524,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:58:62:63"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 67,
+    "channel": 0,
+    "x": 56.417,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:2:3"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 66,
+    "channel": 0,
+    "x": 65.272,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 62,
+    "channel": 0,
+    "x": 67.847,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 66,
+    "channel": 0,
+    "x": 71.225,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:18:19"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 74.526,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:22:23"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 68,
+    "channel": 0,
+    "x": 76.955,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:28:29"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 80.87,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:32:33"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 71,
+    "channel": 0,
+    "x": 83.907,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:36:37"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 64,
+    "channel": 0,
+    "x": 86.491,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:42:43"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5184,
+    "pitch": 73,
+    "channel": 0,
+    "x": 90.697,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:50:51"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5280,
+    "pitch": 74,
+    "channel": 0,
+    "x": 96.246,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:58:59"
+    ],
+    "on_tick": 5280,
+    "off_tick": 5376,
+    "pitch": 73,
+    "channel": 0,
+    "x": 98.146,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:59:67:68"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 71,
+    "channel": 0,
+    "x": 100.046,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 73,
+    "channel": 0,
+    "x": 108.558,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:9:10"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 64,
+    "channel": 0,
+    "x": 113.438,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:13:14"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 69,
+    "channel": 0,
+    "x": 116.61,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:17:18"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 73,
+    "channel": 0,
+    "x": 120.04,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:24:25"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 71,
+    "channel": 0,
+    "x": 123.989,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:28:29"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 126.718,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:32:33"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 68,
+    "channel": 0,
+    "x": 129.55,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:38:39"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 71,
+    "channel": 0,
+    "x": 133.064,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:44:45"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 137.255,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:48:49"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 62,
+    "channel": 0,
+    "x": 140.206,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:52:53"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 66,
+    "channel": 0,
+    "x": 143.233,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:58:59"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 146.458,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:60:62:63"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 67,
+    "channel": 0,
+    "x": 149.223,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 66,
+    "channel": 0,
+    "x": 158.078,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 62,
+    "channel": 0,
+    "x": 163.82,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:12:13"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 66,
+    "channel": 0,
+    "x": 168.009,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:18:19"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 170.438,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:22:23"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 68,
+    "channel": 0,
+    "x": 173.833,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:28:29"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 178.32,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:32:33"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 181.689,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:36:37"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 73,
+    "channel": 0,
+    "x": 184.162,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:61:45:46"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11904,
+    "pitch": 69,
+    "channel": 0,
+    "x": 188.354,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12864,
+    "pitch": 73,
+    "channel": 0,
+    "x": 203.754,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:10:11"
+    ],
+    "on_tick": 12864,
+    "off_tick": 12960,
+    "pitch": 74,
+    "channel": 0,
+    "x": 209.304,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:18:19"
+    ],
+    "on_tick": 12960,
+    "off_tick": 13056,
+    "pitch": 73,
+    "channel": 0,
+    "x": 211.539,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:27:28"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13824,
+    "pitch": 71,
+    "channel": 0,
+    "x": 213.774,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:33:34"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 222.285,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:38:39"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14496,
+    "pitch": 71,
+    "channel": 0,
+    "x": 227.835,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:43:44"
+    ],
+    "on_tick": 14496,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 231.878,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:67:48:49"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 68,
+    "channel": 0,
+    "x": 235.427,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:2:3"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 66,
+    "channel": 0,
+    "x": 243.938,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:8:9"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 62,
+    "channel": 0,
+    "x": 247.759,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:12:13"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 66,
+    "channel": 0,
+    "x": 250.188,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:18:19"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 253.242,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:22:23"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 68,
+    "channel": 0,
+    "x": 257.823,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:28:29"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 261.952,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:32:33"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 71,
+    "channel": 0,
+    "x": 265.612,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:36:37"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 64,
+    "channel": 0,
+    "x": 269.041,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:42:43"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17664,
+    "pitch": 73,
+    "channel": 0,
+    "x": 273.247,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:68:51:52"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 71,
+    "channel": 0,
+    "x": 279.996,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 19008,
+    "pitch": 73,
+    "channel": 0,
+    "x": 288.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:10:11"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19104,
+    "pitch": 74,
+    "channel": 0,
+    "x": 294.057,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:18:19"
+    ],
+    "on_tick": 19104,
+    "off_tick": 19200,
+    "pitch": 73,
+    "channel": 0,
+    "x": 295.957,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:27:28"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19968,
+    "pitch": 71,
+    "channel": 0,
+    "x": 297.857,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:33:34"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 306.368,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:38:39"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20640,
+    "pitch": 71,
+    "channel": 0,
+    "x": 311.918,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:45:46"
+    ],
+    "on_tick": 20640,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 313.818,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:69:51:52"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 68,
+    "channel": 0,
+    "x": 315.718,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:2:3"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 66,
+    "channel": 0,
+    "x": 324.229,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:8:9"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 62,
+    "channel": 0,
+    "x": 327.368,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:12:13"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 66,
+    "channel": 0,
+    "x": 330.669,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:18:19"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 334.32,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:22:23"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 68,
+    "channel": 0,
+    "x": 337.732,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:28:29"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 69,
+    "channel": 0,
+    "x": 341.468,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:32:33"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 71,
+    "channel": 0,
+    "x": 345.52,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:36:37"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 68,
+    "channel": 0,
+    "x": 348.829,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:70:44:45"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24192,
+    "pitch": 69,
+    "channel": 0,
+    "x": 353.036,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:2:3"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 73,
+    "channel": 0,
+    "x": 368.436,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:9:10"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 372.863,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:13:14"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 69,
+    "channel": 0,
+    "x": 376.702,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:17:18"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 73,
+    "channel": 0,
+    "x": 380.327,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:24:25"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 71,
+    "channel": 0,
+    "x": 382.8,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:28:29"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 64,
+    "channel": 0,
+    "x": 386.144,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:32:33"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 68,
+    "channel": 0,
+    "x": 390.316,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:38:39"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 71,
+    "channel": 0,
+    "x": 393.83,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:44:45"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 398.02,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:48:49"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 62,
+    "channel": 0,
+    "x": 400.767,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:52:53"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 66,
+    "channel": 0,
+    "x": 403.794,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:58:59"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 406.224,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:75:62:63"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 408.653,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:2:3"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 66,
+    "channel": 0,
+    "x": 417.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:8:9"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 62,
+    "channel": 0,
+    "x": 420.083,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:12:13"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 66,
+    "channel": 0,
+    "x": 423.461,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:18:19"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 426.762,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:22:23"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 68,
+    "channel": 0,
+    "x": 429.191,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:28:29"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 433.106,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:32:33"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 436.143,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:36:37"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 64,
+    "channel": 0,
+    "x": 438.727,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:42:43"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29760,
+    "pitch": 73,
+    "channel": 0,
+    "x": 442.933,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:50:51"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29856,
+    "pitch": 74,
+    "channel": 0,
+    "x": 448.483,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:58:59"
+    ],
+    "on_tick": 29856,
+    "off_tick": 29952,
+    "pitch": 73,
+    "channel": 0,
+    "x": 450.383,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:76:67:68"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30720,
+    "pitch": 71,
+    "channel": 0,
+    "x": 452.283,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:2:3"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 73,
+    "channel": 0,
+    "x": 460.794,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:9:10"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 64,
+    "channel": 0,
+    "x": 464.564,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:13:14"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 468.684,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:17:18"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 73,
+    "channel": 0,
+    "x": 472.301,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:24:25"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31680,
+    "pitch": 71,
+    "channel": 0,
+    "x": 475.807,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:28:29"
+    ],
+    "on_tick": 31680,
+    "off_tick": 31872,
+    "pitch": 64,
+    "channel": 0,
+    "x": 478.587,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:32:33"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 68,
+    "channel": 0,
+    "x": 482.289,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:38:39"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 485.59,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:44:45"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 489.781,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:48:49"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 62,
+    "channel": 0,
+    "x": 493.534,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:52:53"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 66,
+    "channel": 0,
+    "x": 496.545,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:58:59"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 69,
+    "channel": 0,
+    "x": 500.162,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:77:62:63"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33792,
+    "pitch": 67,
+    "channel": 0,
+    "x": 504.054,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:2:3"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 512.909,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:8:9"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 62,
+    "channel": 0,
+    "x": 515.338,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:12:13"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 518.878,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:18:19"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 521.914,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:22:23"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34752,
+    "pitch": 68,
+    "channel": 0,
+    "x": 524.652,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:28:29"
+    ],
+    "on_tick": 34752,
+    "off_tick": 34944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 527.381,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:32:33"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 530.025,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:36:37"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 73,
+    "channel": 0,
+    "x": 533.351,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:78:45:46"
+    ],
+    "on_tick": 35328,
+    "off_tick": 36480,
+    "pitch": 69,
+    "channel": 0,
+    "x": 537.542,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:2:3"
+    ],
+    "on_tick": 36864,
+    "off_tick": 37440,
+    "pitch": 73,
+    "channel": 0,
+    "x": 552.943,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:10:11"
+    ],
+    "on_tick": 37440,
+    "off_tick": 37536,
+    "pitch": 74,
+    "channel": 0,
+    "x": 558.492,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:18:19"
+    ],
+    "on_tick": 37536,
+    "off_tick": 37632,
+    "pitch": 73,
+    "channel": 0,
+    "x": 560.728,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:27:28"
+    ],
+    "on_tick": 37632,
+    "off_tick": 38400,
+    "pitch": 71,
+    "channel": 0,
+    "x": 562.963,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:33:34"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38976,
+    "pitch": 69,
+    "channel": 0,
+    "x": 571.474,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:38:39"
+    ],
+    "on_tick": 38976,
+    "off_tick": 39072,
+    "pitch": 71,
+    "channel": 0,
+    "x": 577.024,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:43:44"
+    ],
+    "on_tick": 39072,
+    "off_tick": 39168,
+    "pitch": 69,
+    "channel": 0,
+    "x": 581.067,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:84:48:49"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39936,
+    "pitch": 68,
+    "channel": 0,
+    "x": 584.616,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:2:3"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 66,
+    "channel": 0,
+    "x": 593.127,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:8:9"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 62,
+    "channel": 0,
+    "x": 596.948,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:12:13"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 66,
+    "channel": 0,
+    "x": 599.377,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:18:19"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 602.431,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:22:23"
+    ],
+    "on_tick": 40704,
+    "off_tick": 40896,
+    "pitch": 68,
+    "channel": 0,
+    "x": 607.012,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:28:29"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 69,
+    "channel": 0,
+    "x": 611.141,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:32:33"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 71,
+    "channel": 0,
+    "x": 614.8,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:36:37"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 64,
+    "channel": 0,
+    "x": 618.229,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:42:43"
+    ],
+    "on_tick": 41472,
+    "off_tick": 42240,
+    "pitch": 73,
+    "channel": 0,
+    "x": 622.436,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:85:51:52"
+    ],
+    "on_tick": 42240,
+    "off_tick": 43008,
+    "pitch": 71,
+    "channel": 0,
+    "x": 629.185,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:2:3"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43584,
+    "pitch": 73,
+    "channel": 0,
+    "x": 637.696,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:10:11"
+    ],
+    "on_tick": 43584,
+    "off_tick": 43680,
+    "pitch": 74,
+    "channel": 0,
+    "x": 643.246,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:18:19"
+    ],
+    "on_tick": 43680,
+    "off_tick": 43776,
+    "pitch": 73,
+    "channel": 0,
+    "x": 645.146,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:27:28"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44544,
+    "pitch": 71,
+    "channel": 0,
+    "x": 647.046,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:33:34"
+    ],
+    "on_tick": 44544,
+    "off_tick": 45120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 655.557,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:38:39"
+    ],
+    "on_tick": 45120,
+    "off_tick": 45216,
+    "pitch": 71,
+    "channel": 0,
+    "x": 661.107,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:45:46"
+    ],
+    "on_tick": 45216,
+    "off_tick": 45312,
+    "pitch": 69,
+    "channel": 0,
+    "x": 663.007,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:86:51:52"
+    ],
+    "on_tick": 45312,
+    "off_tick": 46080,
+    "pitch": 68,
+    "channel": 0,
+    "x": 664.907,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:2:3"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46272,
+    "pitch": 66,
+    "channel": 0,
+    "x": 673.418,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:8:9"
+    ],
+    "on_tick": 46272,
+    "off_tick": 46464,
+    "pitch": 62,
+    "channel": 0,
+    "x": 676.557,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:12:13"
+    ],
+    "on_tick": 46464,
+    "off_tick": 46656,
+    "pitch": 66,
+    "channel": 0,
+    "x": 679.858,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:18:19"
+    ],
+    "on_tick": 46656,
+    "off_tick": 46848,
+    "pitch": 69,
+    "channel": 0,
+    "x": 683.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:22:23"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47040,
+    "pitch": 68,
+    "channel": 0,
+    "x": 686.92,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:28:29"
+    ],
+    "on_tick": 47040,
+    "off_tick": 47232,
+    "pitch": 69,
+    "channel": 0,
+    "x": 690.657,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:32:33"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47424,
+    "pitch": 71,
+    "channel": 0,
+    "x": 694.709,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:36:37"
+    ],
+    "on_tick": 47424,
+    "off_tick": 47616,
+    "pitch": 68,
+    "channel": 0,
+    "x": 698.018,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM255_TuhanPenyelamat/GPM255_TuhanPenyelamat_ly_data.ily:87:44:45"
+    ],
+    "on_tick": 47616,
+    "off_tick": 48768,
+    "pitch": 69,
+    "channel": 0,
+    "x": 702.224,
+    "y": 15.732
+  }
+]

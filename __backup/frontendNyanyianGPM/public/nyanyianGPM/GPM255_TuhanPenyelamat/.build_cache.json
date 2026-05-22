@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM255_TuhanPenyelamat.ly": "8ca1a75033012974189ecc1f2545d5881bc86b575cda1f96aaca5a4785f19d10",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM255_TuhanPenyelamat_ly_data.ily": "ef908d7ac07c0537cfc1c790b2c9395bdf2650d75840796a9063ecd180d53dbb"
+  },
+  "svg_one_line": {
+    "GPM255_TuhanPenyelamat_ly_one_line.ly": "0e009be284db75affa66dac1d25143c5f136b1ceba0e878e375836ac34a5953b",
+    "GPM255_TuhanPenyelamat_ly_data.ily": "ef908d7ac07c0537cfc1c790b2c9395bdf2650d75840796a9063ecd180d53dbb",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM255_TuhanPenyelamat.ly": "8ca1a75033012974189ecc1f2545d5881bc86b575cda1f96aaca5a4785f19d10",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "events": {
+    "GPM255_TuhanPenyelamat_ly_one_line.midi": "826ad733ea4018243574b72faf7d704e618486d4abb97933ce00c8e9aeee59c8"
+  },
+  "filter_one_line": {
+    "GPM255_TuhanPenyelamat_ly_one_line.svg": "afbcd43b912f27210058f13038ea992009b3e5f6ba06543713b2beb49af84b17"
+  },
+  "ties": {
+    "GPM255_TuhanPenyelamat_ly_one_line_filtered.svg": "09fbaeecff99bf0cddbbee863819be565254b0480db7dfaa4d88ac323ab2d1d8"
+  },
+  "noteheads": {
+    "GPM255_TuhanPenyelamat_ly_one_line_filtered.svg": "09fbaeecff99bf0cddbbee863819be565254b0480db7dfaa4d88ac323ab2d1d8"
+  },
+  "squash": {
+    "GPM255_TuhanPenyelamat_note_heads.csv": "2a4fd045135c6d6d3f2fa8c18025cd7b086cbd38b871f910dd1acb1336a7d747",
+    "GPM255_TuhanPenyelamat_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM255_TuhanPenyelamat_note_heads_squashed.csv": "85203a133a9872a41c2a270143b7fa5a159b8d8d7b355a248953cb47a0191028",
+    "GPM255_TuhanPenyelamat_note_events.csv": "35db70e8084bf57a2dfa8998e231bb7f2a7a64bc03da532d8f2d70a964b78df5"
+  },
+  "svg": {
+    "GPM255_TuhanPenyelamat.ly": "8ca1a75033012974189ecc1f2545d5881bc86b575cda1f96aaca5a4785f19d10",
+    "GPM255_TuhanPenyelamat_ly_data.ily": "ef908d7ac07c0537cfc1c790b2c9395bdf2650d75840796a9063ecd180d53dbb",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "filter": {
+    "GPM255_TuhanPenyelamat.svg": "bed4b4fcc177dab1e69078c8d4688437ccedfa3dabbdfc3d6330b735fa978dd3"
+  },
+  "swell": {
+    "GPM255_TuhanPenyelamat_filtered.svg": "f614d090e21ce5603fe83211e87ebd6a47f494d629970f83bdd7c9a38cc2dbd2"
+  },
+  "optim": {
+    "GPM255_TuhanPenyelamat_filtered_swellable.svg": "eb7e159578b3f1c6309cb4c4a4e4a340f906ff3b588dc12d8ea59ed231d52f5f"
+  },
+  "sync": {
+    "GPM255_TuhanPenyelamat_optimized.svg": "39aa737c17be03a58c5c50fe5d268854d80c1282562578f0ee55eb3eb383edc4",
+    "GPM255_TuhanPenyelamat_json_notes.json": "50e9c23b9163c5d69546a8e297505f7f29176e2e7b790315ee709ff5dde43146",
+    "GPM255_TuhanPenyelamat_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM255_TuhanPenyelamat.config.yaml": "584be17f821b0895886c303a64cbcf4b87b0864a0b40fb8bcaf12c993d3d5e62"
+  }
+}

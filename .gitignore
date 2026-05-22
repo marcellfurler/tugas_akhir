@@ -141,6 +141,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# # All env variations
+# env*/
+# venv*/
+env-audio/
+env-data/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 

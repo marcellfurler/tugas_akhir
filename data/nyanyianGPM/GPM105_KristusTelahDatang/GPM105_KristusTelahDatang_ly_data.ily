@@ -39,7 +39,7 @@ gpmseratuslima_e_notes_pdf = {
 
     \mark \markup { \italic "Refrain" } r4 gis'8 a'8 | b'4 b'4 | b'4 b'8 b'8 | cis''8 b'8 a'8 gis'8 a'4 | fis'8 gis'8 | \break
     a'4 a'4 | a'4 a'8 a'8 | a'8 b'8 a'8 fis'8 | gis'4 a'4 |  \break
-    gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ (| e'4) r4 | \break
+    gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ ( | e'4) r4 | \break
   }
 }
 
@@ -54,7 +54,7 @@ gpmseratuslima_e_notes_svg = {
 
   \mark \markup { \italic "Refrain" } r4 gis'8 a'8 | b'4 b'4 | b'4 b'8 b'8 | cis''8 b'8 a'8 gis'8 a'4 | fis'8 gis'8 | \break
   a'4 a'4 | a'4 a'8 a'8 | a'8 b'8 a'8 fis'8 | gis'4 a'4 |  \break
-  gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ (| e'4) r4 | \break
+  gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ ( | e'4) r4 | \break
 
   \section
   \tweak X-offset #1 
@@ -66,7 +66,7 @@ gpmseratuslima_e_notes_svg = {
 
   \mark \markup { \italic "Refrain" } r4 gis'8 a'8 | b'4 b'4 | b'4 b'8 b'8 | cis''8 b'8 a'8 gis'8 a'4 | fis'8 gis'8 | \break
   a'4 a'4 | a'4 a'8 a'8 | a'8 b'8 a'8 fis'8 | gis'4 a'4 |  \break
-  gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ (| e'4) r4 | \break
+  gis'4 e'4 | dis'4 fis'4 | \once \override Tie.stencil = ##f e'2~ ( | e'4) r4 | \break
 }
 
 gpmseratuslima_e_notes =

@@ -48,7 +48,7 @@ gpmsembilanpuluhsembilan_d_notes = {
          (empty-music)
          )
 
-    a'4 a'4 a'4 a'8 a'8 | b'4 (a'4) fis'2 | \break
+    a'4 a'4 a'4 a'8 a'8 | b'4 ( a'4) fis'2 | \break
     e'4. e'8 d'4. e'8 | fis'2. r4 | \break
     a'4 a'4 a'4 a'8 a'8 | b'4 a'4 fis'2 | \break
     e'4. d'8 fis'4. e'8 | d'2. r4 \break  \bar "||"

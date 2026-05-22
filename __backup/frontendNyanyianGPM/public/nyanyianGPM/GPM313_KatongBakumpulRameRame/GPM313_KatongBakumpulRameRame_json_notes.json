@@ -1,0 +1,1410 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:7:8"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 64,
+    "channel": 0,
+    "x": 12.736,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:11:12"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 64,
+    "channel": 0,
+    "x": 17.036,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:15:16"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 65,
+    "channel": 0,
+    "x": 21.378,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:19:20"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 25.421,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:23:24"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 29.96,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:27:28"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 60,
+    "channel": 0,
+    "x": 33.5,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:31:32"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 62,
+    "channel": 0,
+    "x": 36.963,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:37:38"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 64,
+    "channel": 0,
+    "x": 41.154,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:41:42"
+    ],
+    "on_tick": 1728,
+    "off_tick": 2112,
+    "pitch": 64,
+    "channel": 0,
+    "x": 43.583,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:45:46"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 47.932,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:49:50"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 60,
+    "channel": 0,
+    "x": 50.362,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:58:59"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 65,
+    "channel": 0,
+    "x": 59.031,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:62:63"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 65,
+    "channel": 0,
+    "x": 61.46,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:66:67"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 64.368,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:70:71"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 67.951,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:74:75"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 70.723,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:79:80"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 65,
+    "channel": 0,
+    "x": 76.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:49:85:86"
+    ],
+    "on_tick": 4608,
+    "off_tick": 6144,
+    "pitch": 64,
+    "channel": 0,
+    "x": 80.463,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:7:8"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 98.565,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:11:12"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 102.13,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:15:16"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 64,
+    "channel": 0,
+    "x": 105.875,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:19:20"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 62,
+    "channel": 0,
+    "x": 108.997,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:23:24"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 60,
+    "channel": 0,
+    "x": 111.905,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:27:28"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 62,
+    "channel": 0,
+    "x": 114.334,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:33:34"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 64,
+    "channel": 0,
+    "x": 118.525,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:37:38"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8256,
+    "pitch": 64,
+    "channel": 0,
+    "x": 120.954,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:41:42"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 62,
+    "channel": 0,
+    "x": 125.304,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:45:46"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 60,
+    "channel": 0,
+    "x": 127.733,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:54:55"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 62,
+    "channel": 0,
+    "x": 136.402,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:58:59"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 62,
+    "channel": 0,
+    "x": 138.978,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:62:63"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 62,
+    "channel": 0,
+    "x": 142.091,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:66:67"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 64,
+    "channel": 0,
+    "x": 144.52,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:70:71"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 62,
+    "channel": 0,
+    "x": 147.087,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:74:75"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 60,
+    "channel": 0,
+    "x": 149.662,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:78:79"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 59,
+    "channel": 0,
+    "x": 153.134,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:81:82"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 60,
+    "channel": 0,
+    "x": 157.553,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:50:87:88"
+    ],
+    "on_tick": 10752,
+    "off_tick": 12288,
+    "pitch": 62,
+    "channel": 0,
+    "x": 161.744,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:7:8"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 64,
+    "channel": 0,
+    "x": 178.696,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:11:12"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 64,
+    "channel": 0,
+    "x": 181.476,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:15:16"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 65,
+    "channel": 0,
+    "x": 186.04,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:19:20"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 64,
+    "channel": 0,
+    "x": 190.69,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:23:24"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 62,
+    "channel": 0,
+    "x": 194.102,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:27:28"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 60,
+    "channel": 0,
+    "x": 197.625,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:31:32"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 62,
+    "channel": 0,
+    "x": 200.832,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:37:38"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 64,
+    "channel": 0,
+    "x": 205.43,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:41:42"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14400,
+    "pitch": 64,
+    "channel": 0,
+    "x": 208.262,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:45:46"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 62,
+    "channel": 0,
+    "x": 212.611,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:49:50"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 60,
+    "channel": 0,
+    "x": 215.04,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:58:59"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 65,
+    "channel": 0,
+    "x": 223.71,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:62:63"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 65,
+    "channel": 0,
+    "x": 227.241,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:66:67"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 231.122,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:70:71"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 234.244,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:74:75"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 237.084,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:79:80"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 65,
+    "channel": 0,
+    "x": 242.634,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:51:85:86"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18432,
+    "pitch": 64,
+    "channel": 0,
+    "x": 246.824,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:7:8"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 64,
+    "channel": 0,
+    "x": 264.926,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:11:12"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 64,
+    "channel": 0,
+    "x": 269.226,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:15:16"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 64,
+    "channel": 0,
+    "x": 274.558,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:19:20"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 62,
+    "channel": 0,
+    "x": 278.858,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:23:24"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 60,
+    "channel": 0,
+    "x": 282.842,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:27:28"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 62,
+    "channel": 0,
+    "x": 286.493,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:33:34"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 64,
+    "channel": 0,
+    "x": 290.683,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:37:38"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20544,
+    "pitch": 64,
+    "channel": 0,
+    "x": 293.113,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:41:42"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 62,
+    "channel": 0,
+    "x": 297.462,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:45:46"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 60,
+    "channel": 0,
+    "x": 299.891,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:54:55"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 65,
+    "channel": 0,
+    "x": 308.561,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:58:59"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 65,
+    "channel": 0,
+    "x": 310.99,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:62:63"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 65,
+    "channel": 0,
+    "x": 314.274,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:66:67"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 65,
+    "channel": 0,
+    "x": 318.164,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:70:71"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22848,
+    "pitch": 64,
+    "channel": 0,
+    "x": 321.413,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:75:76"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 62,
+    "channel": 0,
+    "x": 326.963,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:52:81:82"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24576,
+    "pitch": 60,
+    "channel": 0,
+    "x": 331.154,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:7:8"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 69,
+    "channel": 0,
+    "x": 349.256,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:11:12"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 69,
+    "channel": 0,
+    "x": 354.298,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:15:16"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 69,
+    "channel": 0,
+    "x": 357.539,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:19:20"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 67,
+    "channel": 0,
+    "x": 361.053,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:23:24"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 65,
+    "channel": 0,
+    "x": 364.815,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:27:28"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 67,
+    "channel": 0,
+    "x": 369.081,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:33:34"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 373.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:37:38"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 375.701,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:41:42"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 380.051,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:45:46"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 65,
+    "channel": 0,
+    "x": 383.087,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:54:55"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 72,
+    "channel": 0,
+    "x": 391.756,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:59:60"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 72,
+    "channel": 0,
+    "x": 395.066,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:64:65"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 72,
+    "channel": 0,
+    "x": 397.744,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:69:70"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 72,
+    "channel": 0,
+    "x": 400.601,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:74:75"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 403.03,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:79:80"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 409.848,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:85:86"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29760,
+    "pitch": 67,
+    "channel": 0,
+    "x": 414.038,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:90:91"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 65,
+    "channel": 0,
+    "x": 419.588,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:54:94:95"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 422.017,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:7:8"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 433.878,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:11:12"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 436.505,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:15:16"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31680,
+    "pitch": 69,
+    "channel": 0,
+    "x": 440.079,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:19:20"
+    ],
+    "on_tick": 31680,
+    "off_tick": 31872,
+    "pitch": 67,
+    "channel": 0,
+    "x": 442.791,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:23:24"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 65,
+    "channel": 0,
+    "x": 447.116,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:27:28"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 452.585,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:33:34"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 456.777,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:37:38"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32832,
+    "pitch": 69,
+    "channel": 0,
+    "x": 459.206,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:41:42"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 67,
+    "channel": 0,
+    "x": 466.74,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:45:46"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 65,
+    "channel": 0,
+    "x": 470.238,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:54:55"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 72,
+    "channel": 0,
+    "x": 478.907,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:59:60"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 72,
+    "channel": 0,
+    "x": 481.336,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:64:65"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 72,
+    "channel": 0,
+    "x": 483.765,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:69:70"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 72,
+    "channel": 0,
+    "x": 486.194,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:74:75"
+    ],
+    "on_tick": 34560,
+    "off_tick": 35136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 488.624,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:79:80"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 494.173,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:85:86"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 498.364,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:90:91"
+    ],
+    "on_tick": 35904,
+    "off_tick": 36096,
+    "pitch": 65,
+    "channel": 0,
+    "x": 503.913,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:55:94:95"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36864,
+    "pitch": 64,
+    "channel": 0,
+    "x": 506.343,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:7:8"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37440,
+    "pitch": 64,
+    "channel": 0,
+    "x": 518.204,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:11:12"
+    ],
+    "on_tick": 37440,
+    "off_tick": 37632,
+    "pitch": 64,
+    "channel": 0,
+    "x": 521.65,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:15:16"
+    ],
+    "on_tick": 37632,
+    "off_tick": 37824,
+    "pitch": 64,
+    "channel": 0,
+    "x": 524.891,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:19:20"
+    ],
+    "on_tick": 37824,
+    "off_tick": 38016,
+    "pitch": 62,
+    "channel": 0,
+    "x": 528.687,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:23:24"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38208,
+    "pitch": 60,
+    "channel": 0,
+    "x": 532.73,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:27:28"
+    ],
+    "on_tick": 38208,
+    "off_tick": 38400,
+    "pitch": 62,
+    "channel": 0,
+    "x": 537.85,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:33:34"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38592,
+    "pitch": 64,
+    "channel": 0,
+    "x": 542.465,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:37:38"
+    ],
+    "on_tick": 38592,
+    "off_tick": 38976,
+    "pitch": 64,
+    "channel": 0,
+    "x": 544.894,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:41:42"
+    ],
+    "on_tick": 38976,
+    "off_tick": 39168,
+    "pitch": 62,
+    "channel": 0,
+    "x": 550.5,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:45:46"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39552,
+    "pitch": 60,
+    "channel": 0,
+    "x": 553.246,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:52:53"
+    ],
+    "on_tick": 39744,
+    "off_tick": 39936,
+    "pitch": 60,
+    "channel": 0,
+    "x": 559.075,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:58:59"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 62,
+    "channel": 0,
+    "x": 563.266,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:62:63"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 62,
+    "channel": 0,
+    "x": 566.592,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:66:67"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 65,
+    "channel": 0,
+    "x": 569.159,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:70:71"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 65,
+    "channel": 0,
+    "x": 571.588,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:74:75"
+    ],
+    "on_tick": 40704,
+    "off_tick": 41280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 574.036,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:79:80"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 62,
+    "channel": 0,
+    "x": 579.585,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM313_KatongBakumpulRameRame/GPM313_KatongBakumpulRameRame_ly_data.ily:56:85:86"
+    ],
+    "on_tick": 41472,
+    "off_tick": 43008,
+    "pitch": 60,
+    "channel": 0,
+    "x": 583.776,
+    "y": 15.289
+  }
+]

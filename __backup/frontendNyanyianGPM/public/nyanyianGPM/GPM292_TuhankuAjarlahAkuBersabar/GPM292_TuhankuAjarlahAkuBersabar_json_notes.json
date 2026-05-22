@@ -1,0 +1,948 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 57,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:5:6"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 62,
+    "channel": 0,
+    "x": 14.426,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:9:10"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 18.538,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:15:16"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 22.167,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:19:20"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 24.596,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:23:24"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 59,
+    "channel": 0,
+    "x": 28.11,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:52:26:27"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 62,
+    "channel": 0,
+    "x": 31.07,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:53:2:3"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 64,
+    "channel": 0,
+    "x": 35.26,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:53:6:7"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 62,
+    "channel": 0,
+    "x": 39.039,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:53:10:11"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 66,
+    "channel": 0,
+    "x": 42.229,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:53:16:17"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 66,
+    "channel": 0,
+    "x": 45.858,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:2:3"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 54.37,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:6:7"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 71,
+    "channel": 0,
+    "x": 57.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:10:11"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 59.879,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:14:15"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 66,
+    "channel": 0,
+    "x": 63.508,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:20:21"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 62,
+    "channel": 0,
+    "x": 66.937,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:24:25"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 59,
+    "channel": 0,
+    "x": 72.304,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:54:27:28"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 62,
+    "channel": 0,
+    "x": 76.663,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:55:2:3"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 66,
+    "channel": 0,
+    "x": 80.854,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:55:8:9"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 62,
+    "channel": 0,
+    "x": 84.624,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:55:12:13"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 64,
+    "channel": 0,
+    "x": 88.3,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:55:16:17"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 64,
+    "channel": 0,
+    "x": 91.93,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 57,
+    "channel": 0,
+    "x": 100.441,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:5:6"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 62,
+    "channel": 0,
+    "x": 103.102,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:9:10"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 66,
+    "channel": 0,
+    "x": 106.846,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:15:16"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 64,
+    "channel": 0,
+    "x": 110.476,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:19:20"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 62,
+    "channel": 0,
+    "x": 114.237,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:23:24"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 59,
+    "channel": 0,
+    "x": 118.127,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:56:26:27"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 62,
+    "channel": 0,
+    "x": 122.657,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:57:2:3"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 64,
+    "channel": 0,
+    "x": 126.848,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:57:6:7"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 62,
+    "channel": 0,
+    "x": 129.799,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:57:10:11"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8448,
+    "pitch": 66,
+    "channel": 0,
+    "x": 133.885,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 66,
+    "channel": 0,
+    "x": 137.514,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 146.026,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:6:7"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 71,
+    "channel": 0,
+    "x": 149.676,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:10:11"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 154.258,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:14:15"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 66,
+    "channel": 0,
+    "x": 157.887,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:20:21"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 62,
+    "channel": 0,
+    "x": 161.785,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:24:25"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 59,
+    "channel": 0,
+    "x": 165.701,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:58:27:28"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 62,
+    "channel": 0,
+    "x": 169.898,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:59:2:3"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 66,
+    "channel": 0,
+    "x": 174.089,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 62,
+    "channel": 0,
+    "x": 176.732,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 11136,
+    "off_tick": 12288,
+    "pitch": 62,
+    "channel": 0,
+    "x": 179.162,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 57,
+    "channel": 0,
+    "x": 191.283,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:5:6"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 62,
+    "channel": 0,
+    "x": 195.173,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:9:10"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 66,
+    "channel": 0,
+    "x": 198.943,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:15:16"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 64,
+    "channel": 0,
+    "x": 202.573,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:19:20"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 62,
+    "channel": 0,
+    "x": 206.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:23:24"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 59,
+    "channel": 0,
+    "x": 210.6,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:64:26:27"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 62,
+    "channel": 0,
+    "x": 213.961,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:65:2:3"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 64,
+    "channel": 0,
+    "x": 219.515,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:65:6:7"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 62,
+    "channel": 0,
+    "x": 223.405,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:65:10:11"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 66,
+    "channel": 0,
+    "x": 225.834,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:65:16:17"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 66,
+    "channel": 0,
+    "x": 229.463,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:2:3"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 69,
+    "channel": 0,
+    "x": 237.974,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:6:7"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 71,
+    "channel": 0,
+    "x": 240.891,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:10:11"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 243.484,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:14:15"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 66,
+    "channel": 0,
+    "x": 247.113,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:20:21"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 62,
+    "channel": 0,
+    "x": 250.542,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:24:25"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 59,
+    "channel": 0,
+    "x": 255.908,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:66:27:28"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 62,
+    "channel": 0,
+    "x": 260.268,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:67:2:3"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 66,
+    "channel": 0,
+    "x": 264.458,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:67:8:9"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 62,
+    "channel": 0,
+    "x": 268.229,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:67:12:13"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 271.905,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:67:16:17"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 64,
+    "channel": 0,
+    "x": 275.535,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 57,
+    "channel": 0,
+    "x": 284.046,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:5:6"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 62,
+    "channel": 0,
+    "x": 286.475,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:9:10"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 66,
+    "channel": 0,
+    "x": 288.904,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:15:16"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 64,
+    "channel": 0,
+    "x": 292.533,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:19:20"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 62,
+    "channel": 0,
+    "x": 296.363,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:23:24"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 59,
+    "channel": 0,
+    "x": 300.825,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:68:26:27"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 62,
+    "channel": 0,
+    "x": 303.913,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:69:2:3"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 64,
+    "channel": 0,
+    "x": 308.103,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:69:6:7"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 62,
+    "channel": 0,
+    "x": 310.986,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:69:10:11"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 66,
+    "channel": 0,
+    "x": 313.476,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:69:16:17"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 66,
+    "channel": 0,
+    "x": 317.105,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:2:3"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 325.616,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:6:7"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 71,
+    "channel": 0,
+    "x": 329.506,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:10:11"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 333.857,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:14:15"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 66,
+    "channel": 0,
+    "x": 338.293,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:20:21"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 62,
+    "channel": 0,
+    "x": 342.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:24:25"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 59,
+    "channel": 0,
+    "x": 345.894,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:70:27:28"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 62,
+    "channel": 0,
+    "x": 349.707,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:71:2:3"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 66,
+    "channel": 0,
+    "x": 353.898,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:71:8:9"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 62,
+    "channel": 0,
+    "x": 357.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily:71:12:13"
+    ],
+    "on_tick": 23424,
+    "off_tick": 24576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 360.687,
+    "y": 15.289
+  }
+]

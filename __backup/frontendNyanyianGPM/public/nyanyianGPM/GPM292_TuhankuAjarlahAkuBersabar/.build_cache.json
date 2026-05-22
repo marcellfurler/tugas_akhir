@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM292_TuhankuAjarlahAkuBersabar.ly": "b8a47c65e25a646c34193d84b9156d34938f55a72a84e7f890479529d3d70e68",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily": "3d67a8504c9a4e6f2ac14f09302c035d38e7f51e86fd2894f8652e715892ecbd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "svg_one_line": {
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_one_line.ly": "d8cb47baf183b8fed88de34ae863651e40a4a61c3311e49228889855a6ae8f67",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily": "3d67a8504c9a4e6f2ac14f09302c035d38e7f51e86fd2894f8652e715892ecbd",
+    "GPM292_TuhankuAjarlahAkuBersabar.ly": "b8a47c65e25a646c34193d84b9156d34938f55a72a84e7f890479529d3d70e68",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "events": {
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_one_line.midi": "26cbfc3b8661903014c701890ceb8ed1d5b700062b36ee417da40c4ead2d0c68"
+  },
+  "filter_one_line": {
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_one_line.svg": "6dfe6651b2d250d80f4b901d51e0bda18725381b7a7582fff339e3b56d69d716"
+  },
+  "ties": {
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_one_line_filtered.svg": "72a3de5dd79cab42631f8cc5e944e5a1a904b9f0605e21141039f754d8aeddb7"
+  },
+  "noteheads": {
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_one_line_filtered.svg": "72a3de5dd79cab42631f8cc5e944e5a1a904b9f0605e21141039f754d8aeddb7"
+  },
+  "squash": {
+    "GPM292_TuhankuAjarlahAkuBersabar_note_heads.csv": "70df57a08f5a93ca9cc67b6a41ecbc16f36d185c300ca44b2ccf00966955baef",
+    "GPM292_TuhankuAjarlahAkuBersabar_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM292_TuhankuAjarlahAkuBersabar_note_heads_squashed.csv": "59338efbce54d41e183006ff4717d06d418652b2defbcab0d86e98f31119b893",
+    "GPM292_TuhankuAjarlahAkuBersabar_note_events.csv": "d11cbf68bd6ccd6e13109110cb239b9c3f4526d6909ca4ae682fca026af497d1"
+  },
+  "svg": {
+    "GPM292_TuhankuAjarlahAkuBersabar.ly": "b8a47c65e25a646c34193d84b9156d34938f55a72a84e7f890479529d3d70e68",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM292_TuhankuAjarlahAkuBersabar_ly_data.ily": "3d67a8504c9a4e6f2ac14f09302c035d38e7f51e86fd2894f8652e715892ecbd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM292_TuhankuAjarlahAkuBersabar.svg": "abd86fcac6159c82e0bc232f5926675714495eda23ccd0aba7a387e801817d86"
+  },
+  "swell": {
+    "GPM292_TuhankuAjarlahAkuBersabar_filtered.svg": "9796c36cbf9308b4dc0634c995df31bee4d2d677d8a502f667d6ae8802367037"
+  },
+  "optim": {
+    "GPM292_TuhankuAjarlahAkuBersabar_filtered_swellable.svg": "fa0072cc202dfd98ae0ff7c9f5bd7847fc7bef8459aa8791d225f13f08209a1e"
+  },
+  "sync": {
+    "GPM292_TuhankuAjarlahAkuBersabar_optimized.svg": "bc421b377e20ce39aadc5e0c68522d6dda0952d3237f0be1c39398de8a7d2a2f",
+    "GPM292_TuhankuAjarlahAkuBersabar_json_notes.json": "ec44f514ca3fe2dd8e8631b9f20727e694a980080f558c21e4a082cc0e75bef6",
+    "GPM292_TuhankuAjarlahAkuBersabar_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM292_TuhankuAjarlahAkuBersabar.config.yaml": "577ba5700945655fade550491cb48c1b5bfa3b576fa316f877496dc448f23bbc"
+  }
+}

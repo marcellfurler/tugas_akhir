@@ -38,34 +38,34 @@ gpmseratusdelapan_c_notes_pdf = {
     g'8 e'8 g'8 c''8 |
     a'4 a'8 f'8 |
     f'8 d'8 a'8 g'8 |
-    g'4 g'4 ~ |
-    g'4 \break
+    g'4 g'4 ( |
+    g'4) \break
 
     % Baris kedua
     r8 e'8 |
     e'8 c'8 f'8 e'8 |
     e'4 c'8 c'8 |
     \phrasingSlurDashed c'8\( a8\) \phrasingSlurSolid b8 c'8 |
-    d'4 d'4 ~ |
-    d'4 \break
+    d'4 d'4 ( |
+    d'4) \break
 
     % Baris ketiga
     r8 g'8 |
     g'8 e'8 g'8 c''8 |
     a'4 a'8 f'8 |
     f'8 d'8 a'8 g'8 |
-    g'4 g'4 ~ |
-    g'4 \break
+    g'4 g'4 ( |
+    g'4) \break
 
     % Baris keempat
     r8 e'8 |
     e'8 c'8 f'8 e'8 |
-    e'8 ( a'8) a'4 ~ |
-    a'4\fermata
+    e'8 ( a'8) a'4 ( |
+    a'4)\fermata
     r8 a'8 |
     a'8( c''8) c''8 b'8 |
-    c''4 c''4 ~ |
-    c''4 \break
+    c''4 c''4 ( |
+    c''4) \break
   }
 }
 
@@ -77,34 +77,34 @@ gpmseratusdelapan_c_notes_svg = {
   g'8 e'8 g'8 c''8 |
   a'4 a'8 f'8 |
   f'8 d'8 a'8 g'8 |
-  g'4 g'4 ~ |
-  g'4 \break
+  g'4 g'4 ( |
+  g'4) \break
 
   % Baris kedua
   r8 e'8 |
   e'8 c'8 f'8 e'8 |
   e'4 c'8 c'8 |
   \phrasingSlurDashed c'8\( a8\) \phrasingSlurSolid b8 c'8 |
-  d'4 d'4 ~ |
-  d'4 \break
+  d'4 d'4 ( |
+  d'4) \break
 
   % Baris ketiga
   r8 g'8 |
   g'8 e'8 g'8 c''8 |
   a'4 a'8 f'8 |
   f'8 d'8 a'8 g'8 |
-  g'4 g'4 ~ |
-  g'4 \break
+  g'4 g'4 ( |
+  g'4) \break
 
   % Baris keempat
   r8 e'8 |
   e'8 c'8 f'8 e'8 |
-  e'8 ( a'8) a'4 ~ |
-  a'4\fermata
+  e'8 ( a'8) a'4 ( |
+  a'4)\fermata
   r8 a'8 |
   a'8( c''8) c''8 b'8 |
-  c''4 c''4 ~ |
-  c''4 \break
+  c''4 c''4 ( |
+  c''4) \break
   
   \section
   \tweak X-offset #1
@@ -113,34 +113,34 @@ gpmseratusdelapan_c_notes_svg = {
   g'8 e'8 g'8 c''8 |
   a'4 a'8 f'8 |
   f'8 d'8 a'8 g'8 |
-  g'4 g'4 ~ |
-  g'4 \break
+  g'4 g'4 ( |
+  g'4) \break
 
   % Baris kedua
   r8 e'8 |
   e'8 c'8 f'8 e'8 |
   e'4 c'8 c'8 |
   \phrasingSlurDashed c'8\( a8\) \phrasingSlurSolid b8 c'8 |
-  d'4 d'4 ~ |
-  d'4 \break
+  d'4 d'4 ( |
+  d'4) \break
 
   % Baris ketiga
   r8 g'8 |
   g'8 e'8 g'8 c''8 |
   a'4 a'8 f'8 |
   f'8 d'8 a'8 g'8 |
-  g'4 g'4 ~ |
-  g'4 \break
+  g'4 g'4 ( |
+  g'4) \break
 
   % Baris keempat
   r8 e'8 |
   e'8 c'8 f'8 e'8 |
-  e'8 ( a'8) a'4 ~ |
-  a'4\fermata
+  e'8 ( a'8) a'4 ( |
+  a'4)\fermata
   r8 a'8 |
   a'8( c''8) c''8 b'8 |
-  c''4 c''4 ~ |
-  c''4 \break
+  c''4 c''4 ( |
+  c''4) \break
 }
 
 gpmseratusdelapan_c_notes =

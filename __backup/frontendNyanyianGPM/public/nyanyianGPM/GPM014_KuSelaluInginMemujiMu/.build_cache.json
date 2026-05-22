@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM014_KuSelaluInginMemujiMu.ly": "922e6167ddd7579aaea7048fedd61c9c947fcb9457244ba9402155ae70c4a3a1",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM014_KuSelaluInginMemujiMu_ly_data.ily": "3eee6b4050b98108772b342883200789e09ccd9b6f9daf2b24dc163f2ff2726d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM014_KuSelaluInginMemujiMu_ly_one_line.ly": "806cac236228ea997da04c75449f00a5652767688bc2635639b4042368b80445",
+    "GPM014_KuSelaluInginMemujiMu.ly": "922e6167ddd7579aaea7048fedd61c9c947fcb9457244ba9402155ae70c4a3a1",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM014_KuSelaluInginMemujiMu_ly_data.ily": "3eee6b4050b98108772b342883200789e09ccd9b6f9daf2b24dc163f2ff2726d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "events": {
+    "GPM014_KuSelaluInginMemujiMu_ly_one_line.midi": "8ba1687271213401aba27c99d0cbfb2ecffb2502af5501d5c3eaec21a3316707"
+  },
+  "filter_one_line": {
+    "GPM014_KuSelaluInginMemujiMu_ly_one_line.svg": "66e4549cb4cb60c029fa2fcb03fbc54cbe465f71afd5f6a5c192600c1438f12f"
+  },
+  "ties": {
+    "GPM014_KuSelaluInginMemujiMu_ly_one_line_filtered.svg": "dafb4a29a1ee03a0ca8b271af64e8b4a9ae818d9dc2c708e1537c8ddbcf144f8"
+  },
+  "noteheads": {
+    "GPM014_KuSelaluInginMemujiMu_ly_one_line_filtered.svg": "dafb4a29a1ee03a0ca8b271af64e8b4a9ae818d9dc2c708e1537c8ddbcf144f8"
+  },
+  "squash": {
+    "GPM014_KuSelaluInginMemujiMu_note_heads.csv": "d41f031e5a6faf6f22ca0a92cc9b1cd5937abd04c09849b79a744e28087cacd3",
+    "GPM014_KuSelaluInginMemujiMu_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM014_KuSelaluInginMemujiMu_note_heads_squashed.csv": "018bb822d1b8fdc67f3993d53f8bdcdbc808d08f364ba02e8f5b3b522a737765",
+    "GPM014_KuSelaluInginMemujiMu_note_events.csv": "f7b24eb85d3ba36c91f63d533ed7474409cdeb9627a697c1deb8be8bd3fe0748"
+  },
+  "svg": {
+    "GPM014_KuSelaluInginMemujiMu.ly": "922e6167ddd7579aaea7048fedd61c9c947fcb9457244ba9402155ae70c4a3a1",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM014_KuSelaluInginMemujiMu_ly_data.ily": "3eee6b4050b98108772b342883200789e09ccd9b6f9daf2b24dc163f2ff2726d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "filter": {
+    "GPM014_KuSelaluInginMemujiMu.svg": "0f0f4de936039a2e26bf9e6614bc33231cd879e7035e48042b908fbb5ca5ab7d"
+  },
+  "swell": {
+    "GPM014_KuSelaluInginMemujiMu_filtered.svg": "609fcade8a16c8ef2e28cf0b7cc3a5c57b024fc5a04c56152cbcb8b5b767300a"
+  },
+  "optim": {
+    "GPM014_KuSelaluInginMemujiMu_filtered_swellable.svg": "49a416d268daab82321d60a7ef40398f4d0e4b5dfbbf3418558ea1c01df1b306"
+  },
+  "sync": {
+    "GPM014_KuSelaluInginMemujiMu_optimized.svg": "d72ec929f1a2d60828b43bfc4da805fddee5c06f90e22fa9dd408960dd94cf43",
+    "GPM014_KuSelaluInginMemujiMu_json_notes.json": "7d8df2f4491a1e1646d2a691e9ea90fd2bb641bd7a7a19c4cc3c5bafee47beb2",
+    "GPM014_KuSelaluInginMemujiMu_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM014_KuSelaluInginMemujiMu.config.yaml": "d78e2a55aa9350d99f2da1f4b782cbb5efb9aa33f988e7134221de141d1fbdd9"
+  }
+}

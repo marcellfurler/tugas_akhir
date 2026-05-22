@@ -3,10 +3,11 @@ import { useNavigate } from "react-router-dom";
 
 import logo1 from "../assets/logoGPM.png";
 import logo2 from "../assets/logoNyan.GPM.png";
+import "../style/style.css"
 
 function HalamanTransisi() {
   const [step, setStep] = useState(0);
-  const navigate = useNavigate(); // 🔥 untuk pindah halaman
+  const navigate = useNavigate();
 
   useEffect(() => {
     document.body.style.margin = "0";
@@ -27,33 +28,55 @@ function HalamanTransisi() {
     };
   }, [navigate]);
 
+  const styles = {
+    containerTransisi: {
+      height: "100vh",
+      width: "100vw",
+      display: "flex",
+      flexDirection: "column",
+      justifyContent: "center", // ⬅️ ini kunci vertical center
+      alignItems: "center",     // ⬅️ horizontal center
+      backgroundColor: "#2672FF",
+      textAlign: "center",
+    },
 
-  const containerStyle = {
-    height: "100vh",
-    width: "100vw",
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#2672FF",
+    logo: {
+      width: "180px",
+      margin: "10px 0",
+    },
+
+    title: {
+      fontFamily: "'Instrument Serif', serif",
+      color: "white",
+      margin: "8px 0",
+      letterSpacing: "1px",
+    },
+
+    subtitle: {
+      fontFamily: "'David Libre', serif",
+      color: "white",
+      margin: "8px 0",
+    },
   };
 
-
-  const imgStyle = {
-    width: "250px",
-  };
-
+  // STEP 0
   if (step === 0) {
     return (
-      <div style={containerStyle}>
-        <img src={logo1} style={imgStyle} />
+      <div style={styles.containerTransisi}>
+        <h1 style={styles.title}>NYANYIAN JEMAAT</h1>
+        <img src={logo1} style={styles.logo} alt="Logo" />
+        <h2 style={styles.subtitle}>GEREJA PROTESTAN MALUKU</h2>
       </div>
     );
   }
 
+  // STEP 1
   if (step === 1) {
     return (
-      <div style={containerStyle}>
-        <img src={logo2} style={imgStyle} />
+      <div style={styles.containerTransisi}>
+        <h1 style={styles.title}>NYANYIAN JEMAAT</h1>
+        <img src={logo2} style={styles.logo} alt="Logo" />
+        <h2 style={styles.subtitle}>GEREJA PROTESTAN MALUKU</h2>
       </div>
     );
   }

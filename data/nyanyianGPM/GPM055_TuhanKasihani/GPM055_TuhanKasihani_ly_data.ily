@@ -52,7 +52,7 @@ gpmlimalima_c_notes_svg = {
     r4 g'8 g'8 g'4. f'8 |
     a'4 g'2. |
     r4 \phrasingSlurDashed g'8\( a'8\) \phrasingSlurSolid bes'8 ( a'4) g'8 | 
-    a'4 ( g'2 f'4 ) | \break
+    a'4 ( g'2 f'4) | \break
     e'8 r8 e'8 e'8 e'4. g'8 |
     \phrasingSlurDashed g'4\( f'2\) \phrasingSlurSolid g'8 ( f'8) |
     e'1 \break
@@ -63,7 +63,7 @@ gpmlimalima_c_notes_svg = {
     r4 g'8 g'8 g'4. f'8 |
     a'4 g'2. |
     r4 \phrasingSlurDashed g'8\( a'8\) \phrasingSlurSolid bes'8 ( a'4) g'8 | 
-    a'4 ( g'2 f'4 ) | \break
+    a'4 ( g'2 f'4) | \break
     e'8 r8 e'8 e'8 e'4. g'8 |
     \phrasingSlurDashed g'4\( f'2\) \phrasingSlurSolid g'8 ( f'8) |
     e'1 \break

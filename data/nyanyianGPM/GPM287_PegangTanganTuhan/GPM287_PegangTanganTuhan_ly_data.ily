@@ -15,7 +15,7 @@
       \line {
         "Do = D, 4/4,"
         \raise #0.3 \fontsize #-2.5 \note {4} #UP
-        "= 85"
+        "= 80"
       }
     }
   }

@@ -1,0 +1,38 @@
+/* TRANSISI SUPAYA PEMBEDA */
+
+/* Container utama */
+.containerTransisi {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* agak ke atas */
+  align-items: center;
+  background-color: #2672FF;
+  text-align: center;
+  padding-top: 120px;
+}
+
+/* Logo */
+.logo {
+  width: 180px;
+  margin: 15px 0;
+}
+
+
+/* UMUM */
+
+/* Judul utama */
+.title { /* INI NANTI UNTUK SETIAP JUDUL*/
+  font-family: 'Instrument Serif', serif;
+  color: white;
+  margin: 8px 0;
+  letter-spacing: 1px;
+}
+
+/* Subjudul */
+.subtitle { /* INI NANTI UNTUK SETIAPISI */
+  font-family: 'David Libre', serif;
+  color: white;
+  margin: 8px 0;
+}

@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM008_EngkauYangSuci.ly": "611381817b8538264756bb0f3f1829292e687c5012b5e7de7509d8af3500a956",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM008_EngkauYangSuci_ly_data.ily": "36beb215b2fccbe9ad6776b063c282ca44d2838b9f23846a84f8ce74085e768c",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM008_EngkauYangSuci_ly_one_line.ly": "ddfd2db14df20552143ae550db65c62f19d0171184738cd909c6db2642ddf1c6",
+    "GPM008_EngkauYangSuci_ly_data.ily": "36beb215b2fccbe9ad6776b063c282ca44d2838b9f23846a84f8ce74085e768c",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM008_EngkauYangSuci.ly": "611381817b8538264756bb0f3f1829292e687c5012b5e7de7509d8af3500a956",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "events": {
+    "GPM008_EngkauYangSuci_ly_one_line.midi": "64f6110f8e0891de85262b1d9f3c4b364bcc4a9fa33de7718ce450841be16759"
+  },
+  "filter_one_line": {
+    "GPM008_EngkauYangSuci_ly_one_line.svg": "72455d0a24e3a8750fb5e306b48aa6e50bdc66caff2f7ff30570ae026f8db51b"
+  },
+  "ties": {
+    "GPM008_EngkauYangSuci_ly_one_line_filtered.svg": "b36c97eae44e7effc163bdf3844c45414ac6e5854d3ca196ad5722aee52e1a46"
+  },
+  "noteheads": {
+    "GPM008_EngkauYangSuci_ly_one_line_filtered.svg": "b36c97eae44e7effc163bdf3844c45414ac6e5854d3ca196ad5722aee52e1a46"
+  },
+  "squash": {
+    "GPM008_EngkauYangSuci_note_heads.csv": "08df5105312d44316cd96ff4774bc19d3174517f6e74f3a76fee4e6f3427634f",
+    "GPM008_EngkauYangSuci_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM008_EngkauYangSuci_note_heads_squashed.csv": "620dcd642235ca3120574f5ca5a45936f1f928e70305cb152a47864321af9ddd",
+    "GPM008_EngkauYangSuci_note_events.csv": "ae6fd1609a4b48346c2a84714ee613a632e8395e1b5066078856c58c4428a82a"
+  },
+  "svg": {
+    "GPM008_EngkauYangSuci.ly": "611381817b8538264756bb0f3f1829292e687c5012b5e7de7509d8af3500a956",
+    "GPM008_EngkauYangSuci_ly_data.ily": "36beb215b2fccbe9ad6776b063c282ca44d2838b9f23846a84f8ce74085e768c",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM008_EngkauYangSuci.svg": "6686158c49eddc399cbaa5c307d7c4d4ab75d24fdcd018d835872428dd4832cd"
+  },
+  "swell": {
+    "GPM008_EngkauYangSuci_filtered.svg": "0373a08fb14063de1dd11be4da56e018031e50b14b54f9f8094e1bbbb7cc2ab4"
+  },
+  "optim": {
+    "GPM008_EngkauYangSuci_filtered_swellable.svg": "06e6f981862eaaf9b56487f18a18873537918ab9ea2b422e5c7facbd0660054d"
+  },
+  "sync": {
+    "GPM008_EngkauYangSuci_optimized.svg": "553cec4ff4b5318247b43cd118456743565591569414a261d9c75b44e7c0d0b0",
+    "GPM008_EngkauYangSuci_json_notes.json": "b160f42e6cd68392cdfcdc4852050a77214afd76e099aba2e621eeaedf524921",
+    "GPM008_EngkauYangSuci_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM008_EngkauYangSuci.config.yaml": "61a2b386e5da9cb2e7c079f9819222d55de1b053f6ece29dff8f03ebc74736b0"
+  }
+}

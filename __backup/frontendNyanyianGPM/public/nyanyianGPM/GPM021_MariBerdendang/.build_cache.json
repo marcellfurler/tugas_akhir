@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM021_MariBerdendang.ly": "4905b0b66c360979dc58fcfc50beb7e71033d78d55d0375b765b0ad02468af5b",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM021_MariBerdendang_ly_data.ily": "84460c266f0c797bf90aefe1ebf42b81ab9ab20777265e3238737d7e75a91d5e",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM021_MariBerdendang_ly_one_line.ly": "4a6d8d18ccfb009059241bd0cb675fd7d32b372a86f2734159a7b5eacedc86af",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM021_MariBerdendang.ly": "4905b0b66c360979dc58fcfc50beb7e71033d78d55d0375b765b0ad02468af5b",
+    "GPM021_MariBerdendang_ly_data.ily": "84460c266f0c797bf90aefe1ebf42b81ab9ab20777265e3238737d7e75a91d5e"
+  },
+  "events": {
+    "GPM021_MariBerdendang_ly_one_line.midi": "adff79db10b901460f9f28fa6c8d72be729efbf728b45ae3b84be7c10027f292"
+  },
+  "filter_one_line": {
+    "GPM021_MariBerdendang_ly_one_line.svg": "79ee4726b1edd007bf93689802fe0c409704cd3f9d5dc1b4da9d772418968268"
+  },
+  "ties": {
+    "GPM021_MariBerdendang_ly_one_line_filtered.svg": "43e8418554464f73be97dab44f82cb1ba33627f86eb922fe3459cfb439d6ff94"
+  },
+  "noteheads": {
+    "GPM021_MariBerdendang_ly_one_line_filtered.svg": "43e8418554464f73be97dab44f82cb1ba33627f86eb922fe3459cfb439d6ff94"
+  },
+  "squash": {
+    "GPM021_MariBerdendang_note_heads.csv": "6f6ac06a1a71699c55743ce8c6dacd6a381dcc17536d1f11e2b135340f4f9a5c",
+    "GPM021_MariBerdendang_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM021_MariBerdendang_note_heads_squashed.csv": "a063495ccb936772ead38a9dea054e585660e58bbb2be9b75a21036a7f8ba05b",
+    "GPM021_MariBerdendang_note_events.csv": "ea2a9194c08098ade78a4953d85a0659eda8795c0a355c89409e78a056533ccf"
+  },
+  "svg": {
+    "GPM021_MariBerdendang.ly": "4905b0b66c360979dc58fcfc50beb7e71033d78d55d0375b765b0ad02468af5b",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM021_MariBerdendang_ly_data.ily": "84460c266f0c797bf90aefe1ebf42b81ab9ab20777265e3238737d7e75a91d5e"
+  },
+  "filter": {
+    "GPM021_MariBerdendang.svg": "082436778ea975b4b736e9b40beb3d25cdd7e3ff148f37716f9ad1d25d846e38"
+  },
+  "swell": {
+    "GPM021_MariBerdendang_filtered.svg": "ff51a95bfc00e569ced0ff10b8cd9b667b68cc4114b76ef44e9e04fa0a3cc474"
+  },
+  "optim": {
+    "GPM021_MariBerdendang_filtered_swellable.svg": "e4e028dd6b1812b9f49051db866204546eb9ed04d0f7c8dbdb068f63962bd778"
+  },
+  "sync": {
+    "GPM021_MariBerdendang_optimized.svg": "cb3f053e1e2761ce4e8bfeebae59fbf69a8c904f0fdefdcfe3cd0cac6035a95c",
+    "GPM021_MariBerdendang_json_notes.json": "0b861379c1e71a9d571376d69af400e1cb5349c55b55ffbcaf68ebc587310f47",
+    "GPM021_MariBerdendang_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM021_MariBerdendang.config.yaml": "ff88cdb15e0f7344c46a8cd658c302e7297356a7d423b104e4872895966318af"
+  }
+}

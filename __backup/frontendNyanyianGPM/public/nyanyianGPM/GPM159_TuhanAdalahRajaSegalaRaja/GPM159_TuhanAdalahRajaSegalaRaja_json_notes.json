@@ -1,0 +1,3390 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 76,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:7:8"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 76,
+    "channel": 0,
+    "x": 14.426,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:12:13"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 75,
+    "channel": 0,
+    "x": 17.744,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:19:20"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 73,
+    "channel": 0,
+    "x": 20.173,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:26:27"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 71,
+    "channel": 0,
+    "x": 23.482,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:30:31"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 71,
+    "channel": 0,
+    "x": 27.347,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:36:37"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 73,
+    "channel": 0,
+    "x": 32.737,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:43:44"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 73,
+    "channel": 0,
+    "x": 36.38,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:50:51"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 71,
+    "channel": 0,
+    "x": 39.706,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:54:55"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 42.461,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:58:59"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 68,
+    "channel": 0,
+    "x": 45.173,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:55:67:68"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 68,
+    "channel": 0,
+    "x": 51.002,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:2:3"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 68,
+    "channel": 0,
+    "x": 55.193,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 66,
+    "channel": 0,
+    "x": 57.622,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:14:15"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 68,
+    "channel": 0,
+    "x": 60.051,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:20:21"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 62.831,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:24:25"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 71,
+    "channel": 0,
+    "x": 66.636,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:28:29"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 68,
+    "channel": 0,
+    "x": 70.91,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:34:35"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 73.946,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:38:39"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 71,
+    "channel": 0,
+    "x": 77.623,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:44:45"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5376,
+    "pitch": 73,
+    "channel": 0,
+    "x": 81.814,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:56:51:52"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 71,
+    "channel": 0,
+    "x": 88.564,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 68,
+    "channel": 0,
+    "x": 97.233,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:8:9"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 68,
+    "channel": 0,
+    "x": 101.584,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:14:15"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 68,
+    "channel": 0,
+    "x": 105.141,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:20:21"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 66,
+    "channel": 0,
+    "x": 108.331,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:26:27"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7488,
+    "pitch": 68,
+    "channel": 0,
+    "x": 111.444,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:33:34"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 69,
+    "channel": 0,
+    "x": 116.994,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:59:60"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 71,
+    "channel": 0,
+    "x": 121.882,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:65:66"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 71,
+    "channel": 0,
+    "x": 125.789,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:90:91"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 129.406,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:94:95"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 73,
+    "channel": 0,
+    "x": 134.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:101:102"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 71,
+    "channel": 0,
+    "x": 139.388,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:57:108:109"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 68,
+    "channel": 0,
+    "x": 145.217,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 68,
+    "channel": 0,
+    "x": 149.781,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 154.064,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:12:13"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 71,
+    "channel": 0,
+    "x": 158.423,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 73,
+    "channel": 0,
+    "x": 163.269,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:43:44"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 71,
+    "channel": 0,
+    "x": 168.525,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:49:50"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 68,
+    "channel": 0,
+    "x": 172.526,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:76:77"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 176.074,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:80:81"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 69,
+    "channel": 0,
+    "x": 179.87,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:86:87"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11328,
+    "pitch": 68,
+    "channel": 0,
+    "x": 184.061,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:93:94"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 66,
+    "channel": 0,
+    "x": 189.611,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:58:99:100"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 68,
+    "channel": 0,
+    "x": 193.705,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 76,
+    "channel": 0,
+    "x": 202.864,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:7:8"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 71,
+    "channel": 0,
+    "x": 206.494,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:11:12"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 76,
+    "channel": 0,
+    "x": 210.725,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:16:17"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 75,
+    "channel": 0,
+    "x": 216.006,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:23:24"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 73,
+    "channel": 0,
+    "x": 220.579,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:30:31"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 71,
+    "channel": 0,
+    "x": 225.929,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:36:37"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 73,
+    "channel": 0,
+    "x": 230.954,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:43:44"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14400,
+    "pitch": 73,
+    "channel": 0,
+    "x": 233.512,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:50:51"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 71,
+    "channel": 0,
+    "x": 238.153,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:54:55"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 73,
+    "channel": 0,
+    "x": 241.599,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:70:71"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15168,
+    "pitch": 75,
+    "channel": 0,
+    "x": 246.228,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:63:77:78"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 76,
+    "channel": 0,
+    "x": 251.254,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:2:3"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 78,
+    "channel": 0,
+    "x": 255.444,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:9:10"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 76,
+    "channel": 0,
+    "x": 259.073,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:14:15"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 75,
+    "channel": 0,
+    "x": 262.702,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:21:22"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 73,
+    "channel": 0,
+    "x": 266.332,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:28:29"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 73,
+    "channel": 0,
+    "x": 268.839,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:37:38"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 71,
+    "channel": 0,
+    "x": 273.029,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:41:42"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17472,
+    "pitch": 71,
+    "channel": 0,
+    "x": 275.707,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:45:46"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 73,
+    "channel": 0,
+    "x": 281.108,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:64:52:53"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 71,
+    "channel": 0,
+    "x": 284.469,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 19008,
+    "pitch": 68,
+    "channel": 0,
+    "x": 293.138,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:9:10"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 66,
+    "channel": 0,
+    "x": 298.688,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:15:16"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 68,
+    "channel": 0,
+    "x": 302.919,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:21:22"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 69,
+    "channel": 0,
+    "x": 308.405,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:27:28"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 71,
+    "channel": 0,
+    "x": 313.796,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:31:32"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 73,
+    "channel": 0,
+    "x": 317.425,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:38:39"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 71,
+    "channel": 0,
+    "x": 321.054,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:44:45"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 329.565,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:48:49"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 68,
+    "channel": 0,
+    "x": 336.315,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:54:55"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 66,
+    "channel": 0,
+    "x": 340.179,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:65:62:63"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24576,
+    "pitch": 68,
+    "channel": 0,
+    "x": 345.57,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:2:3"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 76,
+    "channel": 0,
+    "x": 360.812,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:7:8"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 76,
+    "channel": 0,
+    "x": 363.421,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:12:13"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 75,
+    "channel": 0,
+    "x": 366.577,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:19:20"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 73,
+    "channel": 0,
+    "x": 370.288,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:26:27"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 71,
+    "channel": 0,
+    "x": 373.307,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:30:31"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 71,
+    "channel": 0,
+    "x": 377.086,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:36:37"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 73,
+    "channel": 0,
+    "x": 382.476,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:43:44"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 73,
+    "channel": 0,
+    "x": 386.008,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:50:51"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 71,
+    "channel": 0,
+    "x": 388.437,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:54:55"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 391.089,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:58:59"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 68,
+    "channel": 0,
+    "x": 393.518,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:70:67:68"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 68,
+    "channel": 0,
+    "x": 399.348,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:2:3"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 68,
+    "channel": 0,
+    "x": 403.538,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:8:9"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 66,
+    "channel": 0,
+    "x": 406.66,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:14:15"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 68,
+    "channel": 0,
+    "x": 409.286,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:20:21"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 411.888,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:24:25"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 71,
+    "channel": 0,
+    "x": 415.282,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:28:29"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 68,
+    "channel": 0,
+    "x": 419.403,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:34:35"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 422.661,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:38:39"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 71,
+    "channel": 0,
+    "x": 425.492,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:44:45"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29952,
+    "pitch": 73,
+    "channel": 0,
+    "x": 429.684,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:71:51:52"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30336,
+    "pitch": 71,
+    "channel": 0,
+    "x": 436.434,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:2:3"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 68,
+    "channel": 0,
+    "x": 445.103,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:8:9"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 68,
+    "channel": 0,
+    "x": 450.307,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:14:15"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 68,
+    "channel": 0,
+    "x": 454.094,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:20:21"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 66,
+    "channel": 0,
+    "x": 456.841,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:26:27"
+    ],
+    "on_tick": 31488,
+    "off_tick": 32064,
+    "pitch": 68,
+    "channel": 0,
+    "x": 459.27,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:33:34"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 464.819,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:59:60"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 71,
+    "channel": 0,
+    "x": 469.01,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:65:66"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 71,
+    "channel": 0,
+    "x": 471.773,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:90:91"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 71,
+    "channel": 0,
+    "x": 474.554,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:94:95"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 73,
+    "channel": 0,
+    "x": 478.042,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:101:102"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 71,
+    "channel": 0,
+    "x": 481.932,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:72:108:109"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 68,
+    "channel": 0,
+    "x": 487.761,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:2:3"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 68,
+    "channel": 0,
+    "x": 493.469,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:8:9"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 498.23,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:12:13"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 71,
+    "channel": 0,
+    "x": 502.197,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:16:17"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 73,
+    "channel": 0,
+    "x": 505.848,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:43:44"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34752,
+    "pitch": 71,
+    "channel": 0,
+    "x": 509.763,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:49:50"
+    ],
+    "on_tick": 34752,
+    "off_tick": 34944,
+    "pitch": 68,
+    "channel": 0,
+    "x": 513.687,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:76:77"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 518.798,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:80:81"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 522.713,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:86:87"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35904,
+    "pitch": 68,
+    "channel": 0,
+    "x": 526.904,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:93:94"
+    ],
+    "on_tick": 35904,
+    "off_tick": 36096,
+    "pitch": 66,
+    "channel": 0,
+    "x": 532.74,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:73:99:100"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36480,
+    "pitch": 68,
+    "channel": 0,
+    "x": 537.569,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:2:3"
+    ],
+    "on_tick": 36864,
+    "off_tick": 37248,
+    "pitch": 76,
+    "channel": 0,
+    "x": 546.728,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:7:8"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37632,
+    "pitch": 71,
+    "channel": 0,
+    "x": 550.357,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:11:12"
+    ],
+    "on_tick": 37632,
+    "off_tick": 37824,
+    "pitch": 76,
+    "channel": 0,
+    "x": 554.588,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:16:17"
+    ],
+    "on_tick": 37824,
+    "off_tick": 38016,
+    "pitch": 75,
+    "channel": 0,
+    "x": 559.87,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:23:24"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38208,
+    "pitch": 73,
+    "channel": 0,
+    "x": 564.442,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:30:31"
+    ],
+    "on_tick": 38208,
+    "off_tick": 38400,
+    "pitch": 71,
+    "channel": 0,
+    "x": 569.792,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:36:37"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38592,
+    "pitch": 73,
+    "channel": 0,
+    "x": 574.817,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:43:44"
+    ],
+    "on_tick": 38592,
+    "off_tick": 38976,
+    "pitch": 73,
+    "channel": 0,
+    "x": 577.376,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:50:51"
+    ],
+    "on_tick": 38976,
+    "off_tick": 39168,
+    "pitch": 71,
+    "channel": 0,
+    "x": 582.017,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:54:55"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39552,
+    "pitch": 73,
+    "channel": 0,
+    "x": 585.463,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:70:71"
+    ],
+    "on_tick": 39552,
+    "off_tick": 39744,
+    "pitch": 75,
+    "channel": 0,
+    "x": 590.092,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:78:77:78"
+    ],
+    "on_tick": 39744,
+    "off_tick": 39936,
+    "pitch": 76,
+    "channel": 0,
+    "x": 595.117,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:2:3"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40320,
+    "pitch": 78,
+    "channel": 0,
+    "x": 599.308,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:9:10"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40704,
+    "pitch": 76,
+    "channel": 0,
+    "x": 602.937,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:14:15"
+    ],
+    "on_tick": 40704,
+    "off_tick": 41088,
+    "pitch": 75,
+    "channel": 0,
+    "x": 606.566,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:21:22"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 73,
+    "channel": 0,
+    "x": 610.195,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:28:29"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 73,
+    "channel": 0,
+    "x": 612.702,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:37:38"
+    ],
+    "on_tick": 41472,
+    "off_tick": 41664,
+    "pitch": 71,
+    "channel": 0,
+    "x": 616.893,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:41:42"
+    ],
+    "on_tick": 41664,
+    "off_tick": 42048,
+    "pitch": 71,
+    "channel": 0,
+    "x": 619.571,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:45:46"
+    ],
+    "on_tick": 42048,
+    "off_tick": 42240,
+    "pitch": 73,
+    "channel": 0,
+    "x": 624.971,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:79:52:53"
+    ],
+    "on_tick": 42240,
+    "off_tick": 42624,
+    "pitch": 71,
+    "channel": 0,
+    "x": 628.332,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:2:3"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43584,
+    "pitch": 68,
+    "channel": 0,
+    "x": 637.001,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:9:10"
+    ],
+    "on_tick": 43584,
+    "off_tick": 43776,
+    "pitch": 66,
+    "channel": 0,
+    "x": 642.551,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:15:16"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44160,
+    "pitch": 68,
+    "channel": 0,
+    "x": 646.782,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:21:22"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 652.268,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:27:28"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44928,
+    "pitch": 71,
+    "channel": 0,
+    "x": 657.659,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:31:32"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45312,
+    "pitch": 73,
+    "channel": 0,
+    "x": 661.288,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:38:39"
+    ],
+    "on_tick": 45312,
+    "off_tick": 46080,
+    "pitch": 71,
+    "channel": 0,
+    "x": 664.917,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:44:45"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46848,
+    "pitch": 69,
+    "channel": 0,
+    "x": 673.428,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:48:49"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47232,
+    "pitch": 68,
+    "channel": 0,
+    "x": 680.178,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:54:55"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47616,
+    "pitch": 66,
+    "channel": 0,
+    "x": 684.042,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:80:62:63"
+    ],
+    "on_tick": 47616,
+    "off_tick": 49152,
+    "pitch": 68,
+    "channel": 0,
+    "x": 689.433,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:2:3"
+    ],
+    "on_tick": 49152,
+    "off_tick": 49344,
+    "pitch": 76,
+    "channel": 0,
+    "x": 704.675,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:7:8"
+    ],
+    "on_tick": 49344,
+    "off_tick": 49536,
+    "pitch": 76,
+    "channel": 0,
+    "x": 708.036,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:12:13"
+    ],
+    "on_tick": 49536,
+    "off_tick": 49728,
+    "pitch": 75,
+    "channel": 0,
+    "x": 712.993,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:19:20"
+    ],
+    "on_tick": 49728,
+    "off_tick": 49920,
+    "pitch": 73,
+    "channel": 0,
+    "x": 716.908,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:26:27"
+    ],
+    "on_tick": 49920,
+    "off_tick": 50304,
+    "pitch": 71,
+    "channel": 0,
+    "x": 720.406,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:30:31"
+    ],
+    "on_tick": 50304,
+    "off_tick": 50688,
+    "pitch": 71,
+    "channel": 0,
+    "x": 725.098,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:36:37"
+    ],
+    "on_tick": 50688,
+    "off_tick": 50880,
+    "pitch": 73,
+    "channel": 0,
+    "x": 730.488,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:43:44"
+    ],
+    "on_tick": 50880,
+    "off_tick": 51072,
+    "pitch": 73,
+    "channel": 0,
+    "x": 734.105,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:50:51"
+    ],
+    "on_tick": 51072,
+    "off_tick": 51264,
+    "pitch": 71,
+    "channel": 0,
+    "x": 737.176,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:54:55"
+    ],
+    "on_tick": 51264,
+    "off_tick": 51456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 739.605,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:58:59"
+    ],
+    "on_tick": 51456,
+    "off_tick": 51840,
+    "pitch": 68,
+    "channel": 0,
+    "x": 743.29,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:85:67:68"
+    ],
+    "on_tick": 52032,
+    "off_tick": 52224,
+    "pitch": 68,
+    "channel": 0,
+    "x": 749.119,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:2:3"
+    ],
+    "on_tick": 52224,
+    "off_tick": 52416,
+    "pitch": 68,
+    "channel": 0,
+    "x": 753.333,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:8:9"
+    ],
+    "on_tick": 52416,
+    "off_tick": 52608,
+    "pitch": 66,
+    "channel": 0,
+    "x": 758.384,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:14:15"
+    ],
+    "on_tick": 52608,
+    "off_tick": 52800,
+    "pitch": 68,
+    "channel": 0,
+    "x": 762.948,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:20:21"
+    ],
+    "on_tick": 52800,
+    "off_tick": 52992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 766.224,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:24:25"
+    ],
+    "on_tick": 52992,
+    "off_tick": 53184,
+    "pitch": 71,
+    "channel": 0,
+    "x": 769.636,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:28:29"
+    ],
+    "on_tick": 53184,
+    "off_tick": 53376,
+    "pitch": 68,
+    "channel": 0,
+    "x": 772.638,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:34:35"
+    ],
+    "on_tick": 53376,
+    "off_tick": 53568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 776.109,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:38:39"
+    ],
+    "on_tick": 53568,
+    "off_tick": 53760,
+    "pitch": 71,
+    "channel": 0,
+    "x": 778.838,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:44:45"
+    ],
+    "on_tick": 53760,
+    "off_tick": 54528,
+    "pitch": 73,
+    "channel": 0,
+    "x": 783.03,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:86:51:52"
+    ],
+    "on_tick": 54528,
+    "off_tick": 54912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 789.779,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:2:3"
+    ],
+    "on_tick": 55296,
+    "off_tick": 55488,
+    "pitch": 68,
+    "channel": 0,
+    "x": 798.448,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:8:9"
+    ],
+    "on_tick": 55488,
+    "off_tick": 55680,
+    "pitch": 68,
+    "channel": 0,
+    "x": 801.058,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:14:15"
+    ],
+    "on_tick": 55680,
+    "off_tick": 55872,
+    "pitch": 68,
+    "channel": 0,
+    "x": 803.565,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:20:21"
+    ],
+    "on_tick": 55872,
+    "off_tick": 56064,
+    "pitch": 66,
+    "channel": 0,
+    "x": 806.593,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:26:27"
+    ],
+    "on_tick": 56064,
+    "off_tick": 56640,
+    "pitch": 68,
+    "channel": 0,
+    "x": 809.022,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:33:34"
+    ],
+    "on_tick": 56640,
+    "off_tick": 56832,
+    "pitch": 69,
+    "channel": 0,
+    "x": 816.147,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:59:60"
+    ],
+    "on_tick": 56832,
+    "off_tick": 57024,
+    "pitch": 71,
+    "channel": 0,
+    "x": 820.338,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:65:66"
+    ],
+    "on_tick": 57024,
+    "off_tick": 57216,
+    "pitch": 71,
+    "channel": 0,
+    "x": 822.767,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:90:91"
+    ],
+    "on_tick": 57216,
+    "off_tick": 57408,
+    "pitch": 71,
+    "channel": 0,
+    "x": 825.196,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:94:95"
+    ],
+    "on_tick": 57408,
+    "off_tick": 57600,
+    "pitch": 73,
+    "channel": 0,
+    "x": 827.625,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:101:102"
+    ],
+    "on_tick": 57600,
+    "off_tick": 57984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 831.003,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:87:108:109"
+    ],
+    "on_tick": 58176,
+    "off_tick": 58368,
+    "pitch": 68,
+    "channel": 0,
+    "x": 836.832,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:2:3"
+    ],
+    "on_tick": 58368,
+    "off_tick": 58560,
+    "pitch": 68,
+    "channel": 0,
+    "x": 841.023,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:8:9"
+    ],
+    "on_tick": 58560,
+    "off_tick": 58752,
+    "pitch": 69,
+    "channel": 0,
+    "x": 845.16,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:12:13"
+    ],
+    "on_tick": 58752,
+    "off_tick": 58944,
+    "pitch": 71,
+    "channel": 0,
+    "x": 848.76,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:16:17"
+    ],
+    "on_tick": 58944,
+    "off_tick": 59136,
+    "pitch": 73,
+    "channel": 0,
+    "x": 851.189,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:43:44"
+    ],
+    "on_tick": 59136,
+    "off_tick": 59328,
+    "pitch": 71,
+    "channel": 0,
+    "x": 853.618,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:49:50"
+    ],
+    "on_tick": 59328,
+    "off_tick": 59520,
+    "pitch": 68,
+    "channel": 0,
+    "x": 856.417,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:76:77"
+    ],
+    "on_tick": 59520,
+    "off_tick": 59712,
+    "pitch": 71,
+    "channel": 0,
+    "x": 859.215,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:80:81"
+    ],
+    "on_tick": 59712,
+    "off_tick": 59904,
+    "pitch": 69,
+    "channel": 0,
+    "x": 862.218,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:86:87"
+    ],
+    "on_tick": 59904,
+    "off_tick": 60480,
+    "pitch": 68,
+    "channel": 0,
+    "x": 866.408,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:93:94"
+    ],
+    "on_tick": 60480,
+    "off_tick": 60672,
+    "pitch": 66,
+    "channel": 0,
+    "x": 871.958,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:88:99:100"
+    ],
+    "on_tick": 60672,
+    "off_tick": 61056,
+    "pitch": 68,
+    "channel": 0,
+    "x": 875.814,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:2:3"
+    ],
+    "on_tick": 61440,
+    "off_tick": 61824,
+    "pitch": 76,
+    "channel": 0,
+    "x": 884.973,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:7:8"
+    ],
+    "on_tick": 61824,
+    "off_tick": 62208,
+    "pitch": 71,
+    "channel": 0,
+    "x": 888.602,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:11:12"
+    ],
+    "on_tick": 62208,
+    "off_tick": 62400,
+    "pitch": 76,
+    "channel": 0,
+    "x": 892.833,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:16:17"
+    ],
+    "on_tick": 62400,
+    "off_tick": 62592,
+    "pitch": 75,
+    "channel": 0,
+    "x": 898.114,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:23:24"
+    ],
+    "on_tick": 62592,
+    "off_tick": 62784,
+    "pitch": 73,
+    "channel": 0,
+    "x": 902.687,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:30:31"
+    ],
+    "on_tick": 62784,
+    "off_tick": 62976,
+    "pitch": 71,
+    "channel": 0,
+    "x": 908.037,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:36:37"
+    ],
+    "on_tick": 62976,
+    "off_tick": 63168,
+    "pitch": 73,
+    "channel": 0,
+    "x": 913.062,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:43:44"
+    ],
+    "on_tick": 63168,
+    "off_tick": 63552,
+    "pitch": 73,
+    "channel": 0,
+    "x": 915.62,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:50:51"
+    ],
+    "on_tick": 63552,
+    "off_tick": 63744,
+    "pitch": 71,
+    "channel": 0,
+    "x": 920.261,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:54:55"
+    ],
+    "on_tick": 63744,
+    "off_tick": 64128,
+    "pitch": 73,
+    "channel": 0,
+    "x": 923.707,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:70:71"
+    ],
+    "on_tick": 64128,
+    "off_tick": 64320,
+    "pitch": 75,
+    "channel": 0,
+    "x": 928.336,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:94:77:78"
+    ],
+    "on_tick": 64320,
+    "off_tick": 64512,
+    "pitch": 76,
+    "channel": 0,
+    "x": 933.362,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:2:3"
+    ],
+    "on_tick": 64512,
+    "off_tick": 64896,
+    "pitch": 78,
+    "channel": 0,
+    "x": 937.552,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:9:10"
+    ],
+    "on_tick": 64896,
+    "off_tick": 65280,
+    "pitch": 76,
+    "channel": 0,
+    "x": 941.182,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:14:15"
+    ],
+    "on_tick": 65280,
+    "off_tick": 65664,
+    "pitch": 75,
+    "channel": 0,
+    "x": 944.811,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:21:22"
+    ],
+    "on_tick": 65664,
+    "off_tick": 65856,
+    "pitch": 73,
+    "channel": 0,
+    "x": 948.44,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:28:29"
+    ],
+    "on_tick": 65856,
+    "off_tick": 66048,
+    "pitch": 73,
+    "channel": 0,
+    "x": 950.947,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:37:38"
+    ],
+    "on_tick": 66048,
+    "off_tick": 66240,
+    "pitch": 71,
+    "channel": 0,
+    "x": 955.138,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:41:42"
+    ],
+    "on_tick": 66240,
+    "off_tick": 66624,
+    "pitch": 71,
+    "channel": 0,
+    "x": 957.815,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:45:46"
+    ],
+    "on_tick": 66624,
+    "off_tick": 66816,
+    "pitch": 73,
+    "channel": 0,
+    "x": 963.216,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:95:52:53"
+    ],
+    "on_tick": 66816,
+    "off_tick": 67200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 966.577,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:2:3"
+    ],
+    "on_tick": 67584,
+    "off_tick": 68160,
+    "pitch": 68,
+    "channel": 0,
+    "x": 975.246,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:9:10"
+    ],
+    "on_tick": 68160,
+    "off_tick": 68352,
+    "pitch": 66,
+    "channel": 0,
+    "x": 980.796,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:15:16"
+    ],
+    "on_tick": 68352,
+    "off_tick": 68736,
+    "pitch": 68,
+    "channel": 0,
+    "x": 985.027,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:21:22"
+    ],
+    "on_tick": 68736,
+    "off_tick": 69120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 990.513,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:27:28"
+    ],
+    "on_tick": 69120,
+    "off_tick": 69504,
+    "pitch": 71,
+    "channel": 0,
+    "x": 995.904,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:31:32"
+    ],
+    "on_tick": 69504,
+    "off_tick": 69888,
+    "pitch": 73,
+    "channel": 0,
+    "x": 999.533,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:38:39"
+    ],
+    "on_tick": 69888,
+    "off_tick": 70656,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1003.162,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:44:45"
+    ],
+    "on_tick": 70656,
+    "off_tick": 71424,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1011.673,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:48:49"
+    ],
+    "on_tick": 71424,
+    "off_tick": 71808,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1018.423,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:54:55"
+    ],
+    "on_tick": 71808,
+    "off_tick": 72192,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1022.287,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:96:62:63"
+    ],
+    "on_tick": 72192,
+    "off_tick": 73728,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1027.678,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:2:3"
+    ],
+    "on_tick": 73728,
+    "off_tick": 73920,
+    "pitch": 76,
+    "channel": 0,
+    "x": 1042.92,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:7:8"
+    ],
+    "on_tick": 73920,
+    "off_tick": 74112,
+    "pitch": 76,
+    "channel": 0,
+    "x": 1046.827,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:12:13"
+    ],
+    "on_tick": 74112,
+    "off_tick": 74304,
+    "pitch": 75,
+    "channel": 0,
+    "x": 1052.364,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:19:20"
+    ],
+    "on_tick": 74304,
+    "off_tick": 74496,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1057.176,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:26:27"
+    ],
+    "on_tick": 74496,
+    "off_tick": 74880,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1060.349,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:30:31"
+    ],
+    "on_tick": 74880,
+    "off_tick": 75264,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1063.978,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:36:37"
+    ],
+    "on_tick": 75264,
+    "off_tick": 75456,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1069.368,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:43:44"
+    ],
+    "on_tick": 75456,
+    "off_tick": 75648,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1071.798,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:50:51"
+    ],
+    "on_tick": 75648,
+    "off_tick": 75840,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1074.227,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:54:55"
+    ],
+    "on_tick": 75840,
+    "off_tick": 76032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1077.263,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:58:59"
+    ],
+    "on_tick": 76032,
+    "off_tick": 76416,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1081.802,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:101:67:68"
+    ],
+    "on_tick": 76608,
+    "off_tick": 76800,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1087.631,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:2:3"
+    ],
+    "on_tick": 76800,
+    "off_tick": 76992,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1091.822,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:8:9"
+    ],
+    "on_tick": 76992,
+    "off_tick": 77184,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1096.13,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:14:15"
+    ],
+    "on_tick": 77184,
+    "off_tick": 77376,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1100.259,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:20:21"
+    ],
+    "on_tick": 77376,
+    "off_tick": 77568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1104.106,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:24:25"
+    ],
+    "on_tick": 77568,
+    "off_tick": 77760,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1109.157,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:28:29"
+    ],
+    "on_tick": 77760,
+    "off_tick": 77952,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1113.738,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:34:35"
+    ],
+    "on_tick": 77952,
+    "off_tick": 78144,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1117.013,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:38:39"
+    ],
+    "on_tick": 78144,
+    "off_tick": 78336,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1120.425,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:44:45"
+    ],
+    "on_tick": 78336,
+    "off_tick": 79104,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1124.617,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:102:51:52"
+    ],
+    "on_tick": 79104,
+    "off_tick": 79488,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1131.366,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:2:3"
+    ],
+    "on_tick": 79872,
+    "off_tick": 80064,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1140.035,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:8:9"
+    ],
+    "on_tick": 80064,
+    "off_tick": 80256,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1145.248,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:14:15"
+    ],
+    "on_tick": 80256,
+    "off_tick": 80448,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1148.455,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:20:21"
+    ],
+    "on_tick": 80448,
+    "off_tick": 80640,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1151.099,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:26:27"
+    ],
+    "on_tick": 80640,
+    "off_tick": 81216,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1153.528,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:33:34"
+    ],
+    "on_tick": 81216,
+    "off_tick": 81408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1159.078,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:59:60"
+    ],
+    "on_tick": 81408,
+    "off_tick": 81600,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1163.268,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:65:66"
+    ],
+    "on_tick": 81600,
+    "off_tick": 81792,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1165.998,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:90:91"
+    ],
+    "on_tick": 81792,
+    "off_tick": 81984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1169.52,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:94:95"
+    ],
+    "on_tick": 81984,
+    "off_tick": 82176,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1172.898,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:101:102"
+    ],
+    "on_tick": 82176,
+    "off_tick": 82560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1175.849,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:103:108:109"
+    ],
+    "on_tick": 82752,
+    "off_tick": 82944,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1181.678,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:2:3"
+    ],
+    "on_tick": 82944,
+    "off_tick": 83136,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1185.869,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:8:9"
+    ],
+    "on_tick": 83136,
+    "off_tick": 83328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1190.066,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:12:13"
+    ],
+    "on_tick": 83328,
+    "off_tick": 83520,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1194.101,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:16:17"
+    ],
+    "on_tick": 83520,
+    "off_tick": 83712,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1197.342,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:43:44"
+    ],
+    "on_tick": 83712,
+    "off_tick": 83904,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1201.326,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:49:50"
+    ],
+    "on_tick": 83904,
+    "off_tick": 84096,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1206.172,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:76:77"
+    ],
+    "on_tick": 84096,
+    "off_tick": 84288,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1211.428,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:80:81"
+    ],
+    "on_tick": 84288,
+    "off_tick": 84480,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1215.326,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:86:87"
+    ],
+    "on_tick": 84480,
+    "off_tick": 85056,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1219.517,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:93:94"
+    ],
+    "on_tick": 85056,
+    "off_tick": 85248,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1225.066,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:104:99:100"
+    ],
+    "on_tick": 85248,
+    "off_tick": 85632,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1229.161,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:2:3"
+    ],
+    "on_tick": 86016,
+    "off_tick": 86400,
+    "pitch": 76,
+    "channel": 0,
+    "x": 1238.32,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:7:8"
+    ],
+    "on_tick": 86400,
+    "off_tick": 86784,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1241.95,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:11:12"
+    ],
+    "on_tick": 86784,
+    "off_tick": 86976,
+    "pitch": 76,
+    "channel": 0,
+    "x": 1246.181,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:16:17"
+    ],
+    "on_tick": 86976,
+    "off_tick": 87168,
+    "pitch": 75,
+    "channel": 0,
+    "x": 1251.462,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:23:24"
+    ],
+    "on_tick": 87168,
+    "off_tick": 87360,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1256.035,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:30:31"
+    ],
+    "on_tick": 87360,
+    "off_tick": 87552,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1261.384,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:36:37"
+    ],
+    "on_tick": 87552,
+    "off_tick": 87744,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1266.41,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:43:44"
+    ],
+    "on_tick": 87744,
+    "off_tick": 88128,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1268.968,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:50:51"
+    ],
+    "on_tick": 88128,
+    "off_tick": 88320,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1273.609,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:54:55"
+    ],
+    "on_tick": 88320,
+    "off_tick": 88704,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1277.055,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:70:71"
+    ],
+    "on_tick": 88704,
+    "off_tick": 88896,
+    "pitch": 75,
+    "channel": 0,
+    "x": 1281.684,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:110:77:78"
+    ],
+    "on_tick": 88896,
+    "off_tick": 89088,
+    "pitch": 76,
+    "channel": 0,
+    "x": 1286.71,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:2:3"
+    ],
+    "on_tick": 89088,
+    "off_tick": 89472,
+    "pitch": 78,
+    "channel": 0,
+    "x": 1290.9,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:9:10"
+    ],
+    "on_tick": 89472,
+    "off_tick": 89856,
+    "pitch": 76,
+    "channel": 0,
+    "x": 1294.529,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:14:15"
+    ],
+    "on_tick": 89856,
+    "off_tick": 90240,
+    "pitch": 75,
+    "channel": 0,
+    "x": 1298.158,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:21:22"
+    ],
+    "on_tick": 90240,
+    "off_tick": 90432,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1301.788,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:28:29"
+    ],
+    "on_tick": 90432,
+    "off_tick": 90624,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1304.295,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:37:38"
+    ],
+    "on_tick": 90624,
+    "off_tick": 90816,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1308.485,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:41:42"
+    ],
+    "on_tick": 90816,
+    "off_tick": 91200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1311.163,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:45:46"
+    ],
+    "on_tick": 91200,
+    "off_tick": 91392,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1316.564,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:111:52:53"
+    ],
+    "on_tick": 91392,
+    "off_tick": 91776,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1319.924,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:2:3"
+    ],
+    "on_tick": 92160,
+    "off_tick": 92736,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1328.594,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:9:10"
+    ],
+    "on_tick": 92736,
+    "off_tick": 92928,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1334.143,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:15:16"
+    ],
+    "on_tick": 92928,
+    "off_tick": 93312,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1338.375,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:21:22"
+    ],
+    "on_tick": 93312,
+    "off_tick": 93696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1343.861,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:27:28"
+    ],
+    "on_tick": 93696,
+    "off_tick": 94080,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1349.251,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:31:32"
+    ],
+    "on_tick": 94080,
+    "off_tick": 94464,
+    "pitch": 73,
+    "channel": 0,
+    "x": 1352.88,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:38:39"
+    ],
+    "on_tick": 94464,
+    "off_tick": 95232,
+    "pitch": 71,
+    "channel": 0,
+    "x": 1356.51,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:44:45"
+    ],
+    "on_tick": 95232,
+    "off_tick": 96000,
+    "pitch": 69,
+    "channel": 0,
+    "x": 1365.021,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:48:49"
+    ],
+    "on_tick": 96000,
+    "off_tick": 96384,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1371.77,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:54:55"
+    ],
+    "on_tick": 96384,
+    "off_tick": 96768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 1375.635,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/GPM159_TuhanAdalahRajaSegalaRaja_ly_data.ily:112:62:63"
+    ],
+    "on_tick": 96768,
+    "off_tick": 98304,
+    "pitch": 68,
+    "channel": 0,
+    "x": 1381.025,
+    "y": 15.732
+  }
+]

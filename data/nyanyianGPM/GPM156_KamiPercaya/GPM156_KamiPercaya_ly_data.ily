@@ -15,7 +15,7 @@
       \line {
         "Do = D, 4/4,"
         \raise #0.3 \fontsize #-2.5 \note {4} #UP
-        "= 80"
+        "= 90"
       }
     }
   }
@@ -46,13 +46,13 @@ gpmseratuslimaenam_f_notes = {
          (empty-music)
          )
 
-    c'4 d'8 f'8 a'8 a'8 g'8 a'8 | g'8 f'8 f'8 (d'8) f'4 \breathe d'8 d'8 | d'4 d'8 f'8  g'4 f'8 g'8 | \break
-    a'8 g'8 f'8 (g'8) a'2 | r8 d'8 d'8 f'8 g'4 f'8 g'8 | a'8 g'8 f'8 (d'8) d'2 | \break 
-    c''4 c''8 c''8 d''8 (c''8) c''4 | a'8 a'8 a'8 a'8 g'8 f'8 f'8 d'8 | f'8 (d'8) d'2  d'8 f'8 | 
+    c'4 d'8 f'8 a'8 a'8 g'8 a'8 | g'8 f'8 f'8 ( d'8) f'4 \breathe d'8 d'8 | d'4 d'8 f'8  g'4 f'8 g'8 | \break
+    a'8 g'8 f'8 ( g'8) a'2 | r8 d'8 d'8 f'8 g'4 f'8 g'8 | a'8 g'8 f'8 ( d'8) d'2 | \break 
+    c''4 c''8 c''8 d''8 ( c''8) c''4 | a'8 a'8 a'8 a'8 g'8 f'8 f'8 d'8 | f'8 ( d'8) d'2  d'8 f'8 | 
     a'8 g'8 f'8 f'8 d'4 d'8 f'8 | g'2 r4 d'8 f'8 | g'8 g'8 g'8 f'8 d'4 d'8 f'8 | \break
-    g'2 r8 c''8 c''8 c''8 | d''8 (c''8) c''4 a'8 g'8 a'8 c''8 | a'2 d''8 d''8 d''8 d''8 |  \break
+    g'2 r8 c''8 c''8 c''8 | d''8 ( c''8) c''4 a'8 g'8 a'8 c''8 | a'2 d''8 d''8 d''8 d''8 |  \break
     d''4. d''8 c''8 a'8 a'8 c''8 | c''2 r8 d''8 d''8 d''8 | d''8 d''2 c''8 a'8 c''8 | \break
-    d''8 d''4. r8 a'8 g'8 a'8 | c''8 a'4 a'8 g'8 (f'8) d'8 d'8 | d'1* 3/4 r4 |
+    d''8 d''4. r8 a'8 g'8 a'8 | c''8 a'4 a'8 g'8 ( f'8) d'8 d'8 | d'1* 3/4 r4 |
 
     % Double barline jika SVG (dijabarkan)
     #(if is-svg?

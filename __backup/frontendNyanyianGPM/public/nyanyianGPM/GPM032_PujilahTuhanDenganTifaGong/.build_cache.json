@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM032_PujilahTuhanDenganTifaGong.ly": "06e030392b4142c8c0f214f794a3a1e7d1a031e95ef0879a229b90a02db6a65a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM032_PujilahTuhanDenganTifaGong_ly_data.ily": "2b3d0f3b334fa615995df6a0e34bc3e5ea5b39729455bf9f97a4246bbc48492a",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "svg_one_line": {
+    "GPM032_PujilahTuhanDenganTifaGong_ly_one_line.ly": "f0ee85db92b4656913d4671387fd207796c3d7ca5b2caae9b74ac38d938b303c",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM032_PujilahTuhanDenganTifaGong_ly_data.ily": "2b3d0f3b334fa615995df6a0e34bc3e5ea5b39729455bf9f97a4246bbc48492a",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM032_PujilahTuhanDenganTifaGong.ly": "06e030392b4142c8c0f214f794a3a1e7d1a031e95ef0879a229b90a02db6a65a",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "events": {
+    "GPM032_PujilahTuhanDenganTifaGong_ly_one_line.midi": "974887673ebdf0a19645bf53d784ef94950c173ef4beebdc1e8239e836613841"
+  },
+  "filter_one_line": {
+    "GPM032_PujilahTuhanDenganTifaGong_ly_one_line.svg": "b280b486adb38713db7cdb5a888cf51d2d0364df969e86a7abc339d09d178c3a"
+  },
+  "ties": {
+    "GPM032_PujilahTuhanDenganTifaGong_ly_one_line_filtered.svg": "88c41a8076fa6c1381ecf9523aec242c0f0278dde6d84a8c63c1869267a0a02f"
+  },
+  "noteheads": {
+    "GPM032_PujilahTuhanDenganTifaGong_ly_one_line_filtered.svg": "88c41a8076fa6c1381ecf9523aec242c0f0278dde6d84a8c63c1869267a0a02f"
+  },
+  "squash": {
+    "GPM032_PujilahTuhanDenganTifaGong_note_heads.csv": "ba4ee37d0def64d1147f9667b50bb1fc90d4a5901ca52fccb15b4fd43fb533b9",
+    "GPM032_PujilahTuhanDenganTifaGong_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM032_PujilahTuhanDenganTifaGong_note_heads_squashed.csv": "6f79b7d57963aa8ea5cfaa120a0269176d6b7a2a099fdaa0d5e60ad23525da09",
+    "GPM032_PujilahTuhanDenganTifaGong_note_events.csv": "71e4835d39cc3a9b4676b3ca78b688e06f157d04d6cdf423064479872b679c87"
+  },
+  "svg": {
+    "GPM032_PujilahTuhanDenganTifaGong.ly": "06e030392b4142c8c0f214f794a3a1e7d1a031e95ef0879a229b90a02db6a65a",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM032_PujilahTuhanDenganTifaGong_ly_data.ily": "2b3d0f3b334fa615995df6a0e34bc3e5ea5b39729455bf9f97a4246bbc48492a",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "filter": {
+    "GPM032_PujilahTuhanDenganTifaGong.svg": "d94f54e2d2145162eccc51cd395805f1580d0c85a475db10566e4b6c6f71abce"
+  },
+  "swell": {
+    "GPM032_PujilahTuhanDenganTifaGong_filtered.svg": "3cdc8f6e40af1e6a821df8eb9604a7a28927fecd0f29c94eab2f56e56b550620"
+  },
+  "optim": {
+    "GPM032_PujilahTuhanDenganTifaGong_filtered_swellable.svg": "b474cdc13650e607e5afa1b17cd2c3a756e7478f6e6e615078bef930b73b2a5e"
+  },
+  "sync": {
+    "GPM032_PujilahTuhanDenganTifaGong_optimized.svg": "7c4817c816d4e8dca7343bf3f08bd1bc216dae707cda569ab0c67c182333ade9",
+    "GPM032_PujilahTuhanDenganTifaGong_json_notes.json": "9615315438a3902732bcbe0b33edd1e1ea5109491a2161d6c9a2417f374caed6",
+    "GPM032_PujilahTuhanDenganTifaGong_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM032_PujilahTuhanDenganTifaGong.config.yaml": "103aa3484ea2fca3a1bf138bb9ed377d1a844dd93ce934b8d77628ffce961627"
+  }
+}

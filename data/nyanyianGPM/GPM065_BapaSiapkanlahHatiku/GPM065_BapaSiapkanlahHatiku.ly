@@ -31,6 +31,10 @@ syair =
        <<
          \new Lyrics \lyricsto melodi {
            \gpmenampuluhlima_lyricOne
+           \gpmenampuluhlima_lyricReff
+           \gpmenampuluhlima_lyricReff
+           \gpmenampuluhlima_lyricRitt
+
          }
        >>
      #}
@@ -38,7 +42,9 @@ syair =
      #{
        <<
          \new Lyrics \lyricsto melodi {
-           \gpmenampuluhlima_lyricOne
+            \gpmenampuluhlima_lyricOne
+           \gpmenampuluhlima_lyricReff
+           \gpmenampuluhlima_lyricRitt
          }
        >>
      #}

@@ -34,7 +34,7 @@
 gpmduatujuhenam_d_notes_pdf = {
   \repeat volta 2 {
     fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | a'4 b'4 a'4 | fis'2 a'4 | g'2 ( fis'4) | e'2 r4 | \break
-    e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ (| fis'2) r4 \break
+    e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ ( | fis'2) r4 \break
     fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | fis'4 g'4 gis'4 | a'2 a'4 | b'2. | g'2 r4 | \break
     d''4 d''4 d''4 | cis''2 b'4 | a'2. | fis'2 r4 | a'4 a'4 a'4 | g'4 fis'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 | \break
 
@@ -53,7 +53,7 @@ gpmduatujuhenam_d_notes_svg = {
   \tweak X-offset #1
   \sectionLabel \markup\smaller\bold "Bait 1"
   fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | a'4 b'4 a'4 | fis'2 a'4 | g'2 ( fis'4) | e'2 r4 | \break
-  e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ (| fis'2) r4 \break
+  e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | fis'2.~ \once \override Tie.stencil = ##f \once \override Slur.stencil = #ly:slur::print | fis'2 r4 \break
   fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | fis'4 g'4 gis'4 | a'2 a'4 | b'2. | g'2 r4 | \break
   d''4 d''4 d''4 | cis''2 b'4 | a'2. | fis'2 r4 | a'4 a'4 a'4 | g'4 fis'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 | \break
 
@@ -69,7 +69,7 @@ gpmduatujuhenam_d_notes_svg = {
   \tweak X-offset #1
   \sectionLabel \markup\smaller\bold "Bait 2"
   fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | a'4 b'4 a'4 | fis'2 a'4 | g'2 ( fis'4) | e'2 r4 | \break
-  e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ (| fis'2) r4 \break
+  e'4 e'4. d'8 | cis'4 cis'4 e'4 |  g'4 \phrasingSlurDashed g'4\( fis'4\) \phrasingSlurHalfSolid | e'2 r4 | a'4 a'4 a'4 | b'4 a'4 g'4 | \once \override Tie.stencil = ##f fis'2. ~ ( | fis'2) r4 \break
   fis'4 e'4 d'4 | fis'4 e'4 d'4 | a'2. | fis'2 r4 | fis'4 g'4 gis'4 | a'2 a'4 | b'2. | g'2 r4 | \break
   d''4 d''4 d''4 | cis''2 b'4 | a'2. | fis'2 r4 | a'4 a'4 a'4 | g'4 fis'4 e'4 | \once \override Tie.stencil = ##f d'2.~ ( | d'2) r4 | \break
 

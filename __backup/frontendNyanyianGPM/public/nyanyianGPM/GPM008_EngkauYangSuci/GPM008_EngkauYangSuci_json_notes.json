@@ -1,0 +1,1355 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:66:6:7"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 62,
+    "channel": 0,
+    "x": 13.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:66:10:11"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 71,
+    "channel": 0,
+    "x": 17.757,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:66:14:15"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 69,
+    "channel": 0,
+    "x": 23.106,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:67:2:3"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2304,
+    "pitch": 72,
+    "channel": 0,
+    "x": 27.795,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:67:7:8"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 69,
+    "channel": 0,
+    "x": 33.141,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:68:5:6"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 42.896,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:68:9:10"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 71,
+    "channel": 0,
+    "x": 45.249,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:68:13:14"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 47.278,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:68:18:19"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 52.372,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:69:2:3"
+    ],
+    "on_tick": 4608,
+    "off_tick": 6144,
+    "pitch": 71,
+    "channel": 0,
+    "x": 56.162,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:70:5:6"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 62,
+    "channel": 0,
+    "x": 70.755,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:70:9:10"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 71,
+    "channel": 0,
+    "x": 75.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:70:13:14"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 69,
+    "channel": 0,
+    "x": 80.677,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:71:2:3"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8448,
+    "pitch": 72,
+    "channel": 0,
+    "x": 85.366,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:71:7:8"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 90.712,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:72:5:6"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 100.467,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:72:9:10"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 104.084,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:72:13:14"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 106.83,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:72:18:19"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 71,
+    "channel": 0,
+    "x": 111.923,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:73:2:3"
+    ],
+    "on_tick": 10752,
+    "off_tick": 12288,
+    "pitch": 74,
+    "channel": 0,
+    "x": 115.714,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:74:5:6"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 74,
+    "channel": 0,
+    "x": 130.306,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:74:10:11"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 74,
+    "channel": 0,
+    "x": 133.564,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:74:15:16"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 74,
+    "channel": 0,
+    "x": 138.231,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:75:2:3"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14592,
+    "pitch": 71,
+    "channel": 0,
+    "x": 142.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:75:6:7"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 71,
+    "channel": 0,
+    "x": 148.265,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:76:5:6"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 71,
+    "channel": 0,
+    "x": 158.021,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:76:9:10"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 71,
+    "channel": 0,
+    "x": 162.081,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:76:13:14"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 165.724,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:76:18:19"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 171.534,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:77:2:3"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17664,
+    "pitch": 74,
+    "channel": 0,
+    "x": 175.325,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:77:7:8"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 72,
+    "channel": 0,
+    "x": 181.502,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:78:5:6"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 72,
+    "channel": 0,
+    "x": 191.257,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:78:10:11"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 74,
+    "channel": 0,
+    "x": 195.685,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:78:15:16"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 72,
+    "channel": 0,
+    "x": 198.612,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:79:2:3"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 71,
+    "channel": 0,
+    "x": 203.301,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:79:6:7"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 71,
+    "channel": 0,
+    "x": 206.252,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:79:10:11"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 210.287,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:79:14:15"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 67,
+    "channel": 0,
+    "x": 213.511,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:80:2:3"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22656,
+    "pitch": 69,
+    "channel": 0,
+    "x": 218.2,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:80:7:8"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 67,
+    "channel": 0,
+    "x": 225.964,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:81:2:3"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24576,
+    "pitch": 67,
+    "channel": 0,
+    "x": 230.653,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:86:6:7"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 62,
+    "channel": 0,
+    "x": 245.735,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:86:10:11"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 71,
+    "channel": 0,
+    "x": 249.753,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:86:14:15"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 252.68,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:87:2:3"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26880,
+    "pitch": 72,
+    "channel": 0,
+    "x": 257.369,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:87:7:8"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 262.714,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:88:5:6"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 272.47,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:88:9:10"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 71,
+    "channel": 0,
+    "x": 275.694,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:88:13:14"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 278.116,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:88:18:19"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 67,
+    "channel": 0,
+    "x": 283.38,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:89:2:3"
+    ],
+    "on_tick": 29184,
+    "off_tick": 30720,
+    "pitch": 71,
+    "channel": 0,
+    "x": 287.17,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:90:5:6"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31488,
+    "pitch": 62,
+    "channel": 0,
+    "x": 301.763,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:90:9:10"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 71,
+    "channel": 0,
+    "x": 304.69,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:90:13:14"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 308.503,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:91:2:3"
+    ],
+    "on_tick": 32256,
+    "off_tick": 33024,
+    "pitch": 72,
+    "channel": 0,
+    "x": 313.192,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:91:7:8"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 318.537,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:92:5:6"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 328.293,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:92:9:10"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 331.329,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:92:13:14"
+    ],
+    "on_tick": 34560,
+    "off_tick": 35136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 333.776,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:92:18:19"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 71,
+    "channel": 0,
+    "x": 338.69,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:93:2:3"
+    ],
+    "on_tick": 35328,
+    "off_tick": 36864,
+    "pitch": 74,
+    "channel": 0,
+    "x": 342.481,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:94:5:6"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37632,
+    "pitch": 74,
+    "channel": 0,
+    "x": 357.073,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:94:10:11"
+    ],
+    "on_tick": 37632,
+    "off_tick": 38016,
+    "pitch": 74,
+    "channel": 0,
+    "x": 361.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:94:15:16"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38400,
+    "pitch": 74,
+    "channel": 0,
+    "x": 365.126,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:95:2:3"
+    ],
+    "on_tick": 38400,
+    "off_tick": 39168,
+    "pitch": 71,
+    "channel": 0,
+    "x": 369.815,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:95:6:7"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39936,
+    "pitch": 71,
+    "channel": 0,
+    "x": 375.161,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:96:5:6"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 71,
+    "channel": 0,
+    "x": 384.916,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:96:9:10"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 71,
+    "channel": 0,
+    "x": 387.969,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:96:13:14"
+    ],
+    "on_tick": 40704,
+    "off_tick": 41280,
+    "pitch": 69,
+    "channel": 0,
+    "x": 389.998,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:96:18:19"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 67,
+    "channel": 0,
+    "x": 394.981,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:97:2:3"
+    ],
+    "on_tick": 41472,
+    "off_tick": 42240,
+    "pitch": 74,
+    "channel": 0,
+    "x": 398.88,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:97:7:8"
+    ],
+    "on_tick": 42240,
+    "off_tick": 43008,
+    "pitch": 72,
+    "channel": 0,
+    "x": 404.225,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:98:5:6"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43776,
+    "pitch": 72,
+    "channel": 0,
+    "x": 413.98,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:98:10:11"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44160,
+    "pitch": 74,
+    "channel": 0,
+    "x": 417.247,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:98:15:16"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44544,
+    "pitch": 72,
+    "channel": 0,
+    "x": 420.174,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:99:2:3"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44928,
+    "pitch": 71,
+    "channel": 0,
+    "x": 424.863,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:99:6:7"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45312,
+    "pitch": 71,
+    "channel": 0,
+    "x": 429.376,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:99:10:11"
+    ],
+    "on_tick": 45312,
+    "off_tick": 45696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 433.3,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:99:14:15"
+    ],
+    "on_tick": 45696,
+    "off_tick": 46080,
+    "pitch": 67,
+    "channel": 0,
+    "x": 437.412,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:100:2:3"
+    ],
+    "on_tick": 46080,
+    "off_tick": 47232,
+    "pitch": 69,
+    "channel": 0,
+    "x": 442.101,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:100:7:8"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47616,
+    "pitch": 67,
+    "channel": 0,
+    "x": 449.865,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:101:2:3"
+    ],
+    "on_tick": 47616,
+    "off_tick": 49152,
+    "pitch": 67,
+    "channel": 0,
+    "x": 454.554,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:106:6:7"
+    ],
+    "on_tick": 49536,
+    "off_tick": 49920,
+    "pitch": 62,
+    "channel": 0,
+    "x": 469.636,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:106:10:11"
+    ],
+    "on_tick": 49920,
+    "off_tick": 50304,
+    "pitch": 71,
+    "channel": 0,
+    "x": 473.218,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:106:14:15"
+    ],
+    "on_tick": 50304,
+    "off_tick": 50688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 476.146,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:107:2:3"
+    ],
+    "on_tick": 50688,
+    "off_tick": 51456,
+    "pitch": 72,
+    "channel": 0,
+    "x": 480.834,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:107:7:8"
+    ],
+    "on_tick": 51456,
+    "off_tick": 52224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 486.18,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:108:5:6"
+    ],
+    "on_tick": 52608,
+    "off_tick": 52800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 495.935,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:108:9:10"
+    ],
+    "on_tick": 52800,
+    "off_tick": 52992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 499.808,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:108:13:14"
+    ],
+    "on_tick": 52992,
+    "off_tick": 53568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 503.399,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:108:18:19"
+    ],
+    "on_tick": 53568,
+    "off_tick": 53760,
+    "pitch": 67,
+    "channel": 0,
+    "x": 508.227,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:109:2:3"
+    ],
+    "on_tick": 53760,
+    "off_tick": 55296,
+    "pitch": 71,
+    "channel": 0,
+    "x": 512.017,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:110:5:6"
+    ],
+    "on_tick": 55680,
+    "off_tick": 56064,
+    "pitch": 62,
+    "channel": 0,
+    "x": 526.61,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:110:9:10"
+    ],
+    "on_tick": 56064,
+    "off_tick": 56448,
+    "pitch": 71,
+    "channel": 0,
+    "x": 529.928,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:110:13:14"
+    ],
+    "on_tick": 56448,
+    "off_tick": 56832,
+    "pitch": 69,
+    "channel": 0,
+    "x": 533.988,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:111:2:3"
+    ],
+    "on_tick": 56832,
+    "off_tick": 57600,
+    "pitch": 72,
+    "channel": 0,
+    "x": 538.677,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:111:7:8"
+    ],
+    "on_tick": 57600,
+    "off_tick": 58368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 544.022,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:112:5:6"
+    ],
+    "on_tick": 58752,
+    "off_tick": 58944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 553.778,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:112:9:10"
+    ],
+    "on_tick": 58944,
+    "off_tick": 59136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 556.66,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:112:13:14"
+    ],
+    "on_tick": 59136,
+    "off_tick": 59712,
+    "pitch": 69,
+    "channel": 0,
+    "x": 559.108,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:112:18:19"
+    ],
+    "on_tick": 59712,
+    "off_tick": 59904,
+    "pitch": 71,
+    "channel": 0,
+    "x": 565.055,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:113:2:3"
+    ],
+    "on_tick": 59904,
+    "off_tick": 61440,
+    "pitch": 74,
+    "channel": 0,
+    "x": 568.845,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:114:5:6"
+    ],
+    "on_tick": 61824,
+    "off_tick": 62208,
+    "pitch": 74,
+    "channel": 0,
+    "x": 583.438,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:114:10:11"
+    ],
+    "on_tick": 62208,
+    "off_tick": 62592,
+    "pitch": 74,
+    "channel": 0,
+    "x": 587.447,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:114:15:16"
+    ],
+    "on_tick": 62592,
+    "off_tick": 62976,
+    "pitch": 74,
+    "channel": 0,
+    "x": 591.072,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:115:2:3"
+    ],
+    "on_tick": 62976,
+    "off_tick": 63744,
+    "pitch": 71,
+    "channel": 0,
+    "x": 595.761,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:115:6:7"
+    ],
+    "on_tick": 63744,
+    "off_tick": 64512,
+    "pitch": 71,
+    "channel": 0,
+    "x": 601.107,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:116:5:6"
+    ],
+    "on_tick": 64896,
+    "off_tick": 65088,
+    "pitch": 71,
+    "channel": 0,
+    "x": 610.862,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:116:9:10"
+    ],
+    "on_tick": 65088,
+    "off_tick": 65280,
+    "pitch": 71,
+    "channel": 0,
+    "x": 615.512,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:116:13:14"
+    ],
+    "on_tick": 65280,
+    "off_tick": 65856,
+    "pitch": 69,
+    "channel": 0,
+    "x": 618.002,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:116:18:19"
+    ],
+    "on_tick": 65856,
+    "off_tick": 66048,
+    "pitch": 67,
+    "channel": 0,
+    "x": 622.829,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:117:2:3"
+    ],
+    "on_tick": 66048,
+    "off_tick": 66816,
+    "pitch": 74,
+    "channel": 0,
+    "x": 626.62,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:117:7:8"
+    ],
+    "on_tick": 66816,
+    "off_tick": 67584,
+    "pitch": 72,
+    "channel": 0,
+    "x": 631.965,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:118:5:6"
+    ],
+    "on_tick": 67968,
+    "off_tick": 68352,
+    "pitch": 72,
+    "channel": 0,
+    "x": 641.72,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:118:10:11"
+    ],
+    "on_tick": 68352,
+    "off_tick": 68736,
+    "pitch": 74,
+    "channel": 0,
+    "x": 646.029,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:118:15:16"
+    ],
+    "on_tick": 68736,
+    "off_tick": 69120,
+    "pitch": 72,
+    "channel": 0,
+    "x": 648.956,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:119:2:3"
+    ],
+    "on_tick": 69120,
+    "off_tick": 69504,
+    "pitch": 71,
+    "channel": 0,
+    "x": 653.644,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:119:6:7"
+    ],
+    "on_tick": 69504,
+    "off_tick": 69888,
+    "pitch": 71,
+    "channel": 0,
+    "x": 657.074,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:119:10:11"
+    ],
+    "on_tick": 69888,
+    "off_tick": 70272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 660.844,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:119:14:15"
+    ],
+    "on_tick": 70272,
+    "off_tick": 70656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 663.82,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:120:2:3"
+    ],
+    "on_tick": 70656,
+    "off_tick": 71808,
+    "pitch": 69,
+    "channel": 0,
+    "x": 668.509,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:120:7:8"
+    ],
+    "on_tick": 71808,
+    "off_tick": 72192,
+    "pitch": 67,
+    "channel": 0,
+    "x": 676.273,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM008_EngkauYangSuci/GPM008_EngkauYangSuci_ly_data.ily:121:2:3"
+    ],
+    "on_tick": 72192,
+    "off_tick": 73728,
+    "pitch": 67,
+    "channel": 0,
+    "x": 680.962,
+    "y": 15.289
+  }
+]

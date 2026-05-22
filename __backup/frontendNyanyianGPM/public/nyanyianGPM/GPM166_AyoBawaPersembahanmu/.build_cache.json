@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM166_AyoBawaPersembahanmu.ly": "4fc5cdf96f9e6a712d9554345e49a25d70054b68571f342c58ebea35ad374c7a",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM166_AyoBawaPersembahanmu_ly_data.ily": "4fd686843535dac5b9be55aa3222bb721bfd747f166b883580d66f93c7e9f71b",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM166_AyoBawaPersembahanmu_ly_one_line.ly": "d323edbbc14162d868c5455404eab9a97bf8c6440be73413535bb9fdcde2872a",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM166_AyoBawaPersembahanmu_ly_data.ily": "4fd686843535dac5b9be55aa3222bb721bfd747f166b883580d66f93c7e9f71b",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM166_AyoBawaPersembahanmu.ly": "4fc5cdf96f9e6a712d9554345e49a25d70054b68571f342c58ebea35ad374c7a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "events": {
+    "GPM166_AyoBawaPersembahanmu_ly_one_line.midi": "35ae3c51c43f967eb5f7c04d726fb1a7ae75df58abfe7391794cd93586eb3c92"
+  },
+  "filter_one_line": {
+    "GPM166_AyoBawaPersembahanmu_ly_one_line.svg": "fc97e1620073b59021494bd6caa4ddafae30cdb138c8f87be3edd8de7677375d"
+  },
+  "ties": {
+    "GPM166_AyoBawaPersembahanmu_ly_one_line_filtered.svg": "00739af7bea73e9097c49a8f43885ed190c0c03bbac381428c57a2f9d36e75d3"
+  },
+  "noteheads": {
+    "GPM166_AyoBawaPersembahanmu_ly_one_line_filtered.svg": "00739af7bea73e9097c49a8f43885ed190c0c03bbac381428c57a2f9d36e75d3"
+  },
+  "squash": {
+    "GPM166_AyoBawaPersembahanmu_note_heads.csv": "e953725effdd1f804169824cd4b724b2176c505a216b03621dcf366cf70fb71b",
+    "GPM166_AyoBawaPersembahanmu_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM166_AyoBawaPersembahanmu_note_heads_squashed.csv": "433bd7d5c5ef9c594046e62d4cc7472a2dc88ab428d2daa5de3506a007064f7b",
+    "GPM166_AyoBawaPersembahanmu_note_events.csv": "e053c8a72bfda322358f931d1c020713518083fdaadb0c656fa6baf8add558cd"
+  },
+  "svg": {
+    "GPM166_AyoBawaPersembahanmu.ly": "4fc5cdf96f9e6a712d9554345e49a25d70054b68571f342c58ebea35ad374c7a",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM166_AyoBawaPersembahanmu_ly_data.ily": "4fd686843535dac5b9be55aa3222bb721bfd747f166b883580d66f93c7e9f71b",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "filter": {
+    "GPM166_AyoBawaPersembahanmu.svg": "3bdb44751f9cc63203e24312ba622bcba0759c14ef5a72f555b73cd0a151bbf1"
+  },
+  "swell": {
+    "GPM166_AyoBawaPersembahanmu_filtered.svg": "726b9fa2a417fcf343e903c07c912b6a70af4212ba97c2d1a758373e860224cf"
+  },
+  "optim": {
+    "GPM166_AyoBawaPersembahanmu_filtered_swellable.svg": "6741e411eaa431e14a3d5e6de185f1fb4f2498d360ef213b4aa742f805347198"
+  },
+  "sync": {
+    "GPM166_AyoBawaPersembahanmu_optimized.svg": "12cb86fc06de1d5a421d276fbcce5a2daf090ab7db36ba1a06038c751d0dedba",
+    "GPM166_AyoBawaPersembahanmu_json_notes.json": "d929ebfc4887a72277be84c57145bb26b79c6be5cb0a1d7e623a5f5d8715cd80",
+    "GPM166_AyoBawaPersembahanmu_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM166_AyoBawaPersembahanmu.config.yaml": "d4e5fe99b6cf84adc84ec731f6179d34af7f626b3c0665cfed526ded9bfde5b2"
+  }
+}

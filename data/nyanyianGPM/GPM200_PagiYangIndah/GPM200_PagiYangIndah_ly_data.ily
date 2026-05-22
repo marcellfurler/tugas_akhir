@@ -39,9 +39,9 @@ gpmduaratus_e_notes = {
          #{ s1*0 #}
          (empty-music)
      )
-      \partial 2 r8 b8 cis'8 b8 | e'4 e'4 gis'4. fis'8 |fis'4 e'4 \break
-      r8 b8 cis'8 b8 | e'4 e'4 gis'4 fis'8 e'8 |fis'2 \break
-      r8 b'8 cis''8 b'8 | gis'4 gis'4 fis'4 fis'8 ( gis'8) |a'4 cis''4 \break
+      \partial 2 r8 b8 cis'8 b8 | e'4 e'4 gis'4. fis'8 | fis'4 e'4 \break
+      r8 b8 cis'8 b8 | e'4 e'4 gis'4 fis'8 e'8 | fis'2 \break
+      r8 b'8 cis''8 b'8 | gis'4 gis'4 fis'4 fis'8 ( gis'8) | a'4 cis''4 \break
       r8 cis''8 b'8 a'8 | gis'4 e'4 gis'8 ( fis'8) e'8 ( dis'8) | e'2 e'2 | \break
 
 

@@ -1,0 +1,1707 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:7:8"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 77,
+    "channel": 0,
+    "x": 13.886,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:12:13"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 77,
+    "channel": 0,
+    "x": 17.938,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:17:18"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 77,
+    "channel": 0,
+    "x": 21.077,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:22:23"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 74,
+    "channel": 0,
+    "x": 24.48,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:27:28"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 77,
+    "channel": 0,
+    "x": 27.534,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:32:33"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 82,
+    "channel": 0,
+    "x": 30.834,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:41:42"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2112,
+    "pitch": 86,
+    "channel": 0,
+    "x": 35.025,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:48:49"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 82,
+    "channel": 0,
+    "x": 40.575,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:55:56"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2880,
+    "pitch": 77,
+    "channel": 0,
+    "x": 43.004,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:61:62"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 82,
+    "channel": 0,
+    "x": 48.554,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:70:71"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3648,
+    "pitch": 79,
+    "channel": 0,
+    "x": 52.744,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:76:77"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 82,
+    "channel": 0,
+    "x": 58.294,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:83:84"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 81,
+    "channel": 0,
+    "x": 61.894,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:88:89"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 82,
+    "channel": 0,
+    "x": 65.203,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:95:96"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 81,
+    "channel": 0,
+    "x": 68.231,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:100:101"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 79,
+    "channel": 0,
+    "x": 71.66,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:44:107:108"
+    ],
+    "on_tick": 4608,
+    "off_tick": 6144,
+    "pitch": 77,
+    "channel": 0,
+    "x": 75.85,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:7:8"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 77,
+    "channel": 0,
+    "x": 93.952,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:12:13"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 77,
+    "channel": 0,
+    "x": 97.945,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:17:18"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 77,
+    "channel": 0,
+    "x": 101.519,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:22:23"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 74,
+    "channel": 0,
+    "x": 104.47,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:27:28"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 77,
+    "channel": 0,
+    "x": 107.498,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:32:33"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 82,
+    "channel": 0,
+    "x": 110.722,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:41:42"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8256,
+    "pitch": 81,
+    "channel": 0,
+    "x": 114.912,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:47:48"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 82,
+    "channel": 0,
+    "x": 120.462,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:54:55"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9024,
+    "pitch": 84,
+    "channel": 0,
+    "x": 123.08,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:61:62"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 82,
+    "channel": 0,
+    "x": 128.63,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:70:71"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9792,
+    "pitch": 81,
+    "channel": 0,
+    "x": 132.82,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:76:77"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 79,
+    "channel": 0,
+    "x": 138.793,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:81:82"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 77,
+    "channel": 0,
+    "x": 142.333,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:86:87"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 81,
+    "channel": 0,
+    "x": 144.762,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:91:92"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 84,
+    "channel": 0,
+    "x": 148.311,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:97:98"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 82,
+    "channel": 0,
+    "x": 153.387,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:45:106:107"
+    ],
+    "on_tick": 10752,
+    "off_tick": 12288,
+    "pitch": 86,
+    "channel": 0,
+    "x": 157.578,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:7:8"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 77,
+    "channel": 0,
+    "x": 175.68,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:12:13"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 77,
+    "channel": 0,
+    "x": 179.075,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:17:18"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 77,
+    "channel": 0,
+    "x": 182.563,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:22:23"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 74,
+    "channel": 0,
+    "x": 185.224,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:27:28"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 77,
+    "channel": 0,
+    "x": 188.644,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:32:33"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 82,
+    "channel": 0,
+    "x": 191.937,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:41:42"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14400,
+    "pitch": 86,
+    "channel": 0,
+    "x": 196.128,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:48:49"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 82,
+    "channel": 0,
+    "x": 201.677,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:55:56"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15168,
+    "pitch": 77,
+    "channel": 0,
+    "x": 204.106,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:61:62"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 82,
+    "channel": 0,
+    "x": 209.746,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:70:71"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15936,
+    "pitch": 79,
+    "channel": 0,
+    "x": 213.937,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:76:77"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 82,
+    "channel": 0,
+    "x": 219.486,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:83:84"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 82,
+    "channel": 0,
+    "x": 222.275,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:90:91"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 82,
+    "channel": 0,
+    "x": 224.816,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:97:98"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 81,
+    "channel": 0,
+    "x": 227.349,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:102:103"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 79,
+    "channel": 0,
+    "x": 229.822,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:47:109:110"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18432,
+    "pitch": 77,
+    "channel": 0,
+    "x": 234.013,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:7:8"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 77,
+    "channel": 0,
+    "x": 252.115,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:12:13"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 77,
+    "channel": 0,
+    "x": 255.868,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:17:18"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 77,
+    "channel": 0,
+    "x": 260.023,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:22:23"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 74,
+    "channel": 0,
+    "x": 262.974,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:27:28"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 77,
+    "channel": 0,
+    "x": 267.709,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:32:33"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 82,
+    "channel": 0,
+    "x": 271.616,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:41:42"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20544,
+    "pitch": 84,
+    "channel": 0,
+    "x": 275.806,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:48:49"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 82,
+    "channel": 0,
+    "x": 282.061,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:55:56"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21312,
+    "pitch": 81,
+    "channel": 0,
+    "x": 285.404,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:61:62"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 82,
+    "channel": 0,
+    "x": 290.954,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:70:71"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22080,
+    "pitch": 84,
+    "channel": 0,
+    "x": 295.144,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:77:78"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 86,
+    "channel": 0,
+    "x": 300.694,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:83:84"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 87,
+    "channel": 0,
+    "x": 305.276,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:90:91"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 84,
+    "channel": 0,
+    "x": 309.404,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:96:97"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 81,
+    "channel": 0,
+    "x": 313.064,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:101:102"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 84,
+    "channel": 0,
+    "x": 316.493,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:48:109:110"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24576,
+    "pitch": 82,
+    "channel": 0,
+    "x": 320.683,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:7:8"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 82,
+    "channel": 0,
+    "x": 337.636,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:14:15"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 84,
+    "channel": 0,
+    "x": 341.116,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:20:21"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 82,
+    "channel": 0,
+    "x": 344.98,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:27:28"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 81,
+    "channel": 0,
+    "x": 349.246,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:32:33"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 82,
+    "channel": 0,
+    "x": 354.134,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:39:40"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 84,
+    "channel": 0,
+    "x": 359.048,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:45:46"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 82,
+    "channel": 0,
+    "x": 364.167,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:54:55"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26688,
+    "pitch": 87,
+    "channel": 0,
+    "x": 368.358,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:62:63"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 82,
+    "channel": 0,
+    "x": 375.381,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:69:70"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27456,
+    "pitch": 79,
+    "channel": 0,
+    "x": 377.956,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:75:76"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 82,
+    "channel": 0,
+    "x": 383.506,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:84:85"
+    ],
+    "on_tick": 27648,
+    "off_tick": 28224,
+    "pitch": 87,
+    "channel": 0,
+    "x": 387.696,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:92:93"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 86,
+    "channel": 0,
+    "x": 394.821,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:98:99"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 84,
+    "channel": 0,
+    "x": 398.472,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:104:105"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 77,
+    "channel": 0,
+    "x": 401.568,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:109:110"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 82,
+    "channel": 0,
+    "x": 404.844,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:116:117"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 84,
+    "channel": 0,
+    "x": 408.256,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:50:124:125"
+    ],
+    "on_tick": 29184,
+    "off_tick": 30720,
+    "pitch": 86,
+    "channel": 0,
+    "x": 412.446,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:7:8"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 82,
+    "channel": 0,
+    "x": 429.398,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:14:15"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 84,
+    "channel": 0,
+    "x": 433.971,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:20:21"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 82,
+    "channel": 0,
+    "x": 437.869,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:27:28"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31680,
+    "pitch": 81,
+    "channel": 0,
+    "x": 441.486,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:32:33"
+    ],
+    "on_tick": 31680,
+    "off_tick": 31872,
+    "pitch": 82,
+    "channel": 0,
+    "x": 445.128,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:39:40"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 84,
+    "channel": 0,
+    "x": 447.849,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:45:46"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 82,
+    "channel": 0,
+    "x": 451.637,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:54:55"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32832,
+    "pitch": 87,
+    "channel": 0,
+    "x": 455.827,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:62:63"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 82,
+    "channel": 0,
+    "x": 461.377,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:69:70"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33600,
+    "pitch": 79,
+    "channel": 0,
+    "x": 463.806,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:75:76"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 82,
+    "channel": 0,
+    "x": 469.356,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:84:85"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 89,
+    "channel": 0,
+    "x": 473.546,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:90:91"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34368,
+    "pitch": 87,
+    "channel": 0,
+    "x": 476.173,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:97:98"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 86,
+    "channel": 0,
+    "x": 481.027,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:103:104"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34752,
+    "pitch": 84,
+    "channel": 0,
+    "x": 483.456,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:109:110"
+    ],
+    "on_tick": 34752,
+    "off_tick": 34944,
+    "pitch": 77,
+    "channel": 0,
+    "x": 486.493,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:114:115"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 82,
+    "channel": 0,
+    "x": 490.408,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:121:122"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 84,
+    "channel": 0,
+    "x": 493.359,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:51:129:130"
+    ],
+    "on_tick": 35328,
+    "off_tick": 36864,
+    "pitch": 86,
+    "channel": 0,
+    "x": 497.55,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:7:8"
+    ],
+    "on_tick": 37056,
+    "off_tick": 37248,
+    "pitch": 86,
+    "channel": 0,
+    "x": 514.502,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:13:14"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37440,
+    "pitch": 86,
+    "channel": 0,
+    "x": 518.75,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:19:20"
+    ],
+    "on_tick": 37440,
+    "off_tick": 37632,
+    "pitch": 86,
+    "channel": 0,
+    "x": 522.546,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:25:26"
+    ],
+    "on_tick": 37632,
+    "off_tick": 37824,
+    "pitch": 86,
+    "channel": 0,
+    "x": 525.736,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:31:32"
+    ],
+    "on_tick": 37824,
+    "off_tick": 38016,
+    "pitch": 86,
+    "channel": 0,
+    "x": 529.882,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:37:38"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38208,
+    "pitch": 87,
+    "channel": 0,
+    "x": 533.508,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:44:45"
+    ],
+    "on_tick": 38208,
+    "off_tick": 38400,
+    "pitch": 86,
+    "channel": 0,
+    "x": 536.083,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:52:53"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38976,
+    "pitch": 84,
+    "channel": 0,
+    "x": 540.274,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:59:60"
+    ],
+    "on_tick": 38976,
+    "off_tick": 39168,
+    "pitch": 86,
+    "channel": 0,
+    "x": 546.008,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:65:66"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39936,
+    "pitch": 84,
+    "channel": 0,
+    "x": 548.437,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:76:77"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 84,
+    "channel": 0,
+    "x": 559.148,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:82:83"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 84,
+    "channel": 0,
+    "x": 562.799,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:88:89"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 82,
+    "channel": 0,
+    "x": 565.494,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:95:96"
+    ],
+    "on_tick": 40704,
+    "off_tick": 40896,
+    "pitch": 81,
+    "channel": 0,
+    "x": 568.027,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:100:101"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 79,
+    "channel": 0,
+    "x": 570.456,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:105:106"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 81,
+    "channel": 0,
+    "x": 572.885,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:110:111"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 82,
+    "channel": 0,
+    "x": 577.236,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:53:119:120"
+    ],
+    "on_tick": 41472,
+    "off_tick": 43008,
+    "pitch": 84,
+    "channel": 0,
+    "x": 581.427,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:7:8"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43776,
+    "pitch": 89,
+    "channel": 0,
+    "x": 599.529,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:13:14"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44352,
+    "pitch": 87,
+    "channel": 0,
+    "x": 603.158,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:21:22"
+    ],
+    "on_tick": 44352,
+    "off_tick": 44544,
+    "pitch": 84,
+    "channel": 0,
+    "x": 608.708,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:29:30"
+    ],
+    "on_tick": 44544,
+    "off_tick": 45504,
+    "pitch": 86,
+    "channel": 0,
+    "x": 612.898,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:41:42"
+    ],
+    "on_tick": 45504,
+    "off_tick": 45696,
+    "pitch": 84,
+    "channel": 0,
+    "x": 621.568,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:47:48"
+    ],
+    "on_tick": 45696,
+    "off_tick": 45888,
+    "pitch": 82,
+    "channel": 0,
+    "x": 624.485,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:54:55"
+    ],
+    "on_tick": 45888,
+    "off_tick": 46080,
+    "pitch": 81,
+    "channel": 0,
+    "x": 626.914,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:61:62"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46656,
+    "pitch": 79,
+    "channel": 0,
+    "x": 631.136,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:67:68"
+    ],
+    "on_tick": 46656,
+    "off_tick": 46848,
+    "pitch": 79,
+    "channel": 0,
+    "x": 636.685,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:72:73"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47040,
+    "pitch": 79,
+    "channel": 0,
+    "x": 641.147,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:77:78"
+    ],
+    "on_tick": 47040,
+    "off_tick": 47232,
+    "pitch": 82,
+    "channel": 0,
+    "x": 645.968,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:84:85"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47424,
+    "pitch": 87,
+    "channel": 0,
+    "x": 649.892,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:91:92"
+    ],
+    "on_tick": 47424,
+    "off_tick": 47616,
+    "pitch": 91,
+    "channel": 0,
+    "x": 652.928,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:99:100"
+    ],
+    "on_tick": 47616,
+    "off_tick": 48192,
+    "pitch": 89,
+    "channel": 0,
+    "x": 657.119,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:106:107"
+    ],
+    "on_tick": 48192,
+    "off_tick": 48384,
+    "pitch": 87,
+    "channel": 0,
+    "x": 662.669,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:54:113:114"
+    ],
+    "on_tick": 48384,
+    "off_tick": 49152,
+    "pitch": 86,
+    "channel": 0,
+    "x": 665.098,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:7:8"
+    ],
+    "on_tick": 49536,
+    "off_tick": 49920,
+    "pitch": 77,
+    "channel": 0,
+    "x": 676.959,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:12:13"
+    ],
+    "on_tick": 49920,
+    "off_tick": 50112,
+    "pitch": 86,
+    "channel": 0,
+    "x": 681.037,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:18:19"
+    ],
+    "on_tick": 50112,
+    "off_tick": 50304,
+    "pitch": 84,
+    "channel": 0,
+    "x": 684.756,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:24:25"
+    ],
+    "on_tick": 50304,
+    "off_tick": 50496,
+    "pitch": 86,
+    "channel": 0,
+    "x": 689.355,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:30:31"
+    ],
+    "on_tick": 50496,
+    "off_tick": 50688,
+    "pitch": 87,
+    "channel": 0,
+    "x": 693.279,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:39:40"
+    ],
+    "on_tick": 50688,
+    "off_tick": 51648,
+    "pitch": 84,
+    "channel": 0,
+    "x": 697.469,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:50:51"
+    ],
+    "on_tick": 51648,
+    "off_tick": 51840,
+    "pitch": 84,
+    "channel": 0,
+    "x": 706.139,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:56:57"
+    ],
+    "on_tick": 51840,
+    "off_tick": 52032,
+    "pitch": 84,
+    "channel": 0,
+    "x": 709.696,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:62:63"
+    ],
+    "on_tick": 52032,
+    "off_tick": 52224,
+    "pitch": 82,
+    "channel": 0,
+    "x": 712.126,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:71:72"
+    ],
+    "on_tick": 52224,
+    "off_tick": 52800,
+    "pitch": 81,
+    "channel": 0,
+    "x": 716.316,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:77:78"
+    ],
+    "on_tick": 52800,
+    "off_tick": 52992,
+    "pitch": 77,
+    "channel": 0,
+    "x": 721.866,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:82:83"
+    ],
+    "on_tick": 52992,
+    "off_tick": 53184,
+    "pitch": 75,
+    "channel": 0,
+    "x": 724.295,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:88:89"
+    ],
+    "on_tick": 53184,
+    "off_tick": 53376,
+    "pitch": 77,
+    "channel": 0,
+    "x": 727.246,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:93:94"
+    ],
+    "on_tick": 53376,
+    "off_tick": 53568,
+    "pitch": 81,
+    "channel": 0,
+    "x": 730.197,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:98:99"
+    ],
+    "on_tick": 53568,
+    "off_tick": 53760,
+    "pitch": 84,
+    "channel": 0,
+    "x": 733.148,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/GPM014_KuSelaluInginMemujiMu_ly_data.ily:56:106:107"
+    ],
+    "on_tick": 53760,
+    "off_tick": 55296,
+    "pitch": 82,
+    "channel": 0,
+    "x": 737.338,
+    "y": 12.736
+  }
+]

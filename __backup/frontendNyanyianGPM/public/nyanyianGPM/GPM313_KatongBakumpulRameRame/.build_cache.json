@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM313_KatongBakumpulRameRame.ly": "7f2f558aed32019dc53617af3cceb8b7e091d4fd6a631b329cd82de239fc6061",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM313_KatongBakumpulRameRame_ly_data.ily": "dc1018215f5dd76c86f92a1ff61a5056f5bb7149441b39d8999c41f914415cae",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM313_KatongBakumpulRameRame_ly_one_line.ly": "95a3b43f210f683a6ad13f6da50aee3eaad01b531aeedbaed95c7517cd8876f6",
+    "GPM313_KatongBakumpulRameRame.ly": "7f2f558aed32019dc53617af3cceb8b7e091d4fd6a631b329cd82de239fc6061",
+    "GPM313_KatongBakumpulRameRame_ly_data.ily": "dc1018215f5dd76c86f92a1ff61a5056f5bb7149441b39d8999c41f914415cae",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "events": {
+    "GPM313_KatongBakumpulRameRame_ly_one_line.midi": "650c9c28d39e18d39d2ca28fd3b4ec8e877324c5a6eedf4b5830cab91e5238a0"
+  },
+  "filter_one_line": {
+    "GPM313_KatongBakumpulRameRame_ly_one_line.svg": "89de644cc798b1e3bb338e48b483cffeb92e29a85ecf59a702a21bad02b32f20"
+  },
+  "ties": {
+    "GPM313_KatongBakumpulRameRame_ly_one_line_filtered.svg": "94a0e0039100c53e02475d7250f26bed995ab7fb3634882a90e20c4b2fd04a33"
+  },
+  "noteheads": {
+    "GPM313_KatongBakumpulRameRame_ly_one_line_filtered.svg": "94a0e0039100c53e02475d7250f26bed995ab7fb3634882a90e20c4b2fd04a33"
+  },
+  "squash": {
+    "GPM313_KatongBakumpulRameRame_note_heads.csv": "34e19afc1a22ca2684a811764fe741bf91ef631c3120201ea4f967c286d37ba8",
+    "GPM313_KatongBakumpulRameRame_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM313_KatongBakumpulRameRame_note_heads_squashed.csv": "b843d7df6cd56aa41f44f9d36da457b6936f1e5d011c1d80ef9d44534dd5c234",
+    "GPM313_KatongBakumpulRameRame_note_events.csv": "a2502babe877df4dfb142d556dca246fa41ffdbdef9920e6f14cf153bb7a1515"
+  },
+  "svg": {
+    "GPM313_KatongBakumpulRameRame.ly": "7f2f558aed32019dc53617af3cceb8b7e091d4fd6a631b329cd82de239fc6061",
+    "GPM313_KatongBakumpulRameRame_ly_data.ily": "dc1018215f5dd76c86f92a1ff61a5056f5bb7149441b39d8999c41f914415cae",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM313_KatongBakumpulRameRame.svg": "32126a133fe82f9cc8a6a665fe573ed92e0f64eac064b2b2d9bc6515e68bb374"
+  },
+  "swell": {
+    "GPM313_KatongBakumpulRameRame_filtered.svg": "ae856bb745e9eb1a8e9e747d4f1150676cc7c55e75ee65afd3d04db50c7b40a5"
+  },
+  "optim": {
+    "GPM313_KatongBakumpulRameRame_filtered_swellable.svg": "2e1606e3019b2d825e987c0013a7a748f6298e95ab5079a25998240320851dfd"
+  },
+  "sync": {
+    "GPM313_KatongBakumpulRameRame_optimized.svg": "c3bdbb981b8cb8129b287968ecde71c307392d67d420870bc237545fd94b377a",
+    "GPM313_KatongBakumpulRameRame_json_notes.json": "32bdce3ba7d3d09c81394847bc35f3f1b9fe4de5ef4507423ce54576805d4498",
+    "GPM313_KatongBakumpulRameRame_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM313_KatongBakumpulRameRame.config.yaml": "c2a72a8bdb2731dd5bff741f30cbc1f1386e34b58f6d2d71877ef13eff54a5be"
+  }
+}

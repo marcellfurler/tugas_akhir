@@ -31,51 +31,59 @@
 
 % do = c -> 1C - 2D - 3E - 4F 4 1/2gis - 5G - 6A - 7B - 8C
 
-gpmenampuluhlima_c_notes = {
-  \key c \major
-  {
-    % Trik untuk menampilkan bait dengan section
-    % pada SVG (mode unfolded)
-    #(if is-svg?
-         #{
-            s1*0
-            \tweak X-offset #1
-            \sectionLabel \markup\smaller\bold "Bait 1"
-          
-         #}
-         ; else/defaulte
-         (empty-music)
-         )
-
+gpmenampuluhlima_c_notes_pdf = {
     % Baris pertama
-    e'8 e'1* 7/8 | r4 e'8 e'8 f'8 e'8 f'8 g'8 | \once \override Tie.stencil = ##f d'1* 4/4~ (| d'4) r4 e'4. d'8 | \break
-    c'1* 7/8 c'8 | f'4 f'4 f'4. g'8 | e'2. \tuplet 3/2 {e'8 (d'8 c'8} | d'2.) r4 | \break
-    g'8 g'1* 7/8 | r4 e'8 e'8 f'8 e'8 f'8 g'8 | \once \override Tie.stencil = ##f d'1* 4/4~ (| d'4) r4 e'4. d'8 | \break
+    e'8 e'1* 7/8 | r4 e'8 e'8 f'8 e'8 f'8 g'8 | \once \override Tie.stencil = ##f d'1* 4/4~ ( | d'4) r4 e'4. d'8 | \break
+    c'1* 7/8 c'8 | f'4 f'4 f'4. g'8 | e'2. \tuplet 3/2 {e'8 ( d'8 c'8} | d'2.) r4 | \break
+    g'8 g'1* 7/8 | r4 e'8 e'8 f'8 e'8 f'8 g'8 | \once \override Tie.stencil = ##f d'1* 4/4~ ( | d'4) r4 e'4. d'8 | \break
     c'1* 7/8 c'8 | f'4 e'4 d'4.c'8 | c'1* 4/4 | r1* 7/8 g'8 | \break
-    b'4 b'2 b'8 (a'8) | g'2 r4 a'8 b'8 | c''2 c''8 (b'8) a'8 a'8~ | a'8 (g'1* 5/8) f'8 g'8 | \break
-    a'4 a'2. \breathe | g'2. g'8 (f'8) | e'1* 4/4 | r1 * 7/8 g'8 | \break
-    b'4 b'2 b'8 a'8 | a'8 (g'8) g'1* 5/8  b'8 | c''4 c''4 c''8 (b'8) a'8 a'8~ | a'8  (g'1* 5/8) \breathe f'8 g'8 | \break
-    a'4 a'1*3/4 | g'2. \breathe g'8 (f'8) | e'1* 4/4 | \break
+    b'4 b'2 b'8 ( a'8) | g'2 r4 a'8 b'8 | c''2 c''8 ( b'8) a'8 a'8~ | a'8 ( g'1* 5/8) f'8 g'8 | \break
+    a'4 a'2. \breathe | g'2. g'8 ( f'8) | e'1* 4/4 | r1 * 7/8 g'8 | \break
+    b'4 b'2 b'8 a'8 | a'8 ( g'8) g'1* 5/8  b'8 | c''4 c''4 c''8 (b'8) a'8 a'8~ | a'8  ( g'1* 5/8) \breathe f'8 g'8 | \break
+    a'4 a'1*3/4 | g'2. \breathe g'8 ( f'8) | e'1* 4/4 | \break
 
     % repeat
     \repeat volta 2{
-        r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. a'8 g'2 | r4 g'8 g'8 a'8 a'8 g'8 f'8 | (e'2 g'2) | \break
-        r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. g'8 e''2 (| d''8) r8 b'8 b'8 b'8 b'8 c''8 d''8 | \break
+        r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. a'8 g'2 | r4 g'8 g'8 a'8 a'8 g'8 f'8 | ( e'2 g'2) | \break
+        r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. g'8 e''2( | d''8) r8 b'8 b'8 b'8 b'8 c''8 d''8 | \break
         c''1* 4/4 | 
     }   
-    r4^\markup { \italic "rit." } a'4 (b'4 c''4) | c''1* 4/4 |
+    r4^\markup { \italic "rit." } a'4 ( b'4 c''4) | c''1* 4/4 |
 
-    % Double barline jika SVG (dijabarkan)
-    #(if is-svg?
-         #{ \section #}
-         ; else/defaulte
-         (empty-music)
-         )
   }
+
+gpmenampuluhlima_c_notes_svg = {
+      % Baris pertama
+    e'8 e'1* 7/8 | r4 e'8 e'8 f'8 e'8 f'8 g'8 | \once \override Tie.stencil = ##f d'1*4/4~ ( | d'4) r4 e'4. d'8 | \break
+    c'1* 7/8 c'8 | f'4 f'4 f'4. g'8 | e'2. \tuplet 3/2 {e'8 ( d'8 c'8} | d'2.) r4 | \break
+    g'8 g'1* 7/8 | r4 e'8 e'8 f'8 e'8 f'8 g'8 | \once \override Tie.stencil = ##f d'1*4/4~ ( | d'4) r4 e'4. d'8 | \break
+    c'1* 7/8 c'8 | f'4 e'4 d'4.c'8 | c'1* 4/4 | r1* 7/8 g'8 | \break
+    b'4 b'2 b'8 ( a'8) | g'2 r4 a'8 b'8 | c''2 c''8 ( b'8) a'8 a'8~ | a'8 ( g'1* 5/8) f'8 g'8 | \break
+    a'4 a'2. \breathe | g'2. g'8 ( f'8) | e'1* 4/4 | r1 * 7/8 g'8 | \break
+    b'4 b'2 b'8 a'8 | a'8 ( g'8) g'1* 5/8  b'8 | c''4 c''4 c''8 ( b'8) a'8 a'8~ | a'8  ( g'1* 5/8) \breathe f'8 g'8 | \break
+    a'4 a'1*3/4 | g'2. \breathe g'8 ( f'8) | e'1* 4/4 | \break
+
+    r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. a'8 g'2 | r4 g'8 g'8 a'8 a'8 g'8 f'8 | ( e'2 g'2) | \break
+    r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. g'8 e''2( | d''8) r8 b'8 b'8 b'8 b'8 c''8 d''8 | 
+    c''1* 4/4 | \break
+
+    r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. a'8 g'2 | r4 g'8 g'8 a'8 a'8 g'8 f'8 | ( e'2 g'2) | \break
+    r4 a'8 g'8 a'8 g'8 a'8 b'8 | c''4. g'8 e''2 ( | d''8) r8 b'8 b'8 b'8 b'8 c''8 d''8 | \break
+    c''1* 4/4 | 
+ 
+    r4^\markup { \italic "rit." } a'4 ( b'4 c''4) | c''1* 4/4 |
+
+  
 }
+
+gpmenampuluhlima_c_notes =
+#(if is-svg?
+     #{ \gpmenampuluhlima_c_notes_svg #}
+     #{ \gpmenampuluhlima_c_notes_pdf #})
 
 gpmenampuluhlima_c_music = {
   \time 4/4
+  \key c \major
   % Tempo untuk MIDI saja.
   % Di partitur, tampilkan dengan header.
   \gpmenampuluhlima_c_notes
@@ -96,8 +104,13 @@ gpmenampuluhlima_lyricOne = \lyricmode {
     da -- lam su -- sah dan se -- nang.
     Be -- ri -- lah Roh Ku -- dus -- Mu, me -- nun -- tun hi -- dup -- ku
     da -- lam su -- sah dan se -- nang.
+}
 
+gpmenampuluhlima_lyricReff = \lyricmode {
     Si -- ap -- kan -- lah ha -- ti -- ku, Ba -- pa, mau me -- nyam -- but sab -- da -- Mu.
     Si -- ap -- kan -- lah ha -- ti -- ku, Ba -- pa, mau me -- nyam -- but sab -- da -- Mu.
-    A -- min!
+}
+
+gpmenampuluhlima_lyricRitt = \lyricmode {
+  A -- min!
 }

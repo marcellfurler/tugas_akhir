@@ -1,0 +1,8 @@
+#!D:\Materi\Semester 8\Skripsi2\tugas_akhir\backend\env-audio2\Scripts\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()

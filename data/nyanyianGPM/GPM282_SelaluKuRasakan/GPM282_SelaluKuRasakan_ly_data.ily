@@ -42,10 +42,10 @@ gpmduadelapandua_f_notes = {
      )
 
     
-    \partial 4 c'4 | a'4 a'4 bes'8 g'8 |f'4 f'4 a'4 | c''2 bes'4 |a'4 r4 \break
+    \partial 4 c'4 | a'4 a'4 bes'8 g'8 | f'4 f'4 a'4 | c''2 bes'4 | a'4 r4 \break
     c'4 | a'4 a'4 bes'8 g'8 | f'4 f'4 f'4 | g'2 a'4 | g'4 r4 \break
     a'4 | bes'4 bes'4 bes'8 a'8 | g'4 g'4 g'4 | a'4 a'4 g'4 | f'4 r4 \break
-    f'4 | g'4 g'4 g'8 f'8 | e'4 e'4 e'4 | e'4 d'4 e'4 |f'4 r4 \break
+    f'4 | g'4 g'4 g'8 f'8 | e'4 e'4 e'4 | e'4 d'4 e'4 | f'4 r4 \break
     a'4 | c''4 c''4 c''8 bes'8 | a'4 a'4 a'4 | a'4 g'4 f'4 | g'4 r4 \break 
     a'4 | bes'4 bes'4 bes'8 a'8 | g'4 g'4 g'4 | g'4 f'4 g'4 | a'4 r4 \break
     a'4 | c''4 c''4 c''8 bes'8 | a'4 a'4 a'4 | a'4 bes'4 c''4 | bes'4 r4 \break

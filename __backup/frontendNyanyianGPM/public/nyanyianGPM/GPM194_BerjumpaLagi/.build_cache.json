@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM194_BerjumpaLagi.ly": "8789c30973cd7528bf70da0c731c5c1a05b83022717ff3fe8ea9931afe854627",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM194_BerjumpaLagi_ly_data.ily": "43d9465970cd6cf96f4aa5871eb62b5888c51db7e84d954007e5c118440dffb6",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM194_BerjumpaLagi_ly_one_line.ly": "e14b223b67368940f3345b7b96dbf850d16b43fd109804f699e97bb21d46bfc0",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM194_BerjumpaLagi_ly_data.ily": "43d9465970cd6cf96f4aa5871eb62b5888c51db7e84d954007e5c118440dffb6",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM194_BerjumpaLagi.ly": "8789c30973cd7528bf70da0c731c5c1a05b83022717ff3fe8ea9931afe854627"
+  },
+  "events": {
+    "GPM194_BerjumpaLagi_ly_one_line.midi": "8575477016572ae950531e8279437cc8fe5b497bcb6931dc01d4f7fec6ebd324"
+  },
+  "filter_one_line": {
+    "GPM194_BerjumpaLagi_ly_one_line.svg": "f9ca06cfb693f96ea7bce885b898a3374f557684bef7ad63b075c51ac862febd"
+  },
+  "ties": {
+    "GPM194_BerjumpaLagi_ly_one_line_filtered.svg": "afe0e617d88b70964a8fac78c0d8db8fcbfe2d51b6abdf2b9e4780dc76b26161"
+  },
+  "noteheads": {
+    "GPM194_BerjumpaLagi_ly_one_line_filtered.svg": "afe0e617d88b70964a8fac78c0d8db8fcbfe2d51b6abdf2b9e4780dc76b26161"
+  },
+  "squash": {
+    "GPM194_BerjumpaLagi_note_heads.csv": "a25f95fd406538ba91ae8e85e3c06f122d6d59b71c2f21672d247e09a66aae5b",
+    "GPM194_BerjumpaLagi_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM194_BerjumpaLagi_note_heads_squashed.csv": "785fdb251edc7eb7866140270b2fbd345219b7e1613b6b0954940327fba42f85",
+    "GPM194_BerjumpaLagi_note_events.csv": "52080fd43db5b7ff0686e6197f21bf75b6aa31a27e648beeb52325f397260aca"
+  },
+  "svg": {
+    "GPM194_BerjumpaLagi.ly": "8789c30973cd7528bf70da0c731c5c1a05b83022717ff3fe8ea9931afe854627",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM194_BerjumpaLagi_ly_data.ily": "43d9465970cd6cf96f4aa5871eb62b5888c51db7e84d954007e5c118440dffb6",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "filter": {
+    "GPM194_BerjumpaLagi.svg": "af2dc65f9374d0fb9a7ddaa35923a3edd978fc0f817d8aa9dc0ee1885459b03c"
+  },
+  "swell": {
+    "GPM194_BerjumpaLagi_filtered.svg": "97d5775d824d94ca5dc49ae16d129aae41a9395803c3bf99a28a4c3304fa578a"
+  },
+  "optim": {
+    "GPM194_BerjumpaLagi_filtered_swellable.svg": "db52e9cfa9ecb733bc3e16f4cea4037cea75b26a41aa0279816b0358344ad6dc"
+  },
+  "sync": {
+    "GPM194_BerjumpaLagi_optimized.svg": "9d442cd9f506f5a0704011aea62028e21d4f7868004d07bec72ae56cd4ddeb7d",
+    "GPM194_BerjumpaLagi_json_notes.json": "96748212431fb460a380bfe5ad6d608ebb9fdadaa3f3fc8b3b60d5e5d18cd951",
+    "GPM194_BerjumpaLagi_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM194_BerjumpaLagi.config.yaml": "e3c67646f714393d086f1c439df9d430db0b2ea0f023f178dc9bc604bd1e769c"
+  }
+}
