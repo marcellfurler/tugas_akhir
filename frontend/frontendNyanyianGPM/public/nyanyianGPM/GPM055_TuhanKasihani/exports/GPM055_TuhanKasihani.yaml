@@ -1,0 +1,77 @@
+meta:
+  totalMeasures: 15
+  minTick: 0
+  maxTick: 21504
+  minMoment: 0
+  maxMoment: 15
+  musicStartSeconds: 0.0
+  channels:
+    0:
+      minPitch: 64
+      maxPitch: 70
+      count: 48
+
+flow:
+- [0, ~, 1, bar]
+- [384, 0, 576, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:7:8']]
+- [576, 0, 768, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:11:12']]
+- [768, 0, 1344, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:15:16']]
+- [1344, 0, 1536, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:20:21']]
+- [1433, ~, 2, bar]
+- [1536, 0, 1920, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:53:4:5']]
+- [1920, 0, 3072, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:53:8:9']]
+- [2867, ~, 3, bar]
+- [3456, 0, 3648, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:27:28']]
+- [3648, 0, 3840, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:33:34']]
+- [3840, 0, 4032, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:58:59']]
+- [4032, 0, 4416, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:66:67']]
+- [4300, ~, 4, bar]
+- [4416, 0, 4608, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:71:72']]
+- [4608, 0, 4992, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:55:4:5']]
+- [4992, 0, 5760, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:55:10:11']]
+- [5734, ~, 5, bar]
+- [5760, 0, 6144, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:55:14:15']]
+- [6144, 0, 6336, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:4:5']]
+- [6528, 0, 6720, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:11:12']]
+- [6720, 0, 6912, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:15:16']]
+- [6912, 0, 7488, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:19:20']]
+- [7168, ~, 6, bar]
+- [7488, 0, 7680, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:24:25']]
+- [7680, 0, 8064, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:24:25']]
+- [8064, 0, 8832, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:30:31']]
+- [8601, ~, 7, bar]
+- [8832, 0, 9024, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:55:56']]
+- [9024, 0, 9216, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:61:62']]
+- [9216, 0, 10752, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:58:4:5']]
+- [10035, ~, 8, bar]
+- [11136, 0, 11328, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:7:8']]
+- [11328, 0, 11520, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:11:12']]
+- [11468, ~, 9, bar]
+- [11520, 0, 12096, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:15:16']]
+- [12096, 0, 12288, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:20:21']]
+- [12288, 0, 12672, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:64:4:5']]
+- [12672, 0, 13824, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:64:8:9']]
+- [12902, ~, 10, bar]
+- [14208, 0, 14400, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:27:28']]
+- [14336, ~, 11, bar]
+- [14400, 0, 14592, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:33:34']]
+- [14592, 0, 14784, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:58:59']]
+- [14784, 0, 15168, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:66:67']]
+- [15168, 0, 15360, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:71:72']]
+- [15360, 0, 15744, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:66:4:5']]
+- [15744, 0, 16512, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:66:10:11']]
+- [15769, ~, 12, bar]
+- [16512, 0, 16896, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:66:14:15']]
+- [16896, 0, 17088, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:4:5']]
+- [17203, ~, 13, bar]
+- [17280, 0, 17472, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:11:12']]
+- [17472, 0, 17664, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:15:16']]
+- [17664, 0, 18240, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:19:20']]
+- [18240, 0, 18432, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:24:25']]
+- [18432, 0, 18816, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:24:25']]
+- [18636, ~, 14, bar]
+- [18816, 0, 19584, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:30:31']]
+- [19584, 0, 19776, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:55:56']]
+- [19776, 0, 19968, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:61:62']]
+- [19968, 0, 21504, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:69:4:5']]
+- [20070, ~, 15, bar]

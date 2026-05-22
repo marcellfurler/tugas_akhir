@@ -1,0 +1,772 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:1:2"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 72,
+    "channel": 0,
+    "x": 10.536,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:8:9"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 71,
+    "channel": 0,
+    "x": 12.965,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:13:14"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 72,
+    "channel": 0,
+    "x": 15.394,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:20:21"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 71,
+    "channel": 0,
+    "x": 17.823,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:25:26"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 72,
+    "channel": 0,
+    "x": 20.252,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:30:31"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 72,
+    "channel": 0,
+    "x": 23.882,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:44:37:38"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 71,
+    "channel": 0,
+    "x": 26.311,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:45:1:2"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 30.532,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:45:5:6"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 32.962,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:45:9:10"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 35.631,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:45:13:14"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2208,
+    "pitch": 67,
+    "channel": 0,
+    "x": 38.06,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:45:20:21"
+    ],
+    "on_tick": 2208,
+    "off_tick": 2304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 39.96,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:45:26:27"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 72,
+    "channel": 0,
+    "x": 41.86,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:1:2"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 50.371,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:5:6"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 52.8,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:9:10"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 55.478,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:13:14"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3744,
+    "pitch": 67,
+    "channel": 0,
+    "x": 58.369,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:20:21"
+    ],
+    "on_tick": 3744,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 60.98,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:26:27"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 72,
+    "channel": 0,
+    "x": 63.591,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:31:32"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 72,
+    "channel": 0,
+    "x": 67.25,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:46:36:37"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 72,
+    "channel": 0,
+    "x": 69.757,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:47:1:2"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 71,
+    "channel": 0,
+    "x": 73.948,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:47:5:6"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 77.752,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:47:9:10"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 71,
+    "channel": 0,
+    "x": 82.795,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:47:13:14"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 71,
+    "channel": 0,
+    "x": 88.008,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:47:17:18"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 72,
+    "channel": 0,
+    "x": 91.104,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:1:2"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 72,
+    "channel": 0,
+    "x": 99.615,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:8:9"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 71,
+    "channel": 0,
+    "x": 102.044,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:13:14"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 72,
+    "channel": 0,
+    "x": 104.473,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:20:21"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 106.902,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:25:26"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 72,
+    "channel": 0,
+    "x": 109.332,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:30:31"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 72,
+    "channel": 0,
+    "x": 112.961,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:48:37:38"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 71,
+    "channel": 0,
+    "x": 115.39,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:49:1:2"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 119.611,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:49:5:6"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 122.04,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:49:9:10"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 124.71,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:49:13:14"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8352,
+    "pitch": 67,
+    "channel": 0,
+    "x": 127.139,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 8352,
+    "off_tick": 8448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 129.039,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:49:26:27"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 72,
+    "channel": 0,
+    "x": 130.939,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:1:2"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 139.45,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:5:6"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 141.879,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:9:10"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 144.557,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:13:14"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9888,
+    "pitch": 67,
+    "channel": 0,
+    "x": 147.448,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:20:21"
+    ],
+    "on_tick": 9888,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 150.059,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:26:27"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 72,
+    "channel": 0,
+    "x": 152.67,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:31:32"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 72,
+    "channel": 0,
+    "x": 156.329,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:50:36:37"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 72,
+    "channel": 0,
+    "x": 158.836,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:51:1:2"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 71,
+    "channel": 0,
+    "x": 163.027,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:51:5:6"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 166.456,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:51:9:10"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 71,
+    "channel": 0,
+    "x": 171.823,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:51:13:14"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 71,
+    "channel": 0,
+    "x": 177.036,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:51:17:18"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12288,
+    "pitch": 72,
+    "channel": 0,
+    "x": 180.132,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:1:2"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 60,
+    "channel": 0,
+    "x": 188.643,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:5:6"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 62,
+    "channel": 0,
+    "x": 192.208,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:9:10"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 64,
+    "channel": 0,
+    "x": 196.67,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:13:14"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 60,
+    "channel": 0,
+    "x": 199.211,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:17:18"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 65,
+    "channel": 0,
+    "x": 201.641,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:21:22"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 64,
+    "channel": 0,
+    "x": 204.199,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:52:25:26"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 62,
+    "channel": 0,
+    "x": 206.646,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:53:1:2"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14976,
+    "pitch": 64,
+    "channel": 0,
+    "x": 212.037,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:1:2"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 60,
+    "channel": 0,
+    "x": 226.947,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:5:6"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 62,
+    "channel": 0,
+    "x": 230.513,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:9:10"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 64,
+    "channel": 0,
+    "x": 234.974,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:13:14"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 60,
+    "channel": 0,
+    "x": 237.516,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:17:18"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 65,
+    "channel": 0,
+    "x": 239.945,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:21:22"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 64,
+    "channel": 0,
+    "x": 242.503,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:54:25:26"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 62,
+    "channel": 0,
+    "x": 244.95,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:55:1:2"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17280,
+    "pitch": 60,
+    "channel": 0,
+    "x": 250.341,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:55:5:6"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 72,
+    "channel": 0,
+    "x": 254.257,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM034_PujiTuhan/GPM034_PujiTuhan_ly_data.ily:55:10:11"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 72,
+    "channel": 0,
+    "x": 257.886,
+    "y": 12.736
+  }
+]

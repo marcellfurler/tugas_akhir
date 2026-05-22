@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM162_YesusKristusAdalahTuhan.ly": "ad3ce12787477de71e288c21d54b6b4381dfd7628e1e1f8492ecaa6584b43353",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM162_YesusKristusAdalahTuhan_ly_data.ily": "fa2669d691aa3b9b80f9f5da65cef9476a982f05d37592ac49619c93b10cde9a"
+  },
+  "svg_one_line": {
+    "GPM162_YesusKristusAdalahTuhan_ly_one_line.ly": "2d94be90b4b507088111e5eb48b132b5691585ca823b5501883795a63a18dc0c",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM162_YesusKristusAdalahTuhan_ly_data.ily": "fa2669d691aa3b9b80f9f5da65cef9476a982f05d37592ac49619c93b10cde9a",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM162_YesusKristusAdalahTuhan.ly": "ad3ce12787477de71e288c21d54b6b4381dfd7628e1e1f8492ecaa6584b43353",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "events": {
+    "GPM162_YesusKristusAdalahTuhan_ly_one_line.midi": "782455f84ed6c8d503e649f2dc1c224fe69239b16774b522283d51b2d876551e"
+  },
+  "filter_one_line": {
+    "GPM162_YesusKristusAdalahTuhan_ly_one_line.svg": "46bdab14fa1882e83c7f3b19bd6fa03015ba7c36536215d2cf068b41a8c65ba7"
+  },
+  "ties": {
+    "GPM162_YesusKristusAdalahTuhan_ly_one_line_filtered.svg": "66aa6e409f3f165c39716e1a23e47cc70bca4aba592ca0f0f887ca5932c012b1"
+  },
+  "noteheads": {
+    "GPM162_YesusKristusAdalahTuhan_ly_one_line_filtered.svg": "66aa6e409f3f165c39716e1a23e47cc70bca4aba592ca0f0f887ca5932c012b1"
+  },
+  "squash": {
+    "GPM162_YesusKristusAdalahTuhan_note_heads.csv": "17e5ba50529d52d34079adf7aa8a8cc5bc0eed22ade096ec142d187a1fc107a4",
+    "GPM162_YesusKristusAdalahTuhan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM162_YesusKristusAdalahTuhan_note_heads_squashed.csv": "7761ec0fdc7f96b945306600c0245a04f228b48aa94fb2c13cd507cd9bebd645",
+    "GPM162_YesusKristusAdalahTuhan_note_events.csv": "92e858e5bd8b8d036acf338cbfae84db653a95fa61387e263e862b60160237d4"
+  },
+  "svg": {
+    "GPM162_YesusKristusAdalahTuhan.ly": "ad3ce12787477de71e288c21d54b6b4381dfd7628e1e1f8492ecaa6584b43353",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM162_YesusKristusAdalahTuhan_ly_data.ily": "fa2669d691aa3b9b80f9f5da65cef9476a982f05d37592ac49619c93b10cde9a",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "filter": {
+    "GPM162_YesusKristusAdalahTuhan.svg": "1cd7ea2ae55e8045cf9bc0efcb05d2ac9f4a12dd39f32a6d548af6ca5a53ba28"
+  },
+  "swell": {
+    "GPM162_YesusKristusAdalahTuhan_filtered.svg": "a2393b61858295ded4156b672a29ef184f7352651bd3a3cf7b59a638d83f47cd"
+  },
+  "optim": {
+    "GPM162_YesusKristusAdalahTuhan_filtered_swellable.svg": "1c004e1dfbce6970439bea9c46abab5c0e766f2ee4235c56138eefd94d223988"
+  },
+  "sync": {
+    "GPM162_YesusKristusAdalahTuhan_optimized.svg": "e2a639d6607301740dbcaeed4ee9a15493f3e9b90fb0bfdf418f2a39a0d804e4",
+    "GPM162_YesusKristusAdalahTuhan_json_notes.json": "05b0ebfb1c671a54cf52e5dab43b5d66de83b200581297396e9dbdae6e95470e",
+    "GPM162_YesusKristusAdalahTuhan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM162_YesusKristusAdalahTuhan.config.yaml": "e52601c77bb50e9ce3e02d97f36bae725417a020e5e5824445fa737cfa214fa8"
+  }
+}

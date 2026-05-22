@@ -1,0 +1,838 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 66,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 66,
+    "channel": 0,
+    "x": 14.784,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:16:17"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 66,
+    "channel": 0,
+    "x": 19.144,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:22:23"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 23.238,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:26:27"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 66,
+    "channel": 0,
+    "x": 28.127,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:32:33"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 32.358,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:36:37"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 62,
+    "channel": 0,
+    "x": 37.366,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:40:41"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 41.666,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:46:47"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 66,
+    "channel": 0,
+    "x": 47.016,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:52:53"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 64,
+    "channel": 0,
+    "x": 51.204,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:48:56:57"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 62,
+    "channel": 0,
+    "x": 54.834,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 64,
+    "channel": 0,
+    "x": 63.345,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 64,
+    "channel": 0,
+    "x": 66.825,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:12:13"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 64,
+    "channel": 0,
+    "x": 71.355,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:16:17"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 62,
+    "channel": 0,
+    "x": 75.817,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 64,
+    "channel": 0,
+    "x": 79.024,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:24:25"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 66,
+    "channel": 0,
+    "x": 81.668,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:30:31"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 84.832,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:34:35"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 66,
+    "channel": 0,
+    "x": 87.715,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:49:42:43"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5760,
+    "pitch": 64,
+    "channel": 0,
+    "x": 91.906,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 66,
+    "channel": 0,
+    "x": 106.816,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:10:11"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 110.399,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:16:17"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 114.092,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:22:23"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 118.187,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:26:27"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 66,
+    "channel": 0,
+    "x": 123.392,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:32:33"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 127.358,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:36:37"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 62,
+    "channel": 0,
+    "x": 129.831,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:40:41"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 132.637,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:46:47"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 66,
+    "channel": 0,
+    "x": 136.828,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:52:53"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8448,
+    "pitch": 64,
+    "channel": 0,
+    "x": 140.457,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:50:56:57"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 62,
+    "channel": 0,
+    "x": 144.086,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 64,
+    "channel": 0,
+    "x": 152.597,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 64,
+    "channel": 0,
+    "x": 156.026,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:12:13"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 64,
+    "channel": 0,
+    "x": 160.155,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:16:17"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 164.412,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:22:23"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 167.346,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:26:27"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 169.776,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:32:33"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 64,
+    "channel": 0,
+    "x": 172.471,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:36:37"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 66,
+    "channel": 0,
+    "x": 175.183,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:51:44:45"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11904,
+    "pitch": 62,
+    "channel": 0,
+    "x": 179.374,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 71,
+    "channel": 0,
+    "x": 194.285,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:8:9"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 71,
+    "channel": 0,
+    "x": 198.533,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:12:13"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 71,
+    "channel": 0,
+    "x": 202.892,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 71,
+    "channel": 0,
+    "x": 206.987,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:20:21"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 67,
+    "channel": 0,
+    "x": 211.876,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:24:25"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 67,
+    "channel": 0,
+    "x": 215.766,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:28:29"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 69,
+    "channel": 0,
+    "x": 221.132,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:32:33"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 71,
+    "channel": 0,
+    "x": 224.928,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:52:38:39"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14976,
+    "pitch": 69,
+    "channel": 0,
+    "x": 229.119,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 67,
+    "channel": 0,
+    "x": 244.029,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:8:9"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 67,
+    "channel": 0,
+    "x": 247.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:12:13"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 67,
+    "channel": 0,
+    "x": 250.179,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:16:17"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 252.608,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:20:21"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 67,
+    "channel": 0,
+    "x": 255.072,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:24:25"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 258.365,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:28:29"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 261.785,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:32:33"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 71,
+    "channel": 0,
+    "x": 264.779,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:53:38:39"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18048,
+    "pitch": 73,
+    "channel": 0,
+    "x": 268.969,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 74,
+    "channel": 0,
+    "x": 283.88,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:9:10"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 74,
+    "channel": 0,
+    "x": 288.128,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:14:15"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 74,
+    "channel": 0,
+    "x": 292.487,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:19:20"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 74,
+    "channel": 0,
+    "x": 296.582,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:24:25"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 74,
+    "channel": 0,
+    "x": 301.786,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:29:30"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 74,
+    "channel": 0,
+    "x": 305.634,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:34:35"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 73,
+    "channel": 0,
+    "x": 308.26,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:41:42"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 71,
+    "channel": 0,
+    "x": 312.466,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:54:47:48"
+    ],
+    "on_tick": 19968,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 316.657,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 67,
+    "channel": 0,
+    "x": 331.567,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:8:9"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 67,
+    "channel": 0,
+    "x": 334.501,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:12:13"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 336.965,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:16:17"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 67,
+    "channel": 0,
+    "x": 340.394,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:20:21"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 66,
+    "channel": 0,
+    "x": 344.523,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:26:27"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 66,
+    "channel": 0,
+    "x": 348.183,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:32:33"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 64,
+    "channel": 0,
+    "x": 351.082,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:36:37"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 64,
+    "channel": 0,
+    "x": 353.675,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM287_PegangTanganTuhan/GPM287_PegangTanganTuhan_ly_data.ily:55:42:43"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 357.866,
+    "y": 15.289
+  }
+]

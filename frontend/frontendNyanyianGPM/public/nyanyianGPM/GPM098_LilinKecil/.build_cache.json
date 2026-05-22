@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM098_LilinKecil.ly": "d7d332c0f00ae920670e1e5d9bacbdefa0db7271d5c9b39a7ff60381bdbb7b00",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM098_LilinKecil_ly_data.ily": "3572d0761fe3cb906d83b3a97c6b3003ed0867772f7e792d7f717d15ed1e836d",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM098_LilinKecil_ly_one_line.ly": "d8e84fa78681b412dd0da1489d70bbbd675b1d42d4ffd05abdeaf7abb3db2501",
+    "GPM098_LilinKecil.ly": "d7d332c0f00ae920670e1e5d9bacbdefa0db7271d5c9b39a7ff60381bdbb7b00",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM098_LilinKecil_ly_data.ily": "3572d0761fe3cb906d83b3a97c6b3003ed0867772f7e792d7f717d15ed1e836d"
+  },
+  "events": {
+    "GPM098_LilinKecil_ly_one_line.midi": "03c5be025afd55ca68ad6adf7b469a406cd14ba3753dc28bae8740733b447910"
+  },
+  "filter_one_line": {
+    "GPM098_LilinKecil_ly_one_line.svg": "1cf314710d82238f8f7a534d336d62b0b9bddbdff8c19cee63f88b742e1dd0a4"
+  },
+  "ties": {
+    "GPM098_LilinKecil_ly_one_line_filtered.svg": "c780ad45aa9be2a741490ba685b874f5969b76e991f67e1b26bf66c67762f2de"
+  },
+  "noteheads": {
+    "GPM098_LilinKecil_ly_one_line_filtered.svg": "c780ad45aa9be2a741490ba685b874f5969b76e991f67e1b26bf66c67762f2de"
+  },
+  "squash": {
+    "GPM098_LilinKecil_note_heads.csv": "dab45623a2583f4970cb177b40d0cc3f41e1722c25ad35e107af24929493d5a5",
+    "GPM098_LilinKecil_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM098_LilinKecil_note_heads_squashed.csv": "b420c01c9f21a7c5e81d7b1568825dc775deb3f78185d1313a9928b32310069f",
+    "GPM098_LilinKecil_note_events.csv": "c251ba926396bf0022c5ce225ed237330df0c9f870917c049c99afe164295e4c"
+  },
+  "svg": {
+    "GPM098_LilinKecil.ly": "d7d332c0f00ae920670e1e5d9bacbdefa0db7271d5c9b39a7ff60381bdbb7b00",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM098_LilinKecil_ly_data.ily": "3572d0761fe3cb906d83b3a97c6b3003ed0867772f7e792d7f717d15ed1e836d"
+  },
+  "filter": {
+    "GPM098_LilinKecil.svg": "78cc4c6e122870cc72de9785337d07a64cf10055b778bb196dbfd4eedd32d64f"
+  },
+  "swell": {
+    "GPM098_LilinKecil_filtered.svg": "87758f4a8e69e4b27230530e4d5d872f77fccb771744f19b068f1f374dacf6cf"
+  },
+  "optim": {
+    "GPM098_LilinKecil_filtered_swellable.svg": "7bf355a8ee671b0eb9d49b0f76c7f3c6826cf3a3a534e8cbc5fe87bc78b87757"
+  },
+  "sync": {
+    "GPM098_LilinKecil_optimized.svg": "3f069a9bde74ff834217d88a6b356d0cdf5720f373cd490aa83fe056e934dba4",
+    "GPM098_LilinKecil_json_notes.json": "5cbdf2a9f987d4965c2b6c62a7d22e1221a40a664c0df59510b6fb3cfe58103f",
+    "GPM098_LilinKecil_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM098_LilinKecil.config.yaml": "d94bd28d8e353327b420bcccefce8dd716ec787b05e5cfdce90cf704078f7999"
+  }
+}

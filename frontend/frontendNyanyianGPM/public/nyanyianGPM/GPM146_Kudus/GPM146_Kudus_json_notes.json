@@ -1,0 +1,1388 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:18:19"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 67,
+    "channel": 0,
+    "x": 12.736,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:24:25"
+    ],
+    "on_tick": 384,
+    "off_tick": 960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 16.926,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:29:30"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 67,
+    "channel": 0,
+    "x": 22.993,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:35:36"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1728,
+    "pitch": 67,
+    "channel": 0,
+    "x": 27.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:40:41"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 72,
+    "channel": 0,
+    "x": 33.25,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:47:48"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 37.441,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:51:52"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 65,
+    "channel": 0,
+    "x": 41.399,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:55:56"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2496,
+    "pitch": 67,
+    "channel": 0,
+    "x": 45.758,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:59:60"
+    ],
+    "on_tick": 2496,
+    "off_tick": 2688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 48.982,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:65:66"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 53.173,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:48:69:70"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 67,
+    "channel": 0,
+    "x": 57.063,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:7:8"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 64,
+    "channel": 0,
+    "x": 62.43,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:13:14"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 66.755,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:17:18"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 67,
+    "channel": 0,
+    "x": 70.525,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:26:27"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 77.994,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:30:31"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4800,
+    "pitch": 67,
+    "channel": 0,
+    "x": 80.424,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:34:35"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 86.507,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:40:41"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 65,
+    "channel": 0,
+    "x": 90.698,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:44:45"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 65,
+    "channel": 0,
+    "x": 93.461,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:48:49"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5568,
+    "pitch": 65,
+    "channel": 0,
+    "x": 96.275,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:52:53"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5760,
+    "pitch": 65,
+    "channel": 0,
+    "x": 99.039,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:49:58:59"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6528,
+    "pitch": 67,
+    "channel": 0,
+    "x": 103.229,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 65,
+    "channel": 0,
+    "x": 111.74,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 65,
+    "channel": 0,
+    "x": 115.101,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:12:13"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 65,
+    "channel": 0,
+    "x": 118.538,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:16:17"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 65,
+    "channel": 0,
+    "x": 121.046,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:22:23"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 125.236,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:26:27"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 69,
+    "channel": 0,
+    "x": 127.665,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:30:31"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 131.094,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:36:37"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 64,
+    "channel": 0,
+    "x": 136.485,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:40:41"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 64,
+    "channel": 0,
+    "x": 138.914,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:44:45"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8640,
+    "pitch": 64,
+    "channel": 0,
+    "x": 142.958,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:48:49"
+    ],
+    "on_tick": 8640,
+    "off_tick": 8832,
+    "pitch": 64,
+    "channel": 0,
+    "x": 147.351,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:54:55"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9024,
+    "pitch": 67,
+    "channel": 0,
+    "x": 151.542,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:58:59"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 67,
+    "channel": 0,
+    "x": 156.294,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:50:62:63"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 67,
+    "channel": 0,
+    "x": 160.03,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9984,
+    "pitch": 67,
+    "channel": 0,
+    "x": 165.421,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:51:8:9"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 169.05,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:51:12:13"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 171.864,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:51:18:19"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 176.055,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:51:24:25"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 62,
+    "channel": 0,
+    "x": 179.684,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:51:31:32"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 60,
+    "channel": 0,
+    "x": 185.074,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:18:19"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 67,
+    "channel": 0,
+    "x": 196.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:24:25"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12864,
+    "pitch": 67,
+    "channel": 0,
+    "x": 200.624,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:29:30"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 67,
+    "channel": 0,
+    "x": 206.174,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:35:36"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13632,
+    "pitch": 67,
+    "channel": 0,
+    "x": 210.364,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:40:41"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 72,
+    "channel": 0,
+    "x": 217.882,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:47:48"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 69,
+    "channel": 0,
+    "x": 222.073,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:51:52"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 65,
+    "channel": 0,
+    "x": 225.143,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:55:56"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 67,
+    "channel": 0,
+    "x": 227.83,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:59:60"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 230.354,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:65:66"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 69,
+    "channel": 0,
+    "x": 234.544,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:56:69:70"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14976,
+    "pitch": 67,
+    "channel": 0,
+    "x": 238.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:7:8"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 64,
+    "channel": 0,
+    "x": 243.203,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:13:14"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 67,
+    "channel": 0,
+    "x": 247.394,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:17:18"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 67,
+    "channel": 0,
+    "x": 250.157,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:26:27"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 67,
+    "channel": 0,
+    "x": 257.626,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:30:31"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 261.072,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:34:35"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 266.61,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:40:41"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 65,
+    "channel": 0,
+    "x": 270.824,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:44:45"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 65,
+    "channel": 0,
+    "x": 275.252,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:48:49"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 65,
+    "channel": 0,
+    "x": 277.681,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:52:53"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 65,
+    "channel": 0,
+    "x": 280.29,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:57:58:59"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 67,
+    "channel": 0,
+    "x": 284.481,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 65,
+    "channel": 0,
+    "x": 292.992,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:8:9"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 65,
+    "channel": 0,
+    "x": 296.284,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:12:13"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 65,
+    "channel": 0,
+    "x": 299.756,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 65,
+    "channel": 0,
+    "x": 302.639,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:22:23"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 69,
+    "channel": 0,
+    "x": 306.829,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:26:27"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 311.129,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:30:31"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 69,
+    "channel": 0,
+    "x": 315.719,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:36:37"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 64,
+    "channel": 0,
+    "x": 321.11,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:40:41"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 64,
+    "channel": 0,
+    "x": 324.043,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:44:45"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 64,
+    "channel": 0,
+    "x": 326.474,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:48:49"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 64,
+    "channel": 0,
+    "x": 328.903,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:54:55"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 67,
+    "channel": 0,
+    "x": 333.093,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:58:59"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 67,
+    "channel": 0,
+    "x": 336.488,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:58:62:63"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 67,
+    "channel": 0,
+    "x": 341.317,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 67,
+    "channel": 0,
+    "x": 346.708,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 350.337,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 353.151,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:59:18:19"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 64,
+    "channel": 0,
+    "x": 357.342,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:59:24:25"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 62,
+    "channel": 0,
+    "x": 360.971,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:59:31:32"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 60,
+    "channel": 0,
+    "x": 366.362,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:18:19"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 67,
+    "channel": 0,
+    "x": 377.721,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:24:25"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 381.911,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:29:30"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 387.461,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:35:36"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 391.652,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:40:41"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 72,
+    "channel": 0,
+    "x": 397.718,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:47:48"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 401.909,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:51:52"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 65,
+    "channel": 0,
+    "x": 405.867,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:55:56"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 67,
+    "channel": 0,
+    "x": 408.895,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:59:60"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 411.965,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:65:66"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 416.156,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:64:69:70"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 419.363,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:7:8"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 64,
+    "channel": 0,
+    "x": 423.992,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:13:14"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 67,
+    "channel": 0,
+    "x": 428.183,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:17:18"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 431.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:26:27"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 438.671,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:30:31"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 441.1,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:34:35"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 67,
+    "channel": 0,
+    "x": 446.023,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:40:41"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 65,
+    "channel": 0,
+    "x": 450.214,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:44:45"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 65,
+    "channel": 0,
+    "x": 454.547,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:48:49"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29376,
+    "pitch": 65,
+    "channel": 0,
+    "x": 457.729,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:52:53"
+    ],
+    "on_tick": 29376,
+    "off_tick": 29568,
+    "pitch": 65,
+    "channel": 0,
+    "x": 460.799,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:65:58:59"
+    ],
+    "on_tick": 29568,
+    "off_tick": 30336,
+    "pitch": 67,
+    "channel": 0,
+    "x": 464.99,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:4:5"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 65,
+    "channel": 0,
+    "x": 473.501,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:8:9"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 65,
+    "channel": 0,
+    "x": 476.623,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:12:13"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 65,
+    "channel": 0,
+    "x": 480.282,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:16:17"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 65,
+    "channel": 0,
+    "x": 482.711,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:22:23"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 486.902,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:26:27"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 489.545,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:30:31"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 492.667,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:36:37"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 64,
+    "channel": 0,
+    "x": 498.058,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:40:41"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 64,
+    "channel": 0,
+    "x": 501.623,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:44:45"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 64,
+    "channel": 0,
+    "x": 505.18,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:48:49"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 64,
+    "channel": 0,
+    "x": 508.609,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:54:55"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 513.976,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:58:59"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 67,
+    "channel": 0,
+    "x": 518.489,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:66:62:63"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 67,
+    "channel": 0,
+    "x": 522.054,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:67:4:5"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33792,
+    "pitch": 67,
+    "channel": 0,
+    "x": 527.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:67:8:9"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 531.074,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:67:12:13"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 533.889,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:67:18:19"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34560,
+    "pitch": 64,
+    "channel": 0,
+    "x": 538.079,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:67:24:25"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34944,
+    "pitch": 62,
+    "channel": 0,
+    "x": 541.708,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM146_Kudus/GPM146_Kudus_ly_data.ily:67:31:32"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35328,
+    "pitch": 60,
+    "channel": 0,
+    "x": 547.099,
+    "y": 15.289
+  }
+]

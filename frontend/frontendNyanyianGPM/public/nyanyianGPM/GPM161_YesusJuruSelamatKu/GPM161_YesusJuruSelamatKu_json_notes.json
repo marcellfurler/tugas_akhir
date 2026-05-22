@@ -1,0 +1,1190 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 66,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:8:9"
+    ],
+    "on_tick": 192,
+    "off_tick": 576,
+    "pitch": 66,
+    "channel": 0,
+    "x": 12.965,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:14:15"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 62,
+    "channel": 0,
+    "x": 17.666,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:18:19"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 61,
+    "channel": 0,
+    "x": 20.19,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:24:25"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 23.132,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:28:29"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 64,
+    "channel": 0,
+    "x": 25.562,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:32:33"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 66,
+    "channel": 0,
+    "x": 28.956,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:47:40:41"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2688,
+    "pitch": 62,
+    "channel": 0,
+    "x": 33.148,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:2:3"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 48.058,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:6:7"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 50.487,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 66,
+    "channel": 0,
+    "x": 55.188,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:16:17"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 64,
+    "channel": 0,
+    "x": 57.712,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:20:21"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 66,
+    "channel": 0,
+    "x": 60.655,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:26:27"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 63.084,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:30:31"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 69,
+    "channel": 0,
+    "x": 66.479,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:48:36:37"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5760,
+    "pitch": 66,
+    "channel": 0,
+    "x": 70.67,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 71,
+    "channel": 0,
+    "x": 85.58,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:6:7"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6720,
+    "pitch": 71,
+    "channel": 0,
+    "x": 88.009,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 92.71,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:14:15"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 69,
+    "channel": 0,
+    "x": 95.234,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:18:19"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 98.177,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:22:23"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 100.606,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:26:27"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 104.001,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:32:33"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 66,
+    "channel": 0,
+    "x": 108.191,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:38:39"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 66,
+    "channel": 0,
+    "x": 110.62,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:44:45"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 113.409,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:48:49"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 116.531,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:49:52:53"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 119.499,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 66,
+    "channel": 0,
+    "x": 128.168,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9792,
+    "pitch": 66,
+    "channel": 0,
+    "x": 130.597,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:14:15"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 62,
+    "channel": 0,
+    "x": 135.298,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:18:19"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 61,
+    "channel": 0,
+    "x": 137.822,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:24:25"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 62,
+    "channel": 0,
+    "x": 140.765,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:28:29"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 64,
+    "channel": 0,
+    "x": 143.194,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:32:33"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 61,
+    "channel": 0,
+    "x": 146.589,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:50:40:41"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11904,
+    "pitch": 62,
+    "channel": 0,
+    "x": 150.795,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 66,
+    "channel": 0,
+    "x": 166.195,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:8:9"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12864,
+    "pitch": 66,
+    "channel": 0,
+    "x": 168.624,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:14:15"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 62,
+    "channel": 0,
+    "x": 173.65,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:18:19"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 61,
+    "channel": 0,
+    "x": 176.498,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:24:25"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 62,
+    "channel": 0,
+    "x": 179.295,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:28:29"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 64,
+    "channel": 0,
+    "x": 182.494,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:32:33"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 66,
+    "channel": 0,
+    "x": 185.018,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:55:40:41"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14976,
+    "pitch": 62,
+    "channel": 0,
+    "x": 189.209,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:2:3"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 69,
+    "channel": 0,
+    "x": 204.12,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:6:7"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 206.549,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:10:11"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 66,
+    "channel": 0,
+    "x": 211.574,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:16:17"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 64,
+    "channel": 0,
+    "x": 214.422,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:20:21"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 66,
+    "channel": 0,
+    "x": 217.22,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:26:27"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 220.418,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:30:31"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 69,
+    "channel": 0,
+    "x": 222.942,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:56:36:37"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18048,
+    "pitch": 66,
+    "channel": 0,
+    "x": 227.134,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 71,
+    "channel": 0,
+    "x": 242.044,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:6:7"
+    ],
+    "on_tick": 18624,
+    "off_tick": 19008,
+    "pitch": 71,
+    "channel": 0,
+    "x": 244.473,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:10:11"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 249.498,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:14:15"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 69,
+    "channel": 0,
+    "x": 252.347,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:18:19"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 255.144,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:22:23"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 69,
+    "channel": 0,
+    "x": 258.343,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:26:27"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 67,
+    "channel": 0,
+    "x": 260.867,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:32:33"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 66,
+    "channel": 0,
+    "x": 265.058,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:38:39"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 66,
+    "channel": 0,
+    "x": 267.487,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:44:45"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 67,
+    "channel": 0,
+    "x": 270.276,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:48:49"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 273.397,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:57:52:53"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 67,
+    "channel": 0,
+    "x": 276.365,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 66,
+    "channel": 0,
+    "x": 285.034,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:8:9"
+    ],
+    "on_tick": 21696,
+    "off_tick": 22080,
+    "pitch": 66,
+    "channel": 0,
+    "x": 287.464,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:14:15"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 62,
+    "channel": 0,
+    "x": 292.489,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:18:19"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 61,
+    "channel": 0,
+    "x": 295.337,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:24:25"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 62,
+    "channel": 0,
+    "x": 298.135,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:28:29"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 64,
+    "channel": 0,
+    "x": 301.333,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:32:33"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 61,
+    "channel": 0,
+    "x": 303.857,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:58:40:41"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 308.063,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:2:3"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 323.464,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:8:9"
+    ],
+    "on_tick": 24768,
+    "off_tick": 25152,
+    "pitch": 66,
+    "channel": 0,
+    "x": 325.893,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:14:15"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 62,
+    "channel": 0,
+    "x": 330.816,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:18:19"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 61,
+    "channel": 0,
+    "x": 333.784,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:24:25"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 62,
+    "channel": 0,
+    "x": 338.305,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:28:29"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 64,
+    "channel": 0,
+    "x": 342.784,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:32:33"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 346.213,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:63:40:41"
+    ],
+    "on_tick": 26112,
+    "off_tick": 27264,
+    "pitch": 62,
+    "channel": 0,
+    "x": 350.404,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:2:3"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 365.314,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:6:7"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 367.744,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:10:11"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 66,
+    "channel": 0,
+    "x": 372.666,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:16:17"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 64,
+    "channel": 0,
+    "x": 375.634,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:20:21"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 66,
+    "channel": 0,
+    "x": 380.156,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:26:27"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 384.635,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:30:31"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 388.064,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:64:36:37"
+    ],
+    "on_tick": 29184,
+    "off_tick": 30336,
+    "pitch": 66,
+    "channel": 0,
+    "x": 392.255,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:2:3"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 407.166,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:6:7"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31296,
+    "pitch": 71,
+    "channel": 0,
+    "x": 409.595,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:10:11"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 71,
+    "channel": 0,
+    "x": 414.517,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:14:15"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31680,
+    "pitch": 69,
+    "channel": 0,
+    "x": 417.485,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:18:19"
+    ],
+    "on_tick": 31680,
+    "off_tick": 31872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 422.007,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:22:23"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 426.486,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:26:27"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 429.915,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:32:33"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 66,
+    "channel": 0,
+    "x": 434.106,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:38:39"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 66,
+    "channel": 0,
+    "x": 436.535,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:44:45"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 439.323,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:48:49"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 69,
+    "channel": 0,
+    "x": 442.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:65:52:53"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 67,
+    "channel": 0,
+    "x": 445.413,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:2:3"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 454.082,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:8:9"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 456.512,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:14:15"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 62,
+    "channel": 0,
+    "x": 461.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:18:19"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34752,
+    "pitch": 61,
+    "channel": 0,
+    "x": 464.402,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:24:25"
+    ],
+    "on_tick": 34752,
+    "off_tick": 34944,
+    "pitch": 62,
+    "channel": 0,
+    "x": 468.924,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:28:29"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 64,
+    "channel": 0,
+    "x": 473.403,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:32:33"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 61,
+    "channel": 0,
+    "x": 476.832,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM161_YesusJuruSelamatKu/GPM161_YesusJuruSelamatKu_ly_data.ily:66:40:41"
+    ],
+    "on_tick": 35328,
+    "off_tick": 36480,
+    "pitch": 62,
+    "channel": 0,
+    "x": 481.038,
+    "y": 15.289
+  }
+]

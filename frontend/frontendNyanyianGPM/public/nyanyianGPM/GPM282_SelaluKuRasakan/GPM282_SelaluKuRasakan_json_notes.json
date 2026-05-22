@@ -1,0 +1,992 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:15:16"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 60,
+    "channel": 0,
+    "x": 10.536,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:21:22"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 69,
+    "channel": 0,
+    "x": 15.224,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:25:26"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 69,
+    "channel": 0,
+    "x": 18.152,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:29:30"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 70,
+    "channel": 0,
+    "x": 21.231,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:35:36"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 24.045,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:41:42"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 65,
+    "channel": 0,
+    "x": 27.836,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:45:46"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 65,
+    "channel": 0,
+    "x": 31.35,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:49:50"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 35.01,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:55:56"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3456,
+    "pitch": 72,
+    "channel": 0,
+    "x": 39.698,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:60:61"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3840,
+    "pitch": 70,
+    "channel": 0,
+    "x": 45.671,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:45:68:69"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 50.359,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 60,
+    "channel": 0,
+    "x": 55.935,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:10:11"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 69,
+    "channel": 0,
+    "x": 60.623,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:14:15"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 69,
+    "channel": 0,
+    "x": 63.55,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:18:19"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5952,
+    "pitch": 70,
+    "channel": 0,
+    "x": 66.63,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:24:25"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6144,
+    "pitch": 67,
+    "channel": 0,
+    "x": 69.444,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:30:31"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 65,
+    "channel": 0,
+    "x": 73.234,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:34:35"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 65,
+    "channel": 0,
+    "x": 76.749,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:38:39"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 65,
+    "channel": 0,
+    "x": 80.784,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:44:45"
+    ],
+    "on_tick": 7296,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 85.472,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:48:49"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 90.818,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:46:54:55"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 95.507,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 101.082,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:10:11"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9984,
+    "pitch": 70,
+    "channel": 0,
+    "x": 105.771,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:16:17"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 70,
+    "channel": 0,
+    "x": 109.661,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:22:23"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 70,
+    "channel": 0,
+    "x": 115.215,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:28:29"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 69,
+    "channel": 0,
+    "x": 119.574,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:34:35"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 67,
+    "channel": 0,
+    "x": 123.366,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:38:39"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 67,
+    "channel": 0,
+    "x": 126.293,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:42:43"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 130.362,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:48:49"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12288,
+    "pitch": 69,
+    "channel": 0,
+    "x": 135.051,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:52:53"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 138.275,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:56:57"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 67,
+    "channel": 0,
+    "x": 142.139,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:47:62:63"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 65,
+    "channel": 0,
+    "x": 146.828,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:4:5"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14208,
+    "pitch": 65,
+    "channel": 0,
+    "x": 152.403,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 67,
+    "channel": 0,
+    "x": 157.092,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:14:15"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 67,
+    "channel": 0,
+    "x": 160.019,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:18:19"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15168,
+    "pitch": 67,
+    "channel": 0,
+    "x": 162.946,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:22:23"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 65,
+    "channel": 0,
+    "x": 165.701,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:28:29"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 64,
+    "channel": 0,
+    "x": 169.492,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:32:33"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 64,
+    "channel": 0,
+    "x": 172.419,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:36:37"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 64,
+    "channel": 0,
+    "x": 176.146,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:42:43"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 64,
+    "channel": 0,
+    "x": 180.835,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:46:47"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17280,
+    "pitch": 62,
+    "channel": 0,
+    "x": 185.297,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:50:51"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 188.658,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:48:56:57"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 65,
+    "channel": 0,
+    "x": 193.346,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 69,
+    "channel": 0,
+    "x": 198.922,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 72,
+    "channel": 0,
+    "x": 203.61,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:15:16"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 72,
+    "channel": 0,
+    "x": 206.766,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 72,
+    "channel": 0,
+    "x": 211.842,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:25:26"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 70,
+    "channel": 0,
+    "x": 216.688,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:33:34"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 69,
+    "channel": 0,
+    "x": 221.133,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:37:38"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 225.518,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:41:42"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 230.902,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:47:48"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 235.59,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:51:52"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 67,
+    "channel": 0,
+    "x": 238.763,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:55:56"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 65,
+    "channel": 0,
+    "x": 242.004,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:49:61:62"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 246.693,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 69,
+    "channel": 0,
+    "x": 252.268,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:10:11"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 70,
+    "channel": 0,
+    "x": 256.957,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:16:17"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24192,
+    "pitch": 70,
+    "channel": 0,
+    "x": 259.884,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:22:23"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 70,
+    "channel": 0,
+    "x": 264.278,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:28:29"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 69,
+    "channel": 0,
+    "x": 269.124,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:34:35"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 273.261,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:38:39"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 276.246,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:42:43"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 67,
+    "channel": 0,
+    "x": 280.537,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:48:49"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 67,
+    "channel": 0,
+    "x": 285.226,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:52:53"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26496,
+    "pitch": 65,
+    "channel": 0,
+    "x": 288.153,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:56:57"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 291.08,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:50:62:63"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 295.769,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 28032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 301.344,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:10:11"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28416,
+    "pitch": 72,
+    "channel": 0,
+    "x": 306.033,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:15:16"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28800,
+    "pitch": 72,
+    "channel": 0,
+    "x": 308.96,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:20:21"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 72,
+    "channel": 0,
+    "x": 311.887,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:25:26"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 70,
+    "channel": 0,
+    "x": 315.598,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:33:34"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 319.389,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:37:38"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29952,
+    "pitch": 69,
+    "channel": 0,
+    "x": 323.176,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:41:42"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30336,
+    "pitch": 69,
+    "channel": 0,
+    "x": 326.921,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:47:48"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30720,
+    "pitch": 69,
+    "channel": 0,
+    "x": 331.61,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:51:52"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31104,
+    "pitch": 70,
+    "channel": 0,
+    "x": 335.371,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:57:58"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31488,
+    "pitch": 72,
+    "channel": 0,
+    "x": 338.8,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:51:64:65"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 70,
+    "channel": 0,
+    "x": 343.489,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32640,
+    "pitch": 70,
+    "channel": 0,
+    "x": 349.064,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:12:13"
+    ],
+    "on_tick": 32640,
+    "off_tick": 33024,
+    "pitch": 69,
+    "channel": 0,
+    "x": 353.753,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 65,
+    "channel": 0,
+    "x": 357.455,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:20:21"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 361.61,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:26:27"
+    ],
+    "on_tick": 33792,
+    "off_tick": 34176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 366.298,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:30:31"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34560,
+    "pitch": 65,
+    "channel": 0,
+    "x": 370.034,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:34:35"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34944,
+    "pitch": 64,
+    "channel": 0,
+    "x": 373.685,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM282_SelaluKuRasakan/GPM282_SelaluKuRasakan_ly_data.ily:52:74:75"
+    ],
+    "on_tick": 34944,
+    "off_tick": 36480,
+    "pitch": 65,
+    "channel": 0,
+    "x": 378.374,
+    "y": 12.736
+  }
+]

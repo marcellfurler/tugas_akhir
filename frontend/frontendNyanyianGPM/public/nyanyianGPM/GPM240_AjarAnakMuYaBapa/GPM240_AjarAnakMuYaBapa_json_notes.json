@@ -1,0 +1,1762 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:15:16"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 55,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:18:19"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 55,
+    "channel": 0,
+    "x": 13.111,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:23:24"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 17.302,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:27:28"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 20.931,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:31:32"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1728,
+    "pitch": 65,
+    "channel": 0,
+    "x": 24.56,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:36:37"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 30.217,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:42:43"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 67,
+    "channel": 0,
+    "x": 34.408,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:56:46:47"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 67,
+    "channel": 0,
+    "x": 38.037,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 60,
+    "channel": 0,
+    "x": 44.786,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 60,
+    "channel": 0,
+    "x": 49.154,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:14:15"
+    ],
+    "on_tick": 3456,
+    "off_tick": 4032,
+    "pitch": 62,
+    "channel": 0,
+    "x": 53.345,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:19:20"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 64,
+    "channel": 0,
+    "x": 58.894,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:23:24"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 65,
+    "channel": 0,
+    "x": 63.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:27:28"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 67.579,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:31:32"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 62,
+    "channel": 0,
+    "x": 72.673,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:35:36"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 65,
+    "channel": 0,
+    "x": 77.698,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:41:42"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 65,
+    "channel": 0,
+    "x": 81.888,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:57:45:46"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 64,
+    "channel": 0,
+    "x": 85.518,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 55,
+    "channel": 0,
+    "x": 92.497,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:7:8"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 55,
+    "channel": 0,
+    "x": 95.379,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:32:33"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 99.57,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:38:39"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 101.999,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:62:63"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 104.754,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:66:67"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 65,
+    "channel": 0,
+    "x": 109.344,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:70:71"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 64,
+    "channel": 0,
+    "x": 113.456,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:74:75"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 65,
+    "channel": 0,
+    "x": 117.474,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:78:79"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 121.321,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:84:85"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8448,
+    "pitch": 67,
+    "channel": 0,
+    "x": 125.512,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:58:88:89"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 67,
+    "channel": 0,
+    "x": 129.141,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 64,
+    "channel": 0,
+    "x": 135.891,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 67,
+    "channel": 0,
+    "x": 140.182,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:14:15"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 67,
+    "channel": 0,
+    "x": 144.373,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:18:19"
+    ],
+    "on_tick": 9792,
+    "off_tick": 10368,
+    "pitch": 65,
+    "channel": 0,
+    "x": 146.802,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:23:24"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 62,
+    "channel": 0,
+    "x": 152.352,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:27:28"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 155.294,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:31:32"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 65,
+    "channel": 0,
+    "x": 158.945,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:35:36"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 59,
+    "channel": 0,
+    "x": 162.707,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:40:41"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 62,
+    "channel": 0,
+    "x": 166.913,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:59:44:45"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11904,
+    "pitch": 60,
+    "channel": 0,
+    "x": 169.813,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:7:8"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 67,
+    "channel": 0,
+    "x": 179.814,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:11:12"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 64,
+    "channel": 0,
+    "x": 182.389,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:15:16"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 67,
+    "channel": 0,
+    "x": 185.511,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:21:22"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13248,
+    "pitch": 72,
+    "channel": 0,
+    "x": 189.701,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:27:28"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 72,
+    "channel": 0,
+    "x": 195.251,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:32:33"
+    ],
+    "on_tick": 13440,
+    "off_tick": 14016,
+    "pitch": 71,
+    "channel": 0,
+    "x": 197.68,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:37:38"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 72,
+    "channel": 0,
+    "x": 203.653,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:44:45"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 71,
+    "channel": 0,
+    "x": 207.843,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:48:49"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15168,
+    "pitch": 69,
+    "channel": 0,
+    "x": 211.473,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:64:53:54"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 57,
+    "channel": 0,
+    "x": 217.022,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 69,
+    "channel": 0,
+    "x": 220.912,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:8:9"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 72,
+    "channel": 0,
+    "x": 223.341,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:15:16"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16320,
+    "pitch": 71,
+    "channel": 0,
+    "x": 227.532,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:20:21"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 71,
+    "channel": 0,
+    "x": 233.082,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:24:25"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 71,
+    "channel": 0,
+    "x": 237.031,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:28:29"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 72,
+    "channel": 0,
+    "x": 240.597,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:33:34"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 71,
+    "channel": 0,
+    "x": 244.265,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:37:38"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 69,
+    "channel": 0,
+    "x": 247.566,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:43:44"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 69,
+    "channel": 0,
+    "x": 251.756,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:65:47:48"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 67,
+    "channel": 0,
+    "x": 255.817,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:7:8"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 67,
+    "channel": 0,
+    "x": 261.646,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:11:12"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 69,
+    "channel": 0,
+    "x": 265.937,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:15:16"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 64,
+    "channel": 0,
+    "x": 270.134,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:21:22"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 67,
+    "channel": 0,
+    "x": 274.325,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:25:26"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 67,
+    "channel": 0,
+    "x": 277.954,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:29:30"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 282.006,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:33:34"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 69,
+    "channel": 0,
+    "x": 284.436,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:37:38"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 69,
+    "channel": 0,
+    "x": 287.89,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:41:42"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 67,
+    "channel": 0,
+    "x": 291.976,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:47:48"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 65,
+    "channel": 0,
+    "x": 296.167,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:51:52"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 65,
+    "channel": 0,
+    "x": 298.64,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:66:55:56"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 301.369,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:7:8"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 307.198,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:11:12"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 72,
+    "channel": 0,
+    "x": 310.508,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:16:17"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 69,
+    "channel": 0,
+    "x": 313.902,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:22:23"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 71,
+    "channel": 0,
+    "x": 318.124,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:26:27"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 71,
+    "channel": 0,
+    "x": 322.048,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:30:31"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 71,
+    "channel": 0,
+    "x": 326.587,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:34:35"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 69,
+    "channel": 0,
+    "x": 331.68,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:38:39"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 71,
+    "channel": 0,
+    "x": 336.159,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:67:44:45"
+    ],
+    "on_tick": 23424,
+    "off_tick": 24192,
+    "pitch": 72,
+    "channel": 0,
+    "x": 340.35,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:15:16"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 55,
+    "channel": 0,
+    "x": 352.629,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:18:19"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 55,
+    "channel": 0,
+    "x": 355.205,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:23:24"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 64,
+    "channel": 0,
+    "x": 359.395,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:27:28"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 64,
+    "channel": 0,
+    "x": 363.024,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:31:32"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26304,
+    "pitch": 65,
+    "channel": 0,
+    "x": 366.654,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:36:37"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 372.31,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:42:43"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 376.501,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:72:46:47"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 380.13,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 60,
+    "channel": 0,
+    "x": 386.88,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:8:9"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 60,
+    "channel": 0,
+    "x": 390.189,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:14:15"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28608,
+    "pitch": 62,
+    "channel": 0,
+    "x": 394.38,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:19:20"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 64,
+    "channel": 0,
+    "x": 399.93,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:23:24"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 65,
+    "channel": 0,
+    "x": 402.359,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:27:28"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 67,
+    "channel": 0,
+    "x": 406.078,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:31:32"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29376,
+    "pitch": 62,
+    "channel": 0,
+    "x": 410.079,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:35:36"
+    ],
+    "on_tick": 29376,
+    "off_tick": 29568,
+    "pitch": 65,
+    "channel": 0,
+    "x": 413.627,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:41:42"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29952,
+    "pitch": 65,
+    "channel": 0,
+    "x": 417.961,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:73:45:46"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30336,
+    "pitch": 64,
+    "channel": 0,
+    "x": 422.431,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:4:5"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 55,
+    "channel": 0,
+    "x": 429.411,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:7:8"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 55,
+    "channel": 0,
+    "x": 432.225,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:32:33"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 436.416,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:38:39"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 64,
+    "channel": 0,
+    "x": 438.845,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:62:63"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 64,
+    "channel": 0,
+    "x": 441.274,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:66:67"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 65,
+    "channel": 0,
+    "x": 444.903,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:70:71"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 64,
+    "channel": 0,
+    "x": 449.237,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:74:75"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 65,
+    "channel": 0,
+    "x": 453.647,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:78:79"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 69,
+    "channel": 0,
+    "x": 456.376,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:84:85"
+    ],
+    "on_tick": 32640,
+    "off_tick": 33024,
+    "pitch": 67,
+    "channel": 0,
+    "x": 460.568,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:74:88:89"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33792,
+    "pitch": 67,
+    "channel": 0,
+    "x": 464.197,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:4:5"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 64,
+    "channel": 0,
+    "x": 470.947,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:8:9"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 473.376,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:14:15"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 477.566,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:18:19"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34944,
+    "pitch": 65,
+    "channel": 0,
+    "x": 480.295,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:23:24"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 62,
+    "channel": 0,
+    "x": 485.845,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:27:28"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 64,
+    "channel": 0,
+    "x": 488.788,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:31:32"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35520,
+    "pitch": 65,
+    "channel": 0,
+    "x": 492.438,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:35:36"
+    ],
+    "on_tick": 35520,
+    "off_tick": 35712,
+    "pitch": 59,
+    "channel": 0,
+    "x": 496.2,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:40:41"
+    ],
+    "on_tick": 35712,
+    "off_tick": 35904,
+    "pitch": 62,
+    "channel": 0,
+    "x": 500.406,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:75:44:45"
+    ],
+    "on_tick": 35904,
+    "off_tick": 36480,
+    "pitch": 60,
+    "channel": 0,
+    "x": 503.306,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:7:8"
+    ],
+    "on_tick": 36672,
+    "off_tick": 36864,
+    "pitch": 67,
+    "channel": 0,
+    "x": 513.307,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:11:12"
+    ],
+    "on_tick": 36864,
+    "off_tick": 37056,
+    "pitch": 64,
+    "channel": 0,
+    "x": 515.883,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:15:16"
+    ],
+    "on_tick": 37056,
+    "off_tick": 37248,
+    "pitch": 67,
+    "channel": 0,
+    "x": 519.004,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:21:22"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37824,
+    "pitch": 72,
+    "channel": 0,
+    "x": 523.195,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:27:28"
+    ],
+    "on_tick": 37824,
+    "off_tick": 38016,
+    "pitch": 72,
+    "channel": 0,
+    "x": 528.745,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:32:33"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38592,
+    "pitch": 71,
+    "channel": 0,
+    "x": 531.174,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:37:38"
+    ],
+    "on_tick": 38592,
+    "off_tick": 38784,
+    "pitch": 72,
+    "channel": 0,
+    "x": 537.146,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:44:45"
+    ],
+    "on_tick": 38784,
+    "off_tick": 39168,
+    "pitch": 71,
+    "channel": 0,
+    "x": 541.337,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:48:49"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39744,
+    "pitch": 69,
+    "channel": 0,
+    "x": 544.966,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:80:53:54"
+    ],
+    "on_tick": 39744,
+    "off_tick": 39936,
+    "pitch": 57,
+    "channel": 0,
+    "x": 550.516,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:4:5"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 554.406,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:8:9"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 72,
+    "channel": 0,
+    "x": 556.835,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:15:16"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40896,
+    "pitch": 71,
+    "channel": 0,
+    "x": 561.026,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:20:21"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 71,
+    "channel": 0,
+    "x": 566.575,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:24:25"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 71,
+    "channel": 0,
+    "x": 570.525,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:28:29"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 72,
+    "channel": 0,
+    "x": 574.09,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:33:34"
+    ],
+    "on_tick": 41472,
+    "off_tick": 41664,
+    "pitch": 71,
+    "channel": 0,
+    "x": 577.758,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:37:38"
+    ],
+    "on_tick": 41664,
+    "off_tick": 41856,
+    "pitch": 69,
+    "channel": 0,
+    "x": 581.059,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:43:44"
+    ],
+    "on_tick": 41856,
+    "off_tick": 42240,
+    "pitch": 69,
+    "channel": 0,
+    "x": 585.25,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:81:47:48"
+    ],
+    "on_tick": 42240,
+    "off_tick": 42624,
+    "pitch": 67,
+    "channel": 0,
+    "x": 589.311,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:7:8"
+    ],
+    "on_tick": 42816,
+    "off_tick": 43008,
+    "pitch": 67,
+    "channel": 0,
+    "x": 595.14,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:11:12"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43200,
+    "pitch": 69,
+    "channel": 0,
+    "x": 599.431,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:15:16"
+    ],
+    "on_tick": 43200,
+    "off_tick": 43392,
+    "pitch": 64,
+    "channel": 0,
+    "x": 603.628,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:21:22"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 607.819,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:25:26"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44160,
+    "pitch": 67,
+    "channel": 0,
+    "x": 611.448,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:29:30"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44352,
+    "pitch": 67,
+    "channel": 0,
+    "x": 615.5,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:33:34"
+    ],
+    "on_tick": 44352,
+    "off_tick": 44544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 617.929,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:37:38"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 621.384,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:41:42"
+    ],
+    "on_tick": 44736,
+    "off_tick": 44928,
+    "pitch": 67,
+    "channel": 0,
+    "x": 625.47,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:47:48"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45120,
+    "pitch": 65,
+    "channel": 0,
+    "x": 629.661,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:51:52"
+    ],
+    "on_tick": 45120,
+    "off_tick": 45312,
+    "pitch": 65,
+    "channel": 0,
+    "x": 632.134,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:82:55:56"
+    ],
+    "on_tick": 45312,
+    "off_tick": 45696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 634.863,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:7:8"
+    ],
+    "on_tick": 45888,
+    "off_tick": 46080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 640.692,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:11:12"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46272,
+    "pitch": 72,
+    "channel": 0,
+    "x": 644.001,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:16:17"
+    ],
+    "on_tick": 46272,
+    "off_tick": 46464,
+    "pitch": 69,
+    "channel": 0,
+    "x": 647.396,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:22:23"
+    ],
+    "on_tick": 46464,
+    "off_tick": 46848,
+    "pitch": 71,
+    "channel": 0,
+    "x": 651.618,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:26:27"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47232,
+    "pitch": 71,
+    "channel": 0,
+    "x": 655.542,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:30:31"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47616,
+    "pitch": 71,
+    "channel": 0,
+    "x": 660.08,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:34:35"
+    ],
+    "on_tick": 47616,
+    "off_tick": 47808,
+    "pitch": 69,
+    "channel": 0,
+    "x": 665.174,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:38:39"
+    ],
+    "on_tick": 47808,
+    "off_tick": 48000,
+    "pitch": 71,
+    "channel": 0,
+    "x": 669.653,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM240_AjarAnakMuYaBapa/GPM240_AjarAnakMuYaBapa_ly_data.ily:83:44:45"
+    ],
+    "on_tick": 48000,
+    "off_tick": 48768,
+    "pitch": 72,
+    "channel": 0,
+    "x": 673.843,
+    "y": 15.732
+  }
+]

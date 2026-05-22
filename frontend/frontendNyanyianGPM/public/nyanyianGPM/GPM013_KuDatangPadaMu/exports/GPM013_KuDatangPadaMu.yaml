@@ -1,0 +1,71 @@
+meta:
+  totalMeasures: 17
+  minTick: 0
+  maxTick: 24192
+  minMoment: 0
+  maxMoment: 17
+  musicStartSeconds: 0.0
+  channels:
+    0:
+      minPitch: 64
+      maxPitch: 76
+      count: 40
+
+flow:
+- [0, ~, 1, bar]
+- [0, 0, 768, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:44:1:2']]
+- [768, 0, 1152, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:44:5:6']]
+- [1152, 0, 1536, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:44:9:10']]
+- [1423, ~, 2, bar]
+- [1536, 0, 2112, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:45:1:2']]
+- [2112, 0, 2304, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:45:6:7']]
+- [2304, 0, 3072, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:45:10:11']]
+- [2846, ~, 3, bar]
+- [3072, 0, 3840, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:46:1:2']]
+- [3840, 0, 4224, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:46:5:6']]
+- [4224, 0, 4608, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:46:9:10']]
+- [4269, ~, 4, bar]
+- [4608, 0, 5760, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:47:1:2']]
+- [5692, ~, 5, bar]
+- [6144, 0, 6912, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:48:1:2']]
+- [6912, 0, 7296, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:48:5:6']]
+- [7115, ~, 6, bar]
+- [7296, 0, 7680, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:48:9:10']]
+- [7680, 0, 8256, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:49:1:2']]
+- [8256, 0, 8448, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:49:7:8']]
+- [8448, 0, 9216, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:49:13:14']]
+- [8538, ~, 7, bar]
+- [9216, 0, 9984, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:50:1:2']]
+- [9961, ~, 8, bar]
+- [9984, 0, 10368, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:50:5:6']]
+- [10368, 0, 10752, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:50:9:10']]
+- [10752, 0, 11904, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:51:1:2']]
+- [11384, ~, 9, bar]
+- [12288, 0, 13056, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:52:1:2']]
+- [12807, ~, 10, bar]
+- [13056, 0, 13440, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:52:5:6']]
+- [13440, 0, 13824, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:52:11:12']]
+- [13824, 0, 14592, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:53:1:2']]
+- [14230, ~, 11, bar]
+- [14592, 0, 15360, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:53:5:6']]
+- [15360, 0, 16128, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:54:1:2']]
+- [15653, ~, 12, bar]
+- [16128, 0, 16512, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:54:5:6']]
+- [16512, 0, 16896, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:54:9:10']]
+- [16896, 0, 18048, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:55:1:2']]
+- [17076, ~, 13, bar]
+- [18432, 0, 19200, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:56:1:2']]
+- [18499, ~, 14, bar]
+- [19200, 0, 19584, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:56:6:7']]
+- [19584, 0, 19968, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:56:11:12']]
+- [19922, ~, 15, bar]
+- [19968, 0, 20544, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:57:1:2']]
+- [20544, 0, 20736, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:57:7:8']]
+- [20736, 0, 21504, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:57:13:14']]
+- [21345, ~, 16, bar]
+- [21504, 0, 21888, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:1:2']]
+- [21888, 0, 22272, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:5:6']]
+- [22272, 0, 22656, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:9:10']]
+- [22656, 0, 23040, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:13:14']]
+- [22768, ~, 17, bar]
+- [23040, 0, 24192, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:59:1:2']]

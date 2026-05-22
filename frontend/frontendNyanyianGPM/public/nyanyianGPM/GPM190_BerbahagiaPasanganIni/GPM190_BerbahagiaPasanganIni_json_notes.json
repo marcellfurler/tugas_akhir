@@ -1,0 +1,1322 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:18:19"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 57,
+    "channel": 0,
+    "x": 12.336,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:21:22"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 15.85,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:25:26"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 18.75,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:31:32"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 66,
+    "channel": 0,
+    "x": 22.54,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:37:38"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1728,
+    "pitch": 66,
+    "channel": 0,
+    "x": 25.468,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:44:45"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 66,
+    "channel": 0,
+    "x": 30.295,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:50:51"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 67,
+    "channel": 0,
+    "x": 33.041,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:54:55"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 71,
+    "channel": 0,
+    "x": 37.221,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:60:61"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 41.012,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:64:65"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 43.94,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:68:69"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 49.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:72:73"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 53.175,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:78:79"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 57.193,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:82:83"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 71,
+    "channel": 0,
+    "x": 60.554,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:86:87"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 64.726,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:90:91"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 67,
+    "channel": 0,
+    "x": 68.086,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:48:96:97"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 66,
+    "channel": 0,
+    "x": 72.775,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:7:8"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 57,
+    "channel": 0,
+    "x": 79.921,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 62,
+    "channel": 0,
+    "x": 82.752,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:14:15"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 86.403,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 66,
+    "channel": 0,
+    "x": 90.404,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:26:27"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7872,
+    "pitch": 66,
+    "channel": 0,
+    "x": 93.331,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:33:34"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 66,
+    "channel": 0,
+    "x": 98.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:39:40"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 101.7,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:43:44"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 71,
+    "channel": 0,
+    "x": 105.172,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:49:50"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 69,
+    "channel": 0,
+    "x": 108.963,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:53:54"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 111.89,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:57:58"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 117.236,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:61:62"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 121.006,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:67:68"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 124.797,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:71:72"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 71,
+    "channel": 0,
+    "x": 128.226,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:75:76"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 131.971,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:79:80"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 67,
+    "channel": 0,
+    "x": 134.999,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:49:85:86"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12672,
+    "pitch": 66,
+    "channel": 0,
+    "x": 139.687,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 67,
+    "channel": 0,
+    "x": 151.79,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 67,
+    "channel": 0,
+    "x": 154.717,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:12:13"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14208,
+    "pitch": 71,
+    "channel": 0,
+    "x": 157.915,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:16:17"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 73,
+    "channel": 0,
+    "x": 161.856,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:25:26"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 74,
+    "channel": 0,
+    "x": 167.411,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:30:31"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 69,
+    "channel": 0,
+    "x": 171.42,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:34:35"
+    ],
+    "on_tick": 15360,
+    "off_tick": 16128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 174.348,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:40:41"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 181.455,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:44:45"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 184.679,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:48:49"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 69,
+    "channel": 0,
+    "x": 187.775,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:52:53"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17472,
+    "pitch": 67,
+    "channel": 0,
+    "x": 189.804,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:57:58"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 67,
+    "channel": 0,
+    "x": 195.58,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:50:63:64"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18816,
+    "pitch": 66,
+    "channel": 0,
+    "x": 199.371,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 67,
+    "channel": 0,
+    "x": 211.473,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:8:9"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 67,
+    "channel": 0,
+    "x": 214.4,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:12:13"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 71,
+    "channel": 0,
+    "x": 217.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:16:17"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 73,
+    "channel": 0,
+    "x": 220.255,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:25:26"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 74,
+    "channel": 0,
+    "x": 224.944,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:30:31"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 228.68,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:34:35"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 231.607,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:40:41"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 69,
+    "channel": 0,
+    "x": 238.714,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:44:45"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 69,
+    "channel": 0,
+    "x": 241.641,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:48:49"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 69,
+    "channel": 0,
+    "x": 245.07,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:52:53"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 67,
+    "channel": 0,
+    "x": 249.191,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:56:57"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 64,
+    "channel": 0,
+    "x": 252.466,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:51:62:63"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 257.155,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:18:19"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 57,
+    "channel": 0,
+    "x": 266.552,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:21:22"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 270.459,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:25:26"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 64,
+    "channel": 0,
+    "x": 274.255,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:31:32"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 66,
+    "channel": 0,
+    "x": 278.046,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:37:38"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26304,
+    "pitch": 66,
+    "channel": 0,
+    "x": 280.973,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:44:45"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 66,
+    "channel": 0,
+    "x": 286.015,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:50:51"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 67,
+    "channel": 0,
+    "x": 289.222,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:54:55"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 71,
+    "channel": 0,
+    "x": 293.377,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:60:61"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 297.506,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:64:65"
+    ],
+    "on_tick": 27264,
+    "off_tick": 28032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 300.433,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:68:69"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 305.987,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:72:73"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 309.638,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:78:79"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28800,
+    "pitch": 67,
+    "channel": 0,
+    "x": 313.571,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:82:83"
+    ],
+    "on_tick": 28800,
+    "off_tick": 29184,
+    "pitch": 71,
+    "channel": 0,
+    "x": 317.512,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:86:87"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 323.066,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:90:91"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29952,
+    "pitch": 67,
+    "channel": 0,
+    "x": 327.076,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:56:96:97"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 331.764,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:7:8"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 57,
+    "channel": 0,
+    "x": 338.91,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:10:11"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 62,
+    "channel": 0,
+    "x": 341.485,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:14:15"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 64,
+    "channel": 0,
+    "x": 344.522,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:20:21"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 66,
+    "channel": 0,
+    "x": 348.642,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:26:27"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32448,
+    "pitch": 66,
+    "channel": 0,
+    "x": 351.569,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:33:34"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 66,
+    "channel": 0,
+    "x": 356.492,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:39:40"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 359.016,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:43:44"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 71,
+    "channel": 0,
+    "x": 361.703,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:49:50"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 365.494,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:53:54"
+    ],
+    "on_tick": 33408,
+    "off_tick": 34176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 368.421,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:57:58"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 373.767,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:61:62"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 376.018,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:67:68"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34944,
+    "pitch": 67,
+    "channel": 0,
+    "x": 379.809,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:71:72"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35328,
+    "pitch": 71,
+    "channel": 0,
+    "x": 383.562,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:75:76"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35712,
+    "pitch": 69,
+    "channel": 0,
+    "x": 388.468,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:79:80"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36096,
+    "pitch": 67,
+    "channel": 0,
+    "x": 392.161,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:57:85:86"
+    ],
+    "on_tick": 36096,
+    "off_tick": 37248,
+    "pitch": 66,
+    "channel": 0,
+    "x": 396.85,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 37632,
+    "off_tick": 38016,
+    "pitch": 67,
+    "channel": 0,
+    "x": 408.952,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:8:9"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38400,
+    "pitch": 67,
+    "channel": 0,
+    "x": 411.879,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:12:13"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38784,
+    "pitch": 71,
+    "channel": 0,
+    "x": 415.078,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 38784,
+    "off_tick": 39168,
+    "pitch": 73,
+    "channel": 0,
+    "x": 419.019,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:25:26"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39552,
+    "pitch": 74,
+    "channel": 0,
+    "x": 424.574,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:30:31"
+    ],
+    "on_tick": 39552,
+    "off_tick": 39936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 428.583,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:34:35"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 431.51,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:40:41"
+    ],
+    "on_tick": 40704,
+    "off_tick": 41088,
+    "pitch": 69,
+    "channel": 0,
+    "x": 438.617,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:44:45"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 69,
+    "channel": 0,
+    "x": 441.841,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:48:49"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 69,
+    "channel": 0,
+    "x": 444.938,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:52:53"
+    ],
+    "on_tick": 41472,
+    "off_tick": 42048,
+    "pitch": 67,
+    "channel": 0,
+    "x": 446.967,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:57:58"
+    ],
+    "on_tick": 42048,
+    "off_tick": 42240,
+    "pitch": 67,
+    "channel": 0,
+    "x": 452.743,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:58:63:64"
+    ],
+    "on_tick": 42240,
+    "off_tick": 43392,
+    "pitch": 66,
+    "channel": 0,
+    "x": 456.534,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44160,
+    "pitch": 67,
+    "channel": 0,
+    "x": 468.636,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44544,
+    "pitch": 67,
+    "channel": 0,
+    "x": 471.563,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44928,
+    "pitch": 71,
+    "channel": 0,
+    "x": 474.49,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:16:17"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45312,
+    "pitch": 73,
+    "channel": 0,
+    "x": 477.418,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:25:26"
+    ],
+    "on_tick": 45312,
+    "off_tick": 45696,
+    "pitch": 74,
+    "channel": 0,
+    "x": 482.106,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:30:31"
+    ],
+    "on_tick": 45696,
+    "off_tick": 46080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 485.842,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:34:35"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46848,
+    "pitch": 69,
+    "channel": 0,
+    "x": 488.77,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:40:41"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47232,
+    "pitch": 69,
+    "channel": 0,
+    "x": 495.877,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:44:45"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47424,
+    "pitch": 69,
+    "channel": 0,
+    "x": 498.804,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:48:49"
+    ],
+    "on_tick": 47424,
+    "off_tick": 47616,
+    "pitch": 69,
+    "channel": 0,
+    "x": 502.233,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:52:53"
+    ],
+    "on_tick": 47616,
+    "off_tick": 48000,
+    "pitch": 67,
+    "channel": 0,
+    "x": 506.353,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:56:57"
+    ],
+    "on_tick": 48000,
+    "off_tick": 48384,
+    "pitch": 64,
+    "channel": 0,
+    "x": 509.629,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM190_BerbahagiaPasanganIni/GPM190_BerbahagiaPasanganIni_ly_data.ily:59:62:63"
+    ],
+    "on_tick": 48384,
+    "off_tick": 49152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 514.317,
+    "y": 15.289
+  }
+]

@@ -1,0 +1,1109 @@
+
+[
+  {
+    "id": "GPM001_AkangManisLawang",
+    "title": "GPM 1. Akang Manis Lawang",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "2010",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM001_AkangManisLawang/exports/",
+    "mediaPath": "/nyanyianGPM/GPM001_AkangManisLawang/exports/",
+
+    "svgFile": "GPM001_AkangManisLawang.svg",
+    "audioFile": "GPM001_AkangManisLawang.mp3",
+
+    "syncFile": "GPM001_AkangManisLawang.yaml",
+    "configFile": "GPM001_AkangManisLawang.config.yaml",
+
+    "notesFile": "GPM001_AkangManisLawang_json_notes.json"
+  },
+  {
+    "id": "GPM003_AngkaDonciPujiTuhan",
+    "title": "GPM 3. Angka Donci Puji Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "MELVY S. A. ALFONS"}
+    ],
+    "year": "2008",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM003_AngkaDonciPujiTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM003_AngkaDonciPujiTuhan/exports/",
+
+    "svgFile": "GPM003_AngkaDonciPujiTuhan.svg",
+    "audioFile": "GPM003_AngkaDonciPujiTuhan.mp3",
+
+    "syncFile": "GPM003_AngkaDonciPujiTuhan.yaml",
+    "configFile": "GPM003_AngkaDonciPujiTuhan.config.yaml",
+
+    "notesFile": "GPM003_AngkaDonciPujiTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM005_DatanglahPadaTuhan",
+    "title": "GPM 5. Datanglah Pada Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "OTS. KILANMASSE"}
+    ],
+    "year": "2009",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM005_DatanglahPadaTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM005_DatanglahPadaTuhan/exports/",
+
+    "svgFile": "GPM005_DatanglahPadaTuhan.svg",
+    "audioFile": "GPM005_DatanglahPadaTuhan.mp3",
+
+    "syncFile": "GPM005_DatanglahPadaTuhan.yaml",
+    "configFile": "GPM005_DatanglahPadaTuhan.config.yaml",
+
+    "notesFile": "GPM005_DatanglahPadaTuhan_json_notes.json"
+  },
+
+  {
+    "id": "GPM008_EngkauYangSuci",
+    "title": "GPM 8. Engkau Yang Suci",
+    "authors": [
+      {"role": "Lagu", "name": "VEBY PELMELAY & NUS TOMATALA"},
+      {"role": "Syair", "name": "NUS TOMATALA"}
+    ],
+    "key": "G",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM008_EngkauYangSuci/exports/",
+    "mediaPath": "/nyanyianGPM/GPM008_EngkauYangSuci/exports/",
+
+    "svgFile": "GPM008_EngkauYangSuci.svg",
+    "audioFile": "GPM008_EngkauYangSuci.mp3",
+
+    "syncFile": "GPM008_EngkauYangSuci.yaml",
+    "configFile": "GPM008_EngkauYangSuci.config.yaml",
+
+    "notesFile": "GPM008_EngkauYangSuci_json_notes.json"
+  },
+
+  {
+    "id": "GPM013_KuDatangPadaMu",
+    "title": "GPM 13. Ku Datang Pada Mu",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "JOSIA G. JAMLEAN"}
+    ],
+    "year": "2007",
+    "key": "F",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM013_KuDatangPadaMu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM013_KuDatangPadaMu/exports/",
+
+    "svgFile": "GPM013_KuDatangPadaMu.svg",
+    "audioFile": "GPM013_KuDatangPadaMu.mp3",
+
+    "syncFile": "GPM013_KuDatangPadaMu.yaml",
+    "configFile": "GPM013_KuDatangPadaMu.config.yaml",
+
+    "notesFile": "GPM013_KuDatangPadaMu_json_notes.json"
+  },
+
+  {
+    "id": "GPM014_KuSelaluInginMemujiMu",
+    "title": "GPM 14. Ku Selalu Ingin Memuji Mu",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "key": "Bes",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM014_KuSelaluInginMemujiMu/exports/",
+
+    "svgFile": "GPM014_KuSelaluInginMemujiMu.svg",
+    "audioFile": "GPM014_KuSelaluInginMemujiMu.mp3",
+
+    "syncFile": "GPM014_KuSelaluInginMemujiMu.yaml",
+    "configFile": "GPM014_KuSelaluInginMemujiMu.config.yaml",
+
+    "notesFile": "GPM014_KuSelaluInginMemujiMu_json_notes.json"
+  },
+
+  {
+    "id": "GPM016_MaeOIteSombaUpuYesus",
+    "title": "GPM 16. Mae Ote Somba Upu Yesus",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "ELLY TOISUTTA"}
+    ],
+    "year": "2004",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM016_MaeOIteSombaUpuYesus/exports/",
+    "mediaPath": "/nyanyianGPM/GPM016_MaeOIteSombaUpuYesus/exports/",
+
+    "svgFile": "GPM016_MaeOIteSombaUpuYesus.svg",
+    "audioFile": "GPM016_MaeOIteSombaUpuYesus.mp3",
+
+    "syncFile": "GPM016_MaeOIteSombaUpuYesus.yaml",
+    "configFile": "GPM016_MaeOIteSombaUpuYesus.config.yaml",
+
+    "notesFile": "GPM016_MaeOIteSombaUpuYesus_json_notes.json"
+  },
+  {
+    "id": "GPM021_MariBerdendang",
+    "title": "GPM 21. Mari Berdendang",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "ALEX TITAWANNO"}
+    ],
+    "year": "2007",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM021_MariBerdendang/exports/",
+    "mediaPath": "/nyanyianGPM/GPM021_MariBerdendang/exports/",
+
+    "svgFile": "GPM021_MariBerdendang.svg",
+    "audioFile": "GPM021_MariBerdendang.mp3",
+
+    "syncFile": "GPM021_MariBerdendang.yaml",
+    "configFile": "GPM021_MariBerdendang.config.yaml",
+
+    "notesFile": "GPM021_MariBerdendang_json_notes.json"
+  },
+  {
+    "id": "GPM022_MariBernyanyilah",
+    "title": "GPM 22. Mari Bernyanyilah",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "F",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM022_MariBernyanyilah/exports/",
+    "mediaPath": "/nyanyianGPM/GPM022_MariBernyanyilah/exports/",
+
+    "svgFile": "GPM022_MariBernyanyilah.svg",
+    "audioFile": "GPM022_MariBernyanyilah.mp3",
+
+    "syncFile": "GPM022_MariBernyanyilah.yaml",
+    "configFile": "GPM022_MariBernyanyilah.config.yaml",
+
+    "notesFile": "GPM022_MariBernyanyilah_json_notes.json"
+  },
+
+  {
+    "id": "GPM023_MariKitaMenyembahTuhan",
+    "title": "GPM 23. Mari Kita Menyembah Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "FERIS LUHUKAY"}
+    ],
+    "key": "G",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM023_MariKitaMenyembahTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM023_MariKitaMenyembahTuhan/exports/",
+
+    "svgFile": "GPM023_MariKitaMenyembahTuhan.svg",
+    "audioFile": "GPM023_MariKitaMenyembahTuhan.mp3",
+
+    "syncFile": "GPM023_MariKitaMenyembahTuhan.yaml",
+    "configFile": "GPM023_MariKitaMenyembahTuhan.config.yaml",
+
+    "notesFile": "GPM023_MariKitaMenyembahTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM032_PujilahTuhanDenganTifaGong",
+    "title": "GPM 32. Pujilah Tuhan Dengan Tifa Gong",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "HENNILS TAMAELA"}
+    ],
+    "year": "2009",
+    "key": "C",
+    "timeSignature": "3/4",
+    "tempo": "100",
+
+    "dataPath": "/nyanyianGPM/GPM032_PujilahTuhanDenganTifaGong/exports/",
+    "mediaPath": "/nyanyianGPM/GPM032_PujilahTuhanDenganTifaGong/exports/",
+
+    "svgFile": "GPM032_PujilahTuhanDenganTifaGong.svg",
+    "audioFile": "GPM032_PujilahTuhanDenganTifaGong.mp3",
+
+    "syncFile": "GPM032_PujilahTuhanDenganTifaGong.yaml",
+    "configFile": "GPM032_PujilahTuhanDenganTifaGong.config.yaml",
+
+    "notesFile": "GPM032_PujilahTuhanDenganTifaGong_json_notes.json"
+  },
+  {
+    "id": "GPM034_PujiTuhan",
+    "title": "GPM 34. Puji Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "JOHN F. BEAY"}
+    ],
+    "year": "2009",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM034_PujiTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM034_PujiTuhan/exports/",
+
+    "svgFile": "GPM034_PujiTuhan.svg",
+    "audioFile": "GPM034_PujiTuhan.mp3",
+
+    "syncFile": "GPM034_PujiTuhan.yaml",
+    "configFile": "GPM034_PujiTuhan.config.yaml",
+
+    "notesFile": "GPM034_PujiTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM044_DenganApakah",
+    "title": "GPM 44. Dengan Apakah",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM044_DenganApakah/exports/",
+    "mediaPath": "/nyanyianGPM/GPM044_DenganApakah/exports/",
+
+    "svgFile": "GPM044_DenganApakah.svg",
+    "audioFile": "GPM044_DenganApakah.mp3",
+
+    "syncFile": "GPM044_DenganApakah.yaml",
+    "configFile": "GPM044_DenganApakah.config.yaml",
+
+    "notesFile": "GPM044_DenganApakah_json_notes.json"
+  },
+  {
+    "id": "GPM045_DiKakiMuKamiBertelut",
+    "title": "GPM 45. Di Kaki Mu Kami Bertelut",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "MONICA PARIELA - PARERA"}
+    ],
+    "year": "2007",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/exports/",
+    "mediaPath": "/nyanyianGPM/GPM045_DiKakiMuKamiBertelut/exports/",
+
+    "svgFile": "GPM045_DiKakiMuKamiBertelut.svg",
+    "audioFile": "GPM045_DiKakiMuKamiBertelut.mp3",
+
+    "syncFile": "GPM045_DiKakiMuKamiBertelut.yaml",
+    "configFile": "GPM045_DiKakiMuKamiBertelut.config.yaml",
+
+    "notesFile": "GPM045_DiKakiMuKamiBertelut_json_notes.json"
+  },
+  {
+    "id": "GPM055_TuhanKasihani",
+    "title": "GPM 55. Tuhan Kasihani",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "1989",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM055_TuhanKasihani/exports/",
+    "mediaPath": "/nyanyianGPM/GPM055_TuhanKasihani/exports/",
+
+    "svgFile": "GPM055_TuhanKasihani.svg",
+    "audioFile": "GPM055_TuhanKasihani.mp3",
+
+    "syncFile": "GPM055_TuhanKasihani.yaml",
+    "configFile": "GPM055_TuhanKasihani.config.yaml",
+
+    "notesFile": "GPM055_TuhanKasihani_json_notes.json"
+  },
+  {
+    "id": "GPM084_JikaAdaYangBerkata",
+    "title": "GPM 84. Jika Ada Yang Berkata,",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "AGUST C. W. GASPERZ"}
+    ],
+    "year": "1998",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM084_JikaAdaYangBerkata/exports/",
+    "mediaPath": "/nyanyianGPM/GPM084_JikaAdaYangBerkata/exports/",
+
+    "svgFile": "GPM084_JikaAdaYangBerkata.svg",
+    "audioFile": "GPM084_JikaAdaYangBerkata.mp3",
+
+    "syncFile": "GPM084_JikaAdaYangBerkata.yaml",
+    "configFile": "GPM084_JikaAdaYangBerkata.config.yaml",
+
+    "notesFile": "GPM084_JikaAdaYangBerkata_json_notes.json"
+  },
+  {
+    "id": "GPM095_BintangDiTimur",
+    "title": "GPM 95. Bintang Di Timur",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "1994",
+    "key": "D",
+    "timeSignature": "2/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM095_BintangDiTimur/exports/",
+    "mediaPath": "/nyanyianGPM/GPM095_BintangDiTimur/exports/",
+
+    "svgFile": "GPM095_BintangDiTimur.svg",
+    "audioFile": "GPM095_BintangDiTimur.mp3",
+
+    "syncFile": "GPM095_BintangDiTimur.yaml",
+    "configFile": "GPM095_BintangDiTimur.config.yaml",
+
+    "notesFile": "GPM095_BintangDiTimur_json_notes.json"
+  },
+  {
+    "id": "GPM098_LilinKecil",
+    "title": "GPM 98. Lilin Kecil",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "2007",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM098_LilinKecil/exports/",
+    "mediaPath": "/nyanyianGPM/GPM098_LilinKecil/exports/",
+
+    "svgFile": "GPM098_LilinKecil.svg",
+    "audioFile": "GPM098_LilinKecil.mp3",
+
+    "syncFile": "GPM098_LilinKecil.yaml",
+    "configFile": "GPM098_LilinKecil.config.yaml",
+
+    "notesFile": "GPM098_LilinKecil_json_notes.json"
+  },
+  {
+    "id": "GPM108_BahagialahMereka",
+    "title": "GPM 108. Bahagialah Mereka",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "SONIA C. PARERA - HUMMEL"}
+    ],
+    "year": "2007",
+    "key": "C",
+    "timeSignature": "2/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM108_BahagialahMereka/exports/",
+    "mediaPath": "/nyanyianGPM/GPM108_BahagialahMereka/exports/",
+
+    "svgFile": "GPM108_BahagialahMereka.svg",
+    "audioFile": "GPM108_BahagialahMereka.mp3",
+
+    "syncFile": "GPM108_BahagialahMereka.yaml",
+    "configFile": "GPM108_BahagialahMereka.config.yaml",
+
+    "notesFile": "GPM108_BahagialahMereka_json_notes.json"
+  },
+
+  {
+    "id": "GPM114_NyanyikanBagiTuhan",
+    "title": "GPM 114. Nyanyikan Bagi Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "E",
+    "timeSignature": "4/4",
+    "tempo": "100",
+
+    "dataPath": "/nyanyianGPM/GPM114_NyanyikanBagiTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM114_NyanyikanBagiTuhan/exports/",
+
+    "svgFile": "GPM114_NyanyikanBagiTuhan.svg",
+    "audioFile": "GPM114_NyanyikanBagiTuhan.mp3",
+
+    "syncFile": "GPM114_NyanyikanBagiTuhan.yaml",
+    "configFile": "GPM114_NyanyikanBagiTuhan.config.yaml",
+
+    "notesFile": "GPM114_NyanyikanBagiTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM146_Kudus",
+    "title": "GPM 146. Kudus",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "NUS TOMATALA"}
+    ],
+    "year": "2008",
+    "key": "C",
+    "timeSignature": "2/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM146_Kudus/exports/",
+    "mediaPath": "/nyanyianGPM/GPM146_Kudus/exports/",
+
+    "svgFile": "GPM146_Kudus.svg",
+    "audioFile": "GPM146_Kudus.mp3",
+
+    "syncFile": "GPM146_Kudus.yaml",
+    "configFile": "GPM146_Kudus.config.yaml",
+
+    "notesFile": "GPM146_Kudus_json_notes.json"
+  },
+  {
+    "id": "GPM156_KamiPercaya",
+    "title": "GPM 156. Kami Percaya",
+    "authors": [
+      {"role": "Lirik", "name": "FERy NAHUSONA"},
+      {"role": "Lagu", "name": "SEMI TOISUTTA"}
+    ],
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM156_KamiPercaya/exports/",
+    "mediaPath": "/nyanyianGPM/GPM156_KamiPercaya/exports/",
+
+    "svgFile": "GPM156_KamiPercaya.svg",
+    "audioFile": "GPM156_KamiPercaya.mp3",
+
+    "syncFile": "GPM156_KamiPercaya.yaml",
+    "configFile": "GPM156_KamiPercaya.config.yaml",
+
+    "notesFile": "GPM156_KamiPercaya_json_notes.json"
+  },
+  {
+    "id": "GPM158_TuhanAdalahGembalaku",
+    "title": "GPM 158. Tuhan Adalah Gembalaku",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "E",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM158_TuhanAdalahGembalaku/exports/",
+    "mediaPath": "/nyanyianGPM/GPM158_TuhanAdalahGembalaku/exports/",
+
+    "svgFile": "GPM158_TuhanAdalahGembalaku.svg",
+    "audioFile": "GPM158_TuhanAdalahGembalaku.mp3",
+
+    "syncFile": "GPM158_TuhanAdalahGembalaku.yaml",
+    "configFile": "GPM158_TuhanAdalahGembalaku.config.yaml",
+
+    "notesFile": "GPM158_TuhanAdalahGembalaku_json_notes.json"
+  },
+  {
+    "id": "GPM159_TuhanAdalahRajaSegalaRaja",
+    "title": "GPM 159. Tuhan Adalah Raja Segala Raja",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "SONIA C. PARERA - HUMMEL"}
+    ],
+    "year": "2007",
+    "key": "E",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/exports/",
+    "mediaPath": "/nyanyianGPM/GPM159_TuhanAdalahRajaSegalaRaja/exports/",
+
+    "svgFile": "GPM159_TuhanAdalahRajaSegalaRaja.svg",
+    "audioFile": "GPM159_TuhanAdalahRajaSegalaRaja.mp3",
+
+    "syncFile": "GPM159_TuhanAdalahRajaSegalaRaja.yaml",
+    "configFile": "GPM159_TuhanAdalahRajaSegalaRaja.config.yaml",
+
+    "notesFile": "GPM159_TuhanAdalahRajaSegalaRaja_json_notes.json"
+  },
+  {
+    "id": "GPM161_YesusJuruSelamatKu",
+    "title": "GPM 161. Yesus Juru Selamat Ku",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BERTHY PATTIASINA"}
+    ],
+    "year": "2010",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM161_YesusJuruSelamatKu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM161_YesusJuruSelamatKu/exports/",
+
+    "svgFile": "GPM161_YesusJuruSelamatKu.svg",
+    "audioFile": "GPM161_YesusJuruSelamatKu.mp3",
+
+    "syncFile": "GPM161_YesusJuruSelamatKu.yaml",
+    "configFile": "GPM161_YesusJuruSelamatKu.config.yaml",
+
+    "notesFile": "GPM161_YesusJuruSelamatKu_json_notes.json"
+  },
+  {
+    "id": "GPM162_YesusKristusAdalahTuhan",
+    "title": "GPM 162. Yesus Kristus Adalah Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "P. J. FERDINANDUS"}
+    ],
+    "year": "2007",
+    "key": "F",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/exports/",
+
+    "svgFile": "GPM162_YesusKristusAdalahTuhan.svg",
+    "audioFile": "GPM162_YesusKristusAdalahTuhan.mp3",
+
+    "syncFile": "GPM162_YesusKristusAdalahTuhan.yaml",
+    "configFile": "GPM162_YesusKristusAdalahTuhan.config.yaml",
+
+    "notesFile": "GPM162_YesusKristusAdalahTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM166_AyoBawaPersembahanmu",
+    "title": "GPM 166. Ayo Bawa Persembahanmu",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "2009",
+    "key": "D",
+    "timeSignature": "2/4",
+    "tempo": "100",
+
+    "dataPath": "/nyanyianGPM/GPM166_AyoBawaPersembahanmu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM166_AyoBawaPersembahanmu/exports/",
+
+    "svgFile": "GPM166_AyoBawaPersembahanmu.svg",
+    "audioFile": "GPM166_AyoBawaPersembahanmu.mp3",
+
+    "syncFile": "GPM166_AyoBawaPersembahanmu.yaml",
+    "configFile": "GPM166_AyoBawaPersembahanmu.config.yaml",
+
+    "notesFile": "GPM166_AyoBawaPersembahanmu_json_notes.json"
+  },
+  {
+    "id": "GPM188_KristusMengundang",
+    "title": "GPM 188. Kristus Mengundang",
+    "authors": [
+      {"role": "Lagu", "name": "MONIKE HUKUBUN"},
+      {"role": "Syair", "name": "MONICA PARIELA - PARERA"}
+    ],
+    "year": "2010",
+    "key": "E",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM188_KristusMengundang/exports/",
+    "mediaPath": "/nyanyianGPM/GPM188_KristusMengundang/exports/",
+
+    "svgFile": "GPM188_KristusMengundang.svg",
+    "audioFile": "GPM188_KristusMengundang.mp3",
+
+    "syncFile": "GPM188_KristusMengundang.yaml",
+    "configFile": "GPM188_KristusMengundang.config.yaml",
+
+    "notesFile": "GPM188_KristusMengundang_json_notes.json"
+  },
+  {
+    "id": "GPM190_BerbahagialahPasanganIni",
+    "title": "GPM 190. Berbahagialah Pasangan Ini",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "P. J. FERDINANDUS"}
+    ],
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM190_BerbahagialahPasanganIni/exports/",
+    "mediaPath": "/nyanyianGPM/GPM190_BerbahagialahPasanganIni/exports/",
+
+    "svgFile": "GPM190_BerbahagialahPasanganIni.svg",
+    "audioFile": "GPM190_BerbahagialahPasanganIni.mp3",
+
+    "syncFile": "GPM190_BerbahagialahPasanganIni.yaml",
+    "configFile": "GPM190_BerbahagialahPasanganIni.config.yaml",
+
+    "notesFile": "GPM190_BerbahagialahPasanganIni_json_notes.json"
+  },
+  {
+    "id": "GPM192_TuhanBerkatiNikahIni",
+    "title": "GPM 192. Tuhan Berkati Nikah Ini",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "2010",
+    "key": "E",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM192_TuhanBerkatiNikahIni/exports/",
+    "mediaPath": "/nyanyianGPM/GPM192_TuhanBerkatiNikahIni/exports/",
+
+    "svgFile": "GPM192_TuhanBerkatiNikahIni.svg",
+    "audioFile": "GPM192_TuhanBerkatiNikahIni.mp3",
+
+    "syncFile": "GPM192_TuhanBerkatiNikahIni.yaml",
+    "configFile": "GPM192_TuhanBerkatiNikahIni.config.yaml",
+
+    "notesFile": "GPM192_TuhanBerkatiNikahIni_json_notes.json"
+  },
+  {
+    "id": "GPM194_BerjumpaLagi",
+    "title": "GPM 194. Berjumpa Lagi",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "year": "1997",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM194_BerjumpaLagi/exports/",
+    "mediaPath": "/nyanyianGPM/GPM194_BerjumpaLagi/exports/",
+
+    "svgFile": "GPM194_BerjumpaLagi.svg",
+    "audioFile": "GPM194_BerjumpaLagi.mp3",
+
+    "syncFile": "GPM194_BerjumpaLagi.yaml",
+    "configFile": "GPM194_BerjumpaLagi.config.yaml",
+
+    "notesFile": "GPM194_BerjumpaLagi_json_notes.json"
+  },
+  {
+    "id": "GPM198_DiHeningPagi",
+    "title": "GPM 198. Di Hening Pagi",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "MONICA PARIELA - PARERA"}
+    ],
+    "year": "2008",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM198_DiHeningPagi/exports/",
+    "mediaPath": "/nyanyianGPM/GPM198_DiHeningPagi/exports/",
+
+    "svgFile": "GPM198_DiHeningPagi.svg",
+    "audioFile": "GPM198_DiHeningPagi.mp3",
+
+    "syncFile": "GPM198_DiHeningPagi.yaml",
+    "configFile": "GPM198_DiHeningPagi.config.yaml",
+
+    "notesFile": "GPM198_DiHeningPagi_json_notes.json"
+  },
+  {
+    "id": "GPM200_PagiYangIndah",
+    "title": "GPM 200. Pagi Yang Indah",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "OTS. KILANMASSE"}
+    ],
+    "year": "2009",
+    "key": "E",
+    "timeSignature": "4/4",
+    "tempo": "95",
+
+    "dataPath": "/nyanyianGPM/GPM200_PagiYangIndah/exports/",
+    "mediaPath": "/nyanyianGPM/GPM200_PagiYangIndah/exports/",
+
+    "svgFile": "GPM200_PagiYangIndah.svg",
+    "audioFile": "GPM200_PagiYangIndah.mp3",
+
+    "syncFile": "GPM200_PagiYangIndah.yaml",
+    "configFile": "GPM200_PagiYangIndah.config.yaml",
+
+    "notesFile": "GPM200_PagiYangIndah_json_notes.json"
+  },
+
+  {
+    "id": "GPM224_NyatakanlahDalamHidupmu",
+    "title": "GPM 224. Nyatakanlah Dalam Hidupmu",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/exports/",
+
+    "svgFile": "GPM224_NyatakanlahDalamHidupmu.svg",
+    "audioFile": "GPM224_NyatakanlahDalamHidupmu.mp3",
+
+    "syncFile": "GPM224_NyatakanlahDalamHidupmu.yaml",
+    "configFile": "GPM224_NyatakanlahDalamHidupmu.config.yaml",
+
+    "notesFile": "GPM224_NyatakanlahDalamHidupmu_json_notes.json"
+  },
+  {
+    "id": "GPM240_AjarAnakMuYaBapa",
+    "title": "GPM 240. Ajar Anak Mu Ya Bapa",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "MONICA PARIELA - PARERA"}
+    ],
+    "year": "2007",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM240_AjarAnakMuYaBapa/exports/",
+    "mediaPath": "/nyanyianGPM/GPM240_AjarAnakMuYaBapa/exports/",
+
+    "svgFile": "GPM240_AjarAnakMuYaBapa.svg",
+    "audioFile": "GPM240_AjarAnakMuYaBapa.mp3",
+
+    "syncFile": "GPM240_AjarAnakMuYaBapa.yaml",
+    "configFile": "GPM240_AjarAnakMuYaBapa.config.yaml",
+
+    "notesFile": "GPM240_AjarAnakMuYaBapa_json_notes.json"
+  },
+  {
+    "id": "GPM255_TuhanPenyelamat",
+    "title": "GPM 255. Tuhan Penyelamat",
+    "authors": [
+      {"role": "Lirik", "name": "MONICA PARIELA - PARERA"},
+      {"role": "Lagu", "name": "SONIA C. PARERA - HUMMEL"}
+    ],
+    "year": "2009",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM255_TuhanPenyelamat/exports/",
+    "mediaPath": "/nyanyianGPM/GPM255_TuhanPenyelamat/exports/",
+
+    "svgFile": "GPM255_TuhanPenyelamat.svg",
+    "audioFile": "GPM255_TuhanPenyelamat.mp3",
+
+    "syncFile": "GPM255_TuhanPenyelamat.yaml",
+    "configFile": "GPM255_TuhanPenyelamat.config.yaml",
+
+    "notesFile": "GPM255_TuhanPenyelamat_json_notes.json"
+  },
+  {
+    "id": "GPM257_TuhanKuMemerlukanMu",
+    "title": "GPM 257. Tuhan Ku MemerlukanMu",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "HENDRY TUHUSULA"}
+    ],
+    "year": "2008",
+    "key": "F",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM257_TuhanKuMemerlukanMu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM257_TuhanKuMemerlukanMu/exports/",
+
+    "svgFile": "GPM257_TuhanKuMemerlukanMu.svg",
+    "audioFile": "GPM257_TuhanKuMemerlukanMu.mp3",
+
+    "syncFile": "GPM257_TuhanKuMemerlukanMu.yaml",
+    "configFile": "GPM257_TuhanKuMemerlukanMu.config.yaml",
+
+    "notesFile": "GPM257_TuhanKuMemerlukanMu_json_notes.json"
+  },
+
+  {
+    "id": "GPM268_YaTuhanKu",
+    "title": "GPM 268. Ya Tuhan Ku",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "D",
+    "timeSignature": "3/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM268_YaTuhanKu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM268_YaTuhanKu/exports/",
+
+    "svgFile": "GPM268_YaTuhanKu.svg",
+    "audioFile": "GPM268_YaTuhanKu.mp3",
+
+    "syncFile": "GPM268_YaTuhanKu.yaml",
+    "configFile": "GPM268_YaTuhanKu.config.yaml",
+
+    "notesFile": "GPM268_YaTuhanKu_json_notes.json"
+  },
+  {
+    "id": "GPM270_BersukacitalahDalamPengharapan",
+    "title": "GPM 270. Bersukacitalah Dalam Pengharapan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "NUS TOMATALA"}
+    ],
+    "year": "2008",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM270_BersukacitalahDalamPengharapan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM270_BersukacitalahDalamPengharapan/exports/",
+
+    "svgFile": "GPM270_BersukacitalahDalamPengharapan.svg",
+    "audioFile": "GPM270_BersukacitalahDalamPengharapan.mp3",
+
+    "syncFile": "GPM270_BersukacitalahDalamPengharapan.yaml",
+    "configFile": "GPM270_BersukacitalahDalamPengharapan.config.yaml",
+
+    "notesFile": "GPM270_BersukacitalahDalamPengharapan_json_notes.json"
+  },
+  {
+    "id": "GPM279_HasilOrangBenar",
+    "title": "GPM 279. Hasil Orang Benar",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "A",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM279_HasilOrangBenar/exports/",
+    "mediaPath": "/nyanyianGPM/GPM279_HasilOrangBenar/exports/",
+
+    "svgFile": "GPM279_HasilOrangBenar.svg",
+    "audioFile": "GPM.mp3",
+
+    "syncFile": "GPM279_HasilOrangBenar.yaml",
+    "configFile": "GPM279_HasilOrangBenar.config.yaml",
+
+    "notesFile": "GPM279_HasilOrangBenar_json_notes.json"
+  },
+  {
+    "id": "GPM280_HidopDalamTuhan",
+    "title": "GPM 280. Hidop Dalam Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "JOHN F. BEAY"}
+    ],
+    "year": "2009",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "90",
+
+    "dataPath": "/nyanyianGPM/GPM280_HidopDalamTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM280_HidopDalamTuhan/exports/",
+
+    "svgFile": "GPM280_HidopDalamTuhan.svg",
+    "audioFile": "GPM280_HidopDalamTuhan.mp3",
+
+    "syncFile": "GPM280_HidopDalamTuhan.yaml",
+    "configFile": "GPM280_HidopDalamTuhan.config.yaml",
+
+    "notesFile": "GPM280_HidopDalamTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM281_NamaMuYesus",
+    "title": "GPM 281. Nama Mu Yesus",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "G",
+    "timeSignature": "4/4",
+    "tempo": "100",
+
+    "dataPath": "/nyanyianGPM/GPM281_NamaMuYesus/exports/",
+    "mediaPath": "/nyanyianGPM/GPM281_NamaMuYesus/exports/",
+
+    "svgFile": "GPM281_NamaMuYesus.svg",
+    "audioFile": "GPM281_NamaMuYesus.mp3",
+
+    "syncFile": "GPM281_NamaMuYesus.yaml",
+    "configFile": "GPM281_NamaMuYesus.config.yaml",
+
+    "notesFile": "GPM281_NamaMuYesus_json_notes.json"
+  },
+  {
+    "id": "GPM282_SelaluKuRasakan",
+    "title": "GPM 282. Selalu Ku Rasakan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "ALEX TITAWANNO"}
+    ],
+    "year": "2007",
+    "key": "F",
+    "timeSignature": "3/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM282_SelaluKuRasakan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM282_SelaluKuRasakan/exports/",
+
+    "svgFile": "GPM282_SelaluKuRasakan.svg",
+    "audioFile": "GPM282_SelaluKuRasakan.mp3",
+
+    "syncFile": "GPM282_SelaluKuRasakan.yaml",
+    "configFile": "GPM282_SelaluKuRasakan.config.yaml",
+
+    "notesFile": "GPM282_SelaluKuRasakan_json_notes.json"
+  },
+  {
+    "id": "GPM284_TuhanKu",
+    "title": "GPM 284. Tuhan Ku",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM284_TuhanKu/exports/",
+    "mediaPath": "/nyanyianGPM/GPM284_TuhanKu/exports/",
+
+    "svgFile": "GPM284_TuhanKu.svg",
+    "audioFile": "GPM284_TuhanKu.mp3",
+
+    "syncFile": "GPM284_TuhanKu.yaml",
+    "configFile": "GPM284_TuhanKu.config.yaml",
+
+    "notesFile": "GPM284_TuhanKu_json_notes.json"
+  },
+  {
+    "id": "GPM287_PegangTanganTuhan",
+    "title": "GPM 287. Pegang Tangan Tuhan",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "HEIN SAMANGUN"}
+    ],
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM287_PegangTanganTuhan/exports/",
+    "mediaPath": "/nyanyianGPM/GPM287_PegangTanganTuhan/exports/",
+
+    "svgFile": "GPM287_PegangTanganTuhan.svg",
+    "audioFile": "GPM287_PegangTanganTuhan.mp3",
+
+    "syncFile": "GPM287_PegangTanganTuhan.yaml",
+    "configFile": "GPM287_PegangTanganTuhan.config.yaml",
+
+    "notesFile": "GPM287_PegangTanganTuhan_json_notes.json"
+  },
+  {
+    "id": "GPM292_TuhankuAjarlahAkuBersabar",
+    "title": "GPM 292. Tuhanku Ajarlah Aku Bersabar",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "JOHN F. BEAY"}
+    ],
+    "year": "2009",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/exports/",
+    "mediaPath": "/nyanyianGPM/GPM292_TuhankuAjarlahAkuBersabar/exports/",
+
+    "svgFile": "GPM292_TuhankuAjarlahAkuBersabar.svg",
+    "audioFile": "GPM292_TuhankuAjarlahAkuBersabar.mp3",
+
+    "syncFile": "GPM292_TuhankuAjarlahAkuBersabar.yaml",
+    "configFile": "GPM292_TuhankuAjarlahAkuBersabar.config.yaml",
+
+    "notesFile": "GPM292_TuhankuAjarlahAkuBersabar_json_notes.json"
+  },
+  {
+    "id": "GPM305_MemberlakukanPerdamaianAllah",
+    "title": "GPM 305. Memberlakukan Perdamaian Allah",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "CHRISTIAN I. TAMAELA"}
+    ],
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "100",
+
+    "dataPath": "/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/exports/",
+    "mediaPath": "/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/exports/",
+
+    "svgFile": "GPM305_MemberlakukanPerdamaianAllah.svg",
+    "audioFile": "GPM305_MemberlakukanPerdamaianAllah.mp3",
+
+    "syncFile": "GPM305_MemberlakukanPerdamaianAllah.yaml",
+    "configFile": "GPM305_MemberlakukanPerdamaianAllah.config.yaml",
+
+    "notesFile": "GPM305_MemberlakukanPerdamaianAllah_json_notes.json"
+  },
+  {
+    "id": "GPM309_DiSaatSusah",
+    "title": "GPM 309. Di Saat Susah",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "ADRIANA LOHY & LILI PICANUSSA"}
+    ],
+    "year": "2008",
+    "key": "D",
+    "timeSignature": "3/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM309_DiSaatSusah/exports/",
+    "mediaPath": "/nyanyianGPM/GPM309_DiSaatSusah/exports/",
+
+    "svgFile": "GPM309_DiSaatSusah.svg",
+    "audioFile": "GPM309_DiSaatSusah.mp3",
+
+    "syncFile": "GPM309_DiSaatSusah.yaml",
+    "configFile": "GPM309_DiSaatSusah.config.yaml",
+
+    "notesFile": "GPM309_DiSaatSusah_json_notes.json"
+  },
+  {
+    "id": "GPM310_SatuTanganTakKuat",
+    "title": "GPM 310. Satu Tangan 'tak Kuat",
+    "authors": [
+      {"role": "Lirik", "name": "WIM DAVIDSZ"},
+      {"role": "Lagu", "name": "AGUST C. W. GASPERZ"}
+    ],
+    "year": "Juni, 2005",
+    "key": "D",
+    "timeSignature": "4/4",
+    "tempo": "100",
+
+    "dataPath": "/nyanyianGPM/GPM310_SatuTanganTakKuat/exports/",
+    "mediaPath": "/nyanyianGPM/GPM310_SatuTanganTakKuat/exports/",
+
+    "svgFile": "GPM310_SatuTanganTakKuat.svg",
+    "audioFile": "GPM310_SatuTanganTakKuat.mp3",
+
+    "syncFile": "GPM310_SatuTanganTakKuat.yaml",
+    "configFile": "GPM310_SatuTanganTakKuat.config.yaml",
+
+    "notesFile": "GPM310_SatuTanganTakKuat_json_notes.json"
+  },
+  {
+    "id": "GPM313_KatongBakumpulRameRame",
+    "title": "GPM 313. Katong Bakumpul Rame Rame",
+    "authors": [
+      {"role": "Lagu dan Syair", "name": "BARTJE ISTIA"}
+    ],
+    "year": "2007",
+    "key": "C",
+    "timeSignature": "4/4",
+    "tempo": "80",
+
+    "dataPath": "/nyanyianGPM/GPM313_KatongBakumpulRameRame/exports/",
+    "mediaPath": "/nyanyianGPM/GPM313_KatongBakumpulRameRame/exports/",
+
+    "svgFile": "GPM313_KatongBakumpulRameRame.svg",
+    "audioFile": "GPM313_KatongBakumpulRameRame.mp3",
+
+    "syncFile": "GPM313_KatongBakumpulRameRame.yaml",
+    "configFile": "GPM313_KatongBakumpulRameRame.config.yaml",
+
+    "notesFile": "GPM313_KatongBakumpulRameRame_json_notes.json"
+  }
+]

@@ -1,0 +1,1146 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:43:1:2"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 10.536,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:43:5:6"
+    ],
+    "on_tick": 192,
+    "off_tick": 768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 12.965,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:43:10:11"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 18.515,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:43:14:15"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 20.944,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:43:18:19"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 64,
+    "channel": 0,
+    "x": 25.508,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:43:22:23"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 65,
+    "channel": 0,
+    "x": 30.533,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:44:1:2"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 67,
+    "channel": 0,
+    "x": 34.724,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:44:5:6"
+    ],
+    "on_tick": 1728,
+    "off_tick": 2304,
+    "pitch": 67,
+    "channel": 0,
+    "x": 37.153,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:44:13:14"
+    ],
+    "on_tick": 2496,
+    "off_tick": 2688,
+    "pitch": 67,
+    "channel": 0,
+    "x": 44.903,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:44:17:18"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2880,
+    "pitch": 65,
+    "channel": 0,
+    "x": 47.427,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:44:21:22"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 50.745,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:45:1:2"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 62,
+    "channel": 0,
+    "x": 54.936,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:45:5:6"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 62,
+    "channel": 0,
+    "x": 58.565,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:45:9:10"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 64,
+    "channel": 0,
+    "x": 60.995,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:45:13:14"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 65,
+    "channel": 0,
+    "x": 64.936,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:45:17:18"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 69.688,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:46:1:2"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 65,
+    "channel": 0,
+    "x": 75.078,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:46:5:6"
+    ],
+    "on_tick": 4800,
+    "off_tick": 5760,
+    "pitch": 64,
+    "channel": 0,
+    "x": 77.508,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:46:17:18"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6144,
+    "pitch": 60,
+    "channel": 0,
+    "x": 88.378,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:1:2"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 65,
+    "channel": 0,
+    "x": 93.778,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:5:6"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 65,
+    "channel": 0,
+    "x": 98.317,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:9:10"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 65,
+    "channel": 0,
+    "x": 102.83,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:13:14"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 106.191,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:17:18"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 109.21,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:21:22"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 74,
+    "channel": 0,
+    "x": 112.839,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:47:26:27"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 72,
+    "channel": 0,
+    "x": 115.551,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:48:1:2"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 71,
+    "channel": 0,
+    "x": 119.742,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:48:5:6"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 72,
+    "channel": 0,
+    "x": 122.171,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 126.112,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:48:14:15"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 130.284,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:48:18:19"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 132.713,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:49:1:2"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9984,
+    "pitch": 67,
+    "channel": 0,
+    "x": 141.224,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:49:8:9"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 150.174,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:49:12:13"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 72,
+    "channel": 0,
+    "x": 154.081,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:49:17:18"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 158.517,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:50:1:2"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 67,
+    "channel": 0,
+    "x": 162.738,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:50:5:6"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11712,
+    "pitch": 65,
+    "channel": 0,
+    "x": 166.368,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:50:10:11"
+    ],
+    "on_tick": 11712,
+    "off_tick": 11904,
+    "pitch": 72,
+    "channel": 0,
+    "x": 171.917,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:50:15:16"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12096,
+    "pitch": 71,
+    "channel": 0,
+    "x": 176.635,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:50:19:20"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 69,
+    "channel": 0,
+    "x": 180.696,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:51:1:2"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 184.893,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:51:5:6"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13440,
+    "pitch": 67,
+    "channel": 0,
+    "x": 188.522,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:51:9:10"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 72,
+    "channel": 0,
+    "x": 195.272,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:51:14:15"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 72,
+    "channel": 0,
+    "x": 199.11,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:1:2"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 72,
+    "channel": 0,
+    "x": 203.301,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:6:7"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 69,
+    "channel": 0,
+    "x": 206.662,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:10:11"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 210.731,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:14:15"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 72,
+    "channel": 0,
+    "x": 214.109,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:19:20"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 72,
+    "channel": 0,
+    "x": 216.667,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:24:25"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14976,
+    "pitch": 71,
+    "channel": 0,
+    "x": 219.096,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:28:29"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15168,
+    "pitch": 69,
+    "channel": 0,
+    "x": 221.525,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:52:34:35"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 71,
+    "channel": 0,
+    "x": 223.954,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:53:1:2"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 72,
+    "channel": 0,
+    "x": 228.145,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:53:6:7"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 72,
+    "channel": 0,
+    "x": 232.001,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:53:14:15"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 237.83,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:53:18:19"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 240.303,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:53:22:23"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 65,
+    "channel": 0,
+    "x": 243.945,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:54:1:2"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 248.136,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:54:5:6"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 252.538,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:54:9:10"
+    ],
+    "on_tick": 17664,
+    "off_tick": 17856,
+    "pitch": 67,
+    "channel": 0,
+    "x": 256.744,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:54:13:14"
+    ],
+    "on_tick": 17856,
+    "off_tick": 18048,
+    "pitch": 67,
+    "channel": 0,
+    "x": 259.173,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:54:17:18"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18240,
+    "pitch": 65,
+    "channel": 0,
+    "x": 262.175,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:54:21:22"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 64,
+    "channel": 0,
+    "x": 265.903,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:55:1:2"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 67,
+    "channel": 0,
+    "x": 270.094,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:55:5:6"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 65,
+    "channel": 0,
+    "x": 274.616,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:55:12:13"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 65,
+    "channel": 0,
+    "x": 280.445,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:55:16:17"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 65,
+    "channel": 0,
+    "x": 282.874,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:55:20:21"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 64,
+    "channel": 0,
+    "x": 285.303,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:56:1:2"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 62,
+    "channel": 0,
+    "x": 289.494,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:56:5:6"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 62,
+    "channel": 0,
+    "x": 293.124,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:56:9:10"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 62,
+    "channel": 0,
+    "x": 298.2,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:56:13:14"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 62,
+    "channel": 0,
+    "x": 303.012,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:56:17:18"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21312,
+    "pitch": 60,
+    "channel": 0,
+    "x": 307.252,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:56:21:22"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 62,
+    "channel": 0,
+    "x": 311.551,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:57:1:2"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 65,
+    "channel": 0,
+    "x": 315.742,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:57:5:6"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 64,
+    "channel": 0,
+    "x": 319.461,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:57:12:13"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 325.29,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 67,
+    "channel": 0,
+    "x": 328.992,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:57:20:21"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 65,
+    "channel": 0,
+    "x": 334.342,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:1:2"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 64,
+    "channel": 0,
+    "x": 339.18,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:5:6"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 64,
+    "channel": 0,
+    "x": 343.018,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:9:10"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23616,
+    "pitch": 64,
+    "channel": 0,
+    "x": 347.488,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:13:14"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 72,
+    "channel": 0,
+    "x": 351.865,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:18:19"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24000,
+    "pitch": 72,
+    "channel": 0,
+    "x": 355.004,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:23:24"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 72,
+    "channel": 0,
+    "x": 359.585,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:28:29"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 71,
+    "channel": 0,
+    "x": 364.474,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:58:32:33"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 72,
+    "channel": 0,
+    "x": 367.715,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:59:1:2"
+    ],
+    "on_tick": 24576,
+    "off_tick": 25344,
+    "pitch": 74,
+    "channel": 0,
+    "x": 371.906,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:59:6:7"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 74,
+    "channel": 0,
+    "x": 378.655,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:59:11:12"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 72,
+    "channel": 0,
+    "x": 381.35,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:59:16:17"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 71,
+    "channel": 0,
+    "x": 385.419,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:59:20:21"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 389.548,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:60:1:2"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 393.739,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:60:8:9"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 72,
+    "channel": 0,
+    "x": 402.688,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:60:13:14"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 71,
+    "channel": 0,
+    "x": 407.176,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:60:17:18"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 411.074,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:1:2"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 67,
+    "channel": 0,
+    "x": 415.265,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:5:6"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28224,
+    "pitch": 72,
+    "channel": 0,
+    "x": 418.156,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:10:11"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 72,
+    "channel": 0,
+    "x": 425.153,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:15:16"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 76,
+    "channel": 0,
+    "x": 429.393,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:20:21"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 74,
+    "channel": 0,
+    "x": 433.693,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:25:26"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 437.548,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:61:29:30"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 71,
+    "channel": 0,
+    "x": 441.609,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM084_JikaAdaYangBerkata/GPM084_JikaAdaYangBerkata_ly_data.ily:62:1:2"
+    ],
+    "on_tick": 29184,
+    "off_tick": 30720,
+    "pitch": 72,
+    "channel": 0,
+    "x": 445.8,
+    "y": 12.736
+  }
+]

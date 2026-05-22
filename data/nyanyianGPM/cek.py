@@ -1,11 +1,11 @@
 import librosa
 from mido import MidiFile
 
-durationmp3 = librosa.get_duration(path="GPM240_AjarAnakMuYaBapa\exports\GPM240_AjarAnakMuYaBapa.mp3")
+durationmp3 = librosa.get_duration(path="GPM114_NyanyikanBagiTuhan\exports\GPM114_NyanyikanBagiTuhan.mp3")
 
 
 
-mid = MidiFile("GPM240_AjarAnakMuYaBapa\GPM240_AjarAnakMuYaBapa.midi")
+mid = MidiFile("GPM114_NyanyikanBagiTuhan\GPM114_NyanyikanBagiTuhan.midi")
 
 durationmidi = mid.length
 

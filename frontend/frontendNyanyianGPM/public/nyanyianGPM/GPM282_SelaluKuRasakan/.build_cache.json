@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM282_SelaluKuRasakan.ly": "c68e7700b0c24da90cb7b6a3bfa0adb4aee4b9ccd377d211a9b303ca6db93acb",
+    "GPM282_SelaluKuRasakan_ly_data.ily": "61aed51835638da5b0798296766e34d874688345344d05bade7552595d66bb72",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM282_SelaluKuRasakan_ly_one_line.ly": "c814bb5d3e111669c8885aa9e89fbab32efab9155722a770fa3e5c9e5f3fab0f",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM282_SelaluKuRasakan_ly_data.ily": "61aed51835638da5b0798296766e34d874688345344d05bade7552595d66bb72",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM282_SelaluKuRasakan.ly": "c68e7700b0c24da90cb7b6a3bfa0adb4aee4b9ccd377d211a9b303ca6db93acb"
+  },
+  "events": {
+    "GPM282_SelaluKuRasakan_ly_one_line.midi": "1ba50242dcd52e523aad13d24e6b19ea490e3438d97fbbd0f73ee282b1431bd4"
+  },
+  "filter_one_line": {
+    "GPM282_SelaluKuRasakan_ly_one_line.svg": "44ac36a9c87d45b608cb49b0d894429e6f766e8cdf618781fa2a332138a3a946"
+  },
+  "ties": {
+    "GPM282_SelaluKuRasakan_ly_one_line_filtered.svg": "c7e76c7523a784b2232df17c0135e36368e2c06b99f81e943a56ac6a2a4a02e6"
+  },
+  "noteheads": {
+    "GPM282_SelaluKuRasakan_ly_one_line_filtered.svg": "c7e76c7523a784b2232df17c0135e36368e2c06b99f81e943a56ac6a2a4a02e6"
+  },
+  "squash": {
+    "GPM282_SelaluKuRasakan_note_heads.csv": "c63da95d53cabd34f698a3626dd763f7d0a6c5155983b1739c979a7cf0f40b22",
+    "GPM282_SelaluKuRasakan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM282_SelaluKuRasakan_note_heads_squashed.csv": "a63f5862d781dae4156bf14b7b1153809fc7864196a6cd013cd601b836514df1",
+    "GPM282_SelaluKuRasakan_note_events.csv": "4e621902721e2209586acbb4ba996cc9b79d5ae2fe90a6a8561130509df6ca17"
+  },
+  "svg": {
+    "GPM282_SelaluKuRasakan.ly": "c68e7700b0c24da90cb7b6a3bfa0adb4aee4b9ccd377d211a9b303ca6db93acb",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM282_SelaluKuRasakan_ly_data.ily": "61aed51835638da5b0798296766e34d874688345344d05bade7552595d66bb72",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM282_SelaluKuRasakan.svg": "9ace2cfffab607a57d51783b0db831ba5b7dfd506bd6f70634a30de9999d0e19"
+  },
+  "swell": {
+    "GPM282_SelaluKuRasakan_filtered.svg": "f905668ccd3cec53a08a8b785bf50a6772651d25b1dda894953b3fed1251f453"
+  },
+  "optim": {
+    "GPM282_SelaluKuRasakan_filtered_swellable.svg": "0b1e146bfcdfa3d54d4e875404f1e09f84a7e44dd0d4f87544bd95829b9d0b0e"
+  },
+  "sync": {
+    "GPM282_SelaluKuRasakan_optimized.svg": "0b644ce8e13f66612abe3cfa379352716fa18019b16a91cae3b7274e1e022b61",
+    "GPM282_SelaluKuRasakan_json_notes.json": "8a7e88fbcc372de7de941caa15d7cab57c535ce219f48b7966a5f0a04d668a93",
+    "GPM282_SelaluKuRasakan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM282_SelaluKuRasakan.config.yaml": "6c8884401263336f224cd073f0c497f8b4b59b8f335edf774e4b789c3fd4c870"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM192_TuhanBerkatiNikahKami.ly": "5b0e666ce89d2071c177b3883de8a59c8548ae0f10c3049fc5c30b636ac5a790",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM192_TuhanBerkatiNikahKami_ly_data.ily": "36aef50697caeb1e853ec849bbdcc44fcd669fbcbc0bd3c06a7c02fb03105057",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM192_TuhanBerkatiNikahKami_ly_one_line.ly": "e9954013d7d2621ce8cf44161ae0f8d33928d88d6d35a56cc40bb08f62598f48",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM192_TuhanBerkatiNikahKami_ly_data.ily": "36aef50697caeb1e853ec849bbdcc44fcd669fbcbc0bd3c06a7c02fb03105057",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM192_TuhanBerkatiNikahKami.ly": "5b0e666ce89d2071c177b3883de8a59c8548ae0f10c3049fc5c30b636ac5a790"
+  },
+  "events": {
+    "GPM192_TuhanBerkatiNikahKami_ly_one_line.midi": "af8b5ca53ac9b80df784479d31df3eb7ea7ba81453bd5e5e08ee12afbe00eb98"
+  },
+  "filter_one_line": {
+    "GPM192_TuhanBerkatiNikahKami_ly_one_line.svg": "24d37ac69b1d476a365d6faeaeaead1d21c3a19a5f197234bf8f729dce4bf576"
+  },
+  "ties": {
+    "GPM192_TuhanBerkatiNikahKami_ly_one_line_filtered.svg": "6e3f65ab05ee26f4ec6d4b3657c291cfe6967cad528468df7b46aca4bc6d04bb"
+  },
+  "noteheads": {
+    "GPM192_TuhanBerkatiNikahKami_ly_one_line_filtered.svg": "6e3f65ab05ee26f4ec6d4b3657c291cfe6967cad528468df7b46aca4bc6d04bb"
+  },
+  "squash": {
+    "GPM192_TuhanBerkatiNikahKami_note_heads.csv": "ee70389e27b3db635f50240627868299bbe6037c49e3308853273119890689f6",
+    "GPM192_TuhanBerkatiNikahKami_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM192_TuhanBerkatiNikahKami_note_heads_squashed.csv": "e9dca9b38a682f4a2ef31aa0f63d1e7db42c2219a2a1d24541c2a5564d3b4173",
+    "GPM192_TuhanBerkatiNikahKami_note_events.csv": "af4af3997790a22adac93796ddc727712297fe7ba1cae5385a2c72913544421f"
+  },
+  "svg": {
+    "GPM192_TuhanBerkatiNikahKami.ly": "5b0e666ce89d2071c177b3883de8a59c8548ae0f10c3049fc5c30b636ac5a790",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM192_TuhanBerkatiNikahKami_ly_data.ily": "36aef50697caeb1e853ec849bbdcc44fcd669fbcbc0bd3c06a7c02fb03105057",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "filter": {
+    "GPM192_TuhanBerkatiNikahKami.svg": "2301d7d607b7959fad80a71cf6ca07fadd6f0dc3946f1941ffdb0ef71908797e"
+  },
+  "swell": {
+    "GPM192_TuhanBerkatiNikahKami_filtered.svg": "8f4cd42af77dc07fe822ce13e5f44517af49dcb99930e7fe7a080f001fc73981"
+  },
+  "optim": {
+    "GPM192_TuhanBerkatiNikahKami_filtered_swellable.svg": "82b5df33fc33aa2a1f0fd3624aa3abdc1122a6ce4b5298a589f7831531630987"
+  },
+  "sync": {
+    "GPM192_TuhanBerkatiNikahKami_optimized.svg": "b3b3ba93e64d9e297298de2a748a11e98ddc8edff4d7253a4921d4f97798cde1",
+    "GPM192_TuhanBerkatiNikahKami_json_notes.json": "7a6121a1788056f815cee249163add09443af8d138130c17db233e0712d81f67",
+    "GPM192_TuhanBerkatiNikahKami_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM192_TuhanBerkatiNikahKami.config.yaml": "4e6fcb991aef247774901163017c5d22f729e94fe887018843f8eeef34296b8c"
+  }
+}

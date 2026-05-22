@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM044_DenganApakah.ly": "f81c239ba765a2c579f222f5ae03c74d611267276450593720497df2ea0b0260",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM044_DenganApakah_ly_data.ily": "8e2edadc4ce933ccd98e9eec141a5d3762cb766f0a7b5af6825e5a646d112765",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM044_DenganApakah_ly_one_line.ly": "49ec3a51a4eb5cb60361bf438412f8d19110bd2aa44c7c4bc64b0f0eeed92990",
+    "GPM044_DenganApakah.ly": "f81c239ba765a2c579f222f5ae03c74d611267276450593720497df2ea0b0260",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM044_DenganApakah_ly_data.ily": "8e2edadc4ce933ccd98e9eec141a5d3762cb766f0a7b5af6825e5a646d112765",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "events": {
+    "GPM044_DenganApakah_ly_one_line.midi": "71c773bc4776c27d9647764af56e68f6cf99507b1b72f61ab5edfb2e64f94d9e"
+  },
+  "filter_one_line": {
+    "GPM044_DenganApakah_ly_one_line.svg": "c3a731f982d312e975cbabe6214522eeae6ec18bff5d85ba7d6d44ae97ced482"
+  },
+  "ties": {
+    "GPM044_DenganApakah_ly_one_line_filtered.svg": "6dd5111da5f390265b4e3cca2236372dae1feb939885e8eb8dc05e486dc90488"
+  },
+  "noteheads": {
+    "GPM044_DenganApakah_ly_one_line_filtered.svg": "6dd5111da5f390265b4e3cca2236372dae1feb939885e8eb8dc05e486dc90488"
+  },
+  "squash": {
+    "GPM044_DenganApakah_note_heads.csv": "a5c9437cba87805ec1a37ecbc40251f96a1949e5c5d9cab843879dabbdc26425",
+    "GPM044_DenganApakah_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM044_DenganApakah_note_heads_squashed.csv": "0e123d28ea1759335ea9e48c3a195556d21519916f0b98ed95522705fef8b209",
+    "GPM044_DenganApakah_note_events.csv": "88b061acaf649a97f6ed24610ca87fb3d1ed15d5b4cbc37841f266041e79158c"
+  },
+  "svg": {
+    "GPM044_DenganApakah.ly": "f81c239ba765a2c579f222f5ae03c74d611267276450593720497df2ea0b0260",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM044_DenganApakah_ly_data.ily": "8e2edadc4ce933ccd98e9eec141a5d3762cb766f0a7b5af6825e5a646d112765",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "filter": {
+    "GPM044_DenganApakah.svg": "9e7237fc5b508ffd86bbe8691bddd7a4b64fdf644f2acd18bb995091050dbaee"
+  },
+  "swell": {
+    "GPM044_DenganApakah_filtered.svg": "57f59d9137792c87ab3011cd5d80acaca1b01a7a29499f10c192281b725e25be"
+  },
+  "optim": {
+    "GPM044_DenganApakah_filtered_swellable.svg": "32aa26d754bc14908b7dde1aada441b271504c0bac2a1bfab8244a853f2a6a67"
+  },
+  "sync": {
+    "GPM044_DenganApakah_optimized.svg": "621350c5f87fa2e44b419f7d2091d0b00e7d8e5caaf3a1c3dcfd90a71ea15ee0",
+    "GPM044_DenganApakah_json_notes.json": "642fe021c7affcb5642f1bf52cad6431f35a42716a605c65950860e7318fbc55",
+    "GPM044_DenganApakah_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM044_DenganApakah.config.yaml": "c3628888856a4d5d15fe4164f50747e86142213219e326e6b2b9bc649591123a"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM270_BersukacitalahDalamPengharapan.ly": "6f9dac84230801a92368bc41a303a62c282801b7db9703d6d62f5051891b1fa2",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM270_BersukacitalahDalamPengharapan_ly_data.ily": "20b8b43407e1fedb98731c333df3dfb83371e8631b925e67c3c5deeebac1d0b7"
+  },
+  "svg_one_line": {
+    "GPM270_BersukacitalahDalamPengharapan_ly_one_line.ly": "bd93fcb88b29141fbc6b3cbe459c18cb45ef168bd8f94b1b194cb6afc2ba91e5",
+    "GPM270_BersukacitalahDalamPengharapan.ly": "6f9dac84230801a92368bc41a303a62c282801b7db9703d6d62f5051891b1fa2",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM270_BersukacitalahDalamPengharapan_ly_data.ily": "20b8b43407e1fedb98731c333df3dfb83371e8631b925e67c3c5deeebac1d0b7",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "events": {
+    "GPM270_BersukacitalahDalamPengharapan_ly_one_line.midi": "31102cb619d947d2a076aedb5ab6ea4c8244f9f101c08c8f4b1bc487847fcff9"
+  },
+  "filter_one_line": {
+    "GPM270_BersukacitalahDalamPengharapan_ly_one_line.svg": "ec1dbd02628eab84c4d78485439f539083676999abf0ad4cae7583cd24daa86c"
+  },
+  "ties": {
+    "GPM270_BersukacitalahDalamPengharapan_ly_one_line_filtered.svg": "3ed7d4a6ae57ec8623cf80e2e77b2a340d8dc4e97afcc5c313e8db96edcab0f9"
+  },
+  "noteheads": {
+    "GPM270_BersukacitalahDalamPengharapan_ly_one_line_filtered.svg": "3ed7d4a6ae57ec8623cf80e2e77b2a340d8dc4e97afcc5c313e8db96edcab0f9"
+  },
+  "squash": {
+    "GPM270_BersukacitalahDalamPengharapan_note_heads.csv": "240157e1bc66cc961042ec21cd25a4f31ffe7852207b7f6abcdb16ef2585bc9e",
+    "GPM270_BersukacitalahDalamPengharapan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM270_BersukacitalahDalamPengharapan_note_heads_squashed.csv": "d82b4659d335735abbcaf0c9e4246155ff729add041c9347999930b6de38bd48",
+    "GPM270_BersukacitalahDalamPengharapan_note_events.csv": "3f4957cdf49a1d2225fced9baa9a41c1fa6df522082c02faf6bb1a49d421c8c7"
+  },
+  "svg": {
+    "GPM270_BersukacitalahDalamPengharapan.ly": "6f9dac84230801a92368bc41a303a62c282801b7db9703d6d62f5051891b1fa2",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM270_BersukacitalahDalamPengharapan_ly_data.ily": "20b8b43407e1fedb98731c333df3dfb83371e8631b925e67c3c5deeebac1d0b7",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM270_BersukacitalahDalamPengharapan.svg": "e009a66d9c2da3d3486bd041a5e5d1576476dfe5d7977c782a3284b8ade2430a"
+  },
+  "swell": {
+    "GPM270_BersukacitalahDalamPengharapan_filtered.svg": "84d5187c91b777a50c6016ad60857f3b18c3e8a80e306d042972915df5fb62db"
+  },
+  "optim": {
+    "GPM270_BersukacitalahDalamPengharapan_filtered_swellable.svg": "abfc034acf59fceb8a8445b497d5d5d56e022287fdc979cc7275ba6d9fad1d54"
+  },
+  "sync": {
+    "GPM270_BersukacitalahDalamPengharapan_optimized.svg": "34d902b05981190c5cda9d4a9dd0df5656a671a13c9a385c28cc92aaec2db31c",
+    "GPM270_BersukacitalahDalamPengharapan_json_notes.json": "0d600e312b335ba61635adb843c5dfcefa374870400302a0387625e91036501b",
+    "GPM270_BersukacitalahDalamPengharapan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM270_BersukacitalahDalamPengharapan.config.yaml": "f4a58c662e010a6f46e98bb2ef2eaf569f0181b641c824b286ad33a0ba1ee439"
+  }
+}

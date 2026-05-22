@@ -1,0 +1,1355 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:58:15:16"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:58:19:20"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 65,
+    "channel": 0,
+    "x": 14.852,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 384,
+    "off_tick": 1152,
+    "pitch": 67,
+    "channel": 0,
+    "x": 19.043,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 25.793,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 29.422,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:59:16:17"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 32.86,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:60:4:5"
+    ],
+    "on_tick": 1920,
+    "off_tick": 3072,
+    "pitch": 67,
+    "channel": 0,
+    "x": 37.05,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:60:9:10"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 64,
+    "channel": 0,
+    "x": 46.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:60:13:14"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 67,
+    "channel": 0,
+    "x": 50.981,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:61:4:5"
+    ],
+    "on_tick": 3456,
+    "off_tick": 4224,
+    "pitch": 72,
+    "channel": 0,
+    "x": 55.171,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:61:9:10"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 72,
+    "channel": 0,
+    "x": 61.921,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:61:14:15"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 71,
+    "channel": 0,
+    "x": 65.55,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:61:18:19"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 68.988,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:62:4:5"
+    ],
+    "on_tick": 4992,
+    "off_tick": 6144,
+    "pitch": 67,
+    "channel": 0,
+    "x": 73.178,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:62:9:10"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 64,
+    "channel": 0,
+    "x": 83.049,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:62:13:14"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 65,
+    "channel": 0,
+    "x": 87.365,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:63:4:5"
+    ],
+    "on_tick": 6528,
+    "off_tick": 7296,
+    "pitch": 67,
+    "channel": 0,
+    "x": 91.556,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:63:8:9"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 98.306,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:63:12:13"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 101.935,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:63:16:17"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 106.123,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:64:4:5"
+    ],
+    "on_tick": 8064,
+    "off_tick": 9216,
+    "pitch": 67,
+    "channel": 0,
+    "x": 110.314,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:64:9:10"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 67,
+    "channel": 0,
+    "x": 120.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:64:13:14"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 64,
+    "channel": 0,
+    "x": 124.108,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:4:5"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 65,
+    "channel": 0,
+    "x": 128.299,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:8:9"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 65,
+    "channel": 0,
+    "x": 131.907,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:12:13"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 65,
+    "channel": 0,
+    "x": 135.071,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:16:17"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 65,
+    "channel": 0,
+    "x": 138.722,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:20:21"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 65,
+    "channel": 0,
+    "x": 142.655,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:24:25"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 62,
+    "channel": 0,
+    "x": 146.596,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:28:29"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 64,
+    "channel": 0,
+    "x": 151.493,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:65:32:33"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 65,
+    "channel": 0,
+    "x": 156.348,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:66:4:5"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 67,
+    "channel": 0,
+    "x": 161.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:66:8:9"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12288,
+    "pitch": 67,
+    "channel": 0,
+    "x": 164.831,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:66:12:13"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 171.581,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:67:4:5"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 67,
+    "channel": 0,
+    "x": 176.972,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:67:8:9"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 64,
+    "channel": 0,
+    "x": 180.601,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:67:12:13"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 65,
+    "channel": 0,
+    "x": 183.492,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:67:16:17"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 67,
+    "channel": 0,
+    "x": 185.999,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:67:20:21"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 67,
+    "channel": 0,
+    "x": 188.428,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:67:24:25"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14208,
+    "pitch": 65,
+    "channel": 0,
+    "x": 191.669,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:68:4:5"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14976,
+    "pitch": 64,
+    "channel": 0,
+    "x": 197.06,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:73:15:16"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 64,
+    "channel": 0,
+    "x": 209.34,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:73:19:20"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 65,
+    "channel": 0,
+    "x": 213.69,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:74:4:5"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 217.881,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:74:8:9"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 224.631,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:74:12:13"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 69,
+    "channel": 0,
+    "x": 228.341,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:74:16:17"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 69,
+    "channel": 0,
+    "x": 230.771,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:75:4:5"
+    ],
+    "on_tick": 17280,
+    "off_tick": 18432,
+    "pitch": 67,
+    "channel": 0,
+    "x": 234.961,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:75:9:10"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 64,
+    "channel": 0,
+    "x": 244.831,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:75:13:14"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 67,
+    "channel": 0,
+    "x": 247.26,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:76:4:5"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19584,
+    "pitch": 72,
+    "channel": 0,
+    "x": 251.451,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:76:9:10"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 72,
+    "channel": 0,
+    "x": 258.201,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:76:14:15"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 71,
+    "channel": 0,
+    "x": 261.911,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:76:18:19"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 69,
+    "channel": 0,
+    "x": 264.341,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:77:4:5"
+    ],
+    "on_tick": 20352,
+    "off_tick": 21504,
+    "pitch": 67,
+    "channel": 0,
+    "x": 268.531,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:77:9:10"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 64,
+    "channel": 0,
+    "x": 278.401,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:77:13:14"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 65,
+    "channel": 0,
+    "x": 282.752,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:78:4:5"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 286.943,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:78:8:9"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 67,
+    "channel": 0,
+    "x": 293.692,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:78:12:13"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 69,
+    "channel": 0,
+    "x": 297.403,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:78:16:17"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 69,
+    "channel": 0,
+    "x": 299.832,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:79:4:5"
+    ],
+    "on_tick": 23424,
+    "off_tick": 24576,
+    "pitch": 67,
+    "channel": 0,
+    "x": 304.023,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:79:9:10"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 313.893,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:79:13:14"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 317.151,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:4:5"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 65,
+    "channel": 0,
+    "x": 321.4,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:8:9"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 65,
+    "channel": 0,
+    "x": 325.494,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:12:13"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 65,
+    "channel": 0,
+    "x": 329.734,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:16:17"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 65,
+    "channel": 0,
+    "x": 333.863,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:20:21"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 65,
+    "channel": 0,
+    "x": 337.711,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:24:25"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 62,
+    "channel": 0,
+    "x": 340.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:28:29"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 64,
+    "channel": 0,
+    "x": 343.715,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:80:32:33"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 65,
+    "channel": 0,
+    "x": 347.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:81:4:5"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 351.625,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:81:8:9"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 355.254,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:81:12:13"
+    ],
+    "on_tick": 27648,
+    "off_tick": 28032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 362.004,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:82:4:5"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 367.394,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:82:8:9"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 64,
+    "channel": 0,
+    "x": 372.249,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:82:12:13"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 65,
+    "channel": 0,
+    "x": 377.103,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:82:16:17"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 381.59,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:82:20:21"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 67,
+    "channel": 0,
+    "x": 385.634,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:82:24:25"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29568,
+    "pitch": 65,
+    "channel": 0,
+    "x": 389.259,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:83:4:5"
+    ],
+    "on_tick": 29568,
+    "off_tick": 30336,
+    "pitch": 64,
+    "channel": 0,
+    "x": 394.65,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:88:15:16"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 406.93,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:88:19:20"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 65,
+    "channel": 0,
+    "x": 409.505,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:89:4:5"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31872,
+    "pitch": 67,
+    "channel": 0,
+    "x": 413.696,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:89:8:9"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 420.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:89:12:13"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 424.156,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:89:16:17"
+    ],
+    "on_tick": 32448,
+    "off_tick": 32640,
+    "pitch": 69,
+    "channel": 0,
+    "x": 426.585,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:90:4:5"
+    ],
+    "on_tick": 32640,
+    "off_tick": 33792,
+    "pitch": 67,
+    "channel": 0,
+    "x": 430.776,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:90:9:10"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 64,
+    "channel": 0,
+    "x": 440.646,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:90:13:14"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 443.075,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:91:4:5"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34944,
+    "pitch": 72,
+    "channel": 0,
+    "x": 447.266,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:91:9:10"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35328,
+    "pitch": 72,
+    "channel": 0,
+    "x": 454.015,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:91:14:15"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35520,
+    "pitch": 71,
+    "channel": 0,
+    "x": 457.726,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:91:18:19"
+    ],
+    "on_tick": 35520,
+    "off_tick": 35712,
+    "pitch": 69,
+    "channel": 0,
+    "x": 460.155,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:92:4:5"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36864,
+    "pitch": 67,
+    "channel": 0,
+    "x": 464.346,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:92:9:10"
+    ],
+    "on_tick": 36864,
+    "off_tick": 37056,
+    "pitch": 64,
+    "channel": 0,
+    "x": 474.216,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:92:13:14"
+    ],
+    "on_tick": 37056,
+    "off_tick": 37248,
+    "pitch": 65,
+    "channel": 0,
+    "x": 476.791,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:93:4:5"
+    ],
+    "on_tick": 37248,
+    "off_tick": 38016,
+    "pitch": 67,
+    "channel": 0,
+    "x": 480.982,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:93:8:9"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38400,
+    "pitch": 67,
+    "channel": 0,
+    "x": 487.732,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:93:12:13"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 491.442,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:93:16:17"
+    ],
+    "on_tick": 38592,
+    "off_tick": 38784,
+    "pitch": 69,
+    "channel": 0,
+    "x": 493.871,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:94:4:5"
+    ],
+    "on_tick": 38784,
+    "off_tick": 39936,
+    "pitch": 67,
+    "channel": 0,
+    "x": 498.062,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:94:9:10"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 507.932,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:94:13:14"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 64,
+    "channel": 0,
+    "x": 510.593,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:4:5"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 65,
+    "channel": 0,
+    "x": 514.784,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:8:9"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 65,
+    "channel": 0,
+    "x": 518.878,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:12:13"
+    ],
+    "on_tick": 40704,
+    "off_tick": 40896,
+    "pitch": 65,
+    "channel": 0,
+    "x": 523.357,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:16:17"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 65,
+    "channel": 0,
+    "x": 528.442,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:20:21"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 65,
+    "channel": 0,
+    "x": 533.143,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:24:25"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 62,
+    "channel": 0,
+    "x": 535.572,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:28:29"
+    ],
+    "on_tick": 41472,
+    "off_tick": 41664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 538.001,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:95:32:33"
+    ],
+    "on_tick": 41664,
+    "off_tick": 41856,
+    "pitch": 65,
+    "channel": 0,
+    "x": 541.379,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:96:4:5"
+    ],
+    "on_tick": 41856,
+    "off_tick": 42240,
+    "pitch": 67,
+    "channel": 0,
+    "x": 545.57,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:96:8:9"
+    ],
+    "on_tick": 42240,
+    "off_tick": 43008,
+    "pitch": 67,
+    "channel": 0,
+    "x": 549.199,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:96:12:13"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43392,
+    "pitch": 69,
+    "channel": 0,
+    "x": 555.948,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:97:4:5"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 561.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:97:8:9"
+    ],
+    "on_tick": 43776,
+    "off_tick": 43968,
+    "pitch": 64,
+    "channel": 0,
+    "x": 565.818,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:97:12:13"
+    ],
+    "on_tick": 43968,
+    "off_tick": 44160,
+    "pitch": 65,
+    "channel": 0,
+    "x": 569.23,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:97:16:17"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44352,
+    "pitch": 67,
+    "channel": 0,
+    "x": 572.966,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:97:20:21"
+    ],
+    "on_tick": 44352,
+    "off_tick": 44544,
+    "pitch": 67,
+    "channel": 0,
+    "x": 577.018,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:97:24:25"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44928,
+    "pitch": 65,
+    "channel": 0,
+    "x": 580.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM005_DatanglahPadaTuhan/GPM005_DatanglahPadaTuhan_ly_data.ily:98:4:5"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45696,
+    "pitch": 64,
+    "channel": 0,
+    "x": 585.718,
+    "y": 15.289
+  }
+]

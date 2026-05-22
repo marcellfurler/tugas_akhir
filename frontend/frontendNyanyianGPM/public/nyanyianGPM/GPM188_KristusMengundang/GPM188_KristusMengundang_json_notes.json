@@ -1,0 +1,1850 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 68,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:10:11"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 66,
+    "channel": 0,
+    "x": 14.921,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:16:17"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 68,
+    "channel": 0,
+    "x": 18.87,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:22:23"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 69,
+    "channel": 0,
+    "x": 23.597,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:26:27"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 68,
+    "channel": 0,
+    "x": 29.416,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:32:33"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 66,
+    "channel": 0,
+    "x": 33.81,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:71:38:39"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 68,
+    "channel": 0,
+    "x": 36.239,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:72:4:5"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 66,
+    "channel": 0,
+    "x": 40.43,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:72:10:11"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 65,
+    "channel": 0,
+    "x": 44.059,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:72:16:17"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 66,
+    "channel": 0,
+    "x": 47.044,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:72:22:23"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 50.422,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:72:26:27"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3072,
+    "pitch": 66,
+    "channel": 0,
+    "x": 54.568,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 66,
+    "channel": 0,
+    "x": 59.959,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:10:11"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 65,
+    "channel": 0,
+    "x": 63.729,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:16:17"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 66,
+    "channel": 0,
+    "x": 67.559,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:22:23"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 70.544,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:26:27"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 66,
+    "channel": 0,
+    "x": 73.734,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:32:33"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 65,
+    "channel": 0,
+    "x": 77.735,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:73:38:39"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 66,
+    "channel": 0,
+    "x": 82.786,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:74:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 87.896,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:74:8:9"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 66,
+    "channel": 0,
+    "x": 91.052,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:74:34:35"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 65,
+    "channel": 0,
+    "x": 93.482,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:74:42:43"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 66,
+    "channel": 0,
+    "x": 96.254,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:74:69:70"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 69,
+    "channel": 0,
+    "x": 98.684,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:74:73:74"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6144,
+    "pitch": 68,
+    "channel": 0,
+    "x": 102.313,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 64,
+    "channel": 0,
+    "x": 107.703,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:8:9"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 111.332,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:14:15"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 68,
+    "channel": 0,
+    "x": 113.999,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:21:22"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 71,
+    "channel": 0,
+    "x": 116.665,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:25:26"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 68,
+    "channel": 0,
+    "x": 119.094,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:31:32"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 66,
+    "channel": 0,
+    "x": 122.583,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:75:37:38"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 68,
+    "channel": 0,
+    "x": 127.634,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:76:4:5"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 132.096,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:76:28:29"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 135.725,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:76:34:35"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 73,
+    "channel": 0,
+    "x": 139.074,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:76:62:63"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 74,
+    "channel": 0,
+    "x": 142.423,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:76:67:68"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9216,
+    "pitch": 73,
+    "channel": 0,
+    "x": 146.808,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 73,
+    "channel": 0,
+    "x": 152.198,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:11:12"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 66,
+    "channel": 0,
+    "x": 156.268,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:17:18"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 68,
+    "channel": 0,
+    "x": 160.448,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:23:24"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 165.592,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:27:28"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 68,
+    "channel": 0,
+    "x": 169.756,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:33:34"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 66,
+    "channel": 0,
+    "x": 174.337,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:77:39:40"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 68,
+    "channel": 0,
+    "x": 179.388,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:78:4:5"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 64,
+    "channel": 0,
+    "x": 184.003,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:78:28:29"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 63,
+    "channel": 0,
+    "x": 187.632,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:78:36:37"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 66,
+    "channel": 0,
+    "x": 190.061,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:78:63:64"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12288,
+    "pitch": 64,
+    "channel": 0,
+    "x": 192.491,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:83:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 71,
+    "channel": 0,
+    "x": 201.492,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:83:8:9"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 66,
+    "channel": 0,
+    "x": 205.621,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:83:14:15"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 71,
+    "channel": 0,
+    "x": 209.895,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:83:18:19"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 66,
+    "channel": 0,
+    "x": 213.524,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:84:4:5"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 64,
+    "channel": 0,
+    "x": 218.914,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:84:8:9"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 66,
+    "channel": 0,
+    "x": 222.907,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:84:14:15"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 68,
+    "channel": 0,
+    "x": 227.684,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:84:20:21"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 231.335,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:84:24:25"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 68,
+    "channel": 0,
+    "x": 233.764,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 73,
+    "channel": 0,
+    "x": 242.276,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:11:12"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 73,
+    "channel": 0,
+    "x": 245.926,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:18:19"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 73,
+    "channel": 0,
+    "x": 250.021,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:25:26"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 73,
+    "channel": 0,
+    "x": 254.116,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:32:33"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 71,
+    "channel": 0,
+    "x": 256.785,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:36:37"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 71,
+    "channel": 0,
+    "x": 259.214,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:40:41"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 64,
+    "channel": 0,
+    "x": 262.276,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:85:44:45"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 68,
+    "channel": 0,
+    "x": 265.927,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:86:4:5"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17280,
+    "pitch": 66,
+    "channel": 0,
+    "x": 270.119,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:86:10:11"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 273.748,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:86:14:15"
+    ],
+    "on_tick": 17664,
+    "off_tick": 17856,
+    "pitch": 66,
+    "channel": 0,
+    "x": 277.527,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:86:20:21"
+    ],
+    "on_tick": 17856,
+    "off_tick": 18048,
+    "pitch": 66,
+    "channel": 0,
+    "x": 279.956,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 68,
+    "channel": 0,
+    "x": 287.425,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:10:11"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 69,
+    "channel": 0,
+    "x": 291.076,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:14:15"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 68,
+    "channel": 0,
+    "x": 295.111,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:20:21"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 66,
+    "channel": 0,
+    "x": 298.13,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:26:27"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 68,
+    "channel": 0,
+    "x": 301.465,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:32:33"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 305.116,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:36:37"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 68,
+    "channel": 0,
+    "x": 309.151,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:87:42:43"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 66,
+    "channel": 0,
+    "x": 311.829,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:88:4:5"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 64,
+    "channel": 0,
+    "x": 316.02,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:88:10:11"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 66,
+    "channel": 0,
+    "x": 318.449,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:88:17:18"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 68,
+    "channel": 0,
+    "x": 320.878,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:88:23:24"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 326.654,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:88:27:28"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 63,
+    "channel": 0,
+    "x": 330.561,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:88:33:34"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 66,
+    "channel": 0,
+    "x": 334.191,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:89:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22656,
+    "pitch": 64,
+    "channel": 0,
+    "x": 339.581,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:4:5"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 68,
+    "channel": 0,
+    "x": 354.981,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:10:11"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23616,
+    "pitch": 66,
+    "channel": 0,
+    "x": 359.366,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:16:17"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 68,
+    "channel": 0,
+    "x": 363.316,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:22:23"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24000,
+    "pitch": 69,
+    "channel": 0,
+    "x": 368.042,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:26:27"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 68,
+    "channel": 0,
+    "x": 373.861,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:32:33"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 66,
+    "channel": 0,
+    "x": 378.255,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:94:38:39"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 68,
+    "channel": 0,
+    "x": 380.684,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:95:4:5"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 66,
+    "channel": 0,
+    "x": 384.876,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:95:10:11"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 65,
+    "channel": 0,
+    "x": 388.505,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:95:16:17"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 66,
+    "channel": 0,
+    "x": 391.49,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:95:22:23"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 394.868,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:95:26:27"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 399.014,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:4:5"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26496,
+    "pitch": 66,
+    "channel": 0,
+    "x": 404.404,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:10:11"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 65,
+    "channel": 0,
+    "x": 408.033,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:16:17"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 66,
+    "channel": 0,
+    "x": 411.052,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:22:23"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27072,
+    "pitch": 69,
+    "channel": 0,
+    "x": 414.217,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:26:27"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 66,
+    "channel": 0,
+    "x": 416.646,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:32:33"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 65,
+    "channel": 0,
+    "x": 419.691,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:96:38:39"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 66,
+    "channel": 0,
+    "x": 422.676,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:97:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 426.867,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:97:8:9"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 66,
+    "channel": 0,
+    "x": 430.159,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:97:34:35"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 65,
+    "channel": 0,
+    "x": 432.588,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:97:42:43"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 66,
+    "channel": 0,
+    "x": 435.94,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:97:69:70"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 439.984,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:97:73:74"
+    ],
+    "on_tick": 28800,
+    "off_tick": 29184,
+    "pitch": 68,
+    "channel": 0,
+    "x": 443.874,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:4:5"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29568,
+    "pitch": 64,
+    "channel": 0,
+    "x": 449.264,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:8:9"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29760,
+    "pitch": 64,
+    "channel": 0,
+    "x": 452.894,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:14:15"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 68,
+    "channel": 0,
+    "x": 455.323,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:21:22"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30144,
+    "pitch": 71,
+    "channel": 0,
+    "x": 457.752,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:25:26"
+    ],
+    "on_tick": 30144,
+    "off_tick": 30336,
+    "pitch": 68,
+    "channel": 0,
+    "x": 460.181,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:31:32"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 463.84,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:98:37:38"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 68,
+    "channel": 0,
+    "x": 467.748,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:99:4:5"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31104,
+    "pitch": 69,
+    "channel": 0,
+    "x": 471.939,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:99:28:29"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 71,
+    "channel": 0,
+    "x": 475.59,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:99:34:35"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 73,
+    "channel": 0,
+    "x": 479.685,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:99:62:63"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 74,
+    "channel": 0,
+    "x": 483.412,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:99:67:68"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32256,
+    "pitch": 73,
+    "channel": 0,
+    "x": 487.385,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:4:5"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32640,
+    "pitch": 73,
+    "channel": 0,
+    "x": 492.776,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:11:12"
+    ],
+    "on_tick": 32640,
+    "off_tick": 32832,
+    "pitch": 66,
+    "channel": 0,
+    "x": 496.405,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:17:18"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 68,
+    "channel": 0,
+    "x": 499.672,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:23:24"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 502.657,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:27:28"
+    ],
+    "on_tick": 33216,
+    "off_tick": 33408,
+    "pitch": 68,
+    "channel": 0,
+    "x": 505.625,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:33:34"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33600,
+    "pitch": 66,
+    "channel": 0,
+    "x": 509.011,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:100:39:40"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 68,
+    "channel": 0,
+    "x": 511.44,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:101:4:5"
+    ],
+    "on_tick": 33792,
+    "off_tick": 34176,
+    "pitch": 64,
+    "channel": 0,
+    "x": 515.632,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:101:28:29"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 63,
+    "channel": 0,
+    "x": 519.261,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:101:36:37"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 66,
+    "channel": 0,
+    "x": 522.144,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:101:63:64"
+    ],
+    "on_tick": 34560,
+    "off_tick": 35328,
+    "pitch": 64,
+    "channel": 0,
+    "x": 524.745,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:106:4:5"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35712,
+    "pitch": 71,
+    "channel": 0,
+    "x": 533.746,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:106:8:9"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36096,
+    "pitch": 66,
+    "channel": 0,
+    "x": 537.875,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:106:14:15"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36480,
+    "pitch": 71,
+    "channel": 0,
+    "x": 542.149,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:106:18:19"
+    ],
+    "on_tick": 36480,
+    "off_tick": 36864,
+    "pitch": 66,
+    "channel": 0,
+    "x": 545.778,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:107:4:5"
+    ],
+    "on_tick": 36864,
+    "off_tick": 37056,
+    "pitch": 64,
+    "channel": 0,
+    "x": 551.168,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:107:8:9"
+    ],
+    "on_tick": 37056,
+    "off_tick": 37248,
+    "pitch": 66,
+    "channel": 0,
+    "x": 555.161,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:107:14:15"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37440,
+    "pitch": 68,
+    "channel": 0,
+    "x": 559.938,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:107:20:21"
+    ],
+    "on_tick": 37440,
+    "off_tick": 37632,
+    "pitch": 69,
+    "channel": 0,
+    "x": 563.589,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:107:24:25"
+    ],
+    "on_tick": 37632,
+    "off_tick": 38400,
+    "pitch": 68,
+    "channel": 0,
+    "x": 566.018,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:4:5"
+    ],
+    "on_tick": 38400,
+    "off_tick": 38592,
+    "pitch": 73,
+    "channel": 0,
+    "x": 574.53,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:11:12"
+    ],
+    "on_tick": 38592,
+    "off_tick": 38784,
+    "pitch": 73,
+    "channel": 0,
+    "x": 578.18,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:18:19"
+    ],
+    "on_tick": 38784,
+    "off_tick": 38976,
+    "pitch": 73,
+    "channel": 0,
+    "x": 582.275,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:25:26"
+    ],
+    "on_tick": 38976,
+    "off_tick": 39168,
+    "pitch": 73,
+    "channel": 0,
+    "x": 586.37,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:32:33"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39360,
+    "pitch": 71,
+    "channel": 0,
+    "x": 589.039,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:36:37"
+    ],
+    "on_tick": 39360,
+    "off_tick": 39552,
+    "pitch": 71,
+    "channel": 0,
+    "x": 591.468,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:40:41"
+    ],
+    "on_tick": 39552,
+    "off_tick": 39744,
+    "pitch": 64,
+    "channel": 0,
+    "x": 594.53,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:108:44:45"
+    ],
+    "on_tick": 39744,
+    "off_tick": 39936,
+    "pitch": 68,
+    "channel": 0,
+    "x": 598.181,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:109:4:5"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40320,
+    "pitch": 66,
+    "channel": 0,
+    "x": 602.373,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:109:10:11"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40704,
+    "pitch": 64,
+    "channel": 0,
+    "x": 606.002,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:109:14:15"
+    ],
+    "on_tick": 40704,
+    "off_tick": 40896,
+    "pitch": 66,
+    "channel": 0,
+    "x": 609.781,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:109:20:21"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 66,
+    "channel": 0,
+    "x": 612.21,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:4:5"
+    ],
+    "on_tick": 41472,
+    "off_tick": 41664,
+    "pitch": 68,
+    "channel": 0,
+    "x": 619.679,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:10:11"
+    ],
+    "on_tick": 41664,
+    "off_tick": 41856,
+    "pitch": 69,
+    "channel": 0,
+    "x": 623.33,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:14:15"
+    ],
+    "on_tick": 41856,
+    "off_tick": 42048,
+    "pitch": 68,
+    "channel": 0,
+    "x": 627.365,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:20:21"
+    ],
+    "on_tick": 42048,
+    "off_tick": 42240,
+    "pitch": 66,
+    "channel": 0,
+    "x": 630.384,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:26:27"
+    ],
+    "on_tick": 42240,
+    "off_tick": 42432,
+    "pitch": 68,
+    "channel": 0,
+    "x": 633.72,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:32:33"
+    ],
+    "on_tick": 42432,
+    "off_tick": 42624,
+    "pitch": 69,
+    "channel": 0,
+    "x": 637.37,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:36:37"
+    ],
+    "on_tick": 42624,
+    "off_tick": 42816,
+    "pitch": 68,
+    "channel": 0,
+    "x": 641.405,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:110:42:43"
+    ],
+    "on_tick": 42816,
+    "off_tick": 43008,
+    "pitch": 66,
+    "channel": 0,
+    "x": 644.083,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:111:4:5"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43200,
+    "pitch": 64,
+    "channel": 0,
+    "x": 648.274,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:111:10:11"
+    ],
+    "on_tick": 43200,
+    "off_tick": 43392,
+    "pitch": 66,
+    "channel": 0,
+    "x": 650.703,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:111:17:18"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43584,
+    "pitch": 68,
+    "channel": 0,
+    "x": 653.132,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:111:23:24"
+    ],
+    "on_tick": 43584,
+    "off_tick": 43776,
+    "pitch": 69,
+    "channel": 0,
+    "x": 658.908,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:111:27:28"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44160,
+    "pitch": 63,
+    "channel": 0,
+    "x": 662.816,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:111:33:34"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44544,
+    "pitch": 66,
+    "channel": 0,
+    "x": 666.445,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM188_KristusMengundang/GPM188_KristusMengundang_ly_data.ily:112:4:5"
+    ],
+    "on_tick": 44544,
+    "off_tick": 45696,
+    "pitch": 64,
+    "channel": 0,
+    "x": 671.835,
+    "y": 15.732
+  }
+]

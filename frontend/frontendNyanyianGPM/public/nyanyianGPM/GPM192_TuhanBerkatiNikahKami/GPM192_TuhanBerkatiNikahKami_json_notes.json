@@ -1,0 +1,882 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 68,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 68,
+    "channel": 0,
+    "x": 14.426,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:16:17"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 68,
+    "channel": 0,
+    "x": 18.905,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:22:23"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 66,
+    "channel": 0,
+    "x": 22.265,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:28:29"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 24.694,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:32:33"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 68,
+    "channel": 0,
+    "x": 27.159,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:38:39"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 69,
+    "channel": 0,
+    "x": 30.571,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:44:45"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 71,
+    "channel": 0,
+    "x": 34.761,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:48:49"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 71,
+    "channel": 0,
+    "x": 38.391,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:52:53"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 42.02,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:49:56:57"
+    ],
+    "on_tick": 2496,
+    "off_tick": 3072,
+    "pitch": 68,
+    "channel": 0,
+    "x": 44.449,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 69,
+    "channel": 0,
+    "x": 51.76,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 54.421,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:12:13"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 57.79,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:16:17"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 68,
+    "channel": 0,
+    "x": 61.765,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:22:23"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 66,
+    "channel": 0,
+    "x": 66.466,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:28:29"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 66,
+    "channel": 0,
+    "x": 69.468,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:34:35"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 68,
+    "channel": 0,
+    "x": 73.06,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:40:41"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 69,
+    "channel": 0,
+    "x": 75.993,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:50:46:47"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5760,
+    "pitch": 68,
+    "channel": 0,
+    "x": 80.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 68,
+    "channel": 0,
+    "x": 95.094,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:10:11"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 68,
+    "channel": 0,
+    "x": 98.723,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:16:17"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 68,
+    "channel": 0,
+    "x": 102.852,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:22:23"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 68,
+    "channel": 0,
+    "x": 106.887,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:28:29"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 68,
+    "channel": 0,
+    "x": 109.889,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:34:35"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 113.156,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:38:39"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 71,
+    "channel": 0,
+    "x": 117.422,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:44:45"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 73,
+    "channel": 0,
+    "x": 122.123,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:51:52"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 73,
+    "channel": 0,
+    "x": 125.752,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:60:61"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 71,
+    "channel": 0,
+    "x": 128.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:65:66"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 69,
+    "channel": 0,
+    "x": 130.905,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:51:72:73"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 136.734,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 68,
+    "channel": 0,
+    "x": 140.925,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:10:11"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9984,
+    "pitch": 68,
+    "channel": 0,
+    "x": 143.354,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:17:18"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 66,
+    "channel": 0,
+    "x": 148.904,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:25:26"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 64,
+    "channel": 0,
+    "x": 151.333,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:30:31"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 66,
+    "channel": 0,
+    "x": 153.762,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:38:39"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 68,
+    "channel": 0,
+    "x": 156.191,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:47:48"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 64,
+    "channel": 0,
+    "x": 160.382,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:52:51:52"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11904,
+    "pitch": 64,
+    "channel": 0,
+    "x": 164.012,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 68,
+    "channel": 0,
+    "x": 176.291,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:10:11"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 68,
+    "channel": 0,
+    "x": 180.181,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 68,
+    "channel": 0,
+    "x": 184.353,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:22:23"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 66,
+    "channel": 0,
+    "x": 188.208,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:28:29"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 64,
+    "channel": 0,
+    "x": 190.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:32:33"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 68,
+    "channel": 0,
+    "x": 193.35,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:38:39"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 69,
+    "channel": 0,
+    "x": 196.762,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:44:45"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14208,
+    "pitch": 71,
+    "channel": 0,
+    "x": 200.952,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:48:49"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 71,
+    "channel": 0,
+    "x": 204.581,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:52:53"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 69,
+    "channel": 0,
+    "x": 208.21,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:57:56:57"
+    ],
+    "on_tick": 14784,
+    "off_tick": 15360,
+    "pitch": 68,
+    "channel": 0,
+    "x": 210.64,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 69,
+    "channel": 0,
+    "x": 217.951,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:8:9"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 69,
+    "channel": 0,
+    "x": 221.602,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:12:13"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 225.551,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 68,
+    "channel": 0,
+    "x": 228.366,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:22:23"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 66,
+    "channel": 0,
+    "x": 232.016,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:28:29"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 66,
+    "channel": 0,
+    "x": 235.719,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:34:35"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 68,
+    "channel": 0,
+    "x": 238.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:40:41"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 69,
+    "channel": 0,
+    "x": 240.715,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:58:46:47"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18048,
+    "pitch": 68,
+    "channel": 0,
+    "x": 244.905,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 68,
+    "channel": 0,
+    "x": 259.815,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:10:11"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 68,
+    "channel": 0,
+    "x": 263.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:16:17"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 68,
+    "channel": 0,
+    "x": 266.942,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:22:23"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 68,
+    "channel": 0,
+    "x": 270.994,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:28:29"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 68,
+    "channel": 0,
+    "x": 273.423,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:34:35"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 69,
+    "channel": 0,
+    "x": 276.161,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:38:39"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 71,
+    "channel": 0,
+    "x": 279.163,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:44:45"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 73,
+    "channel": 0,
+    "x": 283.354,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:51:52"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 73,
+    "channel": 0,
+    "x": 286.983,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:60:61"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 71,
+    "channel": 0,
+    "x": 290.072,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:65:66"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 293.161,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:59:72:73"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 298.99,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 68,
+    "channel": 0,
+    "x": 303.469,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:10:11"
+    ],
+    "on_tick": 21696,
+    "off_tick": 22272,
+    "pitch": 68,
+    "channel": 0,
+    "x": 306.078,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:17:18"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 66,
+    "channel": 0,
+    "x": 311.628,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:25:26"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 64,
+    "channel": 0,
+    "x": 314.057,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:30:31"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 66,
+    "channel": 0,
+    "x": 316.486,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:38:39"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 68,
+    "channel": 0,
+    "x": 318.916,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:47:48"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 64,
+    "channel": 0,
+    "x": 323.107,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM192_TuhanBerkatiNikahKami/GPM192_TuhanBerkatiNikahKami_ly_data.ily:60:51:52"
+    ],
+    "on_tick": 23424,
+    "off_tick": 24192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 326.736,
+    "y": 15.289
+  }
+]

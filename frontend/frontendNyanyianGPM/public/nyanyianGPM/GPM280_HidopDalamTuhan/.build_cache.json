@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM280_HidopDalamTuhan.ly": "5f7c8bc5c7d6880b9fa8c4a47597df3ac0dee65b8f050a8d8742e307d18b3cf7",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM280_HidopDalamTuhan_ly_data.ily": "51728aa87bb18d79f5a37f982d03f5e30e06f7686330f6bf3ffddf15f7e52f54",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "svg_one_line": {
+    "GPM280_HidopDalamTuhan_ly_one_line.ly": "fa02f42fce0d0ab81bd6b1901e50a82016cb86784fd79d52ef4f6efcda5fee30",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM280_HidopDalamTuhan_ly_data.ily": "51728aa87bb18d79f5a37f982d03f5e30e06f7686330f6bf3ffddf15f7e52f54",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM280_HidopDalamTuhan.ly": "5f7c8bc5c7d6880b9fa8c4a47597df3ac0dee65b8f050a8d8742e307d18b3cf7"
+  },
+  "events": {
+    "GPM280_HidopDalamTuhan_ly_one_line.midi": "7f5a935abb57e41e2d4707faccda583f3a16a8081b0b69d6a22ac209bfd8f9dc"
+  },
+  "filter_one_line": {
+    "GPM280_HidopDalamTuhan_ly_one_line.svg": "d2fcb7b80724cd3107b04fb279d8584ae27b7c7a0eb41f728da8ac097da983d8"
+  },
+  "ties": {
+    "GPM280_HidopDalamTuhan_ly_one_line_filtered.svg": "0f1188f08de280fbe2170c7b8f7dd9e2685634b2badf10504d8d02224c46031d"
+  },
+  "noteheads": {
+    "GPM280_HidopDalamTuhan_ly_one_line_filtered.svg": "0f1188f08de280fbe2170c7b8f7dd9e2685634b2badf10504d8d02224c46031d"
+  },
+  "squash": {
+    "GPM280_HidopDalamTuhan_note_heads.csv": "44d051d8c02b733968e7fdd3cc6327dfa94bbfa7e73c16e80a69758caa0e59e7",
+    "GPM280_HidopDalamTuhan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM280_HidopDalamTuhan_note_heads_squashed.csv": "8aa800f84ba67bc3596fbc1c9a3abc5d343c806029a2dc2fa8c4438dcb5502d5",
+    "GPM280_HidopDalamTuhan_note_events.csv": "d74c31217d569b67cd030708fd5ed51c590d49b87c81ba3c971dbb04c90ab1c0"
+  },
+  "svg": {
+    "GPM280_HidopDalamTuhan.ly": "5f7c8bc5c7d6880b9fa8c4a47597df3ac0dee65b8f050a8d8742e307d18b3cf7",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM280_HidopDalamTuhan_ly_data.ily": "51728aa87bb18d79f5a37f982d03f5e30e06f7686330f6bf3ffddf15f7e52f54",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "filter": {
+    "GPM280_HidopDalamTuhan.svg": "bd1dd31c8d92084912458dd9ef5bc14f84190ff35d7cc9379528c69d851f0e6e"
+  },
+  "swell": {
+    "GPM280_HidopDalamTuhan_filtered.svg": "a11af018af749825d1f469f85d90505c72988c0546024b24328a0b8c262f88d7"
+  },
+  "optim": {
+    "GPM280_HidopDalamTuhan_filtered_swellable.svg": "368b211022ebc8bd87f13c431302e2db1c9f3273b4249f4a87172d7678cc46c3"
+  },
+  "sync": {
+    "GPM280_HidopDalamTuhan_optimized.svg": "6e335a59b7f96f7a73541b15c60231c7c5437c519e3cde3c9325ed48dc270005",
+    "GPM280_HidopDalamTuhan_json_notes.json": "fae01e6a2140f470cd12c089c0fa551052668a7ac5b1617b913d0eff9be5772a",
+    "GPM280_HidopDalamTuhan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM280_HidopDalamTuhan.config.yaml": "4b95917e982cf2a7dd21ec5e1b2cd21719c0a3b0c5df3d384e93d6682a64d858"
+  }
+}

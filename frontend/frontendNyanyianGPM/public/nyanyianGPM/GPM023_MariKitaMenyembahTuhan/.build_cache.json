@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM023_MariKitaMenyembahTuhan.ly": "ef65b4dd1200cabd5a1ddc578244cdb2b5088b423981e08034a5e080d965d519",
+    "GPM023_MariKitaMenyembahTuhan_ly_data.ily": "47d7507e813c64576c6e0569379e45964e8ad618afd9440fb00232e909096e3d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM023_MariKitaMenyembahTuhan_ly_one_line.ly": "df51b4663e5b89c428a20bef37e75b1062468777bd397f92a93ba57c8f567cb4",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM023_MariKitaMenyembahTuhan_ly_data.ily": "47d7507e813c64576c6e0569379e45964e8ad618afd9440fb00232e909096e3d",
+    "GPM023_MariKitaMenyembahTuhan.ly": "ef65b4dd1200cabd5a1ddc578244cdb2b5088b423981e08034a5e080d965d519",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "events": {
+    "GPM023_MariKitaMenyembahTuhan_ly_one_line.midi": "914f2b349628154e4197dd7a8bfafd85892db9130aeacc3c61c82caa90046751"
+  },
+  "filter_one_line": {
+    "GPM023_MariKitaMenyembahTuhan_ly_one_line.svg": "bd888381600fee35671f145f0fb956c0eb93d63124fbb14f1c1435867994e26b"
+  },
+  "ties": {
+    "GPM023_MariKitaMenyembahTuhan_ly_one_line_filtered.svg": "f76d1621a221148c25d3566664b9bcbba7d7f6979585626c4c25fe62e5cb9e08"
+  },
+  "noteheads": {
+    "GPM023_MariKitaMenyembahTuhan_ly_one_line_filtered.svg": "f76d1621a221148c25d3566664b9bcbba7d7f6979585626c4c25fe62e5cb9e08"
+  },
+  "squash": {
+    "GPM023_MariKitaMenyembahTuhan_note_heads.csv": "3251cfdf9c20606fd3b2c33f498c11d3e0f4c4c5af356146a835ba739b503164",
+    "GPM023_MariKitaMenyembahTuhan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM023_MariKitaMenyembahTuhan_note_heads_squashed.csv": "ae7fb7c1c792ee887485bc50c7d9f708ad782268281d861e31ba66acc1bb522f",
+    "GPM023_MariKitaMenyembahTuhan_note_events.csv": "3e3e5e74d8b126f747f0af347ab57ab400c8867dd21c8b8e1ae7a1a900f58818"
+  },
+  "svg": {
+    "GPM023_MariKitaMenyembahTuhan.ly": "ef65b4dd1200cabd5a1ddc578244cdb2b5088b423981e08034a5e080d965d519",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM023_MariKitaMenyembahTuhan_ly_data.ily": "47d7507e813c64576c6e0569379e45964e8ad618afd9440fb00232e909096e3d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "filter": {
+    "GPM023_MariKitaMenyembahTuhan.svg": "7a1936eb3c6f7ba30d648b74f1261f675880fce52733490dbeb84cb955dcc018"
+  },
+  "swell": {
+    "GPM023_MariKitaMenyembahTuhan_filtered.svg": "c6394e3ab1e443471c985972f2cf0b169fd007e13e6136df2f9d63b0b5eb2484"
+  },
+  "optim": {
+    "GPM023_MariKitaMenyembahTuhan_filtered_swellable.svg": "8eb6bebc6e5506e8ee32531e182b1e22898629d701307809c04458ca104fbeed"
+  },
+  "sync": {
+    "GPM023_MariKitaMenyembahTuhan_optimized.svg": "3dc400351783a006bc874425244b546cd60f1da7130839deda4dbc1445c2b79e",
+    "GPM023_MariKitaMenyembahTuhan_json_notes.json": "23be8a908f72bd73f907ef62f0838d7aec853a90b5e42e6f0478ab4cc1e84198",
+    "GPM023_MariKitaMenyembahTuhan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM023_MariKitaMenyembahTuhan.config.yaml": "5ae00931d4ed05c04dd5d209d2cd247b291b31ad98c20670cbbe28ea9cfb9692"
+  }
+}

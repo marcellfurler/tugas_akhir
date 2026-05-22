@@ -1,0 +1,794 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 66,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:10:11"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 66,
+    "channel": 0,
+    "x": 14.165,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:16:17"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 17.483,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:20:21"
+    ],
+    "on_tick": 768,
+    "off_tick": 1344,
+    "pitch": 69,
+    "channel": 0,
+    "x": 19.912,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:25:26"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 66,
+    "channel": 0,
+    "x": 25.462,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:33:34"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 29.652,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:37:38"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 67,
+    "channel": 0,
+    "x": 33.282,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:41:42"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 66,
+    "channel": 0,
+    "x": 36.822,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:51:47:48"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 39.251,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 64,
+    "channel": 0,
+    "x": 47.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 64,
+    "channel": 0,
+    "x": 51.281,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:12:13"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 64,
+    "channel": 0,
+    "x": 54.923,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 66,
+    "channel": 0,
+    "x": 58.471,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:22:23"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 62.131,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:26:27"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 65.76,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:30:31"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 71,
+    "channel": 0,
+    "x": 69.01,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:36:37"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 73.201,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:40:41"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 67,
+    "channel": 0,
+    "x": 76.83,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:52:44:45"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 66,
+    "channel": 0,
+    "x": 80.46,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 89.129,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:10:11"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 92.758,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:16:17"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 96.076,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:20:21"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 98.505,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:25:26"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 66,
+    "channel": 0,
+    "x": 104.055,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:33:34"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 108.245,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:37:38"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 111.874,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:41:42"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 66,
+    "channel": 0,
+    "x": 115.414,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:53:47:48"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 64,
+    "channel": 0,
+    "x": 117.844,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 64,
+    "channel": 0,
+    "x": 126.513,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 64,
+    "channel": 0,
+    "x": 129.515,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:12:13"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 64,
+    "channel": 0,
+    "x": 132.918,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:16:17"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 135.347,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:22:23"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 137.931,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:26:27"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 141.561,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:30:31"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 67,
+    "channel": 0,
+    "x": 145.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:36:37"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 66,
+    "channel": 0,
+    "x": 149.513,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:42:43"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 64,
+    "channel": 0,
+    "x": 153.142,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:54:46:47"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12288,
+    "pitch": 62,
+    "channel": 0,
+    "x": 156.771,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 71,
+    "channel": 0,
+    "x": 165.44,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:8:9"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 71,
+    "channel": 0,
+    "x": 168.596,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:12:13"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 71,
+    "channel": 0,
+    "x": 172.102,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:16:17"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 71,
+    "channel": 0,
+    "x": 174.917,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:20:21"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 71,
+    "channel": 0,
+    "x": 177.346,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:24:25"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 71,
+    "channel": 0,
+    "x": 180.975,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:39:40"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 69,
+    "channel": 0,
+    "x": 186.294,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:43:44"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 69,
+    "channel": 0,
+    "x": 188.955,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:47:48"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 191.966,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:51:52"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 194.395,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:55:56"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 69,
+    "channel": 0,
+    "x": 197.201,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:56:59:60"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 69,
+    "channel": 0,
+    "x": 201.09,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:57:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 67,
+    "channel": 0,
+    "x": 206.481,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:57:8:9"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 210.11,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:57:12:13"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 66,
+    "channel": 0,
+    "x": 213.739,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:57:18:19"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 217.369,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:57:24:25"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18048,
+    "pitch": 69,
+    "channel": 0,
+    "x": 222.759,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 71,
+    "channel": 0,
+    "x": 237.669,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:8:9"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 71,
+    "channel": 0,
+    "x": 240.825,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:12:13"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 71,
+    "channel": 0,
+    "x": 244.331,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 247.145,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:20:21"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 71,
+    "channel": 0,
+    "x": 249.574,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:24:25"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 71,
+    "channel": 0,
+    "x": 253.204,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:39:40"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 69,
+    "channel": 0,
+    "x": 258.523,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:43:44"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 69,
+    "channel": 0,
+    "x": 261.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:47:48"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 264.194,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:51:52"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 266.624,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:55:56"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 69,
+    "channel": 0,
+    "x": 269.429,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:58:59:60"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 273.319,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 67,
+    "channel": 0,
+    "x": 278.71,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 67,
+    "channel": 0,
+    "x": 282.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 66,
+    "channel": 0,
+    "x": 285.968,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:59:18:19"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 64,
+    "channel": 0,
+    "x": 289.597,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM098_LilinKecil/GPM098_LilinKecil_ly_data.ily:59:24:25"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 294.988,
+    "y": 15.289
+  }
+]

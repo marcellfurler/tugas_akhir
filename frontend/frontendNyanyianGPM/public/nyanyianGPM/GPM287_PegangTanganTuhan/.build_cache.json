@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM287_PegangTanganTuhan.ly": "66e52315730363070c98a6822b77719de007cfe299fbae0eda3bfbed7060d6bf",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM287_PegangTanganTuhan_ly_data.ily": "4b250a49ddbdea5cb49df6306580e37eedfa2c0f976a8297e9bd76d07d78e74e"
+  },
+  "svg_one_line": {
+    "GPM287_PegangTanganTuhan_ly_one_line.ly": "95260f7f86f9b117b39df6c961963ed829acd20d099229908e70d66117847d24",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM287_PegangTanganTuhan.ly": "66e52315730363070c98a6822b77719de007cfe299fbae0eda3bfbed7060d6bf",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM287_PegangTanganTuhan_ly_data.ily": "4b250a49ddbdea5cb49df6306580e37eedfa2c0f976a8297e9bd76d07d78e74e",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "events": {
+    "GPM287_PegangTanganTuhan_ly_one_line.midi": "4ada11e0957ed1d3fa93b23c6bc130883cb206d87ca766a5bb79807b2adf228e"
+  },
+  "filter_one_line": {
+    "GPM287_PegangTanganTuhan_ly_one_line.svg": "e1bb45e0015b3edbee91bae428f216364a943f913c7874863b72ad41638aab71"
+  },
+  "ties": {
+    "GPM287_PegangTanganTuhan_ly_one_line_filtered.svg": "f3d87b1d89364e0d773d53f23f05f0a227d143ded35c5afa14a44c5d878e1b8a"
+  },
+  "noteheads": {
+    "GPM287_PegangTanganTuhan_ly_one_line_filtered.svg": "f3d87b1d89364e0d773d53f23f05f0a227d143ded35c5afa14a44c5d878e1b8a"
+  },
+  "squash": {
+    "GPM287_PegangTanganTuhan_note_heads.csv": "9b7ff86e5e97826fac9e9244f9e8101e2ffaaeb853f539a78cb9832d519ba289",
+    "GPM287_PegangTanganTuhan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM287_PegangTanganTuhan_note_heads_squashed.csv": "238dd78a3e35497f4a3ed50acdb03553b5d5935181118a8a6b33dcdf5492720c",
+    "GPM287_PegangTanganTuhan_note_events.csv": "096ddae9d580ecdeeb2149e9543e12e29220cfdfa42daa9e900589c908f3266f"
+  },
+  "svg": {
+    "GPM287_PegangTanganTuhan.ly": "66e52315730363070c98a6822b77719de007cfe299fbae0eda3bfbed7060d6bf",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM287_PegangTanganTuhan_ly_data.ily": "4b250a49ddbdea5cb49df6306580e37eedfa2c0f976a8297e9bd76d07d78e74e",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "filter": {
+    "GPM287_PegangTanganTuhan.svg": "9dae7052d0ce8c3b34a4ed98c26e5ced5d6119ce5f54919602d0fea1a864c301"
+  },
+  "swell": {
+    "GPM287_PegangTanganTuhan_filtered.svg": "d94d1720da8ff504eac3d53e56827100c03864c060784c18379d3f993f5bc0bb"
+  },
+  "optim": {
+    "GPM287_PegangTanganTuhan_filtered_swellable.svg": "35a9b92b2224c85e37d4b82f00106b9fcbb8b62fd86326896b40d6630372b153"
+  },
+  "sync": {
+    "GPM287_PegangTanganTuhan_optimized.svg": "8abc3b5a118fa5be7291e97866f9f39c1ca011e9186d361bd98393953fd39e2b",
+    "GPM287_PegangTanganTuhan_json_notes.json": "98b4b176fd7936fb512a6975dd7c2451c7d59d247d4bad05e59f7db5aaed0d35",
+    "GPM287_PegangTanganTuhan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM287_PegangTanganTuhan.config.yaml": "b831fee2a8f91865b614707b497f81f9fc8182c950a165b259e82e68c176d112"
+  }
+}

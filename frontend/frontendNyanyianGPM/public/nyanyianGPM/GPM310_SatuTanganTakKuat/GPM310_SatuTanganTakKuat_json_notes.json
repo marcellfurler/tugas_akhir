@@ -1,0 +1,1850 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:16:17"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 57,
+    "channel": 0,
+    "x": 12.736,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:19:20"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 15.516,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:23:24"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 18.356,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:31:32"
+    ],
+    "on_tick": 768,
+    "off_tick": 1344,
+    "pitch": 69,
+    "channel": 0,
+    "x": 22.548,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:36:37"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 66,
+    "channel": 0,
+    "x": 30.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:42:43"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 71,
+    "channel": 0,
+    "x": 34.288,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:46:47"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 37.0,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:50:51"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 40.42,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:56:57"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 43.474,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:62:62:63"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 47.664,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:5:6"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 57,
+    "channel": 0,
+    "x": 56.614,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:8:9"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 61,
+    "channel": 0,
+    "x": 59.043,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:14:15"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 64,
+    "channel": 0,
+    "x": 61.472,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:20:21"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 65.663,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:25:26"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 71,
+    "channel": 0,
+    "x": 73.317,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:29:30"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 71,
+    "channel": 0,
+    "x": 77.404,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:33:34"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 80.115,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:37:38"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 73,
+    "channel": 0,
+    "x": 83.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:44:45"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 71,
+    "channel": 0,
+    "x": 86.589,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:63:50:51"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 69,
+    "channel": 0,
+    "x": 90.78,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:5:6"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 99.73,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:11:12"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 102.186,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:17:18"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 104.855,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:23:24"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 69,
+    "channel": 0,
+    "x": 109.045,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:27:28"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 111.834,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:31:32"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 69,
+    "channel": 0,
+    "x": 115.639,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:35:36"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 71,
+    "channel": 0,
+    "x": 120.459,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:39:40"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 123.017,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:44:45"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 74,
+    "channel": 0,
+    "x": 130.706,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:51:52"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8640,
+    "pitch": 74,
+    "channel": 0,
+    "x": 134.896,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:56:57"
+    ],
+    "on_tick": 8640,
+    "off_tick": 8832,
+    "pitch": 71,
+    "channel": 0,
+    "x": 138.658,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:60:61"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9024,
+    "pitch": 71,
+    "channel": 0,
+    "x": 141.592,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:64:64:65"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 144.21,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9792,
+    "pitch": 71,
+    "channel": 0,
+    "x": 146.639,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:7:8"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 152.348,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:13:14"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 156.538,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:17:18"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 159.105,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:23:24"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 62,
+    "channel": 0,
+    "x": 161.534,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:27:28"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 66,
+    "channel": 0,
+    "x": 164.323,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:33:34"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 67,
+    "channel": 0,
+    "x": 167.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:37:38"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 64,
+    "channel": 0,
+    "x": 170.071,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:41:42"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 62,
+    "channel": 0,
+    "x": 173.048,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:45:46"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 61,
+    "channel": 0,
+    "x": 176.101,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:65:53:54"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12288,
+    "pitch": 62,
+    "channel": 0,
+    "x": 180.307,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:5:6"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 189.257,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:9:10"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 69,
+    "channel": 0,
+    "x": 192.413,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:13:14"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 69,
+    "channel": 0,
+    "x": 196.175,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:20:21"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 69,
+    "channel": 0,
+    "x": 200.365,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:24:25"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 64,
+    "channel": 0,
+    "x": 202.983,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:28:29"
+    ],
+    "on_tick": 13440,
+    "off_tick": 14208,
+    "pitch": 64,
+    "channel": 0,
+    "x": 205.413,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:35:36"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 214.362,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:41:42"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 69,
+    "channel": 0,
+    "x": 218.553,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:45:46"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14976,
+    "pitch": 66,
+    "channel": 0,
+    "x": 221.171,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:68:51:52"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 66,
+    "channel": 0,
+    "x": 224.617,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:5:6"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 69,
+    "channel": 0,
+    "x": 230.446,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:9:10"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 233.602,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:13:14"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 237.364,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:19:20"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 69,
+    "channel": 0,
+    "x": 241.554,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:23:24"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 64,
+    "channel": 0,
+    "x": 244.173,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:27:28"
+    ],
+    "on_tick": 16512,
+    "off_tick": 17088,
+    "pitch": 64,
+    "channel": 0,
+    "x": 246.602,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:32:33"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 252.498,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:36:37"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 62,
+    "channel": 0,
+    "x": 255.432,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:40:41"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 258.05,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:69:44:45"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18432,
+    "pitch": 66,
+    "channel": 0,
+    "x": 262.24,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:5:6"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 62,
+    "channel": 0,
+    "x": 271.19,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:9:10"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 62,
+    "channel": 0,
+    "x": 273.646,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:13:14"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 66,
+    "channel": 0,
+    "x": 276.315,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:21:22"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 69,
+    "channel": 0,
+    "x": 280.506,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:25:26"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 283.295,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:29:30"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 69,
+    "channel": 0,
+    "x": 287.1,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:33:34"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 71,
+    "channel": 0,
+    "x": 291.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:37:38"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 69,
+    "channel": 0,
+    "x": 297.381,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:44:45"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 74,
+    "channel": 0,
+    "x": 303.21,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:51:52"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 74,
+    "channel": 0,
+    "x": 307.4,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:56:57"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 71,
+    "channel": 0,
+    "x": 311.162,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:60:61"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21312,
+    "pitch": 71,
+    "channel": 0,
+    "x": 314.096,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:70:64:65"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 316.714,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:2:3"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 71,
+    "channel": 0,
+    "x": 320.16,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:9:10"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 71,
+    "channel": 0,
+    "x": 325.989,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:15:16"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 69,
+    "channel": 0,
+    "x": 330.18,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:19:20"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 74,
+    "channel": 0,
+    "x": 333.809,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:24:25"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 73,
+    "channel": 0,
+    "x": 337.861,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:31:32"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 73,
+    "channel": 0,
+    "x": 341.49,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:71:40:41"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24576,
+    "pitch": 74,
+    "channel": 0,
+    "x": 346.881,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:16:17"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 57,
+    "channel": 0,
+    "x": 358.082,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:19:20"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 360.862,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:23:24"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 66,
+    "channel": 0,
+    "x": 364.385,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:31:32"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 368.577,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:36:37"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 374.524,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:42:43"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 71,
+    "channel": 0,
+    "x": 378.61,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:46:47"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 381.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:50:51"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26688,
+    "pitch": 66,
+    "channel": 0,
+    "x": 384.06,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:56:57"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26880,
+    "pitch": 62,
+    "channel": 0,
+    "x": 386.686,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:76:62:63"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 64,
+    "channel": 0,
+    "x": 390.877,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:5:6"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 57,
+    "channel": 0,
+    "x": 399.826,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:8:9"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 61,
+    "channel": 0,
+    "x": 402.256,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:14:15"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 64,
+    "channel": 0,
+    "x": 405.232,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:20:21"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 409.423,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:25:26"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 71,
+    "channel": 0,
+    "x": 414.972,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:29:30"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29376,
+    "pitch": 71,
+    "channel": 0,
+    "x": 419.059,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:33:34"
+    ],
+    "on_tick": 29376,
+    "off_tick": 29568,
+    "pitch": 71,
+    "channel": 0,
+    "x": 421.771,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:37:38"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29760,
+    "pitch": 73,
+    "channel": 0,
+    "x": 424.508,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:44:45"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 71,
+    "channel": 0,
+    "x": 427.135,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:77:50:51"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30720,
+    "pitch": 69,
+    "channel": 0,
+    "x": 431.326,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:5:6"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 66,
+    "channel": 0,
+    "x": 440.275,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:11:12"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31296,
+    "pitch": 66,
+    "channel": 0,
+    "x": 442.731,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:17:18"
+    ],
+    "on_tick": 31296,
+    "off_tick": 31488,
+    "pitch": 67,
+    "channel": 0,
+    "x": 445.4,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:23:24"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31680,
+    "pitch": 69,
+    "channel": 0,
+    "x": 449.591,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:27:28"
+    ],
+    "on_tick": 31680,
+    "off_tick": 31872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 452.38,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:31:32"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 456.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:35:36"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 71,
+    "channel": 0,
+    "x": 460.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:39:40"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32832,
+    "pitch": 69,
+    "channel": 0,
+    "x": 462.751,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:44:45"
+    ],
+    "on_tick": 32832,
+    "off_tick": 33024,
+    "pitch": 74,
+    "channel": 0,
+    "x": 468.301,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:51:52"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33216,
+    "pitch": 74,
+    "channel": 0,
+    "x": 472.491,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:56:57"
+    ],
+    "on_tick": 33216,
+    "off_tick": 33408,
+    "pitch": 71,
+    "channel": 0,
+    "x": 477.55,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:60:61"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33600,
+    "pitch": 71,
+    "channel": 0,
+    "x": 480.484,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:78:64:65"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 483.137,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:2:3"
+    ],
+    "on_tick": 33792,
+    "off_tick": 34368,
+    "pitch": 71,
+    "channel": 0,
+    "x": 485.566,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:7:8"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 492.947,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:13:14"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34752,
+    "pitch": 69,
+    "channel": 0,
+    "x": 497.138,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:17:18"
+    ],
+    "on_tick": 34752,
+    "off_tick": 34944,
+    "pitch": 66,
+    "channel": 0,
+    "x": 499.704,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:23:24"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 62,
+    "channel": 0,
+    "x": 502.134,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:27:28"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 66,
+    "channel": 0,
+    "x": 504.922,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:33:34"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35520,
+    "pitch": 67,
+    "channel": 0,
+    "x": 508.044,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:37:38"
+    ],
+    "on_tick": 35520,
+    "off_tick": 35712,
+    "pitch": 64,
+    "channel": 0,
+    "x": 510.671,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:41:42"
+    ],
+    "on_tick": 35712,
+    "off_tick": 35904,
+    "pitch": 62,
+    "channel": 0,
+    "x": 513.1,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:45:46"
+    ],
+    "on_tick": 35904,
+    "off_tick": 36096,
+    "pitch": 61,
+    "channel": 0,
+    "x": 515.726,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:79:53:54"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36864,
+    "pitch": 62,
+    "channel": 0,
+    "x": 519.933,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:5:6"
+    ],
+    "on_tick": 37056,
+    "off_tick": 37248,
+    "pitch": 69,
+    "channel": 0,
+    "x": 528.882,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:9:10"
+    ],
+    "on_tick": 37248,
+    "off_tick": 37440,
+    "pitch": 69,
+    "channel": 0,
+    "x": 532.038,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:13:14"
+    ],
+    "on_tick": 37440,
+    "off_tick": 37632,
+    "pitch": 69,
+    "channel": 0,
+    "x": 535.8,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:20:21"
+    ],
+    "on_tick": 37632,
+    "off_tick": 37824,
+    "pitch": 69,
+    "channel": 0,
+    "x": 539.99,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:24:25"
+    ],
+    "on_tick": 37824,
+    "off_tick": 38016,
+    "pitch": 64,
+    "channel": 0,
+    "x": 542.609,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:28:29"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38784,
+    "pitch": 64,
+    "channel": 0,
+    "x": 545.038,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:35:36"
+    ],
+    "on_tick": 38976,
+    "off_tick": 39168,
+    "pitch": 69,
+    "channel": 0,
+    "x": 553.987,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:41:42"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39360,
+    "pitch": 69,
+    "channel": 0,
+    "x": 558.178,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:45:46"
+    ],
+    "on_tick": 39360,
+    "off_tick": 39552,
+    "pitch": 66,
+    "channel": 0,
+    "x": 560.796,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:82:51:52"
+    ],
+    "on_tick": 39552,
+    "off_tick": 39936,
+    "pitch": 66,
+    "channel": 0,
+    "x": 564.242,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:5:6"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 69,
+    "channel": 0,
+    "x": 570.071,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:9:10"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 573.227,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:13:14"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 576.989,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:19:20"
+    ],
+    "on_tick": 40704,
+    "off_tick": 40896,
+    "pitch": 69,
+    "channel": 0,
+    "x": 581.18,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:23:24"
+    ],
+    "on_tick": 40896,
+    "off_tick": 41088,
+    "pitch": 64,
+    "channel": 0,
+    "x": 583.798,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:27:28"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 586.227,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:32:33"
+    ],
+    "on_tick": 41664,
+    "off_tick": 41856,
+    "pitch": 64,
+    "channel": 0,
+    "x": 592.123,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:36:37"
+    ],
+    "on_tick": 41856,
+    "off_tick": 42048,
+    "pitch": 62,
+    "channel": 0,
+    "x": 595.057,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:40:41"
+    ],
+    "on_tick": 42048,
+    "off_tick": 42240,
+    "pitch": 64,
+    "channel": 0,
+    "x": 597.675,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:83:44:45"
+    ],
+    "on_tick": 42240,
+    "off_tick": 43008,
+    "pitch": 66,
+    "channel": 0,
+    "x": 601.865,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:5:6"
+    ],
+    "on_tick": 43200,
+    "off_tick": 43392,
+    "pitch": 62,
+    "channel": 0,
+    "x": 610.815,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:9:10"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43584,
+    "pitch": 62,
+    "channel": 0,
+    "x": 613.271,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:13:14"
+    ],
+    "on_tick": 43584,
+    "off_tick": 43776,
+    "pitch": 66,
+    "channel": 0,
+    "x": 615.94,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:21:22"
+    ],
+    "on_tick": 43776,
+    "off_tick": 43968,
+    "pitch": 69,
+    "channel": 0,
+    "x": 620.132,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:25:26"
+    ],
+    "on_tick": 43968,
+    "off_tick": 44160,
+    "pitch": 69,
+    "channel": 0,
+    "x": 622.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:29:30"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44352,
+    "pitch": 69,
+    "channel": 0,
+    "x": 626.725,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:33:34"
+    ],
+    "on_tick": 44352,
+    "off_tick": 44544,
+    "pitch": 71,
+    "channel": 0,
+    "x": 631.545,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:37:38"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44928,
+    "pitch": 69,
+    "channel": 0,
+    "x": 637.006,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:44:45"
+    ],
+    "on_tick": 45120,
+    "off_tick": 45312,
+    "pitch": 74,
+    "channel": 0,
+    "x": 642.835,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:51:52"
+    ],
+    "on_tick": 45312,
+    "off_tick": 45504,
+    "pitch": 74,
+    "channel": 0,
+    "x": 647.026,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:56:57"
+    ],
+    "on_tick": 45504,
+    "off_tick": 45696,
+    "pitch": 71,
+    "channel": 0,
+    "x": 650.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:60:61"
+    ],
+    "on_tick": 45696,
+    "off_tick": 45888,
+    "pitch": 71,
+    "channel": 0,
+    "x": 653.721,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:84:64:65"
+    ],
+    "on_tick": 45888,
+    "off_tick": 46080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 656.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:2:3"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46464,
+    "pitch": 71,
+    "channel": 0,
+    "x": 659.786,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:9:10"
+    ],
+    "on_tick": 46656,
+    "off_tick": 46848,
+    "pitch": 71,
+    "channel": 0,
+    "x": 665.615,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:15:16"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47232,
+    "pitch": 69,
+    "channel": 0,
+    "x": 669.805,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:19:20"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47616,
+    "pitch": 74,
+    "channel": 0,
+    "x": 673.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:24:25"
+    ],
+    "on_tick": 47616,
+    "off_tick": 48000,
+    "pitch": 73,
+    "channel": 0,
+    "x": 677.828,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:31:32"
+    ],
+    "on_tick": 48000,
+    "off_tick": 48384,
+    "pitch": 73,
+    "channel": 0,
+    "x": 682.23,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM310_SatuTanganTakKuat/GPM310_SatuTanganTakKuat_ly_data.ily:85:40:41"
+    ],
+    "on_tick": 48384,
+    "off_tick": 49152,
+    "pitch": 74,
+    "channel": 0,
+    "x": 687.621,
+    "y": 15.289
+  }
+]

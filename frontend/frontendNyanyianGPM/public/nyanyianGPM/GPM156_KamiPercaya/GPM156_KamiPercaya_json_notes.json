@@ -1,0 +1,1278 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 60,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:8:9"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 14.165,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:12:13"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 65,
+    "channel": 0,
+    "x": 17.978,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:16:17"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 69,
+    "channel": 0,
+    "x": 21.185,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 69,
+    "channel": 0,
+    "x": 23.829,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:24:25"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 26.874,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:28:29"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 69,
+    "channel": 0,
+    "x": 30.081,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:34:35"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 67,
+    "channel": 0,
+    "x": 34.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:38:39"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 65,
+    "channel": 0,
+    "x": 36.916,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:42:43"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 65,
+    "channel": 0,
+    "x": 39.773,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:48:49"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 42.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:53:54"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 65,
+    "channel": 0,
+    "x": 44.631,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:66:67"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2880,
+    "pitch": 62,
+    "channel": 0,
+    "x": 49.26,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:70:71"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 62,
+    "channel": 0,
+    "x": 52.416,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:76:77"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 62,
+    "channel": 0,
+    "x": 56.955,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:80:81"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 62,
+    "channel": 0,
+    "x": 61.041,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:84:85"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 65,
+    "channel": 0,
+    "x": 64.129,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:89:90"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 67.617,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:93:94"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 65,
+    "channel": 0,
+    "x": 71.246,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:49:97:98"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 74.735,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 78.926,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 81.809,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:12:13"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 65,
+    "channel": 0,
+    "x": 84.256,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:18:19"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 67,
+    "channel": 0,
+    "x": 86.685,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:23:24"
+    ],
+    "on_tick": 5376,
+    "off_tick": 6144,
+    "pitch": 69,
+    "channel": 0,
+    "x": 89.114,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:32:33"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 62,
+    "channel": 0,
+    "x": 99.825,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:36:37"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 62,
+    "channel": 0,
+    "x": 103.775,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:40:41"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 65,
+    "channel": 0,
+    "x": 106.863,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:44:45"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 67,
+    "channel": 0,
+    "x": 110.403,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:48:49"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 65,
+    "channel": 0,
+    "x": 114.032,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:52:53"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 117.64,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:58:59"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 121.831,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:62:63"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 124.713,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:66:67"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 65,
+    "channel": 0,
+    "x": 127.161,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:72:73"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 62,
+    "channel": 0,
+    "x": 129.59,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:50:77:78"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 62,
+    "channel": 0,
+    "x": 132.019,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 72,
+    "channel": 0,
+    "x": 140.53,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:9:10"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 72,
+    "channel": 0,
+    "x": 144.159,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:14:15"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 72,
+    "channel": 0,
+    "x": 147.972,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:19:20"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 74,
+    "channel": 0,
+    "x": 150.565,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:26:27"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 72,
+    "channel": 0,
+    "x": 152.994,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:32:33"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 72,
+    "channel": 0,
+    "x": 155.423,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:39:40"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 160.814,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:43:44"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 164.704,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:47:48"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 69,
+    "channel": 0,
+    "x": 168.722,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:51:52"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 69,
+    "channel": 0,
+    "x": 172.082,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:55:56"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11712,
+    "pitch": 67,
+    "channel": 0,
+    "x": 177.142,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:59:60"
+    ],
+    "on_tick": 11712,
+    "off_tick": 11904,
+    "pitch": 65,
+    "channel": 0,
+    "x": 183.123,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:63:64"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12096,
+    "pitch": 65,
+    "channel": 0,
+    "x": 187.457,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:67:68"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 62,
+    "channel": 0,
+    "x": 190.408,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:73:74"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 65,
+    "channel": 0,
+    "x": 194.614,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:79:80"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 62,
+    "channel": 0,
+    "x": 197.043,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:84:85"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13440,
+    "pitch": 62,
+    "channel": 0,
+    "x": 199.472,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:89:90"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 62,
+    "channel": 0,
+    "x": 206.222,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:51:93:94"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 65,
+    "channel": 0,
+    "x": 209.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 69,
+    "channel": 0,
+    "x": 213.978,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:8:9"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 67,
+    "channel": 0,
+    "x": 217.68,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:12:13"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 65,
+    "channel": 0,
+    "x": 220.93,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 65,
+    "channel": 0,
+    "x": 223.454,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:20:21"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 62,
+    "channel": 0,
+    "x": 227.694,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:24:25"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15168,
+    "pitch": 62,
+    "channel": 0,
+    "x": 231.985,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:28:29"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 65,
+    "channel": 0,
+    "x": 234.654,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:34:35"
+    ],
+    "on_tick": 15360,
+    "off_tick": 16128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 238.845,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:41:42"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 62,
+    "channel": 0,
+    "x": 248.944,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:45:46"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 65,
+    "channel": 0,
+    "x": 252.638,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:51:52"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 67,
+    "channel": 0,
+    "x": 256.829,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:55:56"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 67,
+    "channel": 0,
+    "x": 259.524,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:59:60"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 67,
+    "channel": 0,
+    "x": 262.014,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:63:64"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 65,
+    "channel": 0,
+    "x": 265.844,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:67:68"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 62,
+    "channel": 0,
+    "x": 269.17,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:71:72"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18240,
+    "pitch": 62,
+    "channel": 0,
+    "x": 272.8,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:52:75:76"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 65,
+    "channel": 0,
+    "x": 275.716,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 19200,
+    "pitch": 67,
+    "channel": 0,
+    "x": 279.907,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:11:12"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 72,
+    "channel": 0,
+    "x": 288.856,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:16:17"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 72,
+    "channel": 0,
+    "x": 292.115,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:21:22"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 72,
+    "channel": 0,
+    "x": 295.928,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:28:29"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 74,
+    "channel": 0,
+    "x": 300.118,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:35:36"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 72,
+    "channel": 0,
+    "x": 302.548,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:41:42"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 72,
+    "channel": 0,
+    "x": 304.977,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:46:47"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 69,
+    "channel": 0,
+    "x": 308.606,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:50:51"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 67,
+    "channel": 0,
+    "x": 311.489,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:54:55"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21312,
+    "pitch": 69,
+    "channel": 0,
+    "x": 315.592,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:58:59"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 72,
+    "channel": 0,
+    "x": 320.02,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:65:66"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 324.21,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:69:70"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 74,
+    "channel": 0,
+    "x": 330.96,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:74:75"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 74,
+    "channel": 0,
+    "x": 337.266,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:79:80"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 74,
+    "channel": 0,
+    "x": 341.633,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:53:84:85"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 74,
+    "channel": 0,
+    "x": 345.062,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:4:5"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23616,
+    "pitch": 74,
+    "channel": 0,
+    "x": 349.253,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:10:11"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 74,
+    "channel": 0,
+    "x": 354.803,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:15:16"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24000,
+    "pitch": 72,
+    "channel": 0,
+    "x": 357.232,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:20:21"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 69,
+    "channel": 0,
+    "x": 359.661,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:24:25"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 69,
+    "channel": 0,
+    "x": 362.535,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:28:29"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 72,
+    "channel": 0,
+    "x": 365.247,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:35:36"
+    ],
+    "on_tick": 24576,
+    "off_tick": 25344,
+    "pitch": 72,
+    "channel": 0,
+    "x": 369.438,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:43:44"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 74,
+    "channel": 0,
+    "x": 378.387,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:48:49"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 74,
+    "channel": 0,
+    "x": 381.56,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:53:54"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 74,
+    "channel": 0,
+    "x": 385.45,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:60:61"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 74,
+    "channel": 0,
+    "x": 389.741,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:65:66"
+    ],
+    "on_tick": 26304,
+    "off_tick": 27072,
+    "pitch": 74,
+    "channel": 0,
+    "x": 392.17,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:70:71"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 72,
+    "channel": 0,
+    "x": 399.641,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:75:76"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 403.206,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:54:79:80"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 72,
+    "channel": 0,
+    "x": 407.463,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 74,
+    "channel": 0,
+    "x": 411.654,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:9:10"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28416,
+    "pitch": 74,
+    "channel": 0,
+    "x": 414.332,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:18:19"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 422.081,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:22:23"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 425.51,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:26:27"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 430.877,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:32:33"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29376,
+    "pitch": 72,
+    "channel": 0,
+    "x": 435.424,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:37:38"
+    ],
+    "on_tick": 29376,
+    "off_tick": 29760,
+    "pitch": 69,
+    "channel": 0,
+    "x": 437.853,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:41:42"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 69,
+    "channel": 0,
+    "x": 442.203,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:45:46"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30144,
+    "pitch": 67,
+    "channel": 0,
+    "x": 444.632,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:51:52"
+    ],
+    "on_tick": 30144,
+    "off_tick": 30336,
+    "pitch": 65,
+    "channel": 0,
+    "x": 447.281,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:56:57"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 62,
+    "channel": 0,
+    "x": 449.93,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:60:61"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 62,
+    "channel": 0,
+    "x": 453.103,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM156_KamiPercaya/GPM156_KamiPercaya_ly_data.ily:55:66:67"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31872,
+    "pitch": 62,
+    "channel": 0,
+    "x": 457.294,
+    "y": 15.289
+  }
+]

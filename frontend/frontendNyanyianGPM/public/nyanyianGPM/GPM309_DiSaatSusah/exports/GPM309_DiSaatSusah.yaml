@@ -1,0 +1,73 @@
+meta:
+  totalMeasures: 19
+  minTick: 0
+  maxTick: 20352
+  minMoment: 0
+  maxMoment: 19
+  musicStartSeconds: 0.0
+  channels:
+    0:
+      minPitch: 60
+      maxPitch: 72
+      count: 40
+
+flow:
+- [0, ~, 1, bar]
+- [0, 0, 384, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:45:1:2']]
+- [384, 0, 768, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:45:5:6']]
+- [768, 0, 1152, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:45:9:10']]
+- [1071, ~, 2, bar]
+- [1152, 0, 2304, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:46:1:2']]
+- [2142, ~, 3, bar]
+- [2304, 0, 3072, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:47:1:2']]
+- [3072, 0, 3456, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:47:5:6']]
+- [3213, ~, 4, bar]
+- [3456, 0, 3840, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:48:1:2']]
+- [3840, 0, 4224, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:48:7:8']]
+- [4224, 0, 4608, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:48:12:13']]
+- [4284, ~, 5, bar]
+- [4608, 0, 5376, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:49:1:2']]
+- [5355, ~, 6, bar]
+- [5760, 0, 6144, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:50:1:2']]
+- [6144, 0, 6528, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:50:5:6']]
+- [6426, ~, 7, bar]
+- [6528, 0, 6912, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:50:9:10']]
+- [6912, 0, 7296, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:1:2']]
+- [7296, 0, 7680, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:5:6']]
+- [7498, ~, 8, bar]
+- [7680, 0, 7872, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:9:10']]
+- [7872, 0, 8064, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:13:14']]
+- [8064, 0, 8448, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:52:1:2']]
+- [8448, 0, 8832, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:52:6:7']]
+- [8569, ~, 9, bar]
+- [8832, 0, 9216, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:52:11:12']]
+- [9216, 0, 9600, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:53:1:2']]
+- [9600, 0, 9984, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:53:8:9']]
+- [9640, ~, 10, bar]
+- [9984, 0, 10368, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:53:13:14']]
+- [10368, 0, 11136, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:54:1:2']]
+- [10711, ~, 11, bar]
+- [11520, 0, 11904, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:55:1:2']]
+- [11782, ~, 12, bar]
+- [11904, 0, 12288, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:55:5:6']]
+- [12288, 0, 12672, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:55:9:10']]
+- [12672, 0, 13056, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:56:1:2']]
+- [12853, ~, 13, bar]
+- [13056, 0, 13440, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:56:5:6']]
+- [13440, 0, 13824, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:56:9:10']]
+- [13824, 0, 14976, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:57:1:2']]
+- [13925, ~, 14, bar]
+- [14976, 0, 16128, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:58:1:2']]
+- [14996, ~, 15, bar]
+- [16067, ~, 16, bar]
+- [16128, 0, 16512, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:59:1:2']]
+- [16512, 0, 16896, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:59:5:6']]
+- [16896, 0, 17280, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:59:10:11']]
+- [17138, ~, 17, bar]
+- [17280, 0, 17664, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:60:1:2']]
+- [17664, 0, 18048, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:60:5:6']]
+- [18048, 0, 18432, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:60:9:10']]
+- [18209, ~, 18, bar]
+- [18432, 0, 19584, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:61:1:2']]
+- [19280, ~, 19, bar]
+- [19584, 0, 20352, ['D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:62:1:2']]

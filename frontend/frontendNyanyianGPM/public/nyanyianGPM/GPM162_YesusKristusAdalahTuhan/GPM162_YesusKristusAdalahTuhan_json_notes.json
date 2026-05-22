@@ -1,0 +1,1388 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:6:7"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 62,
+    "channel": 0,
+    "x": 13.896,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:10:11"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 18.717,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:14:15"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 23.102,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:18:19"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 65,
+    "channel": 0,
+    "x": 26.027,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:22:23"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 28.456,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:26:27"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 62,
+    "channel": 0,
+    "x": 31.766,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:32:33"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 37.156,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:36:37"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 41.388,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:43:44"
+    ],
+    "on_tick": 2496,
+    "off_tick": 2688,
+    "pitch": 69,
+    "channel": 0,
+    "x": 47.217,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:47:48"
+    ],
+    "on_tick": 2688,
+    "off_tick": 2880,
+    "pitch": 69,
+    "channel": 0,
+    "x": 52.199,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:54:51:52"
+    ],
+    "on_tick": 2880,
+    "off_tick": 3072,
+    "pitch": 69,
+    "channel": 0,
+    "x": 56.943,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:2:3"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 70,
+    "channel": 0,
+    "x": 61.134,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:8:9"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3840,
+    "pitch": 70,
+    "channel": 0,
+    "x": 64.763,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:17:18"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 70.592,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:21:22"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 67,
+    "channel": 0,
+    "x": 73.021,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:25:26"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 76.382,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:31:32"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 82.004,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:35:36"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5760,
+    "pitch": 69,
+    "channel": 0,
+    "x": 85.634,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:48:49"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5952,
+    "pitch": 65,
+    "channel": 0,
+    "x": 93.383,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:55:52:53"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6144,
+    "pitch": 65,
+    "channel": 0,
+    "x": 95.812,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 67,
+    "channel": 0,
+    "x": 100.003,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:6:7"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 67,
+    "channel": 0,
+    "x": 103.125,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:13:14"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 107.754,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:17:18"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 65,
+    "channel": 0,
+    "x": 112.019,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:21:22"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 65,
+    "channel": 0,
+    "x": 117.079,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:25:26"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 64,
+    "channel": 0,
+    "x": 120.456,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:29:30"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 64,
+    "channel": 0,
+    "x": 123.015,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:35:36"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8448,
+    "pitch": 62,
+    "channel": 0,
+    "x": 127.205,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:42:43"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9024,
+    "pitch": 69,
+    "channel": 0,
+    "x": 137.305,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:56:46:47"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 141.451,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:2:3"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 70,
+    "channel": 0,
+    "x": 145.642,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9984,
+    "pitch": 70,
+    "channel": 0,
+    "x": 148.071,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:15:16"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 153.62,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:19:20"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 158.048,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:23:24"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 69,
+    "channel": 0,
+    "x": 161.375,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:29:30"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 67,
+    "channel": 0,
+    "x": 165.565,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:57:33:34"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 169.194,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 65,
+    "channel": 0,
+    "x": 180.984,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:6:7"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 65,
+    "channel": 0,
+    "x": 184.613,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:10:11"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 67,
+    "channel": 0,
+    "x": 189.263,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:14:15"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 67,
+    "channel": 0,
+    "x": 193.545,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:18:19"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 65,
+    "channel": 0,
+    "x": 197.905,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:22:23"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 65,
+    "channel": 0,
+    "x": 202.751,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:58:28:29"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14976,
+    "pitch": 62,
+    "channel": 0,
+    "x": 206.941,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:2:3"
+    ],
+    "on_tick": 15360,
+    "off_tick": 16128,
+    "pitch": 70,
+    "channel": 0,
+    "x": 222.341,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:8:9"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 229.091,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:12:13"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 232.72,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:18:19"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 69,
+    "channel": 0,
+    "x": 238.111,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:22:23"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17472,
+    "pitch": 69,
+    "channel": 0,
+    "x": 240.54,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:26:27"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 67,
+    "channel": 0,
+    "x": 246.35,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:30:31"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 65,
+    "channel": 0,
+    "x": 250.24,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:63:34:35"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18240,
+    "pitch": 64,
+    "channel": 0,
+    "x": 253.908,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 19200,
+    "pitch": 67,
+    "channel": 0,
+    "x": 260.228,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:6:7"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 67,
+    "channel": 0,
+    "x": 266.977,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:10:11"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 69,
+    "channel": 0,
+    "x": 270.606,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:16:17"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 65,
+    "channel": 0,
+    "x": 273.036,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:23:24"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20736,
+    "pitch": 67,
+    "channel": 0,
+    "x": 277.226,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:27:28"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 65,
+    "channel": 0,
+    "x": 283.976,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:31:32"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 65,
+    "channel": 0,
+    "x": 286.405,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:35:36"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21312,
+    "pitch": 64,
+    "channel": 0,
+    "x": 289.714,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:39:40"
+    ],
+    "on_tick": 21312,
+    "off_tick": 21504,
+    "pitch": 64,
+    "channel": 0,
+    "x": 293.596,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:64:45:46"
+    ],
+    "on_tick": 21504,
+    "off_tick": 22656,
+    "pitch": 62,
+    "channel": 0,
+    "x": 297.786,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:2:3"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23232,
+    "pitch": 62,
+    "channel": 0,
+    "x": 313.186,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:6:7"
+    ],
+    "on_tick": 23232,
+    "off_tick": 23424,
+    "pitch": 62,
+    "channel": 0,
+    "x": 316.701,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:10:11"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23616,
+    "pitch": 62,
+    "channel": 0,
+    "x": 319.609,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:14:15"
+    ],
+    "on_tick": 23616,
+    "off_tick": 23808,
+    "pitch": 64,
+    "channel": 0,
+    "x": 322.116,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:18:19"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24000,
+    "pitch": 65,
+    "channel": 0,
+    "x": 325.468,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:22:23"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 328.078,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:26:27"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24576,
+    "pitch": 62,
+    "channel": 0,
+    "x": 330.585,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:32:33"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 69,
+    "channel": 0,
+    "x": 335.976,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:36:37"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 69,
+    "channel": 0,
+    "x": 339.627,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:43:44"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 345.456,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:47:48"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 348.765,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:69:51:52"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 353.722,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:2:3"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26496,
+    "pitch": 70,
+    "channel": 0,
+    "x": 358.047,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:8:9"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 70,
+    "channel": 0,
+    "x": 361.676,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:17:18"
+    ],
+    "on_tick": 27072,
+    "off_tick": 27264,
+    "pitch": 67,
+    "channel": 0,
+    "x": 367.506,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:21:22"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 67,
+    "channel": 0,
+    "x": 370.798,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:25:26"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 375.14,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:31:32"
+    ],
+    "on_tick": 27648,
+    "off_tick": 28032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 379.331,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:35:36"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 382.96,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:48:49"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 65,
+    "channel": 0,
+    "x": 390.71,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:70:52:53"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 65,
+    "channel": 0,
+    "x": 393.917,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:2:3"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29376,
+    "pitch": 67,
+    "channel": 0,
+    "x": 398.108,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:6:7"
+    ],
+    "on_tick": 29376,
+    "off_tick": 29568,
+    "pitch": 67,
+    "channel": 0,
+    "x": 402.288,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:13:14"
+    ],
+    "on_tick": 29760,
+    "off_tick": 29952,
+    "pitch": 67,
+    "channel": 0,
+    "x": 406.917,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:17:18"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30144,
+    "pitch": 65,
+    "channel": 0,
+    "x": 409.748,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:21:22"
+    ],
+    "on_tick": 30144,
+    "off_tick": 30336,
+    "pitch": 65,
+    "channel": 0,
+    "x": 412.631,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:25:26"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 64,
+    "channel": 0,
+    "x": 415.351,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:29:30"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 418.507,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:35:36"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31488,
+    "pitch": 62,
+    "channel": 0,
+    "x": 422.698,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:42:43"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 69,
+    "channel": 0,
+    "x": 432.798,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:71:46:47"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 436.107,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:2:3"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32448,
+    "pitch": 70,
+    "channel": 0,
+    "x": 440.298,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:8:9"
+    ],
+    "on_tick": 32448,
+    "off_tick": 33024,
+    "pitch": 70,
+    "channel": 0,
+    "x": 442.727,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:15:16"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 449.118,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:19:20"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 453.315,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:23:24"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 455.744,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:29:30"
+    ],
+    "on_tick": 33792,
+    "off_tick": 34176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 459.935,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:72:33:34"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34944,
+    "pitch": 67,
+    "channel": 0,
+    "x": 463.564,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:2:3"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35712,
+    "pitch": 65,
+    "channel": 0,
+    "x": 475.353,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:6:7"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36096,
+    "pitch": 65,
+    "channel": 0,
+    "x": 478.982,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:10:11"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36288,
+    "pitch": 67,
+    "channel": 0,
+    "x": 483.547,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:14:15"
+    ],
+    "on_tick": 36288,
+    "off_tick": 36480,
+    "pitch": 67,
+    "channel": 0,
+    "x": 489.255,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:18:19"
+    ],
+    "on_tick": 36480,
+    "off_tick": 36672,
+    "pitch": 65,
+    "channel": 0,
+    "x": 494.109,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:22:23"
+    ],
+    "on_tick": 36672,
+    "off_tick": 36864,
+    "pitch": 65,
+    "channel": 0,
+    "x": 497.316,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:73:28:29"
+    ],
+    "on_tick": 36864,
+    "off_tick": 38016,
+    "pitch": 62,
+    "channel": 0,
+    "x": 501.507,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:2:3"
+    ],
+    "on_tick": 38400,
+    "off_tick": 39168,
+    "pitch": 70,
+    "channel": 0,
+    "x": 516.907,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:8:9"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39552,
+    "pitch": 69,
+    "channel": 0,
+    "x": 523.657,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:12:13"
+    ],
+    "on_tick": 39552,
+    "off_tick": 39936,
+    "pitch": 67,
+    "channel": 0,
+    "x": 527.286,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:18:19"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 532.677,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:22:23"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 535.106,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:26:27"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 540.916,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:30:31"
+    ],
+    "on_tick": 40704,
+    "off_tick": 41088,
+    "pitch": 65,
+    "channel": 0,
+    "x": 544.806,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:78:34:35"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 548.474,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:2:3"
+    ],
+    "on_tick": 41472,
+    "off_tick": 42240,
+    "pitch": 67,
+    "channel": 0,
+    "x": 554.793,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:6:7"
+    ],
+    "on_tick": 42240,
+    "off_tick": 42624,
+    "pitch": 67,
+    "channel": 0,
+    "x": 561.543,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:10:11"
+    ],
+    "on_tick": 42624,
+    "off_tick": 42816,
+    "pitch": 69,
+    "channel": 0,
+    "x": 565.172,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:16:17"
+    ],
+    "on_tick": 42816,
+    "off_tick": 43008,
+    "pitch": 65,
+    "channel": 0,
+    "x": 567.601,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:23:24"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 571.792,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:27:28"
+    ],
+    "on_tick": 43776,
+    "off_tick": 43968,
+    "pitch": 65,
+    "channel": 0,
+    "x": 578.542,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:31:32"
+    ],
+    "on_tick": 43968,
+    "off_tick": 44160,
+    "pitch": 65,
+    "channel": 0,
+    "x": 580.971,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:35:36"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44352,
+    "pitch": 64,
+    "channel": 0,
+    "x": 584.28,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:39:40"
+    ],
+    "on_tick": 44352,
+    "off_tick": 44544,
+    "pitch": 64,
+    "channel": 0,
+    "x": 588.162,
+    "y": 15.732
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM162_YesusKristusAdalahTuhan/GPM162_YesusKristusAdalahTuhan_ly_data.ily:79:45:46"
+    ],
+    "on_tick": 44544,
+    "off_tick": 45696,
+    "pitch": 62,
+    "channel": 0,
+    "x": 592.352,
+    "y": 15.732
+  }
+]

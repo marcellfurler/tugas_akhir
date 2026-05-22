@@ -1,0 +1,442 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:44:1:2"
+    ],
+    "on_tick": 0,
+    "off_tick": 768,
+    "pitch": 65,
+    "channel": 0,
+    "x": 10.536,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:44:5:6"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 65,
+    "channel": 0,
+    "x": 15.882,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:44:9:10"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 19.942,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:45:1:2"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2112,
+    "pitch": 69,
+    "channel": 0,
+    "x": 24.631,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:45:6:7"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 67,
+    "channel": 0,
+    "x": 29.458,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:45:10:11"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 65,
+    "channel": 0,
+    "x": 31.555,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:46:1:2"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3840,
+    "pitch": 67,
+    "channel": 0,
+    "x": 38.663,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:46:5:6"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 65,
+    "channel": 0,
+    "x": 44.008,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:46:9:10"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 64,
+    "channel": 0,
+    "x": 47.898,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:47:1:2"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5760,
+    "pitch": 65,
+    "channel": 0,
+    "x": 52.587,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:48:1:2"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6912,
+    "pitch": 69,
+    "channel": 0,
+    "x": 64.689,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:48:5:6"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 70.15,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:48:9:10"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 70,
+    "channel": 0,
+    "x": 76.165,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:49:1:2"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8256,
+    "pitch": 72,
+    "channel": 0,
+    "x": 80.854,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:49:7:8"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 70,
+    "channel": 0,
+    "x": 86.459,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:49:13:14"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 88.608,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:50:1:2"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9984,
+    "pitch": 67,
+    "channel": 0,
+    "x": 95.715,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:50:5:6"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 69,
+    "channel": 0,
+    "x": 101.061,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:50:9:10"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 70,
+    "channel": 0,
+    "x": 105.907,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:51:1:2"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 110.595,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:52:1:2"
+    ],
+    "on_tick": 12288,
+    "off_tick": 13056,
+    "pitch": 69,
+    "channel": 0,
+    "x": 122.698,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:52:5:6"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 70,
+    "channel": 0,
+    "x": 128.286,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:52:11:12"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 70,
+    "channel": 0,
+    "x": 132.065,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:53:1:2"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 136.754,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:53:5:6"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 72,
+    "channel": 0,
+    "x": 142.1,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:54:1:2"
+    ],
+    "on_tick": 15360,
+    "off_tick": 16128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 149.207,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:54:5:6"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 154.553,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:54:9:10"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 70,
+    "channel": 0,
+    "x": 157.48,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:55:1:2"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18048,
+    "pitch": 69,
+    "channel": 0,
+    "x": 162.168,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:56:1:2"
+    ],
+    "on_tick": 18432,
+    "off_tick": 19200,
+    "pitch": 74,
+    "channel": 0,
+    "x": 174.271,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:56:6:7"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 76,
+    "channel": 0,
+    "x": 179.616,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:56:11:12"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 74,
+    "channel": 0,
+    "x": 183.361,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:57:1:2"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20544,
+    "pitch": 72,
+    "channel": 0,
+    "x": 188.05,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:57:7:8"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 70,
+    "channel": 0,
+    "x": 192.877,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:57:13:14"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 195.367,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:1:2"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 65,
+    "channel": 0,
+    "x": 202.474,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:5:6"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 205.402,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:9:10"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 209.061,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:58:13:14"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 67,
+    "channel": 0,
+    "x": 213.053,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM013_KuDatangPadaMu/GPM013_KuDatangPadaMu_ly_data.ily:59:1:2"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24192,
+    "pitch": 65,
+    "channel": 0,
+    "x": 217.742,
+    "y": 12.736
+  }
+]

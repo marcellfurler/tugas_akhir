@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM156_KamiPercaya.ly": "892d5d74867206521cbf12142c4390b8e8232a92329a442d36827fd85fe5479c",
+    "GPM156_KamiPercaya_ly_data.ily": "80a1e83c873105dfc335788288b81412df50adeb6502a1c4fe0e3ff207ecdb25",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM156_KamiPercaya_ly_one_line.ly": "e9ee56ecf9462b4c58edf606a7b319eacbaf875d352bdf0bf615d6207b57f6e2",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM156_KamiPercaya.ly": "892d5d74867206521cbf12142c4390b8e8232a92329a442d36827fd85fe5479c",
+    "GPM156_KamiPercaya_ly_data.ily": "80a1e83c873105dfc335788288b81412df50adeb6502a1c4fe0e3ff207ecdb25",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "events": {
+    "GPM156_KamiPercaya_ly_one_line.midi": "e1f117c425efe2fc5f2caf4f0c5d463901aa3cb3938781b6bf60d38b0aa7b3a4"
+  },
+  "filter_one_line": {
+    "GPM156_KamiPercaya_ly_one_line.svg": "ef4f868dea5118c07cf3f4cf76439e8adc06e8a12c51dc38f41353278d216543"
+  },
+  "ties": {
+    "GPM156_KamiPercaya_ly_one_line_filtered.svg": "d7bc66f6b1b42b69c37b80dec55b5cb44586056834d738adc85892709b2f2b64"
+  },
+  "noteheads": {
+    "GPM156_KamiPercaya_ly_one_line_filtered.svg": "d7bc66f6b1b42b69c37b80dec55b5cb44586056834d738adc85892709b2f2b64"
+  },
+  "squash": {
+    "GPM156_KamiPercaya_note_heads.csv": "7711ee7969ed513b7979f09ed60328437011fd9caf8c7d6e931daf1903ba0ed2",
+    "GPM156_KamiPercaya_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM156_KamiPercaya_note_heads_squashed.csv": "9ee300a99c494dc26be77e30b13671153f0f401fb8819d8b28b196a9ea7895e6",
+    "GPM156_KamiPercaya_note_events.csv": "04d8134855d69ef87afd18421b3d5683bb80baa215d3100ec6f2159378559dd6"
+  },
+  "svg": {
+    "GPM156_KamiPercaya.ly": "892d5d74867206521cbf12142c4390b8e8232a92329a442d36827fd85fe5479c",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM156_KamiPercaya_ly_data.ily": "80a1e83c873105dfc335788288b81412df50adeb6502a1c4fe0e3ff207ecdb25",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "filter": {
+    "GPM156_KamiPercaya.svg": "c93fdca1002e9cd4a8dff032e8b19f5039af0128092d2dec2569b82e7b8ca525"
+  },
+  "swell": {
+    "GPM156_KamiPercaya_filtered.svg": "fc1d34c85fe4aad1c80b766a7127315f5929abc44f34e58165a58e14f3727fe9"
+  },
+  "optim": {
+    "GPM156_KamiPercaya_filtered_swellable.svg": "707f839dfb49992293bb9d10f58cb04a3b5811f28516dcc184cfbb5b2bc9331d"
+  },
+  "sync": {
+    "GPM156_KamiPercaya_optimized.svg": "d3e6b9cc64472992ee0f79e72c6806b91b0adc3b6571e315387b9951e6329982",
+    "GPM156_KamiPercaya_json_notes.json": "dd4422e78da32d39464275213acfc0a47b56ff5fbf0fc532cbe29155382b460c",
+    "GPM156_KamiPercaya_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM156_KamiPercaya.config.yaml": "1faefafd29bef2d5687d4c1536e13339cd403422ab481df3e02f1a8769726a8c"
+  }
+}

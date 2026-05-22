@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM240_AjarAnakMuYaBapa.ly": "5c9b3aa2c2d4be986d271a89593ab216699e0020588134087abae9517233dd64",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM240_AjarAnakMuYaBapa_ly_data.ily": "1df036f4822570e97977971239eb2a1c6c3bd07a1277146069730f6012f4ca4e",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM240_AjarAnakMuYaBapa_ly_one_line.ly": "ad4ad130a1240e3c7bdda2bb2663cc083d7a1db29e18b50bfe982cbc569c6dbd",
+    "GPM240_AjarAnakMuYaBapa_ly_data.ily": "1df036f4822570e97977971239eb2a1c6c3bd07a1277146069730f6012f4ca4e",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM240_AjarAnakMuYaBapa.ly": "5c9b3aa2c2d4be986d271a89593ab216699e0020588134087abae9517233dd64",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "events": {
+    "GPM240_AjarAnakMuYaBapa_ly_one_line.midi": "31ad972ece781e24669aebdf8a08e2271dac78ac16534478b965f61735f656b4"
+  },
+  "filter_one_line": {
+    "GPM240_AjarAnakMuYaBapa_ly_one_line.svg": "a7c92b0bb5b6c4f88dad21d8a3cf5fede7ae8d891a88c0732e6544426559bd37"
+  },
+  "ties": {
+    "GPM240_AjarAnakMuYaBapa_ly_one_line_filtered.svg": "94a4183181409046ac3f728d75f0df01687d577709158815d22be095d70a820d"
+  },
+  "noteheads": {
+    "GPM240_AjarAnakMuYaBapa_ly_one_line_filtered.svg": "94a4183181409046ac3f728d75f0df01687d577709158815d22be095d70a820d"
+  },
+  "squash": {
+    "GPM240_AjarAnakMuYaBapa_note_heads.csv": "8280773d7f14bb9851de3284595d3e066e1e80104d64219c0b4d7dac76f69963",
+    "GPM240_AjarAnakMuYaBapa_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM240_AjarAnakMuYaBapa_note_heads_squashed.csv": "65f4e48bf0cafe5706081ea0d92a9f31415e0adac06481e7c79ffe91578366d3",
+    "GPM240_AjarAnakMuYaBapa_note_events.csv": "680987e921f7cc05c38ad52dddf88405598ae93da4c4fa0d2efb3eba6625cb9b"
+  },
+  "svg": {
+    "GPM240_AjarAnakMuYaBapa.ly": "5c9b3aa2c2d4be986d271a89593ab216699e0020588134087abae9517233dd64",
+    "GPM240_AjarAnakMuYaBapa_ly_data.ily": "1df036f4822570e97977971239eb2a1c6c3bd07a1277146069730f6012f4ca4e",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "filter": {
+    "GPM240_AjarAnakMuYaBapa.svg": "e05f136498a93d009c2d42f9a8571d67865e6e07bb1880a79f84ffd8ff26b1c0"
+  },
+  "swell": {
+    "GPM240_AjarAnakMuYaBapa_filtered.svg": "969c06a446ba668751bd2d9e48c441759d86e289eeab5bd65c9644128ad4477f"
+  },
+  "optim": {
+    "GPM240_AjarAnakMuYaBapa_filtered_swellable.svg": "429bc1e4bfc73e6ec6cebc083be4afb0a3e32e4e8a8d5535c31ad7db5dee6367"
+  },
+  "sync": {
+    "GPM240_AjarAnakMuYaBapa_optimized.svg": "68d74f497a3e990e5f7d0e9356f3a5c085f4057892d372bf91990b760a82d8a2",
+    "GPM240_AjarAnakMuYaBapa_json_notes.json": "28cf444b70c8ba16452aa35ae73a2dfafa1ad5668bfaa200d5f15fce61f185a7",
+    "GPM240_AjarAnakMuYaBapa_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM240_AjarAnakMuYaBapa.config.yaml": "c36014f1a65cd1be73593e3954a6551916f705d887f3d892a9bba3d680e243ec"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM198_DiHeningPagi.ly": "583c6de6519627dcd2d76ddeeff61fcfe0c62bcf462c341fd7844e83f5128692",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM198_DiHeningPagi_ly_data.ily": "1b6574dc4c370efaef7b54dab5a22a252c4ea89ec4ed90e53f19ad060dcf68eb",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM198_DiHeningPagi_ly_one_line.ly": "2973476374ae7c5263dca2ddc7233e71d9f12c949e1a6cfa140e8685fb4f2aaa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM198_DiHeningPagi_ly_data.ily": "1b6574dc4c370efaef7b54dab5a22a252c4ea89ec4ed90e53f19ad060dcf68eb",
+    "GPM198_DiHeningPagi.ly": "583c6de6519627dcd2d76ddeeff61fcfe0c62bcf462c341fd7844e83f5128692",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "events": {
+    "GPM198_DiHeningPagi_ly_one_line.midi": "15e86d46de9225fc8b6d823cb9b82fddfe55f9c60437129b6a04d60d7bcc0eeb"
+  },
+  "filter_one_line": {
+    "GPM198_DiHeningPagi_ly_one_line.svg": "e7a52c1cd47494820333b75d460ef9fefe6a6a69251ea7c3c212605ad0fee5f5"
+  },
+  "ties": {
+    "GPM198_DiHeningPagi_ly_one_line_filtered.svg": "896014eca1423eb51f7ba251ebfe111918528b8d10a5e4fff8b10aa69a57c1db"
+  },
+  "noteheads": {
+    "GPM198_DiHeningPagi_ly_one_line_filtered.svg": "896014eca1423eb51f7ba251ebfe111918528b8d10a5e4fff8b10aa69a57c1db"
+  },
+  "squash": {
+    "GPM198_DiHeningPagi_note_heads.csv": "3fdebe73b395dae10d00ce50cc615ea2d56a4e84c21f0a8f7d31231cda4244b6",
+    "GPM198_DiHeningPagi_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM198_DiHeningPagi_note_heads_squashed.csv": "f5176ac9230f629f1d2e7e2a3f3e6f9517eb97492cab219649bffef5531b67e9",
+    "GPM198_DiHeningPagi_note_events.csv": "d38571e27d428bb054e94f48a33140193d268dec3813259e0650b981f1ce42aa"
+  },
+  "svg": {
+    "GPM198_DiHeningPagi.ly": "583c6de6519627dcd2d76ddeeff61fcfe0c62bcf462c341fd7844e83f5128692",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM198_DiHeningPagi_ly_data.ily": "1b6574dc4c370efaef7b54dab5a22a252c4ea89ec4ed90e53f19ad060dcf68eb",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "filter": {
+    "GPM198_DiHeningPagi.svg": "5a6ab80ce07b0743821f0c2166995fc70555930a9b870840104b4c7fb02bd3c4"
+  },
+  "swell": {
+    "GPM198_DiHeningPagi_filtered.svg": "1d9920450844b947797c8159e3b83519545516501a5f88a58d857dd0e6aefa28"
+  },
+  "optim": {
+    "GPM198_DiHeningPagi_filtered_swellable.svg": "dee6a6b4522acd91dd20c318d1bf57b0121879947fa3cce230e975ca1d46a837"
+  },
+  "sync": {
+    "GPM198_DiHeningPagi_optimized.svg": "90c9504da579d5c8b2ea7f7750a1e436d2e08f8e0774021269fcf27d9686d490",
+    "GPM198_DiHeningPagi_json_notes.json": "5790351f2e66f1a9e354f73cc2b922e3b6da13575ba71a480074398617877647",
+    "GPM198_DiHeningPagi_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM198_DiHeningPagi.config.yaml": "9f8acbb56d0fda202b1132621ebdb6fbe243198b4fb9b80bbaf624daf6a31c45"
+  }
+}

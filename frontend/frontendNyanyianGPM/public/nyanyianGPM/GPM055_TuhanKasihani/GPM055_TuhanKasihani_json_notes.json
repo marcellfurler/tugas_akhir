@@ -1,0 +1,530 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:7:8"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 67,
+    "channel": 0,
+    "x": 13.886,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:11:12"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 18.117,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:15:16"
+    ],
+    "on_tick": 768,
+    "off_tick": 1344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 21.708,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:52:20:21"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 65,
+    "channel": 0,
+    "x": 27.258,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 69,
+    "channel": 0,
+    "x": 31.449,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:53:8:9"
+    ],
+    "on_tick": 1920,
+    "off_tick": 3072,
+    "pitch": 67,
+    "channel": 0,
+    "x": 35.078,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:27:28"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 50.059,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:33:34"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 54.786,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:58:59"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 70,
+    "channel": 0,
+    "x": 58.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:66:67"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 61.101,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:54:71:72"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 65.451,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:55:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 69.641,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:55:10:11"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5760,
+    "pitch": 67,
+    "channel": 0,
+    "x": 73.27,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:55:14:15"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6144,
+    "pitch": 65,
+    "channel": 0,
+    "x": 80.02,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 64,
+    "channel": 0,
+    "x": 85.411,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:11:12"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 90.04,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:15:16"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 94.271,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:19:20"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7488,
+    "pitch": 64,
+    "channel": 0,
+    "x": 97.862,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:56:24:25"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 103.412,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:24:25"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 107.602,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:30:31"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8832,
+    "pitch": 65,
+    "channel": 0,
+    "x": 111.232,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:55:56"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9024,
+    "pitch": 67,
+    "channel": 0,
+    "x": 117.981,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:57:61:62"
+    ],
+    "on_tick": 9024,
+    "off_tick": 9216,
+    "pitch": 65,
+    "channel": 0,
+    "x": 120.41,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 10752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 124.601,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:7:8"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 67,
+    "channel": 0,
+    "x": 143.193,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:11:12"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 67,
+    "channel": 0,
+    "x": 145.803,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:15:16"
+    ],
+    "on_tick": 11520,
+    "off_tick": 12096,
+    "pitch": 67,
+    "channel": 0,
+    "x": 148.232,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:63:20:21"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 65,
+    "channel": 0,
+    "x": 153.782,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:64:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 157.972,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:64:8:9"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13824,
+    "pitch": 67,
+    "channel": 0,
+    "x": 161.601,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:27:28"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 67,
+    "channel": 0,
+    "x": 176.583,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:33:34"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 179.98,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:58:59"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 70,
+    "channel": 0,
+    "x": 183.377,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:66:67"
+    ],
+    "on_tick": 14784,
+    "off_tick": 15168,
+    "pitch": 69,
+    "channel": 0,
+    "x": 186.15,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:65:71:72"
+    ],
+    "on_tick": 15168,
+    "off_tick": 15360,
+    "pitch": 67,
+    "channel": 0,
+    "x": 190.5,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:66:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 69,
+    "channel": 0,
+    "x": 194.69,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:66:10:11"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 198.32,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:66:14:15"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 65,
+    "channel": 0,
+    "x": 205.069,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:4:5"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 64,
+    "channel": 0,
+    "x": 210.46,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:11:12"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17472,
+    "pitch": 64,
+    "channel": 0,
+    "x": 215.089,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:15:16"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 64,
+    "channel": 0,
+    "x": 217.698,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:19:20"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18240,
+    "pitch": 64,
+    "channel": 0,
+    "x": 220.128,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:67:24:25"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 67,
+    "channel": 0,
+    "x": 225.677,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:24:25"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 67,
+    "channel": 0,
+    "x": 229.868,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:30:31"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19584,
+    "pitch": 65,
+    "channel": 0,
+    "x": 233.497,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:55:56"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 240.247,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:68:61:62"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 65,
+    "channel": 0,
+    "x": 242.676,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM055_TuhanKasihani/GPM055_TuhanKasihani_ly_data.ily:69:4:5"
+    ],
+    "on_tick": 19968,
+    "off_tick": 21504,
+    "pitch": 64,
+    "channel": 0,
+    "x": 246.866,
+    "y": 15.289
+  }
+]

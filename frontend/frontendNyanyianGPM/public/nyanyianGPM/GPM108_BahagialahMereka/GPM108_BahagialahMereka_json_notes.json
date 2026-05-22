@@ -1,0 +1,1366 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:76:16:17"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 67,
+    "channel": 0,
+    "x": 12.736,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:77:2:3"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 67,
+    "channel": 0,
+    "x": 16.926,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:77:6:7"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 20.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:77:10:11"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 23.87,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:77:14:15"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 72,
+    "channel": 0,
+    "x": 27.854,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:78:2:3"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 69,
+    "channel": 0,
+    "x": 32.044,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:78:6:7"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 35.673,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:78:10:11"
+    ],
+    "on_tick": 1728,
+    "off_tick": 1920,
+    "pitch": 65,
+    "channel": 0,
+    "x": 40.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:79:2:3"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 65,
+    "channel": 0,
+    "x": 44.597,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:79:6:7"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 48.026,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:79:10:11"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 51.839,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:79:14:15"
+    ],
+    "on_tick": 2496,
+    "off_tick": 2688,
+    "pitch": 67,
+    "channel": 0,
+    "x": 54.995,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:80:2:3"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3072,
+    "pitch": 67,
+    "channel": 0,
+    "x": 59.186,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:80:6:7"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 67,
+    "channel": 0,
+    "x": 62.815,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:81:2:3"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3840,
+    "pitch": 67,
+    "channel": 0,
+    "x": 68.205,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:84:5:6"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 64,
+    "channel": 0,
+    "x": 74.034,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:85:2:3"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 64,
+    "channel": 0,
+    "x": 78.225,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:85:6:7"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 60,
+    "channel": 0,
+    "x": 81.5,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:85:10:11"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 65,
+    "channel": 0,
+    "x": 85.168,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:85:14:15"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 64,
+    "channel": 0,
+    "x": 89.152,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:86:2:3"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 64,
+    "channel": 0,
+    "x": 93.344,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:86:6:7"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5568,
+    "pitch": 60,
+    "channel": 0,
+    "x": 96.973,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:86:10:11"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5760,
+    "pitch": 60,
+    "channel": 0,
+    "x": 101.571,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:87:22:23"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5952,
+    "pitch": 60,
+    "channel": 0,
+    "x": 105.762,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:87:28:29"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6144,
+    "pitch": 57,
+    "channel": 0,
+    "x": 108.191,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:87:52:53"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 59,
+    "channel": 0,
+    "x": 110.62,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:87:55:56"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 60,
+    "channel": 0,
+    "x": 113.989,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:88:2:3"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 62,
+    "channel": 0,
+    "x": 118.18,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:88:6:7"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 62,
+    "channel": 0,
+    "x": 121.809,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:89:2:3"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 62,
+    "channel": 0,
+    "x": 127.2,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:92:5:6"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 133.029,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:93:2:3"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 137.219,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:93:6:7"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 64,
+    "channel": 0,
+    "x": 140.495,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:93:10:11"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8640,
+    "pitch": 67,
+    "channel": 0,
+    "x": 144.163,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:93:14:15"
+    ],
+    "on_tick": 8640,
+    "off_tick": 8832,
+    "pitch": 72,
+    "channel": 0,
+    "x": 148.146,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:94:2:3"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9216,
+    "pitch": 69,
+    "channel": 0,
+    "x": 152.337,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:94:6:7"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 69,
+    "channel": 0,
+    "x": 155.966,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:94:10:11"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 65,
+    "channel": 0,
+    "x": 160.565,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:95:2:3"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 65,
+    "channel": 0,
+    "x": 166.478,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:95:6:7"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 62,
+    "channel": 0,
+    "x": 171.477,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:95:10:11"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 175.324,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:95:14:15"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 178.361,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:96:2:3"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10752,
+    "pitch": 67,
+    "channel": 0,
+    "x": 182.551,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:96:6:7"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 67,
+    "channel": 0,
+    "x": 186.18,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:97:2:3"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 67,
+    "channel": 0,
+    "x": 191.571,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:100:5:6"
+    ],
+    "on_tick": 11712,
+    "off_tick": 11904,
+    "pitch": 64,
+    "channel": 0,
+    "x": 197.4,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:101:2:3"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12096,
+    "pitch": 64,
+    "channel": 0,
+    "x": 201.591,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:101:6:7"
+    ],
+    "on_tick": 12096,
+    "off_tick": 12288,
+    "pitch": 60,
+    "channel": 0,
+    "x": 204.866,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:101:10:11"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 65,
+    "channel": 0,
+    "x": 208.534,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:101:14:15"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 64,
+    "channel": 0,
+    "x": 212.518,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:102:2:3"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 64,
+    "channel": 0,
+    "x": 216.709,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:102:8:9"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 69,
+    "channel": 0,
+    "x": 219.138,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:102:13:14"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 69,
+    "channel": 0,
+    "x": 221.568,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:103:2:3"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 69,
+    "channel": 0,
+    "x": 226.958,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:104:5:6"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 69,
+    "channel": 0,
+    "x": 232.787,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:105:2:3"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 236.978,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:105:7:8"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 72,
+    "channel": 0,
+    "x": 240.203,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:105:13:14"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14784,
+    "pitch": 72,
+    "channel": 0,
+    "x": 243.428,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:105:18:19"
+    ],
+    "on_tick": 14784,
+    "off_tick": 14976,
+    "pitch": 71,
+    "channel": 0,
+    "x": 246.516,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:106:2:3"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 72,
+    "channel": 0,
+    "x": 250.738,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:106:7:8"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15744,
+    "pitch": 72,
+    "channel": 0,
+    "x": 254.367,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:107:2:3"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 72,
+    "channel": 0,
+    "x": 259.757,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:112:16:17"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 267.838,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:113:2:3"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 272.028,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:113:6:7"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 64,
+    "channel": 0,
+    "x": 275.304,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:113:10:11"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 67,
+    "channel": 0,
+    "x": 278.972,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:113:14:15"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 72,
+    "channel": 0,
+    "x": 282.956,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:114:2:3"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 69,
+    "channel": 0,
+    "x": 287.146,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:114:6:7"
+    ],
+    "on_tick": 17664,
+    "off_tick": 17856,
+    "pitch": 69,
+    "channel": 0,
+    "x": 290.775,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:114:10:11"
+    ],
+    "on_tick": 17856,
+    "off_tick": 18048,
+    "pitch": 65,
+    "channel": 0,
+    "x": 295.374,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:115:2:3"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18240,
+    "pitch": 65,
+    "channel": 0,
+    "x": 300.45,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:115:6:7"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 62,
+    "channel": 0,
+    "x": 304.502,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:115:10:11"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 69,
+    "channel": 0,
+    "x": 308.836,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:115:14:15"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 67,
+    "channel": 0,
+    "x": 314.262,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:116:2:3"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 67,
+    "channel": 0,
+    "x": 319.356,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:116:6:7"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 67,
+    "channel": 0,
+    "x": 322.985,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:117:2:3"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 67,
+    "channel": 0,
+    "x": 328.376,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:120:5:6"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 64,
+    "channel": 0,
+    "x": 334.205,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:121:2:3"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 64,
+    "channel": 0,
+    "x": 338.396,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:121:6:7"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 60,
+    "channel": 0,
+    "x": 341.671,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:121:10:11"
+    ],
+    "on_tick": 20736,
+    "off_tick": 20928,
+    "pitch": 65,
+    "channel": 0,
+    "x": 345.339,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:121:14:15"
+    ],
+    "on_tick": 20928,
+    "off_tick": 21120,
+    "pitch": 64,
+    "channel": 0,
+    "x": 349.323,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:122:2:3"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 64,
+    "channel": 0,
+    "x": 353.514,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:122:6:7"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 60,
+    "channel": 0,
+    "x": 357.143,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:122:10:11"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 60,
+    "channel": 0,
+    "x": 361.742,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:123:22:23"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 60,
+    "channel": 0,
+    "x": 366.084,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:123:28:29"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 57,
+    "channel": 0,
+    "x": 369.325,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:123:52:53"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 59,
+    "channel": 0,
+    "x": 373.087,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:123:55:56"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 60,
+    "channel": 0,
+    "x": 375.551,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:124:2:3"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23040,
+    "pitch": 62,
+    "channel": 0,
+    "x": 379.742,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:124:6:7"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 62,
+    "channel": 0,
+    "x": 383.371,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:125:2:3"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 62,
+    "channel": 0,
+    "x": 388.762,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:128:5:6"
+    ],
+    "on_tick": 24000,
+    "off_tick": 24192,
+    "pitch": 67,
+    "channel": 0,
+    "x": 394.591,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:129:2:3"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 67,
+    "channel": 0,
+    "x": 398.782,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:129:6:7"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 64,
+    "channel": 0,
+    "x": 402.057,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:129:10:11"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 405.725,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:129:14:15"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 72,
+    "channel": 0,
+    "x": 409.709,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:130:2:3"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 69,
+    "channel": 0,
+    "x": 413.899,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:130:6:7"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 69,
+    "channel": 0,
+    "x": 417.528,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:130:10:11"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 65,
+    "channel": 0,
+    "x": 422.127,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:131:2:3"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 65,
+    "channel": 0,
+    "x": 427.032,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:131:6:7"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 62,
+    "channel": 0,
+    "x": 430.325,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:131:10:11"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 434.087,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:131:14:15"
+    ],
+    "on_tick": 26304,
+    "off_tick": 26496,
+    "pitch": 67,
+    "channel": 0,
+    "x": 437.208,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:132:2:3"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 441.399,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:132:6:7"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 67,
+    "channel": 0,
+    "x": 445.028,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:133:2:3"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 450.419,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:136:5:6"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 64,
+    "channel": 0,
+    "x": 456.248,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:137:2:3"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 64,
+    "channel": 0,
+    "x": 460.438,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:137:6:7"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 60,
+    "channel": 0,
+    "x": 463.714,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:137:10:11"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 65,
+    "channel": 0,
+    "x": 467.382,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:137:14:15"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 64,
+    "channel": 0,
+    "x": 471.366,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:138:2:3"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 64,
+    "channel": 0,
+    "x": 475.557,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:138:8:9"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 477.986,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:138:13:14"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29568,
+    "pitch": 69,
+    "channel": 0,
+    "x": 480.415,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:139:2:3"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29952,
+    "pitch": 69,
+    "channel": 0,
+    "x": 485.806,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:140:5:6"
+    ],
+    "on_tick": 30144,
+    "off_tick": 30336,
+    "pitch": 69,
+    "channel": 0,
+    "x": 491.635,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:141:2:3"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 69,
+    "channel": 0,
+    "x": 495.826,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:141:7:8"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 72,
+    "channel": 0,
+    "x": 498.255,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:141:13:14"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 72,
+    "channel": 0,
+    "x": 500.684,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:141:18:19"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 71,
+    "channel": 0,
+    "x": 504.48,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:142:2:3"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31488,
+    "pitch": 72,
+    "channel": 0,
+    "x": 508.702,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:142:7:8"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 72,
+    "channel": 0,
+    "x": 512.331,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM108_BahagialahMereka/GPM108_BahagialahMereka_ly_data.ily:143:2:3"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32256,
+    "pitch": 72,
+    "channel": 0,
+    "x": 517.721,
+    "y": 15.289
+  }
+]

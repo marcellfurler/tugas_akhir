@@ -1,0 +1,959 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:15:16"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 67,
+    "channel": 0,
+    "x": 12.736,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:19:20"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 67,
+    "channel": 0,
+    "x": 17.548,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:23:24"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 67,
+    "channel": 0,
+    "x": 20.567,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:29:30"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 24.757,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:33:34"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 28.511,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:37:38"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 64,
+    "channel": 0,
+    "x": 33.007,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:41:42"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 62,
+    "channel": 0,
+    "x": 36.367,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:45:46"
+    ],
+    "on_tick": 1536,
+    "off_tick": 1920,
+    "pitch": 60,
+    "channel": 0,
+    "x": 40.018,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:49:50"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 43.72,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:55:56"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 64,
+    "channel": 0,
+    "x": 49.111,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:44:59:60"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 52.74,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:4:5"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 60,
+    "channel": 0,
+    "x": 58.569,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:8:9"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 60,
+    "channel": 0,
+    "x": 61.094,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:12:13"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 60,
+    "channel": 0,
+    "x": 63.78,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:18:19"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 72,
+    "channel": 0,
+    "x": 67.97,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:23:24"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 72,
+    "channel": 0,
+    "x": 71.6,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:28:29"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 75.229,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:34:35"
+    ],
+    "on_tick": 4800,
+    "off_tick": 4992,
+    "pitch": 67,
+    "channel": 0,
+    "x": 77.658,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:39:40"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 80.087,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:45:46"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5376,
+    "pitch": 67,
+    "channel": 0,
+    "x": 82.516,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:52:53"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 67,
+    "channel": 0,
+    "x": 86.707,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:45:56:57"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6144,
+    "pitch": 67,
+    "channel": 0,
+    "x": 90.336,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:4:5"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 67,
+    "channel": 0,
+    "x": 96.165,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:8:9"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 67,
+    "channel": 0,
+    "x": 98.594,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:12:13"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 101.75,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:18:19"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 67,
+    "channel": 0,
+    "x": 106.758,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:22:23"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 111.05,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:26:27"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 64,
+    "channel": 0,
+    "x": 113.591,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:30:31"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 62,
+    "channel": 0,
+    "x": 117.139,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:34:35"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8064,
+    "pitch": 60,
+    "channel": 0,
+    "x": 121.473,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:38:39"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8448,
+    "pitch": 62,
+    "channel": 0,
+    "x": 125.102,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:44:45"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 64,
+    "channel": 0,
+    "x": 130.493,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:46:48:49"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9216,
+    "pitch": 64,
+    "channel": 0,
+    "x": 134.122,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:4:5"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 139.951,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:8:9"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 143.132,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:12:13"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 145.981,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:18:19"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 150.172,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:22:23"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 64,
+    "channel": 0,
+    "x": 152.601,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:26:27"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 64,
+    "channel": 0,
+    "x": 155.919,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:30:31"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 159.74,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:34:35"
+    ],
+    "on_tick": 10752,
+    "off_tick": 10944,
+    "pitch": 62,
+    "channel": 0,
+    "x": 163.016,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:38:39"
+    ],
+    "on_tick": 10944,
+    "off_tick": 11136,
+    "pitch": 62,
+    "channel": 0,
+    "x": 166.445,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:42:43"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 64,
+    "channel": 0,
+    "x": 170.727,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:46:47"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 64,
+    "channel": 0,
+    "x": 174.301,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:52:53"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 178.492,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:47:56:57"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12288,
+    "pitch": 67,
+    "channel": 0,
+    "x": 182.121,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:4:5"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 187.95,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:8:9"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 69,
+    "channel": 0,
+    "x": 191.132,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:12:13"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 69,
+    "channel": 0,
+    "x": 193.98,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:18:19"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 67,
+    "channel": 0,
+    "x": 198.171,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:22:23"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 64,
+    "channel": 0,
+    "x": 200.6,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:26:27"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 64,
+    "channel": 0,
+    "x": 203.918,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:30:31"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 64,
+    "channel": 0,
+    "x": 207.74,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:34:35"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 62,
+    "channel": 0,
+    "x": 211.015,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:38:39"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 62,
+    "channel": 0,
+    "x": 214.444,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:42:43"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 64,
+    "channel": 0,
+    "x": 218.727,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:46:47"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 62,
+    "channel": 0,
+    "x": 222.301,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:52:53"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 60,
+    "channel": 0,
+    "x": 226.491,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:48:56:57"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 60,
+    "channel": 0,
+    "x": 230.12,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 15744,
+    "off_tick": 16128,
+    "pitch": 60,
+    "channel": 0,
+    "x": 237.1,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 72,
+    "channel": 0,
+    "x": 242.49,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:15:16"
+    ],
+    "on_tick": 16512,
+    "off_tick": 17280,
+    "pitch": 72,
+    "channel": 0,
+    "x": 246.119,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:20:21"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 69,
+    "channel": 0,
+    "x": 252.869,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:26:27"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18240,
+    "pitch": 67,
+    "channel": 0,
+    "x": 258.26,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:33:34"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 69,
+    "channel": 0,
+    "x": 263.809,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:49:38:39"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 67,
+    "channel": 0,
+    "x": 266.238,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:1:2"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 64,
+    "channel": 0,
+    "x": 270.734,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:5:6"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 64,
+    "channel": 0,
+    "x": 274.095,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:11:12"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 62,
+    "channel": 0,
+    "x": 278.286,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:15:16"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 64,
+    "channel": 0,
+    "x": 281.988,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:19:20"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 67,
+    "channel": 0,
+    "x": 285.617,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:25:26"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 289.246,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:50:32:33"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 67,
+    "channel": 0,
+    "x": 294.637,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22272,
+    "pitch": 60,
+    "channel": 0,
+    "x": 304.736,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:10:11"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22656,
+    "pitch": 72,
+    "channel": 0,
+    "x": 310.127,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:15:16"
+    ],
+    "on_tick": 22656,
+    "off_tick": 23424,
+    "pitch": 72,
+    "channel": 0,
+    "x": 313.756,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:20:21"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 69,
+    "channel": 0,
+    "x": 320.506,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:26:27"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24384,
+    "pitch": 67,
+    "channel": 0,
+    "x": 325.896,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:33:34"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 69,
+    "channel": 0,
+    "x": 331.446,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:51:39:40"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 333.875,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:1:2"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 67,
+    "channel": 0,
+    "x": 338.371,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:5:6"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 341.732,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:11:12"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 345.922,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:15:16"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 72,
+    "channel": 0,
+    "x": 349.624,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:20:21"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26496,
+    "pitch": 74,
+    "channel": 0,
+    "x": 353.254,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:27:28"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 72,
+    "channel": 0,
+    "x": 356.883,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM305_MemberlakukanPerdamaianAllah/GPM305_MemberlakukanPerdamaianAllah_ly_data.ily:52:35:36"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 72,
+    "channel": 0,
+    "x": 362.273,
+    "y": 12.736
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM305_MemberlakukanPerdamaianAllah.ly": "a07769b422ff4808dcf0555f917b188a0ae62a4720c7b34f6b5d3ab3334327ce",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM305_MemberlakukanPerdamaianAllah_ly_data.ily": "6ab03100b62fef4063258a88a23cfa483f640f031deb6c82d329f3b05c81f44a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "svg_one_line": {
+    "GPM305_MemberlakukanPerdamaianAllah_ly_one_line.ly": "d7f5d995c26a5ab4dca50436439ee8c84983438388d29d89237e34a12136d2a9",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM305_MemberlakukanPerdamaianAllah.ly": "a07769b422ff4808dcf0555f917b188a0ae62a4720c7b34f6b5d3ab3334327ce",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM305_MemberlakukanPerdamaianAllah_ly_data.ily": "6ab03100b62fef4063258a88a23cfa483f640f031deb6c82d329f3b05c81f44a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "events": {
+    "GPM305_MemberlakukanPerdamaianAllah_ly_one_line.midi": "747a6dd47de63d80914b151a1d78cf47ce5093ba64c1c7ae7e63e4fe860bef69"
+  },
+  "filter_one_line": {
+    "GPM305_MemberlakukanPerdamaianAllah_ly_one_line.svg": "cfab1edf9bd5558105ed05a8303ee68032611bbe3b466decfcdeb469807665be"
+  },
+  "ties": {
+    "GPM305_MemberlakukanPerdamaianAllah_ly_one_line_filtered.svg": "a103883b458dd613330131b843e7df6b0f70e63ec140d4f3bfd6a5f146e81263"
+  },
+  "noteheads": {
+    "GPM305_MemberlakukanPerdamaianAllah_ly_one_line_filtered.svg": "a103883b458dd613330131b843e7df6b0f70e63ec140d4f3bfd6a5f146e81263"
+  },
+  "squash": {
+    "GPM305_MemberlakukanPerdamaianAllah_note_heads.csv": "b1d9c4792b6e4969a5023332359e02660d5dd62e23d6870f18149258dffb25c1",
+    "GPM305_MemberlakukanPerdamaianAllah_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM305_MemberlakukanPerdamaianAllah_note_heads_squashed.csv": "5f4c759c0749186da6084a25651ce4b118735853ce2f32ad0cd915357fb9f2be",
+    "GPM305_MemberlakukanPerdamaianAllah_note_events.csv": "2d24091295e8515f7a3e0272db42c085791005b2efda7140b6e20365ed3e7a80"
+  },
+  "svg": {
+    "GPM305_MemberlakukanPerdamaianAllah.ly": "a07769b422ff4808dcf0555f917b188a0ae62a4720c7b34f6b5d3ab3334327ce",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM305_MemberlakukanPerdamaianAllah_ly_data.ily": "6ab03100b62fef4063258a88a23cfa483f640f031deb6c82d329f3b05c81f44a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "filter": {
+    "GPM305_MemberlakukanPerdamaianAllah.svg": "f056f37bb572380481d95286b63e7beb3a21a7530609c46db0b1bfaf27020bda"
+  },
+  "swell": {
+    "GPM305_MemberlakukanPerdamaianAllah_filtered.svg": "0ee99f7fdd175084410c7dab0e9984a22c7a834e2c02cba94212c76ed761a263"
+  },
+  "optim": {
+    "GPM305_MemberlakukanPerdamaianAllah_filtered_swellable.svg": "f65a489272938c95354d454784b72b5c3e852a2ce98eb9e461705c3f71dd0679"
+  },
+  "sync": {
+    "GPM305_MemberlakukanPerdamaianAllah_optimized.svg": "a4850baf1369f5b7b1351954fac634d744f30dfc1ec4c60579ef6513d17d26da",
+    "GPM305_MemberlakukanPerdamaianAllah_json_notes.json": "03631a4613abc421bd5cae4b7f3a81664bac91c2b92f129320b1538cc904b8e1",
+    "GPM305_MemberlakukanPerdamaianAllah_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM305_MemberlakukanPerdamaianAllah.config.yaml": "4cf27e6bb3b3d21a2f6002ae865865f2593c42ef87142230dd49c77ea4337c24"
+  }
+}

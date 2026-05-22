@@ -1,0 +1,442 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:45:1:2"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 64,
+    "channel": 0,
+    "x": 10.536,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:45:5:6"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 65,
+    "channel": 0,
+    "x": 13.581,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:45:9:10"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 66,
+    "channel": 0,
+    "x": 16.508,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:46:1:2"
+    ],
+    "on_tick": 1152,
+    "off_tick": 2304,
+    "pitch": 67,
+    "channel": 0,
+    "x": 21.54,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:47:1:2"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 31.066,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:47:5:6"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 64,
+    "channel": 0,
+    "x": 36.603,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:48:1:2"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3840,
+    "pitch": 64,
+    "channel": 0,
+    "x": 41.292,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:48:7:8"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 62,
+    "channel": 0,
+    "x": 44.219,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:48:12:13"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4608,
+    "pitch": 60,
+    "channel": 0,
+    "x": 47.146,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:49:1:2"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5376,
+    "pitch": 64,
+    "channel": 0,
+    "x": 51.835,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:50:1:2"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6144,
+    "pitch": 65,
+    "channel": 0,
+    "x": 61.519,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:50:5:6"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 67,
+    "channel": 0,
+    "x": 65.494,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:50:9:10"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 69,
+    "channel": 0,
+    "x": 70.255,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:1:2"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 67,
+    "channel": 0,
+    "x": 74.943,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:5:6"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 78.167,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:9:10"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 67,
+    "channel": 0,
+    "x": 82.783,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:51:13:14"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 86.519,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:52:1:2"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8448,
+    "pitch": 72,
+    "channel": 0,
+    "x": 90.31,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:52:6:7"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 72,
+    "channel": 0,
+    "x": 94.2,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:52:11:12"
+    ],
+    "on_tick": 8832,
+    "off_tick": 9216,
+    "pitch": 72,
+    "channel": 0,
+    "x": 98.679,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:53:1:2"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 72,
+    "channel": 0,
+    "x": 103.367,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:53:8:9"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 106.294,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:53:13:14"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 72,
+    "channel": 0,
+    "x": 109.222,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:54:1:2"
+    ],
+    "on_tick": 10368,
+    "off_tick": 11136,
+    "pitch": 71,
+    "channel": 0,
+    "x": 113.91,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:55:1:2"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 69,
+    "channel": 0,
+    "x": 123.594,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:55:5:6"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12288,
+    "pitch": 69,
+    "channel": 0,
+    "x": 126.835,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:55:9:10"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 69,
+    "channel": 0,
+    "x": 130.93,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:56:1:2"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13056,
+    "pitch": 65,
+    "channel": 0,
+    "x": 135.619,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:56:5:6"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 67,
+    "channel": 0,
+    "x": 138.552,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:56:9:10"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 69,
+    "channel": 0,
+    "x": 141.717,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:57:1:2"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14976,
+    "pitch": 67,
+    "channel": 0,
+    "x": 146.406,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:58:1:2"
+    ],
+    "on_tick": 14976,
+    "off_tick": 16128,
+    "pitch": 64,
+    "channel": 0,
+    "x": 155.931,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:59:1:2"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16512,
+    "pitch": 69,
+    "channel": 0,
+    "x": 165.457,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:59:5:6"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16896,
+    "pitch": 72,
+    "channel": 0,
+    "x": 168.818,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:59:10:11"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17280,
+    "pitch": 69,
+    "channel": 0,
+    "x": 172.443,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:60:1:2"
+    ],
+    "on_tick": 17280,
+    "off_tick": 17664,
+    "pitch": 71,
+    "channel": 0,
+    "x": 177.132,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:60:5:6"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 69,
+    "channel": 0,
+    "x": 180.059,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:60:9:10"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18432,
+    "pitch": 71,
+    "channel": 0,
+    "x": 182.986,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:61:1:2"
+    ],
+    "on_tick": 18432,
+    "off_tick": 19584,
+    "pitch": 72,
+    "channel": 0,
+    "x": 187.675,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM309_DiSaatSusah/GPM309_DiSaatSusah_ly_data.ily:62:1:2"
+    ],
+    "on_tick": 19584,
+    "off_tick": 20352,
+    "pitch": 72,
+    "channel": 0,
+    "x": 197.2,
+    "y": 12.736
+  }
+]

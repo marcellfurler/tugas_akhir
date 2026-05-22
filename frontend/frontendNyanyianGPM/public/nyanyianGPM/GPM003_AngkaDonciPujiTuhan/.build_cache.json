@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM003_AngkaDonciPujiTuhan.ly": "24eb8434bc27b54a98fc949fe955b2a00ce97485a0b410ce8ee1dfb2b747a280",
+    "GPM003_AngkaDonciPujiTuhan_ly_data.ily": "58611b90b6730b9d0a6d046d779667e4a376ba1c7d6a78528572c68959735e69",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM003_AngkaDonciPujiTuhan_ly_one_line.ly": "793a3244964bd8266d112c0f698f61e35edc669b2cbdd4898e426a981cbee180",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM003_AngkaDonciPujiTuhan.ly": "24eb8434bc27b54a98fc949fe955b2a00ce97485a0b410ce8ee1dfb2b747a280",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM003_AngkaDonciPujiTuhan_ly_data.ily": "58611b90b6730b9d0a6d046d779667e4a376ba1c7d6a78528572c68959735e69"
+  },
+  "events": {
+    "GPM003_AngkaDonciPujiTuhan_ly_one_line.midi": "fb13f10de5f5f74759e157537584b29ca3e2d18dcec8e60624e8a46c91d02a14"
+  },
+  "filter_one_line": {
+    "GPM003_AngkaDonciPujiTuhan_ly_one_line.svg": "6455b8eb630d135e9fa55bf4fc0b09a7e8d0c6978958aa04e3e5613423c3cdc2"
+  },
+  "ties": {
+    "GPM003_AngkaDonciPujiTuhan_ly_one_line_filtered.svg": "90ecb941ff4ecebc328d126f9db41443028ef19365b9c51e40e3c5489072f26f"
+  },
+  "noteheads": {
+    "GPM003_AngkaDonciPujiTuhan_ly_one_line_filtered.svg": "90ecb941ff4ecebc328d126f9db41443028ef19365b9c51e40e3c5489072f26f"
+  },
+  "squash": {
+    "GPM003_AngkaDonciPujiTuhan_note_heads.csv": "cbef40b86c42a2062ebd8c39fe54a6282c8eafc201abd1b733fbea70a5731c66",
+    "GPM003_AngkaDonciPujiTuhan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM003_AngkaDonciPujiTuhan_note_heads_squashed.csv": "d6d3b08440dffb2b616a59d2be2af12b2961f411839b8fe60cd51cc040119a43",
+    "GPM003_AngkaDonciPujiTuhan_note_events.csv": "ac8e9d719efed025773f713a239b622ba7fa5f3b39412fe99a0bf4fa09cab57c"
+  },
+  "svg": {
+    "GPM003_AngkaDonciPujiTuhan.ly": "24eb8434bc27b54a98fc949fe955b2a00ce97485a0b410ce8ee1dfb2b747a280",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM003_AngkaDonciPujiTuhan_ly_data.ily": "58611b90b6730b9d0a6d046d779667e4a376ba1c7d6a78528572c68959735e69"
+  },
+  "filter": {
+    "GPM003_AngkaDonciPujiTuhan.svg": "c2a48e44fb219267625518927f84379aa37c4451611f6b1d22a7d1be4005f420"
+  },
+  "swell": {
+    "GPM003_AngkaDonciPujiTuhan_filtered.svg": "78d04d87a3e3f345ed6079c2425b4dd674868e72937c16af01d91ad1758f6354"
+  },
+  "optim": {
+    "GPM003_AngkaDonciPujiTuhan_filtered_swellable.svg": "113f3484aed66b4efd5aaa218d87c9ba4caa11e258d575ebe245bfc377dfe695"
+  },
+  "sync": {
+    "GPM003_AngkaDonciPujiTuhan_optimized.svg": "7b09e5bdafd1422ffe3af3424fa4da5d159b3be4b52c5a8183c57fe77987bd2f",
+    "GPM003_AngkaDonciPujiTuhan_json_notes.json": "ec14497b0afe69288603354d8db8afcb3bde59f9aa0aa884134649a51d625e15",
+    "GPM003_AngkaDonciPujiTuhan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM003_AngkaDonciPujiTuhan.config.yaml": "7a3eb5c9d3755769c8c287259fe8ddce9e05b7de86246ed87739575e088f70a0"
+  }
+}

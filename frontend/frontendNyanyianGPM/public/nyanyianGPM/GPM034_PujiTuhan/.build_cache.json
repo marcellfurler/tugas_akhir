@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM034_PujiTuhan.ly": "387b12d736ca98be48d48774c837b278c9d079141ac7226d1340c5523b9a2098",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM034_PujiTuhan_ly_data.ily": "d38d06e4d182c8338ec94950fb7db18af3a0a574913dcca11f67b1754608d89a",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa"
+  },
+  "svg_one_line": {
+    "GPM034_PujiTuhan_ly_one_line.ly": "c7665d82224af0b0455b665986f2ede07016e3a0c029da5e33f7d846e95e93b2",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM034_PujiTuhan.ly": "387b12d736ca98be48d48774c837b278c9d079141ac7226d1340c5523b9a2098",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM034_PujiTuhan_ly_data.ily": "d38d06e4d182c8338ec94950fb7db18af3a0a574913dcca11f67b1754608d89a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "events": {
+    "GPM034_PujiTuhan_ly_one_line.midi": "9fa569779576e07e16583400411b38f67541cfeaa680f8d696061a8288af8288"
+  },
+  "filter_one_line": {
+    "GPM034_PujiTuhan_ly_one_line.svg": "4bcc99c76f154eb1d995b7cbde1726b2459ebd4c713286a0b88c434a635b9133"
+  },
+  "ties": {
+    "GPM034_PujiTuhan_ly_one_line_filtered.svg": "17ea01923b8f3fbb7a02162f3b4afa9031208c5ed2597e19604e16eb6d910d91"
+  },
+  "noteheads": {
+    "GPM034_PujiTuhan_ly_one_line_filtered.svg": "17ea01923b8f3fbb7a02162f3b4afa9031208c5ed2597e19604e16eb6d910d91"
+  },
+  "squash": {
+    "GPM034_PujiTuhan_note_heads.csv": "9c3ec8894d984d77b9d35cc5597f6176f64f08b517defcaa9bb1247e13c700bf",
+    "GPM034_PujiTuhan_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM034_PujiTuhan_note_heads_squashed.csv": "54a92d7ca08118d16fd0fe17f75c8003c62b5ed1d5396c111caf5c2bc045201d",
+    "GPM034_PujiTuhan_note_events.csv": "17c5a3940c775196513c694f6edd2e5207c779547a938c24f06282b3ca163ffa"
+  },
+  "svg": {
+    "GPM034_PujiTuhan.ly": "387b12d736ca98be48d48774c837b278c9d079141ac7226d1340c5523b9a2098",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "GPM034_PujiTuhan_ly_data.ily": "d38d06e4d182c8338ec94950fb7db18af3a0a574913dcca11f67b1754608d89a",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "filter": {
+    "GPM034_PujiTuhan.svg": "146c2ba345db104c0e478fb1d52dcc19f152711f46b04d0d11d638c309994afb"
+  },
+  "swell": {
+    "GPM034_PujiTuhan_filtered.svg": "780906f9c308235ef72972878bf0125a41f3f772b4eb151351084fa5531fdc45"
+  },
+  "optim": {
+    "GPM034_PujiTuhan_filtered_swellable.svg": "cfdd2bd109aace4d1a5786bba9fbaadae48be8365d6d205225bdc7eb0b699356"
+  },
+  "sync": {
+    "GPM034_PujiTuhan_optimized.svg": "5bae55335340c9282bb9f6de022a1f4d1483b1b62d6ff54e998e60bd08620e8e",
+    "GPM034_PujiTuhan_json_notes.json": "e9a81c350677ca4656d3fb6cd971f802fa9ed1125eaa0b71d4726eae7f2bcb92",
+    "GPM034_PujiTuhan_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM034_PujiTuhan.config.yaml": "bc73e7701045bb1c2656d8cf5ae6691c05730c7b1167d952ee0579578622942c"
+  }
+}

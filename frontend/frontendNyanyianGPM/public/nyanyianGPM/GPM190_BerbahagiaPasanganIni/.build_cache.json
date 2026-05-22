@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM190_BerbahagiaPasanganIni.ly": "2e4e5c0008ef0da5dcab2e58949342991cf54855f64d52c5e2defc624800485d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM190_BerbahagiaPasanganIni_ly_data.ily": "350d3b012836407e3f6d34461160126416d45fc442b9a89e75c118a001b258dc",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "svg_one_line": {
+    "GPM190_BerbahagiaPasanganIni_ly_one_line.ly": "25037259867ac49c7e540b471a12a5ba44a0d2d6eb60dcca5f0a27e48e8d7dd4",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM190_BerbahagiaPasanganIni.ly": "2e4e5c0008ef0da5dcab2e58949342991cf54855f64d52c5e2defc624800485d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM190_BerbahagiaPasanganIni_ly_data.ily": "350d3b012836407e3f6d34461160126416d45fc442b9a89e75c118a001b258dc"
+  },
+  "events": {
+    "GPM190_BerbahagiaPasanganIni_ly_one_line.midi": "7e1ca0dfb6e14f55a7b3c42545a928eb40d5d644b1ba5fcf7a8ea8dbc3fa7937"
+  },
+  "filter_one_line": {
+    "GPM190_BerbahagiaPasanganIni_ly_one_line.svg": "c05ed4579743c2854bc613cae91b43b9e22133e9b04e3eab412d108ffe08e939"
+  },
+  "ties": {
+    "GPM190_BerbahagiaPasanganIni_ly_one_line_filtered.svg": "46d600b0325f68365ccf22fba2b769a1cf6f81e8654a784ad00c230269427def"
+  },
+  "noteheads": {
+    "GPM190_BerbahagiaPasanganIni_ly_one_line_filtered.svg": "46d600b0325f68365ccf22fba2b769a1cf6f81e8654a784ad00c230269427def"
+  },
+  "squash": {
+    "GPM190_BerbahagiaPasanganIni_note_heads.csv": "2d195912e08bf843240636ba17b1868da4487f5e67acfbd18a3d71149f725f1f",
+    "GPM190_BerbahagiaPasanganIni_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM190_BerbahagiaPasanganIni_note_heads_squashed.csv": "85700e521f47937e0f05d78477c4efc0bfbbbd492c347e7288201f523ab989bb",
+    "GPM190_BerbahagiaPasanganIni_note_events.csv": "27d4abdce607ac86d3fb4a16370040b258c9d2f7a3e716d90b2d3c8c40d7e64a"
+  },
+  "svg": {
+    "GPM190_BerbahagiaPasanganIni.ly": "2e4e5c0008ef0da5dcab2e58949342991cf54855f64d52c5e2defc624800485d",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM190_BerbahagiaPasanganIni_ly_data.ily": "350d3b012836407e3f6d34461160126416d45fc442b9a89e75c118a001b258dc"
+  },
+  "filter": {
+    "GPM190_BerbahagiaPasanganIni.svg": "9272e39af178dad5980f35c5733fde3f8905d417b9e02fc06778b3345d214221"
+  },
+  "swell": {
+    "GPM190_BerbahagiaPasanganIni_filtered.svg": "42c15404352dfbe72dd66e6721d7f88d5b7480ade84fc729f6c2a845c2add56f"
+  },
+  "optim": {
+    "GPM190_BerbahagiaPasanganIni_filtered_swellable.svg": "e81f8738ea72d5dd1f151284be867f1416d91134088bcec44f0e4bcaa226ccdc"
+  },
+  "sync": {
+    "GPM190_BerbahagiaPasanganIni_optimized.svg": "95af4553d51a0eec30f8eff1f2ff2ab34de4aeb5c8201be8628ee27bffd6d0fc",
+    "GPM190_BerbahagiaPasanganIni_json_notes.json": "c091ecacc0bae71c8cc736fdca864e4bca94902c403dd93d477cbca957d8985f",
+    "GPM190_BerbahagiaPasanganIni_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM190_BerbahagiaPasanganIni.config.yaml": "5d8a7845fdce0b674dc4e0b872a5d18ce1e16ca4a8653ca0082a84a59933faf3"
+  }
+}

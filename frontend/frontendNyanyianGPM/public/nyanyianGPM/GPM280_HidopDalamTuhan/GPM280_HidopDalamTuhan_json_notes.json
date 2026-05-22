@@ -1,0 +1,1333 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:8:9"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 64,
+    "channel": 0,
+    "x": 14.165,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:12:13"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 64,
+    "channel": 0,
+    "x": 18.046,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:16:17"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 21.697,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:20:21"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 25.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:24:25"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 29.81,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:28:29"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 33.845,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:32:33"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1440,
+    "pitch": 67,
+    "channel": 0,
+    "x": 37.474,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:39:40"
+    ],
+    "on_tick": 1440,
+    "off_tick": 1536,
+    "pitch": 65,
+    "channel": 0,
+    "x": 39.903,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:47:48"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2112,
+    "pitch": 64,
+    "channel": 0,
+    "x": 44.094,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:52:53"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2208,
+    "pitch": 64,
+    "channel": 0,
+    "x": 52.044,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:59:60"
+    ],
+    "on_tick": 2208,
+    "off_tick": 2304,
+    "pitch": 62,
+    "channel": 0,
+    "x": 54.473,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:51:65:66"
+    ],
+    "on_tick": 2304,
+    "off_tick": 3072,
+    "pitch": 64,
+    "channel": 0,
+    "x": 56.902,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 62,
+    "channel": 0,
+    "x": 67.742,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:8:9"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 62,
+    "channel": 0,
+    "x": 71.371,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:12:13"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 62,
+    "channel": 0,
+    "x": 75.0,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 62,
+    "channel": 0,
+    "x": 78.629,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:20:21"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 64,
+    "channel": 0,
+    "x": 82.258,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:24:25"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 62,
+    "channel": 0,
+    "x": 85.887,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:28:29"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 60,
+    "channel": 0,
+    "x": 89.517,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:32:33"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 62,
+    "channel": 0,
+    "x": 93.146,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:38:39"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5184,
+    "pitch": 64,
+    "channel": 0,
+    "x": 98.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:43:44"
+    ],
+    "on_tick": 5184,
+    "off_tick": 5280,
+    "pitch": 65,
+    "channel": 0,
+    "x": 106.486,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:50:51"
+    ],
+    "on_tick": 5280,
+    "off_tick": 5376,
+    "pitch": 64,
+    "channel": 0,
+    "x": 109.63,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:52:56:57"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 62,
+    "channel": 0,
+    "x": 112.774,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6336,
+    "pitch": 64,
+    "channel": 0,
+    "x": 123.844,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:8:9"
+    ],
+    "on_tick": 6336,
+    "off_tick": 6528,
+    "pitch": 64,
+    "channel": 0,
+    "x": 127.478,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:12:13"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 64,
+    "channel": 0,
+    "x": 132.673,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:16:17"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 137.118,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:20:21"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 64,
+    "channel": 0,
+    "x": 141.315,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:24:25"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 64,
+    "channel": 0,
+    "x": 146.187,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:28:29"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 67,
+    "channel": 0,
+    "x": 149.816,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:32:33"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7584,
+    "pitch": 67,
+    "channel": 0,
+    "x": 153.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:39:40"
+    ],
+    "on_tick": 7584,
+    "off_tick": 7680,
+    "pitch": 65,
+    "channel": 0,
+    "x": 155.874,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:47:48"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8256,
+    "pitch": 64,
+    "channel": 0,
+    "x": 160.065,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:52:53"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8352,
+    "pitch": 64,
+    "channel": 0,
+    "x": 168.015,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:59:60"
+    ],
+    "on_tick": 8352,
+    "off_tick": 8448,
+    "pitch": 62,
+    "channel": 0,
+    "x": 170.444,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:53:65:66"
+    ],
+    "on_tick": 8448,
+    "off_tick": 9216,
+    "pitch": 64,
+    "channel": 0,
+    "x": 172.873,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 62,
+    "channel": 0,
+    "x": 183.713,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:8:9"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 62,
+    "channel": 0,
+    "x": 187.342,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:12:13"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 62,
+    "channel": 0,
+    "x": 191.667,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:16:17"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 62,
+    "channel": 0,
+    "x": 195.296,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:20:21"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 64,
+    "channel": 0,
+    "x": 198.925,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:24:25"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 62,
+    "channel": 0,
+    "x": 203.157,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:28:29"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 64,
+    "channel": 0,
+    "x": 208.216,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:32:33"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10656,
+    "pitch": 64,
+    "channel": 0,
+    "x": 211.845,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:39:40"
+    ],
+    "on_tick": 10656,
+    "off_tick": 10752,
+    "pitch": 62,
+    "channel": 0,
+    "x": 214.274,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:54:47:48"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11904,
+    "pitch": 60,
+    "channel": 0,
+    "x": 218.465,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 72,
+    "channel": 0,
+    "x": 238.175,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:9:10"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 72,
+    "channel": 0,
+    "x": 242.082,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:14:15"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 72,
+    "channel": 0,
+    "x": 246.015,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:19:20"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 72,
+    "channel": 0,
+    "x": 249.644,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:24:25"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 72,
+    "channel": 0,
+    "x": 253.273,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:29:30"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 72,
+    "channel": 0,
+    "x": 257.248,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:34:35"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13536,
+    "pitch": 72,
+    "channel": 0,
+    "x": 261.676,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:40:41"
+    ],
+    "on_tick": 13536,
+    "off_tick": 13632,
+    "pitch": 72,
+    "channel": 0,
+    "x": 264.32,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:46:47"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13728,
+    "pitch": 72,
+    "channel": 0,
+    "x": 267.962,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:52:53"
+    ],
+    "on_tick": 13728,
+    "off_tick": 13824,
+    "pitch": 72,
+    "channel": 0,
+    "x": 270.606,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:60:61"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 69,
+    "channel": 0,
+    "x": 274.796,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:64:65"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14400,
+    "pitch": 69,
+    "channel": 0,
+    "x": 278.426,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:68:69"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 285.397,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:73:74"
+    ],
+    "on_tick": 14496,
+    "off_tick": 14592,
+    "pitch": 67,
+    "channel": 0,
+    "x": 290.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:56:78:79"
+    ],
+    "on_tick": 14592,
+    "off_tick": 15360,
+    "pitch": 69,
+    "channel": 0,
+    "x": 294.141,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:4:5"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 69,
+    "channel": 0,
+    "x": 304.981,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:8:9"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 69,
+    "channel": 0,
+    "x": 308.61,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:12:13"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 69,
+    "channel": 0,
+    "x": 312.239,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 69,
+    "channel": 0,
+    "x": 316.419,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:20:21"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 67,
+    "channel": 0,
+    "x": 320.779,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:24:25"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 324.874,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:28:29"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 67,
+    "channel": 0,
+    "x": 329.933,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:32:33"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 333.562,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:39:40"
+    ],
+    "on_tick": 16800,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 335.991,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:57:47:48"
+    ],
+    "on_tick": 16896,
+    "off_tick": 18048,
+    "pitch": 67,
+    "channel": 0,
+    "x": 340.182,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 72,
+    "channel": 0,
+    "x": 359.892,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:9:10"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 72,
+    "channel": 0,
+    "x": 364.192,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:14:15"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 72,
+    "channel": 0,
+    "x": 368.91,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:19:20"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 72,
+    "channel": 0,
+    "x": 372.543,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:24:25"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 72,
+    "channel": 0,
+    "x": 376.937,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:29:30"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 72,
+    "channel": 0,
+    "x": 380.566,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:34:35"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19680,
+    "pitch": 72,
+    "channel": 0,
+    "x": 384.195,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:40:41"
+    ],
+    "on_tick": 19680,
+    "off_tick": 19776,
+    "pitch": 72,
+    "channel": 0,
+    "x": 386.651,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:46:47"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19872,
+    "pitch": 72,
+    "channel": 0,
+    "x": 389.44,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:52:53"
+    ],
+    "on_tick": 19872,
+    "off_tick": 19968,
+    "pitch": 72,
+    "channel": 0,
+    "x": 392.22,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:60:61"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 69,
+    "channel": 0,
+    "x": 396.411,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:64:65"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 400.04,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:68:69"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20640,
+    "pitch": 69,
+    "channel": 0,
+    "x": 406.79,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:73:74"
+    ],
+    "on_tick": 20640,
+    "off_tick": 20736,
+    "pitch": 67,
+    "channel": 0,
+    "x": 411.721,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:58:78:79"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 415.534,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 426.374,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 69,
+    "channel": 0,
+    "x": 430.003,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 434.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:16:17"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 69,
+    "channel": 0,
+    "x": 437.957,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:20:21"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 67,
+    "channel": 0,
+    "x": 441.586,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:24:25"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 445.476,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:28:29"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 67,
+    "channel": 0,
+    "x": 449.887,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:32:33"
+    ],
+    "on_tick": 22848,
+    "off_tick": 22944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 453.516,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:39:40"
+    ],
+    "on_tick": 22944,
+    "off_tick": 23040,
+    "pitch": 67,
+    "channel": 0,
+    "x": 455.945,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:59:47:48"
+    ],
+    "on_tick": 23040,
+    "off_tick": 24192,
+    "pitch": 67,
+    "channel": 0,
+    "x": 460.136,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:4:5"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24768,
+    "pitch": 64,
+    "channel": 0,
+    "x": 479.846,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:8:9"
+    ],
+    "on_tick": 24768,
+    "off_tick": 24960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 483.475,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:12:13"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25152,
+    "pitch": 64,
+    "channel": 0,
+    "x": 487.104,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:16:17"
+    ],
+    "on_tick": 25152,
+    "off_tick": 25344,
+    "pitch": 64,
+    "channel": 0,
+    "x": 492.001,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:20:21"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 64,
+    "channel": 0,
+    "x": 497.027,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:24:25"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 64,
+    "channel": 0,
+    "x": 500.656,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:28:29"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 67,
+    "channel": 0,
+    "x": 504.401,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:32:33"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26016,
+    "pitch": 67,
+    "channel": 0,
+    "x": 508.03,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:39:40"
+    ],
+    "on_tick": 26016,
+    "off_tick": 26112,
+    "pitch": 65,
+    "channel": 0,
+    "x": 510.459,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:47:48"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26688,
+    "pitch": 64,
+    "channel": 0,
+    "x": 514.65,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:52:53"
+    ],
+    "on_tick": 26688,
+    "off_tick": 26784,
+    "pitch": 64,
+    "channel": 0,
+    "x": 522.599,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:59:60"
+    ],
+    "on_tick": 26784,
+    "off_tick": 26880,
+    "pitch": 62,
+    "channel": 0,
+    "x": 525.028,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:60:65:66"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27648,
+    "pitch": 64,
+    "channel": 0,
+    "x": 527.457,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 62,
+    "channel": 0,
+    "x": 538.297,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:8:9"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 62,
+    "channel": 0,
+    "x": 541.926,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:12:13"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 62,
+    "channel": 0,
+    "x": 545.555,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:16:17"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 62,
+    "channel": 0,
+    "x": 549.185,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:20:21"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 64,
+    "channel": 0,
+    "x": 552.814,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:24:25"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 62,
+    "channel": 0,
+    "x": 556.443,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:28:29"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 64,
+    "channel": 0,
+    "x": 560.072,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:32:33"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29088,
+    "pitch": 64,
+    "channel": 0,
+    "x": 563.701,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:39:40"
+    ],
+    "on_tick": 29088,
+    "off_tick": 29184,
+    "pitch": 62,
+    "channel": 0,
+    "x": 566.13,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM280_HidopDalamTuhan/GPM280_HidopDalamTuhan_ly_data.ily:61:47:48"
+    ],
+    "on_tick": 29184,
+    "off_tick": 30720,
+    "pitch": 60,
+    "channel": 0,
+    "x": 570.321,
+    "y": 15.289
+  }
+]

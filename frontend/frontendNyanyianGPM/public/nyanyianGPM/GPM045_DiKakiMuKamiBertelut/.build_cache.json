@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM045_DiKakiMuKamiBertelut.ly": "27434f24bd104a74f4f6e520f7a6b6002d44aaac3799054a437bca4659b8edf9",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM045_DiKakiMuKamiBertelut_ly_data.ily": "28a4b40a8373c6c9e6bcb814cb17cdc776ca80488a2d2924fc05192218c5d0ae",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "svg_one_line": {
+    "GPM045_DiKakiMuKamiBertelut_ly_one_line.ly": "5d05e3bef8b67cb9e9aa69784534fb41e0c2837eb89f996053c342b644e4ea7f",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM045_DiKakiMuKamiBertelut.ly": "27434f24bd104a74f4f6e520f7a6b6002d44aaac3799054a437bca4659b8edf9",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM045_DiKakiMuKamiBertelut_ly_data.ily": "28a4b40a8373c6c9e6bcb814cb17cdc776ca80488a2d2924fc05192218c5d0ae",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "events": {
+    "GPM045_DiKakiMuKamiBertelut_ly_one_line.midi": "d441f77276d8c42d3e11051216b59b674a9feef865aee8251212cbd4a716d759"
+  },
+  "filter_one_line": {
+    "GPM045_DiKakiMuKamiBertelut_ly_one_line.svg": "87a5586e042c86d6a7ed29cca7cef6bb818f90601ab6dcf40add7981d7c3a776"
+  },
+  "ties": {
+    "GPM045_DiKakiMuKamiBertelut_ly_one_line_filtered.svg": "3addcc5a5e9185a1981f533e4aeeb6a371f0133e30caf670c0ae03d42a6d5dae"
+  },
+  "noteheads": {
+    "GPM045_DiKakiMuKamiBertelut_ly_one_line_filtered.svg": "3addcc5a5e9185a1981f533e4aeeb6a371f0133e30caf670c0ae03d42a6d5dae"
+  },
+  "squash": {
+    "GPM045_DiKakiMuKamiBertelut_note_heads.csv": "057d8491bbf3d53b9a4bdf84ec67a645433b6f1c6f466f6e8dcb2e1c7edda18d",
+    "GPM045_DiKakiMuKamiBertelut_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM045_DiKakiMuKamiBertelut_note_heads_squashed.csv": "f946b79922b70b35ade23bc9204b24d091070f5638384e35887b80fffd192fb8",
+    "GPM045_DiKakiMuKamiBertelut_note_events.csv": "5308b1700d543dbd0f86a75dd82537c14d14f94cfd2c7f4e67b32419db10a5e6"
+  },
+  "svg": {
+    "GPM045_DiKakiMuKamiBertelut.ly": "27434f24bd104a74f4f6e520f7a6b6002d44aaac3799054a437bca4659b8edf9",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM045_DiKakiMuKamiBertelut_ly_data.ily": "28a4b40a8373c6c9e6bcb814cb17cdc776ca80488a2d2924fc05192218c5d0ae",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78"
+  },
+  "filter": {
+    "GPM045_DiKakiMuKamiBertelut.svg": "b7abe180ff9163cf533b12b71bb25b013a93481a531f4c7cbae2fcc180d57b60"
+  },
+  "swell": {
+    "GPM045_DiKakiMuKamiBertelut_filtered.svg": "8bb4a0d53a2c14212dc195bbf652b163fc8c25217cc8818df4bd74cbe940e665"
+  },
+  "optim": {
+    "GPM045_DiKakiMuKamiBertelut_filtered_swellable.svg": "ed93fb06babdcafaabb6c544a8ea7bec32d090168553b4ead89d3fb401f4cd42"
+  },
+  "sync": {
+    "GPM045_DiKakiMuKamiBertelut_optimized.svg": "5077bc204431ce4f426e8e9a667ff1a7813a96c5b93ad652906a85fcf26703a2",
+    "GPM045_DiKakiMuKamiBertelut_json_notes.json": "0e1ff2c09869d7d5d107c09f07e91cacc9fc99808a6fdac48da09da28b4460b4",
+    "GPM045_DiKakiMuKamiBertelut_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM045_DiKakiMuKamiBertelut.config.yaml": "567fb42e207c956d642c267ff9ffec002fd011fef4ab352ebcf6c675670db529"
+  }
+}

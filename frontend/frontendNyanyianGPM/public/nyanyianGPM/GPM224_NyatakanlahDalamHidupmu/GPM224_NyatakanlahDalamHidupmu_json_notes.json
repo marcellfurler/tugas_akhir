@@ -1,0 +1,1278 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 192,
+    "pitch": 66,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 192,
+    "off_tick": 384,
+    "pitch": 66,
+    "channel": 0,
+    "x": 14.067,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:16:17"
+    ],
+    "on_tick": 384,
+    "off_tick": 576,
+    "pitch": 66,
+    "channel": 0,
+    "x": 17.496,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:22:23"
+    ],
+    "on_tick": 576,
+    "off_tick": 768,
+    "pitch": 66,
+    "channel": 0,
+    "x": 21.591,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:28:29"
+    ],
+    "on_tick": 768,
+    "off_tick": 960,
+    "pitch": 64,
+    "channel": 0,
+    "x": 25.25,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:32:33"
+    ],
+    "on_tick": 960,
+    "off_tick": 1152,
+    "pitch": 62,
+    "channel": 0,
+    "x": 28.901,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:36:37"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1344,
+    "pitch": 62,
+    "channel": 0,
+    "x": 32.663,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:40:41"
+    ],
+    "on_tick": 1344,
+    "off_tick": 1536,
+    "pitch": 64,
+    "channel": 0,
+    "x": 36.092,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:46:47"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2688,
+    "pitch": 66,
+    "channel": 0,
+    "x": 40.283,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:58:59"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 66,
+    "channel": 0,
+    "x": 55.193,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:64:65"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 66,
+    "channel": 0,
+    "x": 58.468,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:70:71"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 66,
+    "channel": 0,
+    "x": 61.897,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:76:77"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 66,
+    "channel": 0,
+    "x": 65.915,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:82:83"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4032,
+    "pitch": 67,
+    "channel": 0,
+    "x": 68.798,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:86:87"
+    ],
+    "on_tick": 4032,
+    "off_tick": 4224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 71.501,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:90:91"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 66,
+    "channel": 0,
+    "x": 73.93,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:49:96:97"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 76.395,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 5376,
+    "pitch": 69,
+    "channel": 0,
+    "x": 80.586,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:11:12"
+    ],
+    "on_tick": 5568,
+    "off_tick": 5760,
+    "pitch": 66,
+    "channel": 0,
+    "x": 89.535,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:17:18"
+    ],
+    "on_tick": 5760,
+    "off_tick": 5952,
+    "pitch": 64,
+    "channel": 0,
+    "x": 93.374,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:21:22"
+    ],
+    "on_tick": 5952,
+    "off_tick": 6144,
+    "pitch": 62,
+    "channel": 0,
+    "x": 96.863,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:27:28"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6528,
+    "pitch": 71,
+    "channel": 0,
+    "x": 101.053,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:31:32"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 104.815,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:35:36"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7104,
+    "pitch": 71,
+    "channel": 0,
+    "x": 108.705,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:39:40"
+    ],
+    "on_tick": 7104,
+    "off_tick": 7296,
+    "pitch": 67,
+    "channel": 0,
+    "x": 113.491,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:43:44"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7488,
+    "pitch": 67,
+    "channel": 0,
+    "x": 118.26,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:47:48"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 71,
+    "channel": 0,
+    "x": 122.756,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:53:54"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 126.948,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:57:58"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 130.197,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:61:62"
+    ],
+    "on_tick": 8256,
+    "off_tick": 8448,
+    "pitch": 67,
+    "channel": 0,
+    "x": 134.547,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:50:65:66"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 66,
+    "channel": 0,
+    "x": 137.857,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 68,
+    "channel": 0,
+    "x": 146.526,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:10:11"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9792,
+    "pitch": 68,
+    "channel": 0,
+    "x": 149.299,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:16:17"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 66,
+    "channel": 0,
+    "x": 153.992,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:22:23"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10176,
+    "pitch": 64,
+    "channel": 0,
+    "x": 158.471,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:26:27"
+    ],
+    "on_tick": 10176,
+    "off_tick": 10368,
+    "pitch": 68,
+    "channel": 0,
+    "x": 162.651,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:32:33"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 71,
+    "channel": 0,
+    "x": 166.362,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:36:37"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 68,
+    "channel": 0,
+    "x": 169.313,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:51:44:45"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11904,
+    "pitch": 69,
+    "channel": 0,
+    "x": 173.847,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 66,
+    "channel": 0,
+    "x": 188.757,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:10:11"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 66,
+    "channel": 0,
+    "x": 192.289,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:16:17"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 66,
+    "channel": 0,
+    "x": 195.718,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:22:23"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 66,
+    "channel": 0,
+    "x": 199.812,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:28:29"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13248,
+    "pitch": 64,
+    "channel": 0,
+    "x": 203.421,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:32:33"
+    ],
+    "on_tick": 13248,
+    "off_tick": 13440,
+    "pitch": 62,
+    "channel": 0,
+    "x": 206.696,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:36:37"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13632,
+    "pitch": 62,
+    "channel": 0,
+    "x": 210.108,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:40:41"
+    ],
+    "on_tick": 13632,
+    "off_tick": 13824,
+    "pitch": 64,
+    "channel": 0,
+    "x": 213.11,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:46:47"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14976,
+    "pitch": 66,
+    "channel": 0,
+    "x": 217.301,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:58:59"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 66,
+    "channel": 0,
+    "x": 232.211,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:64:65"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 66,
+    "channel": 0,
+    "x": 235.862,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:70:71"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 66,
+    "channel": 0,
+    "x": 239.897,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:76:77"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 66,
+    "channel": 0,
+    "x": 242.575,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:82:83"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 67,
+    "channel": 0,
+    "x": 246.319,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:86:87"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 250.781,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:90:91"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 66,
+    "channel": 0,
+    "x": 254.193,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:53:96:97"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 67,
+    "channel": 0,
+    "x": 256.854,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:4:5"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17664,
+    "pitch": 69,
+    "channel": 0,
+    "x": 261.045,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:11:12"
+    ],
+    "on_tick": 17856,
+    "off_tick": 18048,
+    "pitch": 66,
+    "channel": 0,
+    "x": 269.994,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:17:18"
+    ],
+    "on_tick": 18048,
+    "off_tick": 18240,
+    "pitch": 64,
+    "channel": 0,
+    "x": 272.638,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:21:22"
+    ],
+    "on_tick": 18240,
+    "off_tick": 18432,
+    "pitch": 62,
+    "channel": 0,
+    "x": 276.408,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:27:28"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 71,
+    "channel": 0,
+    "x": 280.599,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:31:32"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 71,
+    "channel": 0,
+    "x": 284.228,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:35:36"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19392,
+    "pitch": 71,
+    "channel": 0,
+    "x": 287.857,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:39:40"
+    ],
+    "on_tick": 19392,
+    "off_tick": 19584,
+    "pitch": 67,
+    "channel": 0,
+    "x": 291.875,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:43:44"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 294.331,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:47:48"
+    ],
+    "on_tick": 19776,
+    "off_tick": 19968,
+    "pitch": 71,
+    "channel": 0,
+    "x": 297.905,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:53:54"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 69,
+    "channel": 0,
+    "x": 302.096,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:57:58"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20544,
+    "pitch": 69,
+    "channel": 0,
+    "x": 304.526,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:61:62"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 67,
+    "channel": 0,
+    "x": 310.865,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:54:65:66"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 66,
+    "channel": 0,
+    "x": 314.243,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:4:5"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 64,
+    "channel": 0,
+    "x": 322.912,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:8:9"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 64,
+    "channel": 0,
+    "x": 326.222,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:12:13"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 64,
+    "channel": 0,
+    "x": 330.171,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:16:17"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 66,
+    "channel": 0,
+    "x": 334.061,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:22:23"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 67,
+    "channel": 0,
+    "x": 337.379,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:26:27"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 64,
+    "channel": 0,
+    "x": 339.809,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:30:31"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 62,
+    "channel": 0,
+    "x": 343.366,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:34:35"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 61,
+    "channel": 0,
+    "x": 346.351,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:42:43"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23808,
+    "pitch": 62,
+    "channel": 0,
+    "x": 350.557,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:50:51"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24384,
+    "pitch": 69,
+    "channel": 0,
+    "x": 360.656,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:55:54:55"
+    ],
+    "on_tick": 24384,
+    "off_tick": 24576,
+    "pitch": 71,
+    "channel": 0,
+    "x": 363.471,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:4:5"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 69,
+    "channel": 0,
+    "x": 367.662,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:8:9"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 66,
+    "channel": 0,
+    "x": 371.291,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:14:15"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 374.92,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:18:19"
+    ],
+    "on_tick": 25536,
+    "off_tick": 25728,
+    "pitch": 66,
+    "channel": 0,
+    "x": 378.127,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:24:25"
+    ],
+    "on_tick": 25728,
+    "off_tick": 25920,
+    "pitch": 67,
+    "channel": 0,
+    "x": 383.135,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:28:29"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 71,
+    "channel": 0,
+    "x": 388.194,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:34:35"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26496,
+    "pitch": 69,
+    "channel": 0,
+    "x": 392.386,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:38:39"
+    ],
+    "on_tick": 26496,
+    "off_tick": 26880,
+    "pitch": 66,
+    "channel": 0,
+    "x": 396.015,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:47:48"
+    ],
+    "on_tick": 27264,
+    "off_tick": 27456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 402.994,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:51:52"
+    ],
+    "on_tick": 27456,
+    "off_tick": 27648,
+    "pitch": 69,
+    "channel": 0,
+    "x": 406.372,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:57:58"
+    ],
+    "on_tick": 27648,
+    "off_tick": 28032,
+    "pitch": 67,
+    "channel": 0,
+    "x": 410.562,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:61:62"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28416,
+    "pitch": 64,
+    "channel": 0,
+    "x": 414.418,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:65:66"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28608,
+    "pitch": 66,
+    "channel": 0,
+    "x": 418.047,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:71:72"
+    ],
+    "on_tick": 28608,
+    "off_tick": 28800,
+    "pitch": 64,
+    "channel": 0,
+    "x": 421.869,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:75:76"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 62,
+    "channel": 0,
+    "x": 427.116,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:57:79:80"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 64,
+    "channel": 0,
+    "x": 430.494,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29952,
+    "pitch": 66,
+    "channel": 0,
+    "x": 434.684,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:13:14"
+    ],
+    "on_tick": 30336,
+    "off_tick": 30528,
+    "pitch": 69,
+    "channel": 0,
+    "x": 444.784,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:17:18"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 67,
+    "channel": 0,
+    "x": 448.162,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:23:24"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31104,
+    "pitch": 66,
+    "channel": 0,
+    "x": 452.352,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:29:30"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31488,
+    "pitch": 66,
+    "channel": 0,
+    "x": 456.14,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:35:36"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 459.834,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:39:40"
+    ],
+    "on_tick": 31680,
+    "off_tick": 31872,
+    "pitch": 66,
+    "channel": 0,
+    "x": 463.211,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:45:46"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 466.939,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:49:50"
+    ],
+    "on_tick": 32064,
+    "off_tick": 32256,
+    "pitch": 69,
+    "channel": 0,
+    "x": 469.668,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:55:56"
+    ],
+    "on_tick": 32256,
+    "off_tick": 33024,
+    "pitch": 71,
+    "channel": 0,
+    "x": 473.859,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:62:63"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33600,
+    "pitch": 73,
+    "channel": 0,
+    "x": 483.959,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:58:69:70"
+    ],
+    "on_tick": 33600,
+    "off_tick": 33792,
+    "pitch": 71,
+    "channel": 0,
+    "x": 486.483,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 33792,
+    "off_tick": 34176,
+    "pitch": 69,
+    "channel": 0,
+    "x": 490.674,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34560,
+    "pitch": 66,
+    "channel": 0,
+    "x": 494.303,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:14:15"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34752,
+    "pitch": 64,
+    "channel": 0,
+    "x": 497.932,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:18:19"
+    ],
+    "on_tick": 34752,
+    "off_tick": 34944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 501.361,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:22:23"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 67,
+    "channel": 0,
+    "x": 505.362,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:26:27"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 64,
+    "channel": 0,
+    "x": 508.262,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM224_NyatakanlahDalamHidupmu/GPM224_NyatakanlahDalamHidupmu_ly_data.ily:59:32:33"
+    ],
+    "on_tick": 35328,
+    "off_tick": 36480,
+    "pitch": 62,
+    "channel": 0,
+    "x": 512.452,
+    "y": 15.289
+  }
+]

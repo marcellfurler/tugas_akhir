@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM016_MaeOIteSombaUpuYesus.ly": "09075c6e54166805747a3f57b742b7178165bbbc1dea416f5d5d9a73999c259d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM016_MaeOIteSombaUpuYesus_ly_data.ily": "72cfbfb198b8d904087234a39e5603db46baa5764aaeeb2d16b6cedc4f0ad663"
+  },
+  "svg_one_line": {
+    "GPM016_MaeOIteSombaUpuYesus_ly_one_line.ly": "33d267ab9b27b7fa9b88654ac7e924b620ca6f940623a9e20119597217754f96",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM016_MaeOIteSombaUpuYesus_ly_data.ily": "72cfbfb198b8d904087234a39e5603db46baa5764aaeeb2d16b6cedc4f0ad663",
+    "GPM016_MaeOIteSombaUpuYesus.ly": "09075c6e54166805747a3f57b742b7178165bbbc1dea416f5d5d9a73999c259d",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "events": {
+    "GPM016_MaeOIteSombaUpuYesus_ly_one_line.midi": "83c7954db9ce94e9a70da12b47024008736cb2da6ed9d5afba815ef2a682be45"
+  },
+  "filter_one_line": {
+    "GPM016_MaeOIteSombaUpuYesus_ly_one_line.svg": "2ae1647336910f0297025312b7ecea3eecf592478ceb24e0d7a5aabfa3bda76e"
+  },
+  "ties": {
+    "GPM016_MaeOIteSombaUpuYesus_ly_one_line_filtered.svg": "81aaa83ec508e4eb59ed1a8dc772c15047c645f6248e9fdd854c5dd8ccbb315c"
+  },
+  "noteheads": {
+    "GPM016_MaeOIteSombaUpuYesus_ly_one_line_filtered.svg": "81aaa83ec508e4eb59ed1a8dc772c15047c645f6248e9fdd854c5dd8ccbb315c"
+  },
+  "squash": {
+    "GPM016_MaeOIteSombaUpuYesus_note_heads.csv": "5477bcbd7882f6f2a3d2422632c2f761e1a64c55d5ba5311ea0fedd9c65bcaab",
+    "GPM016_MaeOIteSombaUpuYesus_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM016_MaeOIteSombaUpuYesus_note_heads_squashed.csv": "a6b7862b89471e9e128ec15367245b13778101403417d6ce18a87d4172862604",
+    "GPM016_MaeOIteSombaUpuYesus_note_events.csv": "3d8925b39440cdb50e8adb0f47286ce6c9d33fc0fe3da0b8e714e48c75ed36c0"
+  },
+  "svg": {
+    "GPM016_MaeOIteSombaUpuYesus.ly": "09075c6e54166805747a3f57b742b7178165bbbc1dea416f5d5d9a73999c259d",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM016_MaeOIteSombaUpuYesus_ly_data.ily": "72cfbfb198b8d904087234a39e5603db46baa5764aaeeb2d16b6cedc4f0ad663",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d"
+  },
+  "filter": {
+    "GPM016_MaeOIteSombaUpuYesus.svg": "420127fcbe123fb1d918fc0aa10c5b65e1058dba8a1af84cdf192beb43141057"
+  },
+  "swell": {
+    "GPM016_MaeOIteSombaUpuYesus_filtered.svg": "de6ab2e91fd8a66128f779fc9b682442f0052acaa78ca9a3b21a7f5c7fa1c4e2"
+  },
+  "optim": {
+    "GPM016_MaeOIteSombaUpuYesus_filtered_swellable.svg": "5c3a5e4d5639fe5aac1a83225e1a8af306b6f70c8538ddde8d9e862b17099549"
+  },
+  "sync": {
+    "GPM016_MaeOIteSombaUpuYesus_optimized.svg": "eee4621f0cb01e530d757c024cfd1c2a38196bd9bd290486d56ca051f3d81f77",
+    "GPM016_MaeOIteSombaUpuYesus_json_notes.json": "2dceb03102793c37a2b2a01eed6688707b8a5cb6d897340f8464a316adeae7ae",
+    "GPM016_MaeOIteSombaUpuYesus_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM016_MaeOIteSombaUpuYesus.config.yaml": "0cf9f8fd50a90f045c0ca50cfb9188678ac25a122f6024895304883c228b68fc"
+  }
+}

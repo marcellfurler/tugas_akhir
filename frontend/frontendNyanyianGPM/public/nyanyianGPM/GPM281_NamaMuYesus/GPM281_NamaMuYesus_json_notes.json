@@ -1,0 +1,1982 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:2:3"
+    ],
+    "on_tick": 0,
+    "off_tick": 768,
+    "pitch": 71,
+    "channel": 0,
+    "x": 10.536,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:6:7"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 69,
+    "channel": 0,
+    "x": 17.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1536,
+    "pitch": 67,
+    "channel": 0,
+    "x": 21.073,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:16:17"
+    ],
+    "on_tick": 1536,
+    "off_tick": 2304,
+    "pitch": 74,
+    "channel": 0,
+    "x": 26.464,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:21:22"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 71,
+    "channel": 0,
+    "x": 33.213,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:30:31"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3264,
+    "pitch": 67,
+    "channel": 0,
+    "x": 41.882,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:34:35"
+    ],
+    "on_tick": 3264,
+    "off_tick": 3456,
+    "pitch": 67,
+    "channel": 0,
+    "x": 44.312,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:38:39"
+    ],
+    "on_tick": 3456,
+    "off_tick": 3648,
+    "pitch": 67,
+    "channel": 0,
+    "x": 46.741,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:42:43"
+    ],
+    "on_tick": 3648,
+    "off_tick": 3840,
+    "pitch": 69,
+    "channel": 0,
+    "x": 49.17,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:46:47"
+    ],
+    "on_tick": 3840,
+    "off_tick": 4224,
+    "pitch": 71,
+    "channel": 0,
+    "x": 51.599,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:50:51"
+    ],
+    "on_tick": 4224,
+    "off_tick": 4416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 55.228,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:54:55"
+    ],
+    "on_tick": 4416,
+    "off_tick": 4608,
+    "pitch": 67,
+    "channel": 0,
+    "x": 58.879,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:60:61"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 63.07,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:64:65"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 71,
+    "channel": 0,
+    "x": 66.699,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:48:68:69"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 69,
+    "channel": 0,
+    "x": 70.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:2:3"
+    ],
+    "on_tick": 6144,
+    "off_tick": 6912,
+    "pitch": 71,
+    "channel": 0,
+    "x": 78.997,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:6:7"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7296,
+    "pitch": 69,
+    "channel": 0,
+    "x": 85.747,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:10:11"
+    ],
+    "on_tick": 7296,
+    "off_tick": 7680,
+    "pitch": 67,
+    "channel": 0,
+    "x": 89.466,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:16:17"
+    ],
+    "on_tick": 7680,
+    "off_tick": 8448,
+    "pitch": 74,
+    "channel": 0,
+    "x": 94.857,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:21:22"
+    ],
+    "on_tick": 8448,
+    "off_tick": 8832,
+    "pitch": 71,
+    "channel": 0,
+    "x": 101.606,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:30:31"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9408,
+    "pitch": 67,
+    "channel": 0,
+    "x": 110.275,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:34:35"
+    ],
+    "on_tick": 9408,
+    "off_tick": 9600,
+    "pitch": 67,
+    "channel": 0,
+    "x": 112.704,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:38:39"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9792,
+    "pitch": 67,
+    "channel": 0,
+    "x": 115.134,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:42:43"
+    ],
+    "on_tick": 9792,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 117.563,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:46:47"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 71,
+    "channel": 0,
+    "x": 119.992,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:50:51"
+    ],
+    "on_tick": 10368,
+    "off_tick": 10560,
+    "pitch": 72,
+    "channel": 0,
+    "x": 123.621,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:55:56"
+    ],
+    "on_tick": 10560,
+    "off_tick": 10752,
+    "pitch": 71,
+    "channel": 0,
+    "x": 127.272,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:61:62"
+    ],
+    "on_tick": 10752,
+    "off_tick": 11136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 131.463,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:65:66"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11520,
+    "pitch": 71,
+    "channel": 0,
+    "x": 135.093,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:49:69:70"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 139.204,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:2:3"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12480,
+    "pitch": 66,
+    "channel": 0,
+    "x": 147.874,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:8:9"
+    ],
+    "on_tick": 12480,
+    "off_tick": 12672,
+    "pitch": 64,
+    "channel": 0,
+    "x": 150.33,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:12:13"
+    ],
+    "on_tick": 12672,
+    "off_tick": 12864,
+    "pitch": 66,
+    "channel": 0,
+    "x": 153.34,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:18:19"
+    ],
+    "on_tick": 12864,
+    "off_tick": 13056,
+    "pitch": 67,
+    "channel": 0,
+    "x": 157.119,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:22:23"
+    ],
+    "on_tick": 13056,
+    "off_tick": 13440,
+    "pitch": 69,
+    "channel": 0,
+    "x": 160.104,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:26:27"
+    ],
+    "on_tick": 13440,
+    "off_tick": 13824,
+    "pitch": 66,
+    "channel": 0,
+    "x": 163.734,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:34:35"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14016,
+    "pitch": 67,
+    "channel": 0,
+    "x": 169.124,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:38:39"
+    ],
+    "on_tick": 14016,
+    "off_tick": 14208,
+    "pitch": 66,
+    "channel": 0,
+    "x": 172.775,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:44:45"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14400,
+    "pitch": 67,
+    "channel": 0,
+    "x": 176.725,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:48:49"
+    ],
+    "on_tick": 14400,
+    "off_tick": 14592,
+    "pitch": 69,
+    "channel": 0,
+    "x": 179.42,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:52:53"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 71,
+    "channel": 0,
+    "x": 181.858,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:56:57"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15360,
+    "pitch": 67,
+    "channel": 0,
+    "x": 185.526,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:62:63"
+    ],
+    "on_tick": 15360,
+    "off_tick": 15552,
+    "pitch": 66,
+    "channel": 0,
+    "x": 190.917,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:68:69"
+    ],
+    "on_tick": 15552,
+    "off_tick": 15744,
+    "pitch": 64,
+    "channel": 0,
+    "x": 193.953,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:72:73"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 66,
+    "channel": 0,
+    "x": 197.015,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:78:79"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 199.591,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:82:83"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16320,
+    "pitch": 69,
+    "channel": 0,
+    "x": 202.448,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:86:87"
+    ],
+    "on_tick": 16320,
+    "off_tick": 16512,
+    "pitch": 66,
+    "channel": 0,
+    "x": 205.672,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:92:93"
+    ],
+    "on_tick": 16512,
+    "off_tick": 16704,
+    "pitch": 64,
+    "channel": 0,
+    "x": 210.048,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:96:97"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 62,
+    "channel": 0,
+    "x": 213.802,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:102:103"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17472,
+    "pitch": 72,
+    "channel": 0,
+    "x": 217.992,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:108:109"
+    ],
+    "on_tick": 17472,
+    "off_tick": 17664,
+    "pitch": 71,
+    "channel": 0,
+    "x": 224.008,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:50:112:113"
+    ],
+    "on_tick": 17664,
+    "off_tick": 18048,
+    "pitch": 71,
+    "channel": 0,
+    "x": 227.658,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:2:3"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18624,
+    "pitch": 66,
+    "channel": 0,
+    "x": 236.328,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:8:9"
+    ],
+    "on_tick": 18624,
+    "off_tick": 18816,
+    "pitch": 64,
+    "channel": 0,
+    "x": 238.784,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:12:13"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19008,
+    "pitch": 66,
+    "channel": 0,
+    "x": 241.794,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:18:19"
+    ],
+    "on_tick": 19008,
+    "off_tick": 19200,
+    "pitch": 67,
+    "channel": 0,
+    "x": 244.839,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:22:23"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 69,
+    "channel": 0,
+    "x": 247.483,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:26:27"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 66,
+    "channel": 0,
+    "x": 251.817,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:34:35"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20160,
+    "pitch": 67,
+    "channel": 0,
+    "x": 257.207,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:38:39"
+    ],
+    "on_tick": 20160,
+    "off_tick": 20352,
+    "pitch": 66,
+    "channel": 0,
+    "x": 259.636,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:44:45"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20544,
+    "pitch": 67,
+    "channel": 0,
+    "x": 262.066,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:48:49"
+    ],
+    "on_tick": 20544,
+    "off_tick": 20736,
+    "pitch": 69,
+    "channel": 0,
+    "x": 265.179,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:52:53"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 71,
+    "channel": 0,
+    "x": 267.925,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:56:57"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 67,
+    "channel": 0,
+    "x": 271.554,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:62:63"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21696,
+    "pitch": 69,
+    "channel": 0,
+    "x": 276.944,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:66:67"
+    ],
+    "on_tick": 21696,
+    "off_tick": 21888,
+    "pitch": 69,
+    "channel": 0,
+    "x": 280.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:70:71"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22080,
+    "pitch": 69,
+    "channel": 0,
+    "x": 284.221,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:74:75"
+    ],
+    "on_tick": 22080,
+    "off_tick": 22272,
+    "pitch": 71,
+    "channel": 0,
+    "x": 287.445,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:78:79"
+    ],
+    "on_tick": 22272,
+    "off_tick": 22464,
+    "pitch": 69,
+    "channel": 0,
+    "x": 291.164,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:82:83"
+    ],
+    "on_tick": 22464,
+    "off_tick": 22656,
+    "pitch": 67,
+    "channel": 0,
+    "x": 295.233,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:86:87"
+    ],
+    "on_tick": 22656,
+    "off_tick": 22848,
+    "pitch": 66,
+    "channel": 0,
+    "x": 298.577,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:92:93"
+    ],
+    "on_tick": 22848,
+    "off_tick": 23040,
+    "pitch": 64,
+    "channel": 0,
+    "x": 301.682,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:98:99"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23808,
+    "pitch": 62,
+    "channel": 0,
+    "x": 305.872,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:51:102:103"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24192,
+    "pitch": 62,
+    "channel": 0,
+    "x": 312.622,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:2:3"
+    ],
+    "on_tick": 24576,
+    "off_tick": 25344,
+    "pitch": 71,
+    "channel": 0,
+    "x": 321.291,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:6:7"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25728,
+    "pitch": 69,
+    "channel": 0,
+    "x": 328.041,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:10:11"
+    ],
+    "on_tick": 25728,
+    "off_tick": 26112,
+    "pitch": 67,
+    "channel": 0,
+    "x": 331.768,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26880,
+    "pitch": 74,
+    "channel": 0,
+    "x": 337.159,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:21:22"
+    ],
+    "on_tick": 26880,
+    "off_tick": 27264,
+    "pitch": 71,
+    "channel": 0,
+    "x": 343.909,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:30:31"
+    ],
+    "on_tick": 27648,
+    "off_tick": 27840,
+    "pitch": 67,
+    "channel": 0,
+    "x": 352.578,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:34:35"
+    ],
+    "on_tick": 27840,
+    "off_tick": 28032,
+    "pitch": 67,
+    "channel": 0,
+    "x": 355.007,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:38:39"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 357.436,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:42:43"
+    ],
+    "on_tick": 28224,
+    "off_tick": 28416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 359.865,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:46:47"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28800,
+    "pitch": 71,
+    "channel": 0,
+    "x": 362.294,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:50:51"
+    ],
+    "on_tick": 28800,
+    "off_tick": 28992,
+    "pitch": 72,
+    "channel": 0,
+    "x": 366.09,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:55:56"
+    ],
+    "on_tick": 28992,
+    "off_tick": 29184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 369.844,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:61:62"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29568,
+    "pitch": 67,
+    "channel": 0,
+    "x": 374.034,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:65:66"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29952,
+    "pitch": 66,
+    "channel": 0,
+    "x": 377.664,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:52:71:72"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30336,
+    "pitch": 67,
+    "channel": 0,
+    "x": 381.293,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:2:3"
+    ],
+    "on_tick": 30720,
+    "off_tick": 31488,
+    "pitch": 71,
+    "channel": 0,
+    "x": 390.452,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:6:7"
+    ],
+    "on_tick": 31488,
+    "off_tick": 31872,
+    "pitch": 69,
+    "channel": 0,
+    "x": 397.202,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:10:11"
+    ],
+    "on_tick": 31872,
+    "off_tick": 32256,
+    "pitch": 67,
+    "channel": 0,
+    "x": 402.047,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:16:17"
+    ],
+    "on_tick": 32256,
+    "off_tick": 33024,
+    "pitch": 74,
+    "channel": 0,
+    "x": 407.438,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:21:22"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 71,
+    "channel": 0,
+    "x": 414.188,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:30:31"
+    ],
+    "on_tick": 33792,
+    "off_tick": 33984,
+    "pitch": 67,
+    "channel": 0,
+    "x": 422.857,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:34:35"
+    ],
+    "on_tick": 33984,
+    "off_tick": 34176,
+    "pitch": 67,
+    "channel": 0,
+    "x": 425.286,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:38:39"
+    ],
+    "on_tick": 34176,
+    "off_tick": 34368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 427.715,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:42:43"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 430.144,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:46:47"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34944,
+    "pitch": 71,
+    "channel": 0,
+    "x": 432.574,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:50:51"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 436.203,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:54:55"
+    ],
+    "on_tick": 35136,
+    "off_tick": 35328,
+    "pitch": 67,
+    "channel": 0,
+    "x": 439.854,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:60:61"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35712,
+    "pitch": 69,
+    "channel": 0,
+    "x": 444.571,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:64:65"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36096,
+    "pitch": 71,
+    "channel": 0,
+    "x": 448.201,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:57:68:69"
+    ],
+    "on_tick": 36096,
+    "off_tick": 36480,
+    "pitch": 69,
+    "channel": 0,
+    "x": 451.83,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:2:3"
+    ],
+    "on_tick": 36864,
+    "off_tick": 37632,
+    "pitch": 71,
+    "channel": 0,
+    "x": 460.499,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:6:7"
+    ],
+    "on_tick": 37632,
+    "off_tick": 38016,
+    "pitch": 69,
+    "channel": 0,
+    "x": 467.249,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:10:11"
+    ],
+    "on_tick": 38016,
+    "off_tick": 38400,
+    "pitch": 67,
+    "channel": 0,
+    "x": 471.121,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:16:17"
+    ],
+    "on_tick": 38400,
+    "off_tick": 39168,
+    "pitch": 74,
+    "channel": 0,
+    "x": 476.512,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:21:22"
+    ],
+    "on_tick": 39168,
+    "off_tick": 39552,
+    "pitch": 71,
+    "channel": 0,
+    "x": 483.262,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:30:31"
+    ],
+    "on_tick": 39936,
+    "off_tick": 40128,
+    "pitch": 67,
+    "channel": 0,
+    "x": 491.931,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:34:35"
+    ],
+    "on_tick": 40128,
+    "off_tick": 40320,
+    "pitch": 67,
+    "channel": 0,
+    "x": 494.36,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:38:39"
+    ],
+    "on_tick": 40320,
+    "off_tick": 40512,
+    "pitch": 67,
+    "channel": 0,
+    "x": 496.789,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:42:43"
+    ],
+    "on_tick": 40512,
+    "off_tick": 40704,
+    "pitch": 69,
+    "channel": 0,
+    "x": 499.218,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:46:47"
+    ],
+    "on_tick": 40704,
+    "off_tick": 41088,
+    "pitch": 71,
+    "channel": 0,
+    "x": 501.647,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:50:51"
+    ],
+    "on_tick": 41088,
+    "off_tick": 41280,
+    "pitch": 72,
+    "channel": 0,
+    "x": 505.277,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:55:56"
+    ],
+    "on_tick": 41280,
+    "off_tick": 41472,
+    "pitch": 71,
+    "channel": 0,
+    "x": 508.928,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:61:62"
+    ],
+    "on_tick": 41472,
+    "off_tick": 41856,
+    "pitch": 69,
+    "channel": 0,
+    "x": 513.782,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:65:66"
+    ],
+    "on_tick": 41856,
+    "off_tick": 42240,
+    "pitch": 71,
+    "channel": 0,
+    "x": 518.969,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:58:69:70"
+    ],
+    "on_tick": 42240,
+    "off_tick": 42624,
+    "pitch": 67,
+    "channel": 0,
+    "x": 523.747,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:2:3"
+    ],
+    "on_tick": 43008,
+    "off_tick": 43200,
+    "pitch": 66,
+    "channel": 0,
+    "x": 532.416,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 43200,
+    "off_tick": 43392,
+    "pitch": 64,
+    "channel": 0,
+    "x": 536.801,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 43392,
+    "off_tick": 43584,
+    "pitch": 66,
+    "channel": 0,
+    "x": 540.35,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:18:19"
+    ],
+    "on_tick": 43584,
+    "off_tick": 43776,
+    "pitch": 67,
+    "channel": 0,
+    "x": 543.992,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:22:23"
+    ],
+    "on_tick": 43776,
+    "off_tick": 44160,
+    "pitch": 69,
+    "channel": 0,
+    "x": 546.875,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:26:27"
+    ],
+    "on_tick": 44160,
+    "off_tick": 44544,
+    "pitch": 66,
+    "channel": 0,
+    "x": 550.504,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:34:35"
+    ],
+    "on_tick": 44544,
+    "off_tick": 44736,
+    "pitch": 67,
+    "channel": 0,
+    "x": 555.894,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:38:39"
+    ],
+    "on_tick": 44736,
+    "off_tick": 44928,
+    "pitch": 66,
+    "channel": 0,
+    "x": 559.887,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:44:45"
+    ],
+    "on_tick": 44928,
+    "off_tick": 45120,
+    "pitch": 67,
+    "channel": 0,
+    "x": 564.75,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:48:49"
+    ],
+    "on_tick": 45120,
+    "off_tick": 45312,
+    "pitch": 69,
+    "channel": 0,
+    "x": 569.041,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:52:53"
+    ],
+    "on_tick": 45312,
+    "off_tick": 45696,
+    "pitch": 71,
+    "channel": 0,
+    "x": 572.504,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:56:57"
+    ],
+    "on_tick": 45696,
+    "off_tick": 46080,
+    "pitch": 67,
+    "channel": 0,
+    "x": 577.794,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:62:63"
+    ],
+    "on_tick": 46080,
+    "off_tick": 46272,
+    "pitch": 66,
+    "channel": 0,
+    "x": 583.184,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:68:69"
+    ],
+    "on_tick": 46272,
+    "off_tick": 46464,
+    "pitch": 64,
+    "channel": 0,
+    "x": 586.494,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:72:73"
+    ],
+    "on_tick": 46464,
+    "off_tick": 46656,
+    "pitch": 66,
+    "channel": 0,
+    "x": 589.206,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:78:79"
+    ],
+    "on_tick": 46656,
+    "off_tick": 46848,
+    "pitch": 67,
+    "channel": 0,
+    "x": 592.131,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:82:83"
+    ],
+    "on_tick": 46848,
+    "off_tick": 47040,
+    "pitch": 69,
+    "channel": 0,
+    "x": 595.492,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:86:87"
+    ],
+    "on_tick": 47040,
+    "off_tick": 47232,
+    "pitch": 66,
+    "channel": 0,
+    "x": 600.568,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:92:93"
+    ],
+    "on_tick": 47232,
+    "off_tick": 47424,
+    "pitch": 64,
+    "channel": 0,
+    "x": 606.054,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:96:97"
+    ],
+    "on_tick": 47424,
+    "off_tick": 47616,
+    "pitch": 62,
+    "channel": 0,
+    "x": 610.627,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:102:103"
+    ],
+    "on_tick": 47616,
+    "off_tick": 48192,
+    "pitch": 72,
+    "channel": 0,
+    "x": 614.818,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:108:109"
+    ],
+    "on_tick": 48192,
+    "off_tick": 48384,
+    "pitch": 71,
+    "channel": 0,
+    "x": 620.367,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:59:112:113"
+    ],
+    "on_tick": 48384,
+    "off_tick": 48768,
+    "pitch": 71,
+    "channel": 0,
+    "x": 623.728,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:2:3"
+    ],
+    "on_tick": 49152,
+    "off_tick": 49344,
+    "pitch": 66,
+    "channel": 0,
+    "x": 632.397,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:8:9"
+    ],
+    "on_tick": 49344,
+    "off_tick": 49536,
+    "pitch": 64,
+    "channel": 0,
+    "x": 636.407,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:12:13"
+    ],
+    "on_tick": 49536,
+    "off_tick": 49728,
+    "pitch": 66,
+    "channel": 0,
+    "x": 640.28,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:18:19"
+    ],
+    "on_tick": 49728,
+    "off_tick": 49920,
+    "pitch": 67,
+    "channel": 0,
+    "x": 644.349,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:22:23"
+    ],
+    "on_tick": 49920,
+    "off_tick": 50304,
+    "pitch": 69,
+    "channel": 0,
+    "x": 648.239,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:26:27"
+    ],
+    "on_tick": 50304,
+    "off_tick": 50688,
+    "pitch": 66,
+    "channel": 0,
+    "x": 651.868,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:34:35"
+    ],
+    "on_tick": 50688,
+    "off_tick": 50880,
+    "pitch": 67,
+    "channel": 0,
+    "x": 657.258,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:38:39"
+    ],
+    "on_tick": 50880,
+    "off_tick": 51072,
+    "pitch": 66,
+    "channel": 0,
+    "x": 660.448,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:44:45"
+    ],
+    "on_tick": 51072,
+    "off_tick": 51264,
+    "pitch": 67,
+    "channel": 0,
+    "x": 664.398,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:48:49"
+    ],
+    "on_tick": 51264,
+    "off_tick": 51456,
+    "pitch": 69,
+    "channel": 0,
+    "x": 667.434,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:52:53"
+    ],
+    "on_tick": 51456,
+    "off_tick": 51840,
+    "pitch": 71,
+    "channel": 0,
+    "x": 669.864,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:56:57"
+    ],
+    "on_tick": 51840,
+    "off_tick": 52224,
+    "pitch": 67,
+    "channel": 0,
+    "x": 673.493,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:62:63"
+    ],
+    "on_tick": 52224,
+    "off_tick": 52416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 678.883,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:66:67"
+    ],
+    "on_tick": 52416,
+    "off_tick": 52608,
+    "pitch": 69,
+    "channel": 0,
+    "x": 682.637,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:70:71"
+    ],
+    "on_tick": 52608,
+    "off_tick": 52800,
+    "pitch": 69,
+    "channel": 0,
+    "x": 686.561,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:74:75"
+    ],
+    "on_tick": 52800,
+    "off_tick": 52992,
+    "pitch": 71,
+    "channel": 0,
+    "x": 690.707,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:78:79"
+    ],
+    "on_tick": 52992,
+    "off_tick": 53184,
+    "pitch": 69,
+    "channel": 0,
+    "x": 694.503,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:82:83"
+    ],
+    "on_tick": 53184,
+    "off_tick": 53376,
+    "pitch": 67,
+    "channel": 0,
+    "x": 696.932,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:86:87"
+    ],
+    "on_tick": 53376,
+    "off_tick": 53568,
+    "pitch": 66,
+    "channel": 0,
+    "x": 700.241,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:92:93"
+    ],
+    "on_tick": 53568,
+    "off_tick": 53760,
+    "pitch": 64,
+    "channel": 0,
+    "x": 703.901,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:98:99"
+    ],
+    "on_tick": 53760,
+    "off_tick": 54528,
+    "pitch": 62,
+    "channel": 0,
+    "x": 708.091,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:60:102:103"
+    ],
+    "on_tick": 54528,
+    "off_tick": 54912,
+    "pitch": 62,
+    "channel": 0,
+    "x": 714.841,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:2:3"
+    ],
+    "on_tick": 55296,
+    "off_tick": 56064,
+    "pitch": 71,
+    "channel": 0,
+    "x": 723.51,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:6:7"
+    ],
+    "on_tick": 56064,
+    "off_tick": 56448,
+    "pitch": 69,
+    "channel": 0,
+    "x": 730.26,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:10:11"
+    ],
+    "on_tick": 56448,
+    "off_tick": 56832,
+    "pitch": 67,
+    "channel": 0,
+    "x": 734.056,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:16:17"
+    ],
+    "on_tick": 56832,
+    "off_tick": 57600,
+    "pitch": 74,
+    "channel": 0,
+    "x": 739.446,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:21:22"
+    ],
+    "on_tick": 57600,
+    "off_tick": 57984,
+    "pitch": 71,
+    "channel": 0,
+    "x": 746.196,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:30:31"
+    ],
+    "on_tick": 58368,
+    "off_tick": 58560,
+    "pitch": 67,
+    "channel": 0,
+    "x": 754.865,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:34:35"
+    ],
+    "on_tick": 58560,
+    "off_tick": 58752,
+    "pitch": 67,
+    "channel": 0,
+    "x": 757.294,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:38:39"
+    ],
+    "on_tick": 58752,
+    "off_tick": 58944,
+    "pitch": 67,
+    "channel": 0,
+    "x": 759.724,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:42:43"
+    ],
+    "on_tick": 58944,
+    "off_tick": 59136,
+    "pitch": 69,
+    "channel": 0,
+    "x": 762.153,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:46:47"
+    ],
+    "on_tick": 59136,
+    "off_tick": 59520,
+    "pitch": 71,
+    "channel": 0,
+    "x": 764.582,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:50:51"
+    ],
+    "on_tick": 59520,
+    "off_tick": 59712,
+    "pitch": 72,
+    "channel": 0,
+    "x": 768.378,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:55:56"
+    ],
+    "on_tick": 59712,
+    "off_tick": 59904,
+    "pitch": 69,
+    "channel": 0,
+    "x": 772.131,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:61:62"
+    ],
+    "on_tick": 59904,
+    "off_tick": 60288,
+    "pitch": 67,
+    "channel": 0,
+    "x": 776.322,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:65:66"
+    ],
+    "on_tick": 60288,
+    "off_tick": 60672,
+    "pitch": 66,
+    "channel": 0,
+    "x": 779.951,
+    "y": 15.289
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM281_NamaMuYesus/GPM281_NamaMuYesus_ly_data.ily:61:71:72"
+    ],
+    "on_tick": 60672,
+    "off_tick": 61056,
+    "pitch": 67,
+    "channel": 0,
+    "x": 784.012,
+    "y": 15.289
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM309_DiSaatSusah.ly": "2dfd6551543d2014f267a69d9603e6745abd640c2a826dbc64b12639ac630779",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "GPM309_DiSaatSusah_ly_data.ily": "6fddba14e89bcf1d0328e6e99a0b5ee9767562dbada8d1e96807555e930b0761"
+  },
+  "svg_one_line": {
+    "GPM309_DiSaatSusah_ly_one_line.ly": "08ea1583dff40ea561335275f2e3815a510108c2f770fba6f12fda6eb72d5f4b",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM309_DiSaatSusah_ly_data.ily": "6fddba14e89bcf1d0328e6e99a0b5ee9767562dbada8d1e96807555e930b0761",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "GPM309_DiSaatSusah.ly": "2dfd6551543d2014f267a69d9603e6745abd640c2a826dbc64b12639ac630779",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "events": {
+    "GPM309_DiSaatSusah_ly_one_line.midi": "4712b43004e90a8dda7b31b8538d35db638af41134b8d8ef1ee5f7fc9954a193"
+  },
+  "filter_one_line": {
+    "GPM309_DiSaatSusah_ly_one_line.svg": "15a7a9fead91a4c3385727b897dbcf6acaceb714d0ed26f4ba40cf22b92d5e60"
+  },
+  "ties": {
+    "GPM309_DiSaatSusah_ly_one_line_filtered.svg": "e17cf22541bdc976eea6057fb31c0bfda979a408b4d7836ec40f49a3e02457d1"
+  },
+  "noteheads": {
+    "GPM309_DiSaatSusah_ly_one_line_filtered.svg": "e17cf22541bdc976eea6057fb31c0bfda979a408b4d7836ec40f49a3e02457d1"
+  },
+  "squash": {
+    "GPM309_DiSaatSusah_note_heads.csv": "30cab518d0529c908df7199d3576db0ea3a33e49fa10d2422576c840e27772a0",
+    "GPM309_DiSaatSusah_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM309_DiSaatSusah_note_heads_squashed.csv": "59e88ac16d82241402184558725ff2755c962d60d6b87c9ae988e1d80990dd70",
+    "GPM309_DiSaatSusah_note_events.csv": "b7bfb5fab4f18fd22f0d4e01407918b52a53f4d93bd5f56cb930e219198f3359"
+  },
+  "svg": {
+    "GPM309_DiSaatSusah.ly": "2dfd6551543d2014f267a69d9603e6745abd640c2a826dbc64b12639ac630779",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM309_DiSaatSusah_ly_data.ily": "6fddba14e89bcf1d0328e6e99a0b5ee9767562dbada8d1e96807555e930b0761",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM309_DiSaatSusah.svg": "cc0b1bc3f35bd186ac40e53881a711a7e400083e37c35adb564169dd6cff59d4"
+  },
+  "swell": {
+    "GPM309_DiSaatSusah_filtered.svg": "51f2715e8f2f6dd18292477d40fc1dc989a318ee6f7864c22149d5712f45f32b"
+  },
+  "optim": {
+    "GPM309_DiSaatSusah_filtered_swellable.svg": "5678f62fcf88b7619a990c1f329c1277abfa2f87720b82aab502c3b73d78ef34"
+  },
+  "sync": {
+    "GPM309_DiSaatSusah_optimized.svg": "922e94e54f2112f7d74541fc4605bd6ca2d323d2dd6312d61bfa57ab10e5ac19",
+    "GPM309_DiSaatSusah_json_notes.json": "4dcdc95bea0be2a7496790d86ceb0dec4b69393ba3f241d22a2fd929411a3fcf",
+    "GPM309_DiSaatSusah_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM309_DiSaatSusah.config.yaml": "9c2fe70ff352e333bc74a0ad4984cbe6aa95282093b0922ac08acdee8a77c368"
+  }
+}

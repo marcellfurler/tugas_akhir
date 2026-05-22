@@ -1,0 +1,65 @@
+{
+  "pdf": {
+    "GPM188_KristusMengundang.ly": "e255a78b410424f6a59916fa80cb7a30d7cc65354e06190f7d7aeaa80b091630",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "GPM188_KristusMengundang_ly_data.ily": "961b737efe251db7fc7700396ee663c740607bf997e3a32f90ac22ee12b10704",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd"
+  },
+  "svg_one_line": {
+    "GPM188_KristusMengundang_ly_one_line.ly": "9098840779633e1b0dd9d3ea4c779f969b481adbfe9d0bb1b0ff60321e8778ce",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM188_KristusMengundang_ly_data.ily": "961b737efe251db7fc7700396ee663c740607bf997e3a32f90ac22ee12b10704",
+    "GPM188_KristusMengundang.ly": "e255a78b410424f6a59916fa80cb7a30d7cc65354e06190f7d7aeaa80b091630",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "events": {
+    "GPM188_KristusMengundang_ly_one_line.midi": "f8c23ff64c371f6919c188fb86ada5ed8f0ecc5b9e03f71964a267c8d7b30a26"
+  },
+  "filter_one_line": {
+    "GPM188_KristusMengundang_ly_one_line.svg": "541aa4b160c82223c85730df03fb7f8c732e37f04f425acc92495ea1138bdb33"
+  },
+  "ties": {
+    "GPM188_KristusMengundang_ly_one_line_filtered.svg": "fe40e7f3680600b38e4170c9a7ecf9b4ff1ee706f3100fdf9abb42df1d75f5f7"
+  },
+  "noteheads": {
+    "GPM188_KristusMengundang_ly_one_line_filtered.svg": "fe40e7f3680600b38e4170c9a7ecf9b4ff1ee706f3100fdf9abb42df1d75f5f7"
+  },
+  "squash": {
+    "GPM188_KristusMengundang_note_heads.csv": "04b886dcbba8ce6941a9a0e0610972fdc10fb82c6e2f7e97d21bea43ed290c90",
+    "GPM188_KristusMengundang_ties.csv": "1364eff62c44143084b22fde48678fce89582dc0f59e71c21caa6b4e4fc4a38d"
+  },
+  "align": {
+    "GPM188_KristusMengundang_note_heads_squashed.csv": "1332ee6d1afa6819010bade091e18093d0a90c6384aa5f8a7aa2bfe03167dff0",
+    "GPM188_KristusMengundang_note_events.csv": "8b10158c73bc325e51643e471a2a840566ca8617780413afdb9bd98eb963d683"
+  },
+  "svg": {
+    "GPM188_KristusMengundang.ly": "e255a78b410424f6a59916fa80cb7a30d7cc65354e06190f7d7aeaa80b091630",
+    "..\\..\\__includes\\..\\__includes\\highlight-bars.ily": "8c52d45da101bfa72595b95a809561683c5336c7130e86678601e87b1852fb78",
+    "..\\..\\__includes\\GPM_Globals.ily": "071783961d8d630815d65bff95fea6899edfe39d2f6af071c24bcdb51962173d",
+    "GPM188_KristusMengundang_ly_data.ily": "961b737efe251db7fc7700396ee663c740607bf997e3a32f90ac22ee12b10704",
+    "..\\..\\__includes\\..\\..\\backend\\solmisasi-lily\\lib\\solmisasi.ily": "5a87e34b8a91902cab6af4aca71388af6ce52d762fc5cae9bb122ce6f04532aa",
+    "..\\..\\__includes\\..\\__includes\\fermata.ily": "85f75581324581e98ead58b6d4e9fd255260000f49e0fe20a349eab872ca73dd",
+    "..\\..\\__includes\\..\\__includes\\tie-attributes.ily": "71b81804c3e32be2bec425f62b8afa65f5ab0466a37f755b28951af5ee4b6d62"
+  },
+  "filter": {
+    "GPM188_KristusMengundang.svg": "0870f5633f43420ebb5babedb0b36d9bdd35dd5bb53c633323aac08cb8a8ad78"
+  },
+  "swell": {
+    "GPM188_KristusMengundang_filtered.svg": "92a1dfe007fb441ddde5f7647daa5810c5aee5a4725649af12f7dd8f8f71936c"
+  },
+  "optim": {
+    "GPM188_KristusMengundang_filtered_swellable.svg": "0ec29e0284b2ea5119f0cc2014d906dadc1b416ee987cfa2889fd87af05bce55"
+  },
+  "sync": {
+    "GPM188_KristusMengundang_optimized.svg": "e91e77e96b248283c1627ff82ea8eb2edb68c793a230a49b7720ee1a2b2d3299",
+    "GPM188_KristusMengundang_json_notes.json": "d77fb2305032e3e0752df099b663ad40da064a2ec9cb75480efbc8a9569fdd59",
+    "GPM188_KristusMengundang_note_heads_fermata.csv": "4255b9d179aade130e168e3ddcda1917092c5b5ee1927d24a2ecde38176049b3",
+    "exports\\GPM188_KristusMengundang.config.yaml": "b7d22dc31d8032572fd7e464e74f8a6cc1729c0b3f5e83b023354a0c89f110c2"
+  }
+}

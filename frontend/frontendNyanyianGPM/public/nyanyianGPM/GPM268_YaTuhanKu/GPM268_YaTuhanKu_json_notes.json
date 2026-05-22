@@ -1,0 +1,926 @@
+[
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:43:4:5"
+    ],
+    "on_tick": 0,
+    "off_tick": 384,
+    "pitch": 69,
+    "channel": 0,
+    "x": 10.536,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:43:8:9"
+    ],
+    "on_tick": 384,
+    "off_tick": 768,
+    "pitch": 69,
+    "channel": 0,
+    "x": 14.059,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:43:12:13"
+    ],
+    "on_tick": 768,
+    "off_tick": 1152,
+    "pitch": 67,
+    "channel": 0,
+    "x": 17.949,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:44:4:5"
+    ],
+    "on_tick": 1152,
+    "off_tick": 1920,
+    "pitch": 66,
+    "channel": 0,
+    "x": 22.637,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:44:10:11"
+    ],
+    "on_tick": 1920,
+    "off_tick": 2112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 28.55,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:44:16:17"
+    ],
+    "on_tick": 2112,
+    "off_tick": 2304,
+    "pitch": 66,
+    "channel": 0,
+    "x": 33.302,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:45:4:5"
+    ],
+    "on_tick": 2304,
+    "off_tick": 2688,
+    "pitch": 67,
+    "channel": 0,
+    "x": 37.093,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:45:8:9"
+    ],
+    "on_tick": 2688,
+    "off_tick": 3072,
+    "pitch": 66,
+    "channel": 0,
+    "x": 41.614,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:45:14:15"
+    ],
+    "on_tick": 3072,
+    "off_tick": 3456,
+    "pitch": 67,
+    "channel": 0,
+    "x": 46.034,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:46:4:5"
+    ],
+    "on_tick": 3456,
+    "off_tick": 4224,
+    "pitch": 69,
+    "channel": 0,
+    "x": 50.722,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:47:4:5"
+    ],
+    "on_tick": 4608,
+    "off_tick": 4992,
+    "pitch": 69,
+    "channel": 0,
+    "x": 60.406,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:47:8:9"
+    ],
+    "on_tick": 4992,
+    "off_tick": 5376,
+    "pitch": 69,
+    "channel": 0,
+    "x": 63.929,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:47:12:13"
+    ],
+    "on_tick": 5376,
+    "off_tick": 5760,
+    "pitch": 67,
+    "channel": 0,
+    "x": 67.819,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:48:4:5"
+    ],
+    "on_tick": 5760,
+    "off_tick": 6528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 72.507,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:48:10:11"
+    ],
+    "on_tick": 6528,
+    "off_tick": 6720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 78.301,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:48:16:17"
+    ],
+    "on_tick": 6720,
+    "off_tick": 6912,
+    "pitch": 64,
+    "channel": 0,
+    "x": 82.874,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:49:4:5"
+    ],
+    "on_tick": 6912,
+    "off_tick": 7488,
+    "pitch": 62,
+    "channel": 0,
+    "x": 86.664,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:49:9:10"
+    ],
+    "on_tick": 7488,
+    "off_tick": 7680,
+    "pitch": 64,
+    "channel": 0,
+    "x": 91.491,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:49:13:14"
+    ],
+    "on_tick": 7680,
+    "off_tick": 7872,
+    "pitch": 66,
+    "channel": 0,
+    "x": 93.896,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:49:19:20"
+    ],
+    "on_tick": 7872,
+    "off_tick": 8064,
+    "pitch": 67,
+    "channel": 0,
+    "x": 96.608,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:50:4:5"
+    ],
+    "on_tick": 8064,
+    "off_tick": 8832,
+    "pitch": 64,
+    "channel": 0,
+    "x": 100.399,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:51:4:5"
+    ],
+    "on_tick": 9216,
+    "off_tick": 9600,
+    "pitch": 69,
+    "channel": 0,
+    "x": 110.082,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:51:8:9"
+    ],
+    "on_tick": 9600,
+    "off_tick": 9984,
+    "pitch": 69,
+    "channel": 0,
+    "x": 113.477,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:51:12:13"
+    ],
+    "on_tick": 9984,
+    "off_tick": 10368,
+    "pitch": 67,
+    "channel": 0,
+    "x": 116.599,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:52:4:5"
+    ],
+    "on_tick": 10368,
+    "off_tick": 11136,
+    "pitch": 66,
+    "channel": 0,
+    "x": 121.288,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:52:10:11"
+    ],
+    "on_tick": 11136,
+    "off_tick": 11328,
+    "pitch": 66,
+    "channel": 0,
+    "x": 126.633,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:52:16:17"
+    ],
+    "on_tick": 11328,
+    "off_tick": 11520,
+    "pitch": 66,
+    "channel": 0,
+    "x": 128.799,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:53:4:5"
+    ],
+    "on_tick": 11520,
+    "off_tick": 11904,
+    "pitch": 67,
+    "channel": 0,
+    "x": 132.59,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:53:8:9"
+    ],
+    "on_tick": 11904,
+    "off_tick": 12288,
+    "pitch": 69,
+    "channel": 0,
+    "x": 135.517,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:53:12:13"
+    ],
+    "on_tick": 12288,
+    "off_tick": 12672,
+    "pitch": 71,
+    "channel": 0,
+    "x": 139.168,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:54:4:5"
+    ],
+    "on_tick": 12672,
+    "off_tick": 13440,
+    "pitch": 69,
+    "channel": 0,
+    "x": 143.856,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:55:4:5"
+    ],
+    "on_tick": 13824,
+    "off_tick": 14208,
+    "pitch": 66,
+    "channel": 0,
+    "x": 153.54,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:55:10:11"
+    ],
+    "on_tick": 14208,
+    "off_tick": 14592,
+    "pitch": 66,
+    "channel": 0,
+    "x": 156.935,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:55:16:17"
+    ],
+    "on_tick": 14592,
+    "off_tick": 14976,
+    "pitch": 66,
+    "channel": 0,
+    "x": 160.057,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:56:4:5"
+    ],
+    "on_tick": 14976,
+    "off_tick": 15744,
+    "pitch": 66,
+    "channel": 0,
+    "x": 164.745,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:56:10:11"
+    ],
+    "on_tick": 15744,
+    "off_tick": 15936,
+    "pitch": 66,
+    "channel": 0,
+    "x": 170.091,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:56:16:17"
+    ],
+    "on_tick": 15936,
+    "off_tick": 16128,
+    "pitch": 66,
+    "channel": 0,
+    "x": 172.257,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:57:4:5"
+    ],
+    "on_tick": 16128,
+    "off_tick": 16704,
+    "pitch": 64,
+    "channel": 0,
+    "x": 176.047,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:57:9:10"
+    ],
+    "on_tick": 16704,
+    "off_tick": 16896,
+    "pitch": 66,
+    "channel": 0,
+    "x": 180.874,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:57:15:16"
+    ],
+    "on_tick": 16896,
+    "off_tick": 17088,
+    "pitch": 67,
+    "channel": 0,
+    "x": 185.166,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:57:19:20"
+    ],
+    "on_tick": 17088,
+    "off_tick": 17280,
+    "pitch": 64,
+    "channel": 0,
+    "x": 188.996,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:58:4:5"
+    ],
+    "on_tick": 17280,
+    "off_tick": 18048,
+    "pitch": 62,
+    "channel": 0,
+    "x": 192.786,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:59:4:5"
+    ],
+    "on_tick": 18432,
+    "off_tick": 18816,
+    "pitch": 64,
+    "channel": 0,
+    "x": 202.47,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:59:8:9"
+    ],
+    "on_tick": 18816,
+    "off_tick": 19200,
+    "pitch": 64,
+    "channel": 0,
+    "x": 205.438,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:59:12:13"
+    ],
+    "on_tick": 19200,
+    "off_tick": 19584,
+    "pitch": 64,
+    "channel": 0,
+    "x": 209.209,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:60:4:5"
+    ],
+    "on_tick": 19584,
+    "off_tick": 19968,
+    "pitch": 64,
+    "channel": 0,
+    "x": 213.897,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:60:8:9"
+    ],
+    "on_tick": 19968,
+    "off_tick": 20352,
+    "pitch": 62,
+    "channel": 0,
+    "x": 216.824,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:60:12:13"
+    ],
+    "on_tick": 20352,
+    "off_tick": 20736,
+    "pitch": 64,
+    "channel": 0,
+    "x": 220.142,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:61:4:5"
+    ],
+    "on_tick": 20736,
+    "off_tick": 21120,
+    "pitch": 66,
+    "channel": 0,
+    "x": 224.831,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:61:10:11"
+    ],
+    "on_tick": 21120,
+    "off_tick": 21504,
+    "pitch": 69,
+    "channel": 0,
+    "x": 227.758,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:61:14:15"
+    ],
+    "on_tick": 21504,
+    "off_tick": 21888,
+    "pitch": 71,
+    "channel": 0,
+    "x": 230.686,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:62:4:5"
+    ],
+    "on_tick": 21888,
+    "off_tick": 22656,
+    "pitch": 69,
+    "channel": 0,
+    "x": 235.374,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:63:4:5"
+    ],
+    "on_tick": 23040,
+    "off_tick": 23424,
+    "pitch": 64,
+    "channel": 0,
+    "x": 245.058,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:63:8:9"
+    ],
+    "on_tick": 23424,
+    "off_tick": 23808,
+    "pitch": 64,
+    "channel": 0,
+    "x": 249.118,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:63:12:13"
+    ],
+    "on_tick": 23808,
+    "off_tick": 24192,
+    "pitch": 64,
+    "channel": 0,
+    "x": 252.232,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:64:4:5"
+    ],
+    "on_tick": 24192,
+    "off_tick": 24576,
+    "pitch": 64,
+    "channel": 0,
+    "x": 256.92,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:64:8:9"
+    ],
+    "on_tick": 24576,
+    "off_tick": 24960,
+    "pitch": 67,
+    "channel": 0,
+    "x": 260.238,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:64:12:13"
+    ],
+    "on_tick": 24960,
+    "off_tick": 25344,
+    "pitch": 67,
+    "channel": 0,
+    "x": 263.889,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:65:4:5"
+    ],
+    "on_tick": 25344,
+    "off_tick": 25920,
+    "pitch": 67,
+    "channel": 0,
+    "x": 268.578,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:65:9:10"
+    ],
+    "on_tick": 25920,
+    "off_tick": 26112,
+    "pitch": 66,
+    "channel": 0,
+    "x": 276.949,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:65:15:16"
+    ],
+    "on_tick": 26112,
+    "off_tick": 26496,
+    "pitch": 64,
+    "channel": 0,
+    "x": 281.351,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:66:4:5"
+    ],
+    "on_tick": 26496,
+    "off_tick": 27264,
+    "pitch": 66,
+    "channel": 0,
+    "x": 286.04,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:67:4:5"
+    ],
+    "on_tick": 27648,
+    "off_tick": 28032,
+    "pitch": 69,
+    "channel": 0,
+    "x": 295.724,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:67:8:9"
+    ],
+    "on_tick": 28032,
+    "off_tick": 28416,
+    "pitch": 69,
+    "channel": 0,
+    "x": 298.683,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:67:12:13"
+    ],
+    "on_tick": 28416,
+    "off_tick": 28800,
+    "pitch": 67,
+    "channel": 0,
+    "x": 302.778,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:68:4:5"
+    ],
+    "on_tick": 28800,
+    "off_tick": 29184,
+    "pitch": 66,
+    "channel": 0,
+    "x": 307.965,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:68:10:11"
+    ],
+    "on_tick": 29184,
+    "off_tick": 29376,
+    "pitch": 66,
+    "channel": 0,
+    "x": 311.352,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:68:16:17"
+    ],
+    "on_tick": 29376,
+    "off_tick": 29568,
+    "pitch": 66,
+    "channel": 0,
+    "x": 313.517,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:68:22:23"
+    ],
+    "on_tick": 29568,
+    "off_tick": 29952,
+    "pitch": 66,
+    "channel": 0,
+    "x": 316.528,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:69:4:5"
+    ],
+    "on_tick": 29952,
+    "off_tick": 30528,
+    "pitch": 66,
+    "channel": 0,
+    "x": 321.217,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:69:11:12"
+    ],
+    "on_tick": 30528,
+    "off_tick": 30720,
+    "pitch": 66,
+    "channel": 0,
+    "x": 326.044,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:69:17:18"
+    ],
+    "on_tick": 30720,
+    "off_tick": 30912,
+    "pitch": 67,
+    "channel": 0,
+    "x": 329.703,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:69:21:22"
+    ],
+    "on_tick": 30912,
+    "off_tick": 31104,
+    "pitch": 69,
+    "channel": 0,
+    "x": 333.132,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:70:4:5"
+    ],
+    "on_tick": 31104,
+    "off_tick": 31872,
+    "pitch": 71,
+    "channel": 0,
+    "x": 336.924,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:71:4:5"
+    ],
+    "on_tick": 32256,
+    "off_tick": 32640,
+    "pitch": 71,
+    "channel": 0,
+    "x": 346.608,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:71:8:9"
+    ],
+    "on_tick": 32640,
+    "off_tick": 33024,
+    "pitch": 71,
+    "channel": 0,
+    "x": 350.429,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:71:12:13"
+    ],
+    "on_tick": 33024,
+    "off_tick": 33408,
+    "pitch": 71,
+    "channel": 0,
+    "x": 355.659,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:72:4:5"
+    ],
+    "on_tick": 33408,
+    "off_tick": 33792,
+    "pitch": 69,
+    "channel": 0,
+    "x": 360.48,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:72:8:9"
+    ],
+    "on_tick": 33792,
+    "off_tick": 34368,
+    "pitch": 66,
+    "channel": 0,
+    "x": 363.407,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:72:15:16"
+    ],
+    "on_tick": 34368,
+    "off_tick": 34560,
+    "pitch": 69,
+    "channel": 0,
+    "x": 369.49,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:73:4:5"
+    ],
+    "on_tick": 34560,
+    "off_tick": 34944,
+    "pitch": 69,
+    "channel": 0,
+    "x": 373.281,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:73:8:9"
+    ],
+    "on_tick": 34944,
+    "off_tick": 35328,
+    "pitch": 67,
+    "channel": 0,
+    "x": 377.802,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:73:12:13"
+    ],
+    "on_tick": 35328,
+    "off_tick": 35712,
+    "pitch": 64,
+    "channel": 0,
+    "x": 382.222,
+    "y": 12.736
+  },
+  {
+    "hrefs": [
+      "D:/Materi/Semester8/Skripsi2/tugas_akhir/data/nyanyianGPM/GPM268_YaTuhanKu/GPM268_YaTuhanKu_ly_data.ily:74:4:5"
+    ],
+    "on_tick": 35712,
+    "off_tick": 36480,
+    "pitch": 62,
+    "channel": 0,
+    "x": 386.91,
+    "y": 12.736
+  }
+]
