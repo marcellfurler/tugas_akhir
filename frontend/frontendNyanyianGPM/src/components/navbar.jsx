@@ -15,7 +15,6 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  // ANIMASI SMOOTH & RE-SIZE LACI HANYA BERLAKU DI MODE RINCIAN LAGU (.rincian-mode)
   useEffect(() => {
     const styleEl = document.createElement("style");
     styleEl.textContent = `
@@ -59,10 +58,6 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
       marginRight: "15px",
       textDecoration: "none",
       transition: "opacity 0.2s",
-      /* Kondisi Warna Teks:
-        - Jika halaman rincian: teks berwarna hitam (#212529) karena berada di dalam offcanvas putih.
-        - Jika halaman utama: di laptop berwarna putih (#ffffff), di HP/mobile berwarna hitam (#212529).
-      */
       color: isDetailPage ? "#212529" : (isMobile ? "#212529" : "#ffffff"),
     },
     searchInput: {
@@ -113,21 +108,13 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
   };
 
   return (
-    /* KONDISI LAYOUT UTAMA:
-      - Di rincian lagu: class 'navbar-expand-lg' DIBUANG dan diganti 'rincian-mode'. Ini memaksa mode hamburger menu muncul di HP maupun laptop.
-      - Di daftar lagu utama: class 'navbar-expand-lg' AKTIF. Menu akan melebar horizontal memanjang di laptop (seperti Gambar 1).
-    */
     <nav className={`navbar shadow-sm ${isDetailPage ? "rincian-mode" : "navbar-expand-lg"}`} style={styles.navbar}>
       <div className="container">
 
-        {/* LOGO + BRAND */}
         <Link to="/NyanyianGPM" className="navbar-brand d-flex align-items-center gap-2" style={styles.brand}>
           <img src={logo} alt="Logo Nyanyian GPM" height="85px" />
         </Link>
 
-        {/* TOGGLER BUTTON 
-            Di halaman rincian lagu, tombol garis tiga dipaksa keluar di laptop dengan bantuan class 'd-block'.
-        */}
         <button
           className={`navbar-toggler border-0 ${isDetailPage ? "d-block" : ""}`}
           type="button"
@@ -138,7 +125,6 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        {/* OFFCANVAS CONTAINER */}
         <div
           className="offcanvas offcanvas-end"
           tabIndex="-1"
@@ -150,16 +136,10 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
             <button type="button" className="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
           </div>
 
-          {/* STRUKTUR BADAN OFFCANVAS:
-            - Di rincian lagu: dikonfigurasi vertikal ke bawah (flex-column).
-            - Di daftar lagu: di laptop otomatis melebar ke samping (flex-lg-row) untuk memunculkan search bar horizontal di kanan.
-          */}
           <div className={`offcanvas-body d-flex ${isDetailPage ? "flex-column align-items-start" : "flex-column flex-lg-row justify-content-between align-items-stretch align-items-lg-center"}`}>
             
-            {/* LINK NAVIGASI MENU */}
             <ul className={`navbar-nav align-items-start align-items-lg-center ${isDetailPage ? "w-100" : "ms-auto"}`}>
               
-              {/* MENU HOME */}
               <li className={`nav-item ${isDetailPage ? "w-100 border-bottom py-2" : ""}`}>
                 <button
                   onClick={() => handleNavigation("/NyanyianGPM")}
@@ -170,7 +150,6 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
                 </button>
               </li>
 
-              {/* MENU TENTANG GPM */}
               <li className={`nav-item ${isDetailPage ? "w-100 border-bottom py-2" : ""}`}>
                 <a 
                   className="nav-link text-start p-0 w-100" 
@@ -183,7 +162,6 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
                 </a>
               </li>
 
-              {/* MENAMPILKAN DAFTAR LAGU INTERNAL (HANYA AKTIF SAAT DI HALAMAN RINCIAN LAGU) */}
               {isDetailPage && (
                 <li className="nav-item mt-4 w-100">
                   <span className="text-muted small fw-bold d-block mb-2">DAFTAR SELURUH LAGU</span>
@@ -206,7 +184,6 @@ function Navbar({ onSearch, isDetailPage = false, songs = [] }) {
               )}
             </ul>
 
-            {/* BAR PENCARIAN (HANYA MUNCUL DI HALAMAN DAFTAR LAGU UTAMA / GAMBAR 1) */}
             {!isDetailPage && (
               <form className="d-flex ms-lg-3 mt-3 mt-lg-0" role="search" onSubmit={handleSearchSubmit}>
                 <input

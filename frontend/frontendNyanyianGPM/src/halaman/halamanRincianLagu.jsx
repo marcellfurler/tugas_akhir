@@ -1,13 +1,6 @@
-import React, {
-  useState,
-  useEffect,
-  useRef
-} from "react";
+import React, {useState, useEffect, useRef} from "react";
 
-import {
-  useParams,
-  Link
-} from "react-router-dom";
+import { useParams, Link} from "react-router-dom";
 
 import Navbar from "../components/navbar.jsx";
 
@@ -15,13 +8,11 @@ import yaml from "js-yaml";
 
 import { FaBackwardStep, FaForwardStep, FaPlay, FaPause } from "react-icons/fa6";
 
-// CSS
 import "../engine/css/index.css";
 import "../engine/css/player.css";
 import "../engine/css/menu.css";
 import "../engine/css/normalize.css";
 
-// ENGINE
 import {
   Synchronisator
 } from "../engine/js/synchronisator.mjs";
@@ -29,31 +20,22 @@ import {
 function HalamanRincianLagu() {
   const { songId } = useParams();
 
-  // =====================================================
-  // STATE
-  // =====================================================
   const [songDetails, setSongDetails] = useState(null);
   const [librarySongs, setLibrarySongs] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // CUSTOM AUDIO PLAYER STATE
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
 
-  // =====================================================
-  // REF
-  // =====================================================
   const audioRef = useRef(null);
   const objectRef = useRef(null);
   const syncRef = useRef(null);
   const delayTimeoutRef = useRef(null);
-  const animationFrameRef = useRef(null); // ◀ Ref untuk melacak frame animasi agar progress mulus
+  const animationFrameRef = useRef(null); 
 
-  // =====================================================
-  // METRONOME STATE
-  // =====================================================
+
   const [bpm, setBpm] = useState(80);
   const [isMetronomePlaying, setIsMetronomePlaying] = useState(false);
 
@@ -61,14 +43,11 @@ function HalamanRincianLagu() {
   const audioContextRef = useRef(null);
   const beatRef = useRef(0);
 
-  // =====================================================
-  // LOAD SONG DATA
-  // =====================================================
   useEffect(() => {
     const loadSong = async () => {
       try {
         setLoading(true);
-        const response = await fetch("/song-library.json");
+        const response = await fetch("song-library.json");
 
         if (!response.ok) {
           throw new Error("Gagal memuat library lagu");
@@ -95,9 +74,6 @@ function HalamanRincianLagu() {
     loadSong();
   }, [songId]);
 
-  // =====================================================
-  // INITIALIZE SYNCHRONISATOR
-  // =====================================================
   useEffect(() => {
     if (!songDetails) return;
 
@@ -106,9 +82,6 @@ function HalamanRincianLagu() {
 
     let destroyed = false;
 
-    // =====================================================
-    // CLEANUP OLD
-    // =====================================================
     if (syncRef.current) {
       try {
         syncRef.current.stop();
@@ -119,16 +92,10 @@ function HalamanRincianLagu() {
       syncRef.current = null;
     }
 
-    // =====================================================
-    // INIT
-    // =====================================================
     const initializeSync = async () => {
       try {
         console.log("🎼 INITIALIZE SYNC");
 
-        // =========================================
-        // LOAD SVG
-        // =========================================
         const svgResponse = await fetch(
           songDetails.dataPath + songDetails.svgFile
         );
@@ -139,10 +106,8 @@ function HalamanRincianLagu() {
 
         const svgText = await svgResponse.text();
 
-        // inject SVG ke DOM
         objectEl.innerHTML = svgText;
 
-        // ambil svg
         const svgElement = objectEl.querySelector("svg");
 
         if (!svgElement) {
@@ -151,17 +116,11 @@ function HalamanRincianLagu() {
 
         console.log("✅ SVG loaded");
 
-        // =========================================
-        // FIX LINK STYLE
-        // =========================================
         svgElement.querySelectorAll("a").forEach(a => {
           a.style.textDecoration = "none";
           a.style.color = "inherit";
         });
 
-        // =========================================
-        // BWV ZEUG STYLE
-        // =========================================
         const style = document.createElement("style");
         style.textContent = `
           a.notangka text,
@@ -202,9 +161,6 @@ function HalamanRincianLagu() {
         `;
         svgElement.appendChild(style);
 
-        // =========================================
-        // LOAD YAML
-        // =========================================
         const [syncResponse, configResponse] = await Promise.all([
           fetch(songDetails.dataPath + songDetails.syncFile),
           fetch(songDetails.dataPath + songDetails.configFile)
@@ -239,9 +195,6 @@ function HalamanRincianLagu() {
 
         console.log("✅ YAML loaded");
 
-        // =========================================
-        // AUDIO
-        // =========================================
         const audioEl = audioRef.current;
         if (!audioEl) {
           throw new Error("Audio element tidak ada");
@@ -251,9 +204,6 @@ function HalamanRincianLagu() {
         audioEl.src = songDetails.mediaPath + songDetails.audioFile;
         audioEl.load();
 
-        // =========================================
-        // SYNCHRONISATOR
-        // =========================================
         const sync = new Synchronisator(
           syncData,
           audioEl,
@@ -319,14 +269,10 @@ function HalamanRincianLagu() {
     };
   }, [songDetails]);
 
-  // =====================================================
-  // LISTEN TO NATIVE AUDIO EVENTS + HIGH-FREQUENCY ANIMATION LOOP
-  // =====================================================
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio) return;
 
-    // Fungsi loop berkecepatan tinggi (mengikuti refresh rate layar monitor)
     const updateProgressLoop = () => {
       if (audioRef.current && !audioRef.current.paused) {
         setCurrentTime(audioRef.current.currentTime);
@@ -338,24 +284,21 @@ function HalamanRincianLagu() {
     
     const handleAudioPlay = () => {
       setIsPlaying(true);
-      // Mulai loop animasi ketika musik diputar
       animationFrameRef.current = requestAnimationFrame(updateProgressLoop);
     };
     
     const handleAudioPause = () => {
       setIsPlaying(false);
-      // Batalkan loop animasi ketika musik dijeda untuk menghemat RAM
       if (animationFrameRef.current) {
         cancelAnimationFrame(animationFrameRef.current);
       }
-      setCurrentTime(audio.currentTime); // Pastikan posisi akhir sinkron
+      setCurrentTime(audio.currentTime); 
     };
 
     audio.addEventListener("durationchange", handleDurationChange);
     audio.addEventListener("play", handleAudioPlay);
     audio.addEventListener("pause", handleAudioPause);
 
-    // Kasus khusus: jika lagu selesai otomatis
     const handleEnded = () => {
       setIsPlaying(false);
       if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
@@ -372,9 +315,6 @@ function HalamanRincianLagu() {
     };
   }, [songDetails]);
 
-  // =====================================================
-  // PAGE STYLE
-  // =====================================================
   useEffect(() => {
     const style = document.createElement("style");
     style.innerHTML = `
@@ -392,9 +332,6 @@ function HalamanRincianLagu() {
     };
   }, []);
 
-  // =====================================================
-  // FIX GLOBAL BODY SPACE
-  // =====================================================
   useEffect(() => {
     document.body.style.margin = "0";
     document.body.style.padding = "0";
@@ -409,9 +346,6 @@ function HalamanRincianLagu() {
     };
   }, []);
 
-  // =====================================================
-  // CUSTOM AUDIO CONTROLS HANDLERS
-  // =====================================================
   const togglePlay = () => {
     const audio = audioRef.current;
     if (!audio) return;
@@ -491,9 +425,6 @@ function HalamanRincianLagu() {
     return `${minutes}:${seconds < 10 ? "0" : ""}${seconds}`;
   };
 
-  // =====================================================
-  // HANDLING CONDITIONALS (LOADING / ERROR)
-  // =====================================================
   if (loading) {
     return (
       <div className="text-center mt-5">
@@ -510,9 +441,6 @@ function HalamanRincianLagu() {
     );
   }
 
-  // =====================================================
-  // FINAL RENDER
-  // =====================================================
   return (
     <div
       style={{
@@ -522,10 +450,8 @@ function HalamanRincianLagu() {
         padding: 0
       }}
     >
-      {/* NAVBAR */}
       <Navbar isDetailPage={true} songs={librarySongs} />
 
-      {/* CONTENT */}
       <div
         className="container py-4"
         style={{
@@ -533,7 +459,7 @@ function HalamanRincianLagu() {
           paddingBottom: "20px"
         }}
       >
-        {/* TOMBOL KEMBALI KE HALAMAN UTAMA */}
+
         <div style={{ maxWidth: "1200px", margin: "0 auto 20px auto" }}>
           <Link
             to="/NyanyianGPM"
@@ -552,7 +478,6 @@ function HalamanRincianLagu() {
           </Link>
         </div>
 
-        {/* SCORE AREA */}
         <div style={{ display: "flex", justifyContent: "center" }}>
           <div
             ref={objectRef}
@@ -570,15 +495,10 @@ function HalamanRincianLagu() {
             }}
           />
         </div>
-
-        {/* PHYSICAL SPACER BLOCK */}
         <div style={{ height: "110px", width: "100%" }} />
       </div>
-
-      {/* HIDDEN NATIVE AUDIO ELEMENT */}
       <audio ref={audioRef} />
 
-      {/* CUSTOM PLAYER AREA (FIXED BOTTOM) */}
       <div
         style={{
           position: "fixed",
@@ -596,7 +516,6 @@ function HalamanRincianLagu() {
           gap: "10px" 
         }}
       >
-        {/* ROW 1: CONTROLLER BUTTONS */}
         <div 
           style={{ 
             display: "flex", 
@@ -605,7 +524,6 @@ function HalamanRincianLagu() {
             gap: "18px" 
           }}
         >
-          {/* TOMBOL PREVIOUS */}
           <button
             onClick={handlePrevious}
             className="btn"
@@ -628,7 +546,6 @@ function HalamanRincianLagu() {
             <FaBackwardStep size={12} style={{ color: "#000" }} />
           </button>
 
-          {/* TOMBOL PLAY / PAUSE */}
           <button
             onClick={togglePlay}
             className="btn"
@@ -651,7 +568,6 @@ function HalamanRincianLagu() {
             {isPlaying ? <FaPause size={12} style={{ color: "#000" }} /> : <FaPlay size={12} style={{ color: "#000", marginLeft: "2px" }} />}
           </button>
 
-          {/* TOMBOL NEXT */}
           <button
             onClick={handleNext}
             className="btn"
@@ -675,7 +591,6 @@ function HalamanRincianLagu() {
           </button>
         </div>
 
-        {/* ROW 2: TIMELINE / PROGRESS BAR */}
         <div 
           style={{ 
             display: "flex", 
@@ -688,16 +603,9 @@ function HalamanRincianLagu() {
             fontWeight: "500"
           }}
         >
-          {/* CURRENT TIME */}
           <span style={{ minWidth: "35px", textAlign: "right" }}>
             {formatTime(currentTime)}
           </span>
-
-          {/* PROGRESS SLIDER */}
-          {/* PROGRESS SLIDER */}
-          {/* PROGRESS SLIDER */}
-          {/* PROGRESS SLIDER */}
-          {/* PROGRESS SLIDER */}
           <input
             type="range"
             min="0"
@@ -709,8 +617,6 @@ function HalamanRincianLagu() {
               flexGrow: 1,
               height: "3px",
               cursor: "pointer",
-              // WebkitAppearance: "none", // ◀ HAPUS/KOMENTARI BARIS INI
-              // appearance: "none",       // ◀ HAPUS/KOMENTARI BARIS INI
               borderRadius: "2px",
               background: `linear-gradient(to right, #000 0%, #000 ${
                 duration ? (currentTime / duration) * 100 : 0
@@ -718,12 +624,11 @@ function HalamanRincianLagu() {
                 duration ? (currentTime / duration) * 100 : 0
               }%, #ccc 100%)`,
               outline: "none",
-              accentColor: "#000", // ◀ Otomatis mewarnai bulatan bawaan browser menjadi HITAM
+              accentColor: "#000", 
               transition: isPlaying ? "background 0.1s linear" : "none"
             }}
           />
 
-          {/* TOTAL DURATION */}
           <span style={{ minWidth: "35px", textAlign: "left" }}>
             {formatTime(duration)}
           </span>

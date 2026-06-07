@@ -14,7 +14,6 @@ notasi =
          }
        >>
      #}
-     ; else
      #{
        <<
          \new SolmisasiStaff {
@@ -36,7 +35,6 @@ syair =
          }
        >>
      #}
-     ; else
      #{
        <<
          \new Lyrics \lyricsto melodi {
@@ -47,24 +45,14 @@ syair =
      #}
      )
 
-% Score untuk partitur (PDF dan SVG)
 \score {
   <<
     \notasi
     \syair
   >>
-  % Layout untuk SVG animation dan printed
-  % Cek __includes/svg-animation-init.ily
   \layout {}
 }
-
-% Score untuk MIDI
-% Harus dipisah sebagai workaround untuk menghindari
-% warning kompilasi bahwa context Voice tidak ditemukan.
-% Juga untuk menghindari kesalahan lain yang mungkin disebabkan
-% oleh \solmisasiMusic.
 \score {
-  % Gunakan original music
    <<
     \new Staff {
       \new Voice = melodi \gpmtigaratustigabelas_c_music

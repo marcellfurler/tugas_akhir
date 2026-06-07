@@ -622,8 +622,8 @@
     "notesFile": "GPM188_KristusMengundang_json_notes.json"
   },
   {
-    "id": "GPM190_BerbahagialahPasanganIni",
-    "title": "GPM 190. Berbahagialah Pasangan Ini",
+    "id": "GPM190_BerbahagiaPasanganIni",
+    "title": "GPM 190. Berbahagia Pasangan Ini",
     "authors": [
       {"role": "Lagu dan Syair", "name": "P. J. FERDINANDUS"}
     ],
@@ -631,16 +631,16 @@
     "timeSignature": "4/4",
     "tempo": "80",
 
-    "dataPath": "/nyanyianGPM/GPM190_BerbahagialahPasanganIni/exports/",
-    "mediaPath": "/nyanyianGPM/GPM190_BerbahagialahPasanganIni/exports/",
+    "dataPath": "/nyanyianGPM/GPM190_BerbahagiaPasanganIni/exports/",
+    "mediaPath": "/nyanyianGPM/GPM190_BerbahagiaPasanganIni/exports/",
 
-    "svgFile": "GPM190_BerbahagialahPasanganIni.svg",
-    "audioFile": "GPM190_BerbahagialahPasanganIni.mp3",
+    "svgFile": "GPM190_BerbahagiaPasanganIni.svg",
+    "audioFile": "GPM190_BerbahagiaPasanganIni.mp3",
 
-    "syncFile": "GPM190_BerbahagialahPasanganIni.yaml",
-    "configFile": "GPM190_BerbahagialahPasanganIni.config.yaml",
+    "syncFile": "GPM190_BerbahagiaPasanganIni.yaml",
+    "configFile": "GPM190_BerbahagiaPasanganIni.config.yaml",
 
-    "notesFile": "GPM190_BerbahagialahPasanganIni_json_notes.json"
+    "notesFile": "GPM190_BerbahagiaPasanganIni_json_notes.json"
   },
   {
     "id": "GPM192_TuhanBerkatiNikahIni",

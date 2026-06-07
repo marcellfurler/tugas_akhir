@@ -339,3 +339,6 @@ rumus untuk total duration second
     saya ada hipotesis, ternyata jika 
 1. lagunya hanya 1 ayat, akan mengalami masalah pada animasi birama
 2. Lagu lebih dari 1 ayat tetapi dimulai dengan \partial x, maka akan bermasalah pada animasi biramanya juga
+
+untuk test:
+  npx serve -p 8088 --cors 
